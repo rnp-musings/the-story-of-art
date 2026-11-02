@@ -113,7 +113,7 @@ window.IMAGES = {
    "src": "images/warli-art.jpg",
    "alt": "A Warli painting by Jivya Soma Mashe with a spiral of dancers.",
    "caption": "A painting by Jivya Soma Mashe.",
-   "author": "[https://www.flickr.com/people/72746018@N00 Jean-Pierre Dalb�ra] from Paris, Fra",
+   "author": "Jean-Pierre Dalbéra (Flickr)",
    "license": "CC BY 2.0",
    "page": "https://commons.wikimedia.org/wiki/File:A_Warli_painting_by_Jivya_Soma_Mashe,_Thane_district.jpg"
   }

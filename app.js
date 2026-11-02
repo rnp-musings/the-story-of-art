@@ -26,20 +26,37 @@ function motif(kind, color) {
   return `background-color:${color};background-image:url("data:image/svg+xml,${encodeURIComponent(svg)}");background-size:40px 40px`;
 }
 
-// Map of India with one pin per art-form centre. Skips quietly if Leaflet failed to load.
+// Map of India drawn as inline SVG from an embedded outline, so it needs no map tiles.
+// Pins link to each art form; hovering or focusing a pin shows its name below the map.
 function makeMap(el, arts, opts = {}) {
-  if (!window.L) { el.innerHTML = '<p class="empty">The map could not be loaded. Check your connection.</p>'; return null; }
-  const map = L.map(el, {scrollWheelZoom: false}).setView([22.5, 79], 4.4);
-  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {maxZoom: 12, attribution: "&copy; OpenStreetMap contributors"}).addTo(map);
-  const pts = [];
-  arts.forEach(a => (PINS[a.id] || []).forEach(([lat, lng, label]) => {
-    const icon = L.divIcon({className: "", html: `<div class="pin" style="background:${a.color}"></div>`, iconSize: [18, 18]});
-    const link = opts.noLink ? "" : `<br><a href="#/art/${a.id}">Read the story →</a>`;
-    L.marker([lat, lng], {icon, title: a.name}).addTo(map).bindPopup(`<b>${esc(a.name)}</b><br>${esc(label)}, ${esc(a.state)}${link}`);
-    pts.push([lat, lng]);
-  }));
-  if (opts.fit && pts.length) map.fitBounds(pts, {padding: [40, 40], maxZoom: 8});
-  return map;
+  const K = INDIA.k, [bx0, by0, bx1, by1] = INDIA.bounds;
+  const pins = [];
+  arts.forEach(a => (PINS[a.id] || []).forEach(([lat, lng, label]) => pins.push({a, x: lng * K, y: -lat, label})));
+  let vb = [bx0 - 1, by0 - 1, bx1 - bx0 + 2, by1 - by0 + 2];
+  if (opts.fit && pins.length) {
+    const xs = pins.map(p => p.x), ys = pins.map(p => p.y);
+    const w = Math.max(10, Math.max(...xs) - Math.min(...xs) + 6), h = Math.max(10, Math.max(...ys) - Math.min(...ys) + 6);
+    const cx = (Math.max(...xs) + Math.min(...xs)) / 2, cy = (Math.max(...ys) + Math.min(...ys)) / 2;
+    const side = Math.max(w, h * 1.2);
+    vb = [cx - side / 2, cy - side * 0.6 / 1.2 * 1, side, side * 1.2 * 0.5 + side * 0.1];
+    vb = [cx - side / 2, cy - side / 2.4, side, side / 1.2];
+  }
+  const r = (opts.fit ? vb[2] : vb[2]) / (opts.fit ? 60 : 110);
+  const dots = pins.map(p => {
+    const dot = `<circle cx="${p.x}" cy="${p.y}" r="${r * 1.7}" fill="${p.a.color}" stroke="#fff" stroke-width="${r * 0.5}"/>`;
+    const lbl = `${p.a.name}: ${p.label}, ${p.a.state}`;
+    return opts.noLink
+      ? `<g data-label="${esc(lbl)}">${dot}</g>`
+      : `<a href="#${p.a.id}" data-label="${esc(lbl)}" aria-label="${esc(lbl)}">${dot}</a>`;
+  }).join("");
+  el.innerHTML = `<svg viewBox="${vb.join(" ")}" role="img" aria-label="Map of India with pins for each art form" preserveAspectRatio="xMidYMid meet">
+      <path class="land" d="${INDIA.path}"/>${dots}</svg><div class="mapinfo" aria-live="polite">${opts.fit ? "" : "Hover or tap a pin to see the art form."}</div>`;
+  const info = el.querySelector(".mapinfo");
+  el.querySelectorAll("[data-label]").forEach(n => {
+    const show = () => { info.textContent = n.dataset.label; };
+    n.addEventListener("mouseenter", show); n.addEventListener("focus", show); n.addEventListener("click", show);
+  });
+  if (opts.fit && pins.length) info.textContent = pins.map(p => p.label).join(" · ");
 }
 
 function home() {
@@ -50,23 +67,21 @@ function home() {
     <p>Explore India's art forms through five lenses: the art, the artist, the place, their history, and our vision for their future.</p>
   </section>
   <div class="tools">
-    <input id="q" type="search" placeholder="Search art forms, places, themes…" aria-label="Search">
+    <input id="q" type="search" placeholder="Search art forms, places, themes..." aria-label="Search">
     <select id="st" aria-label="Filter by state"><option value="">All states</option>${states.map(s => `<option>${esc(s)}</option>`).join("")}</select>
   </div>
   <div id="map" class="map" role="region" aria-label="Map of India showing where each art form comes from"></div>
-  <p class="mapnote">Pins show where each art form is centred. Tap a pin to open its story.</p>
+  <p class="mapnote">Pins show where each art form is centred. Select a pin to open its story.</p>
   <div class="grid" id="grid"></div>`;
-  let map = null;
   const draw = () => {
     const q = document.getElementById("q").value.toLowerCase();
     const st = document.getElementById("st").value;
     const list = ARTS.filter(a =>
       (!st || a.state.includes(st)) &&
       (!q || JSON.stringify(a).toLowerCase().includes(q)));
-    if (map) map.remove();
-    map = makeMap(document.getElementById("map"), list, {fit: list.length < ARTS.length});
+    makeMap(document.getElementById("map"), list, {fit: list.length > 0 && list.length < 4});
     document.getElementById("grid").innerHTML = list.length ? list.map(a => `
-      <a class="card" href="#/art/${a.id}">
+      <a class="card" href="#${a.id}">
         <div class="art" style='${motif(a.motif, a.color)}'></div>
         <div class="body"><div class="where">${esc(a.state)}</div><h3>${esc(a.name)}</h3><p>${esc(a.tagline)}</p></div>
       </a>`).join("") : `<p class="empty">No art forms match your search yet.</p>`;
@@ -99,15 +114,15 @@ function detail(id) {
   const i = ARTS.findIndex(a => a.id === id);
   if (i < 0) return home();
   const a = ARTS[i], prev = ARTS[(i + ARTS.length - 1) % ARTS.length], next = ARTS[(i + 1) % ARTS.length];
-  document.title = `${a.name} · Story of Art`;
+  
   app.innerHTML = `
   <div class="detail-hero" style='${motif(a.motif, a.color)}'><div class="inner">
     <div class="where">${esc(a.place)}</div><h1>${esc(a.name)}</h1><p>${esc(a.tagline)}</p>
     <div class="facts">${a.facts.map(f => `<span>${esc(f)}</span>`).join("")}</div>
   </div></div>
-  <nav class="subnav">${SECTIONS.map(([k, t]) => `<a href="#/art/${a.id}" data-go="${k}">${t}</a>`).join("")}</nav>
+  <nav class="subnav">${SECTIONS.map(([k, t]) => `<a href="#${a.id}" data-go="${k}">${t}</a>`).join("")}</nav>
   ${SECTIONS.map(([k, t], n) => `<section class="story" id="${k}"><div class="kicker">${n + 1} of 5</div><h2>${t}</h2>${body(k, a)}</section>`).join("")}
-  <div class="pager"><a href="#/art/${prev.id}">← ${esc(prev.name)}</a><a href="#/art/${next.id}">${esc(next.name)} →</a></div>`;
+  <div class="pager"><a href="#${prev.id}">← ${esc(prev.name)}</a><a href="#${next.id}">${esc(next.name)} →</a></div>`;
   const holder = document.getElementById("place");
   const mapEl = document.createElement("div");
   mapEl.className = "map mini";
@@ -129,10 +144,10 @@ function about() {
 }
 
 function route() {
-  const h = location.hash.replace(/^#\/?/, "").split("/");
-  document.title = "Story of Art · Indian Art Forms";
-  if (h[0] === "art" && h[1]) return detail(h[1]);
-  if (h[0] === "about") return about();
+  const h = decodeURIComponent(location.hash.replace(/^#/, ""));
+  document.title = "Story of Art";
+  if (h === "about") return about();
+  if (h && ARTS.some(a => a.id === h)) return detail(h);
   window.scrollTo(0, 0);
   home();
 }
