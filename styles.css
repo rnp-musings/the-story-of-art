@@ -67,3 +67,7 @@ figure.photo.artist img{max-width:340px;max-height:none;aspect-ratio:4/5}
 figcaption{font:.85rem system-ui,sans-serif;color:var(--muted);margin-top:6px}
 figcaption small{display:block;font-size:.75rem}
 figcaption a{color:var(--accent)}
+
+.sources ul{padding-left:20px;font:.9rem system-ui,sans-serif}
+.sources li{margin:4px 0}
+.sources a{color:var(--accent)}
