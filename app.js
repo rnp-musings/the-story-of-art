@@ -16,6 +16,13 @@ const CATEGORY_OF = {
   kathakali:"Dance", mohiniyattam:"Dance", theyyam:"Dance", koodiyattam:"Theatre & puppetry", kalaripayattu:"Martial art"
 };
 const CATEGORY_ORDER = ["Painting","Textile","Craft","Sculpture","Dance","Music","Theatre & puppetry","Martial art"];
+// Short location line for the hero, built from the first map pin labels and the state.
+const whereOf = a => {
+  const labels = (PINS[a.id] || []).map(p => p[2].replace(/\s*\(approx\.?\)/i, "")).filter((x, i, arr) => arr.indexOf(x) === i);
+  const short = labels.filter(l => l.length <= 24).slice(0, 2);
+  if (!short.length && labels.length) short.push(labels[0].split(/[,(]/)[0].trim().slice(0, 30));
+  return [...short, a.state].join(", ");
+};
 const catOf = a => a.category || CATEGORY_OF[a.id] || "Other";
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
@@ -131,7 +138,7 @@ function detail(id) {
   
   app.innerHTML = `
   <div class="detail-hero" style='${motif(a.motif, a.color)}'><div class="inner">
-    <div class="where">${esc(catOf(a))} · ${esc(a.place)}</div><h1>${esc(a.name)}</h1><p>${esc(a.tagline)}</p>
+    <div class="where">${esc(catOf(a))} · ${esc(whereOf(a))}</div><h1>${esc(a.name)}</h1><p>${esc(a.tagline)}</p>
     <div class="facts">${a.facts.map(f => `<span>${esc(f)}</span>`).join("")}</div>
   </div></div>
   <nav class="subnav">${SECTIONS.map(([k, t]) => `<a href="#${a.id}" data-go="${k}">${t}</a>`).join("")}</nav>
