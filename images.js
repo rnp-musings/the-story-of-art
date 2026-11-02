@@ -137,5 +137,63 @@ window.IMAGES = {
    "license": "CC BY-SA 4.0",
    "page": "https://commons.wikimedia.org/wiki/File:Kalamkari.jpg"
   }
+ },
+ "chikankari": {
+  "art": {
+   "src": "images/chikankari-art.jpg",
+   "alt": "Chikankari embroidery on cloth stretched in a hoop, Lucknow.",
+   "caption": "",
+   "author": "Joey Berzowska",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chikan_embroidery,_Lucknow.jpg"
+  }
+ },
+ "kalighat": {
+  "art": {
+   "src": "images/kalighat-art.jpg",
+   "alt": "A Kalighat painting of Radha and Krishna.",
+   "caption": "",
+   "author": "Rajan Guptta",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Radha-_Krishna,_Kalighat_Painting.jpg"
+  }
+ },
+ "cheriyal": {
+  "art": {
+   "src": "images/cheriyal-art.jpg",
+   "alt": "A Cheriyal scroll painting with rows of story panels on a red ground.",
+   "caption": "",
+   "author": "Subha murugan",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cheriyal_painting_-_toddy_tappers.jpg"
+  }
+ },
+ "pithora": {
+  "art": {
+   "src": "images/pithora-art.jpg",
+   "alt": "A Pithora wall painting of horses on a house wall.",
+   "caption": "",
+   "author": "Anilbhardwajnoida",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pithora_wall_painting.JPG"
+  },
+  "artist": {
+   "src": "images/pithora-artist.jpg",
+   "alt": "A Pithora painter at work on a wall.",
+   "caption": "A Pithora painter at work.",
+   "author": "Anilbhardwajnoida",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pithora_Painter.JPG"
+  }
+ },
+ "thangka": {
+  "art": {
+   "src": "images/thangka-art.jpg",
+   "alt": "A thangka painting of a Buddhist teacher with attendant figures.",
+   "caption": "",
+   "author": "Paintings on clothes in a cloth shop at Miao, Arunachal Pradesh. Photographer: D",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Traditional_Thangka_Painting_03.jpg"
+  }
  }
 };
