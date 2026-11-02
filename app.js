@@ -6,6 +6,17 @@ const SECTIONS = [
   ["history", "History of art, artist & place"],
   ["future", "Our vision for the future"]
 ];
+// Categories for entries that do not carry their own `category` field.
+const CATEGORY_OF = {
+  madhubani:"Painting", warli:"Painting", pattachitra:"Painting", tanjore:"Painting", gond:"Painting", phad:"Painting",
+  pichwai:"Painting", kalighat:"Painting", cheriyal:"Painting", pithora:"Painting", thangka:"Painting", keralamural:"Painting", mysore:"Painting",
+  kalamkari:"Textile", kantha:"Textile", chikankari:"Textile", pachedi:"Textile", sualkuchi:"Textile", "manipuri-weaving":"Textile", pashmina:"Textile", "kerala-handloom":"Textile",
+  bidri:"Craft", longpi:"Craft", papiermache:"Craft", channapatna:"Craft", "aranmula-kannadi":"Craft", nettipattam:"Craft", majuli:"Craft",
+  dhokra:"Sculpture",
+  kathakali:"Dance", mohiniyattam:"Dance", theyyam:"Dance", koodiyattam:"Theatre & puppetry", kalaripayattu:"Martial art"
+};
+const CATEGORY_ORDER = ["Painting","Textile","Craft","Sculpture","Dance","Music","Theatre & puppetry","Martial art"];
+const catOf = a => a.category || CATEGORY_OF[a.id] || "Other";
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 // Decorative motif per art form, drawn as an SVG pattern (no external images).
@@ -64,10 +75,11 @@ function home() {
   app.innerHTML = `
   <section class="hero">
     <h1>Every Indian art form has a place, a maker and a story.</h1>
-    <p>Explore India's art forms through five lenses: the art, the artist, the place, their history, and our vision for their future.</p>
+    <p>Paintings, textiles, crafts, sculpture, dance, music, theatre and more. Each art form is told through five lenses: the art, the artist, the place, their history, and our vision for their future.</p>
   </section>
   <div class="tools">
     <input id="q" type="search" placeholder="Search art forms, places, themes..." aria-label="Search">
+    <select id="cat" aria-label="Filter by type"><option value="">All types</option>${CATEGORY_ORDER.filter(c => ARTS.some(a => catOf(a) === c)).map(c => `<option>${esc(c)}</option>`).join("")}</select>
     <select id="st" aria-label="Filter by state"><option value="">All states</option>${states.map(s => `<option>${esc(s)}</option>`).join("")}</select>
   </div>
   <div id="map" class="map" role="region" aria-label="Map of India showing where each art form comes from"></div>
@@ -76,18 +88,20 @@ function home() {
   const draw = () => {
     const q = document.getElementById("q").value.toLowerCase();
     const st = document.getElementById("st").value;
+    const cat = document.getElementById("cat").value;
     const list = ARTS.filter(a =>
-      (!st || a.state.includes(st)) &&
+      (!st || a.state.includes(st)) && (!cat || catOf(a) === cat) &&
       (!q || JSON.stringify(a).toLowerCase().includes(q)));
     makeMap(document.getElementById("map"), list, {fit: list.length > 0 && list.length < 4});
     document.getElementById("grid").innerHTML = list.length ? list.map(a => `
       <a class="card" href="#${a.id}">
         <div class="art" style='${motif(a.motif, a.color)}'></div>
-        <div class="body"><div class="where">${esc(a.state)}</div><h3>${esc(a.name)}</h3><p>${esc(a.tagline)}</p></div>
+        <div class="body"><div class="where">${esc(catOf(a))} · ${esc(a.state)}</div><h3>${esc(a.name)}</h3><p>${esc(a.tagline)}</p></div>
       </a>`).join("") : `<p class="empty">No art forms match your search yet.</p>`;
   };
   document.getElementById("q").oninput = draw;
   document.getElementById("st").onchange = draw;
+  document.getElementById("cat").onchange = draw;
   draw();
 }
 
@@ -117,7 +131,7 @@ function detail(id) {
   
   app.innerHTML = `
   <div class="detail-hero" style='${motif(a.motif, a.color)}'><div class="inner">
-    <div class="where">${esc(a.place)}</div><h1>${esc(a.name)}</h1><p>${esc(a.tagline)}</p>
+    <div class="where">${esc(catOf(a))} · ${esc(a.place)}</div><h1>${esc(a.name)}</h1><p>${esc(a.tagline)}</p>
     <div class="facts">${a.facts.map(f => `<span>${esc(f)}</span>`).join("")}</div>
   </div></div>
   <nav class="subnav">${SECTIONS.map(([k, t]) => `<a href="#${a.id}" data-go="${k}">${t}</a>`).join("")}</nav>
@@ -140,7 +154,7 @@ function detail(id) {
 
 function about() {
   app.innerHTML = `<section class="hero"><h1>About Story of Art</h1>
-  <p>Story of Art tells the story of India's art forms through the geography that shaped them. Each art form is told in five parts: the art, the artist, the place, the history of all three, and our vision for what comes next.</p>
+  <p>Story of Art tells the story of India's art forms, from painting, textiles and sculpture to dance, music and theatre, through the geography that shaped them. Each art form is told in five parts: the art, the artist, the place, the history of all three, and our vision for what comes next.</p>
   <p class="note">This is a first draft. Names, dates and claims should be verified with practitioners, scholars and community organisations before wider publication. Corrections are welcome.</p></section>`;
 }
 
