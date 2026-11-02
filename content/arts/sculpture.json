@@ -1,0 +1,2564 @@
+[
+  {
+    "id": "bankura-terracotta",
+    "name": "Bankura Terracotta",
+    "category": "Sculpture",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#b45309",
+    "motif": "dots",
+    "tagline": "Clay horses from Panchmura and clay-brick temples from Bishnupur, shaped by potters.",
+    "facts": [
+      "Bankura horse: long-necked terracotta horse from Panchmura",
+      "GI registered 28 March 2018 as Bankura Panchmura Terracotta Craft",
+      "Makers: potters of the Kumbhakar (kumhar) community",
+      "Bishnupur's terracotta temples date from the Malla kings, about 17th-18th century"
+    ],
+    "art": [
+      "Bankura is known for two kinds of terracotta, a word that means baked earth. One is the Bankura horse: a stylised horse with a long neck, a small head and pointed ears, made in Panchmura village. The other is the carved terracotta panels on the temples of Bishnupur.",
+      "The Bankura horse is made by hand. Sources describe a hollow body built in parts and fired, with the larger horses in two or more pieces. The horse is often offered to village gods in the region as a votive gift, and it has also become a symbol of Bengal craft sold around India. Potters also make elephants and other figures.",
+      "The horse was registered as a Geographical Indication on 28 March 2018 under the name Bankura Panchmura Terracotta Craft, according to published sources.",
+      "At Bishnupur the temples are built of laterite and brick, and clay plaques fixed on the walls show scenes from the Ramayana, Mahabharata and the Krishna stories, as well as scenes from daily life. The Rasmancha is among the earliest surviving of them. Sources differ on the number of temples: one scholarly count cited in a source says there were once as many as 450 terracotta and laterite temples in Bishnupur, and about 20 survive today."
+    ],
+    "artist": [
+      "The Bankura horse is made by potters of the Kumbhakar community. Sources credit the potters of Panchmura with the development of the distinctive long-necked horse.",
+      "The work is often a family affair, with men shaping and firing and women and children helping with clay preparation and finishing. I did not find a reliable count of the families in Panchmura, and sources give different figures.",
+      "Some potters have worked with craft councils and government bodies to reach buyers. Specific names and awards should be added only after checking with the artists directly.",
+      "Bishnupur's temple plaques were made by local craftsmen under the Malla kings. I did not find the names of those artisans in the sources."
+    ],
+    "place": [
+      "Bankura is in the western part of West Bengal, where the plain of Bengal gives way to the laterite plateau. The red soil is poor for farming but it supplies clay and building stone.",
+      "Panchmura is a village in Bankura district, reported as roughly 20 km from Bishnupur, though sources give different distances. Potters here make horses and also tiles and domestic pots.",
+      "Bishnupur was the capital of the Malla kings, who patronised terracotta and built temples to Krishna and Vishnu, mostly in the 17th and 18th centuries. Reports differ on whether the temples have been nominated to UNESCO, and I could not verify the current status."
+    ],
+    "history": [
+      {
+        "when": "Early tradition (uncertain)",
+        "what": "Terracotta horse offerings are old in Bengal. One source claims a start in the 7th century, but that claim is weakly sourced."
+      },
+      {
+        "when": "About 1600 onwards",
+        "what": "The Malla kings of Bishnupur begin building brick and terracotta temples. The Rasmancha is dated by some sources to about 1600."
+      },
+      {
+        "when": "17th-18th century",
+        "what": "Most of the Bishnupur temple plaques are made. The kingdom later declines."
+      },
+      {
+        "when": "20th century",
+        "what": "Panchmura's horses become known as a craft symbol of Bengal and are promoted by craft bodies."
+      },
+      {
+        "when": "28 March 2018",
+        "what": "Bankura Panchmura Terracotta Craft is registered as a GI."
+      },
+      {
+        "when": "Today",
+        "what": "Potters sell horses and other items at fairs, shops and online; the Bishnupur temples are visited by tourists."
+      }
+    ],
+    "future": [
+      "Create a potters' cooperative with direct sales and fair prices.",
+      "Train young potters in design, firing and business, while keeping the traditional forms alive.",
+      "Use the GI mark to separate hand-made Panchmura work from mass-produced copies.",
+      "Fund repair of Bishnupur's temples by the ASI and local bodies, with skilled terracotta restorers hired locally.",
+      "Offer village visits where visitors see clay digging, shaping and firing, with income going to the families.",
+      "Study and record the number of working potters and the state of the temples, so that policy is based on facts."
+    ],
+    "pins": [
+      {
+        "lat": 23.283,
+        "lng": 87.233,
+        "label": "Panchmura village",
+        "approximate": true
+      },
+      {
+        "lat": 23.075,
+        "lng": 87.319,
+        "label": "Bishnupur terracotta temples",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-bankura-horse-6c8627",
+      "outlookindia-com-traveller-traditional-terracotta-horses-of--758a0b",
+      "deccanherald-com-features-models-clay-2353288-bc6856",
+      "oaklores-com-2025-07-10-panchmura-hamlet-for-terracotta-arti-304911",
+      "gktoday-in-heritage-of-bishnupur-0a3240",
+      "en-wikipedia-org-wiki-culture-of-bankura-district-7ffa94"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "bishnupur-terracotta-temples",
+    "name": "Bishnupur Terracotta Temples",
+    "category": "Sculpture",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#9a3412",
+    "motif": "arch",
+    "tagline": "Burnt-brick temples of the Malla kings, covered in clay panels of Krishna, epics and daily life.",
+    "facts": [
+      "Built by Malla kings, mainly 17th and 18th centuries",
+      "On UNESCO's tentative list since 1997",
+      "Bricks and terracotta plaques used because stone was scarce",
+      "Last Malla temple: Radheshyam, 1758"
+    ],
+    "art": [
+      "Bishnupur's temples are built of brick and laterite and decorated with terracotta plaques. Sahapedia explains that stone was scarce, so builders made bricks of different shapes for different parts of a building. The clay came from the Ganga delta.",
+      "The plaques show Krishna's life, especially the rasachakra dance and the nine gopis who form an elephant. They also show the Ramayana, Mahabharata, Puranas and the ten avatars of Vishnu. Everyday scenes appear too, with musicians, dancers, soldiers, animals, clothing and jewellery.",
+      "The Shyamrai temple, built by Raghunath Singha, is a pancharatna temple with about 5,000 tiles, the most elaborate in the town. Jorbangla (1655) and Kalachand (1656) are also his."
+    ],
+    "artist": [
+      "The sculptors are unnamed. Sahapedia says artisans worked in groups led by supervisors, with sculptors, designers and writers each having a role.",
+      "The patrons are named. Bir Hambir began the Vaishnava temples after turning to Gaudiya Vaishnavism. Raghunath Singha, Bir Singha II and Durjan Singh built more, and queens such as Chudamanidevi and Shiromanidevi paid for others.",
+      "Today the craft continues in smaller form: Wikipedia says Bishnupur is known for terracotta horses and figurines."
+    ],
+    "place": [
+      "Bishnupur is a town in Bankura district, West Bengal, once the capital of Mallabhum. Wikipedia says it was placed on UNESCO's tentative list in 1997.",
+      "The town is also known for Baluchari saris, whose pallav scenes were influenced by the temples, and for the Bishnupur gharana of dhrupad music. Some temples remain places of worship; Malleshwar now houses Shiva."
+    ],
+    "history": [
+      {
+        "when": "Early Malla rule",
+        "what": "Sahapedia says the Mallas ruled Mallabhum for centuries and that Bir Hambir began the Vaishnava temple building."
+      },
+      {
+        "when": "1622",
+        "what": "Malleshwar temple, a laterite deul, built by Bir Hambir."
+      },
+      {
+        "when": "1655-1658",
+        "what": "Raghunath Singha's Jorbangla (1655) and Kalachand (1656), and Bir Singha II's Lalji (1658)."
+      },
+      {
+        "when": "1665",
+        "what": "Madangopal and Muralimohan, paid for by queens."
+      },
+      {
+        "when": "1694",
+        "what": "Madanmohan, built by Durjan Singh, noted for terracotta tiles."
+      },
+      {
+        "when": "1758",
+        "what": "Radheshyam, the last Malla temple."
+      },
+      {
+        "when": "Early 18th century onward",
+        "what": "The dynasty declined, hit by weak rulers, money shortages and rising zamindars."
+      }
+    ],
+    "future": [
+      "Training: teach terracotta carving and conservation to local youth.",
+      "Livelihood: guided visits and craft sales that return income to town artisans.",
+      "Materials: use compatible clay and lime for repairs.",
+      "Documentation: map every panel; Sahapedia notes many have lost ornament, for example at Madangopal.",
+      "Protection: ASI care continues; the UNESCO tentative listing awaits a full nomination."
+    ],
+    "pins": [
+      {
+        "lat": 23.075,
+        "lng": 87.317,
+        "label": "Bishnupur temples",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-bishnupur-land-of-terracotta-temples-58ca3c",
+      "en-wikipedia-org-wiki-bishnupur-bankura-2648df"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "chola-bronzes",
+    "name": "Chola Bronzes",
+    "category": "Sculpture",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#7c2d12",
+    "motif": "lotus",
+    "tagline": "Gods cast in metal from a wax model, as they were in Chola temples a thousand years ago.",
+    "facts": [
+      "Technique: lost-wax casting (madhuchchishta vidhana)",
+      "Metal: panchaloha, an alloy of five metals",
+      "Famous image: Shiva as Nataraja, Lord of the Dance",
+      "Swamimalai bronze icons carry a GI tag (about 2008-09)"
+    ],
+    "art": [
+      "Chola bronzes are metal images of gods and goddesses made in the Kaveri river delta of Tamil Nadu. The Cholas ruled much of south India from about the 9th to the 13th century, and the finest early images are linked to their temples. Many were made as processional images (utsava murti), carried out of the temple on festival days.",
+      "The method is lost-wax casting, called madhuchchishta vidhana in the Sanskrit craft texts. The maker models the figure in a mix of beeswax and resin, coats it in layers of fine river clay to make a mould, and heats it so the wax melts out. Molten metal is then poured into the empty space. The mould is broken to free the image, and the maker chases, files and polishes it. Each cast is therefore a single piece: the mould cannot be reused.",
+      "The metal is panchaloha, usually described as an alloy of five metals. Sources differ on exactly which five and in what mix, and craft workshops describe mainly copper with tin and other metals, sometimes with small amounts of silver or gold. Treat any one recipe as a workshop tradition, not a fixed rule.",
+      "The best known image is the Nataraja, Shiva dancing within a ring of flames, one foot raised, the other on a small figure of forgetfulness. Other subjects include Parvati, Vishnu with Sri and Bhu, Ganesha, Kali, and Shaiva saints such as the Nayanmars. Images follow proportions set down in the Shilpa Shastra texts.",
+      "Sources describe the Chola figures as slender and graceful, with soft modelling of the body and fine jewellery. Today the same technique is used by workshops in Swamimalai, whose bronze icons were registered under the Geographical Indications scheme; sources give about 2008-09, but disagree on the application number, so check the GI Registry before quoting it."
+    ],
+    "artist": [
+      "The traditional makers are called sthapathis. Sources describe them as belonging to the Vishwakarma community of hereditary craftspeople, with skills passed down within families over many generations. Swamimalai, near Kumbakonam, is the best known centre.",
+      "The work is a team effort. One person may model the wax, another prepare the clay and the furnace, and others finish the cast. The sthapathi is also responsible for getting the proportions and iconography right, and for the ritual side of making a god-image.",
+      "Local lore connects the craft with the building of the great Thanjavur temple, when sthapathis are said to have been trained in the lost-wax method. This is tradition, not documented history, and I could not verify it from a primary source.",
+      "Workshops today make images for temples and for buyers across India and abroad. Some training now also happens in government institutions of traditional art. I did not find reliable figures on how many families still practise, which needs local research."
+    ],
+    "place": [
+      "The Kaveri delta in Tamil Nadu is among the most fertile parts of south India. The river brought the clay for moulds and the wealth that paid for temples. Thanjavur, Kumbakonam and nearby towns were the heart of the Chola country.",
+      "Swamimalai is a small town a few kilometres from Kumbakonam, known for its hilltop Murugan temple and its workshops. The river clay used for moulds is often said to be taken from the Kaveri banks, a detail workshops stress as part of their identity.",
+      "Chola kings and queens gave temples land, money and metal images. The Brihadisvara temple at Thanjavur and the temples of Kumbakonam, Gangaikondacholapuram and Darasuram are linked with the same age. The demand for processional bronzes grew with the festival life of these temples, which is why the art grew here."
+    ],
+    "history": [
+      {
+        "when": "Before the Cholas (uncertain)",
+        "what": "Small metal images were made in south India under the Pallavas. Scholars link them to the later Chola style but dates of individual pieces are debated."
+      },
+      {
+        "when": "9th century onwards",
+        "what": "The Cholas rise in the Kaveri delta and begin building stone temples that need processional images."
+      },
+      {
+        "when": "10th century",
+        "what": "Queen Sembiyan Mahadevi is often credited with patronising temple building and bronze images. Details come mostly from temple inscriptions and later scholarship."
+      },
+      {
+        "when": "11th century",
+        "what": "Rajaraja I and Rajendra I build great temples at Thanjavur and Gangaikondacholapuram. Many bronzes in museums are dated to the 10th to 12th centuries."
+      },
+      {
+        "when": "12th-13th century",
+        "what": "Chola power declines. Bronze casting continues in temple workshops."
+      },
+      {
+        "when": "1950s and later",
+        "what": "Chola bronzes become widely known as museum pieces in India and abroad. Some temple images have been stolen and later returned or traced, a continuing concern."
+      },
+      {
+        "when": "About 2008-09",
+        "what": "Swamimalai bronze icons are registered as a Geographical Indication."
+      },
+      {
+        "when": "Today",
+        "what": "Swamimalai workshops continue hereditary casting; the craft depends on temple orders and the art market."
+      }
+    ],
+    "future": [
+      "Support apprenticeships so young people can learn modelling, casting and finishing within families and workshops, with a recognised certificate.",
+      "Help sthapathis reach buyers directly, with fair pricing and clear GI marks so that machine or imitation castings are not sold as hand work.",
+      "Record the ritual and technical knowledge, including the material mix, in plain language with the makers' consent.",
+      "Protect temple bronzes with photographic records, secure storage and community-run trusts, to prevent theft.",
+      "Open workshops to visitors with guided demonstrations, so people see a cast broken from its mould.",
+      "Keep clay and metal supply sustainable: fair rates for scrap metal, and safe furnaces for workers."
+    ],
+    "pins": [
+      {
+        "lat": 10.9586,
+        "lng": 79.3306,
+        "label": "Swamimalai",
+        "approximate": true
+      },
+      {
+        "lat": 10.7828,
+        "lng": 79.1318,
+        "label": "Brihadisvara Temple, Thanjavur",
+        "approximate": false
+      },
+      {
+        "lat": 10.9617,
+        "lng": 79.3881,
+        "label": "Kumbakonam",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "tamilnadutourism-tn-gov-in-experiences-bronze-idols-statues-be1e84",
+      "en-wikipedia-org-wiki-swamimalai-bronze-icons-af8ca3",
+      "org-st-dinamalar-com-tamil-nadu-gi-products-swamimalai-bronz-1d6430",
+      "outlooktraveller-com-explore-story-72750-the-gi-tagged-swami-f475eb",
+      "deccanherald-com-features-hands-create-gods-2008317-bab324",
+      "esamskriti-com-e-culture-indian-culture-bronze-panchaloha-mo-5f13de"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "dhokra",
+    "name": "Dhokra",
+    "category": "Sculpture",
+    "states": [
+      "Chhattisgarh",
+      "Odisha",
+      "West Bengal"
+    ],
+    "color": "#854d0e",
+    "motif": "spiral",
+    "tagline": "Lost-wax metal casting, thousands of years in the making.",
+    "facts": [
+      "Medium: brass and bell metal",
+      "Method: lost-wax casting, one mould one piece",
+      "Subject: animals, deities, tribal life"
+    ],
+    "art": [
+      "Dhokra (also spelt Dokra) figures are made by hand-shaping a clay core, covering it with wax threads, wrapping it in clay, heating it so that the wax melts away and then pouring molten metal into the cavity. The mould must be broken to reveal the work, so no two pieces are the same.",
+      "The coiled wax-thread surface gives the metal its characteristic texture."
+    ],
+    "artist": [
+      "The craft is practised by communities such as the Ghadwa of Bastar, and the Dhokra Damar tribes of West Bengal and Odisha, whose name gave the craft its name.",
+      "The skill is passed from parent to child; the whole family works, from preparing clay to polishing.",
+      "Our approach: show the kiln, the wax and the family as part of each story."
+    ],
+    "place": [
+      "Bastar in southern Chhattisgarh is a forested adivasi region; related centres are in Odisha, West Bengal (Dariapur) and Jharkhand.",
+      "The Dhokra Damars were historically a nomadic community, which spread the technique across eastern India."
+    ],
+    "history": [
+      {
+        "when": "c. 2500 BCE",
+        "what": "The bronze 'Dancing Girl' of Mohenjo-daro is often cited as an early example of lost-wax casting in the subcontinent."
+      },
+      {
+        "when": "Medieval",
+        "what": "The technique continued through tribal metalworkers."
+      },
+      {
+        "when": "Today",
+        "what": "Handicraft boards and fairs sell Dhokra widely; cheap imitations are a challenge."
+      }
+    ],
+    "future": [
+      "Secure metal supply: community-owned buying to reduce raw material costs.",
+      "Document the Dhokra Damar migration routes as a living map.",
+      "Differentiate genuine pieces with maker tags."
+    ],
+    "pins": [
+      {
+        "lat": 19.07,
+        "lng": 82.02,
+        "label": "Bastar",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "dhokra-art.jpg",
+        "alt": "Dhokra brass figures of musicians from Bastar.",
+        "caption": "",
+        "author": "Sumita Roy Dutta",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dokra_from_tribes_of_Bastar_DSCN1172_01.jpg"
+      },
+      {
+        "kind": "artist",
+        "file": "dhokra-artist.jpg",
+        "alt": "A Dhokra artisan shaping a figure at a workshop.",
+        "caption": "An artisan at work.",
+        "author": "Sushilsakhuja",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:AT_WORKSHOP.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "diu-stone-carving",
+    "name": "Diu Stone Carving",
+    "category": "Sculpture",
+    "states": [
+      "Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "color": "#78350f",
+    "motif": "arch",
+    "tagline": "Sandstone fort walls and Baroque churches on a small island off the Kathiawar coast.",
+    "facts": [
+      "Place: Diu island, off Gujarat",
+      "Diu Fort: begun 1535 by the Portuguese, in sandstone and lime mortar",
+      "St Paul's Church: completed 1610",
+      "I found no documented craft of living stone carvers in Diu"
+    ],
+    "art": [
+      "This is a short entry because I could not find a study or official page that describes a stone-carving craft in Diu as a living tradition. What is documented is the built stone of the island.",
+      "Wikipedia says the Diu Fort was built in sandstone and lime mortar. It skirts the sea on three sides and has a double moat, three gates and bastions with gun mounts. The same page notes only a Portuguese inscription at the entrance gate and does not describe decorative carving.",
+      "Diu is also known for Portuguese Baroque churches, including St Paul's Church, which is completed in 1610 and still in use according to Wikipedia.",
+      "Gujarat as a whole has a famous stone-carving tradition among Sompura temple builders, but I found no source that links it to Diu."
+    ],
+    "artist": [
+      "I found no named stone carvers or families of Diu in any source I could read. The Incredible India page on Diu's arts and crafts did not load when I tried it.",
+      "Wikipedia says the fort was built with Portuguese forced labour, from October to March. It does not name the workers, and the story of the people who cut and laid this stone is not told in the sources I read."
+    ],
+    "place": [
+      "Diu is a small island at the southern tip of the Kathiawar peninsula in Gujarat, joined to the mainland by a bridge. It is a fishing town, and the fort stands at its eastern end.",
+      "Portugal held Diu from 1535 until Indian forces took it in 1961. Diu has been part of the union territory of Dadra and Nagar Haveli and Daman and Diu since the merger of 2020."
+    ],
+    "history": [
+      {
+        "when": "1534-1535",
+        "what": "After the Treaty of Bassein, the Sultan of Gujarat agreed to let the Portuguese build a fort at Diu, to gain help against the Mughal ruler Humayun."
+      },
+      {
+        "when": "1538",
+        "what": "An Ottoman force besieged the fort and lifted the siege. Accounts differ on why."
+      },
+      {
+        "when": "1546",
+        "what": "The fort was strengthened and held against a second siege, under Dom Joao de Castro."
+      },
+      {
+        "when": "1601-1610",
+        "what": "St Paul's Church was built in the Portuguese Baroque style."
+      },
+      {
+        "when": "1961",
+        "what": "Indian forces took Diu from Portugal."
+      },
+      {
+        "when": "2020",
+        "what": "Diu was merged with Dadra and Nagar Haveli in one union territory."
+      }
+    ],
+    "future": [
+      "Survey the stone buildings of Diu, with measured drawings and photographs, and publish the results.",
+      "Find out whether any local families still cut or carve stone, and record their work before writing about it as a craft.",
+      "Train local youth in conservation masonry, using lime mortar and sandstone repairs on the fort and churches.",
+      "Keep the fort and churches in the care of heritage staff, with clear rules for visitors.",
+      "Give visitors a short, honest account of who built the fort and under what conditions."
+    ],
+    "pins": [
+      {
+        "lat": 20.7144,
+        "lng": 70.9874,
+        "label": "Diu town",
+        "approximate": false
+      },
+      {
+        "lat": 20.711,
+        "lng": 71.017,
+        "label": "Diu Fort",
+        "approximate": true
+      },
+      {
+        "lat": 20.7137,
+        "lng": 70.9871,
+        "label": "St Paul's Church",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-diu-fortress-4ac325",
+      "en-wikipedia-org-wiki-diu-india-821877"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "french-colonial-architecture",
+    "name": "French Colonial Architecture of Puducherry",
+    "category": "Sculpture",
+    "states": [
+      "Puducherry"
+    ],
+    "color": "#1e40af",
+    "motif": "arch",
+    "tagline": "A grid town where French villas and Tamil row houses stand on either side of a canal.",
+    "facts": [
+      "French rule: 1674 to 1954, with brief Dutch and British periods",
+      "Dutch grid plan drawn 1693-1699; French finished it from 1700",
+      "French Quarter (Ville Blanche) and Tamil Quarter (Ville Noire)",
+      "INTACH and EFEO listed heritage buildings from 1987 to 1995"
+    ],
+    "art": [
+      "The old town of Puducherry is laid out as a grid inside four boulevards. A canal runs through it. Sahapedia explains that it began as a drainage channel and was also used by the French to separate communities by race and class.",
+      "East of the canal, the French Quarter has wide, tree-lined streets, large compounds and villas. Houses have pilasters, cornices, arched openings with louvred wooden shutters, wooden balconies on iron brackets and parapets. The pitched European roof gave way to the flat Madras terrace roof, which suits the climate. Most have a colonnaded portico, a walled garden or court, and high ceilings.",
+      "West of the canal, the Tamil Quarter has a denser street plan with back-to-back row houses. Its signature features are the thalvaram, a street veranda on wooden posts, and the thinnai, a masonry bench for visitors. The entry is by a carved doorway to a colonnaded courtyard called the mutram. Older houses are single-storey with country-tiled roofs, and later houses are two-storey with colonial touches.",
+      "INTACH says the two styles influenced each other and merged into a Franco-Tamil synthesis. The craft behind it is carved wood, iron work, plaster and masonry, though I did not find a source that names the builders or the materials used in the walls."
+    ],
+    "artist": [
+      "The buildings were made by local masons, carpenters and ironworkers working to French and Tamil patterns. None of the sources I read names them, and I have not invented names.",
+      "Today the people who care for the buildings are owners, conservation architects and INTACH Pondicherry, which records heritage buildings through measured drawings and photographs. Its staff and the French research institute EFEO prepared the heritage list."
+    ],
+    "place": [
+      "Puducherry lies on the Coromandel Coast of the Bay of Bengal. Its streets run in straight lines, east to west and north to south, with the sea on the east. French and Tamil names sit side by side on its street signs.",
+      "The French Quarter is by the sea and around Bharathi Park. The Tamil Quarter grew around temples in the north. A Muslim quarter in the south-west has streets angled so that mosques face Mecca, per Sahapedia."
+    ],
+    "history": [
+      {
+        "when": "1674",
+        "what": "French administration began, according to Sahapedia, and lasted until 1954 with brief Dutch and British control."
+      },
+      {
+        "when": "1693-1699",
+        "what": "The Dutch drew up a grid plan for the town."
+      },
+      {
+        "when": "1700",
+        "what": "The French regained the town and completed it as a Boulevard Town."
+      },
+      {
+        "when": "1954",
+        "what": "French rule ended in practice, as the territory joined India."
+      },
+      {
+        "when": "1987-1995",
+        "what": "INTACH and EFEO compiled a list of buildings of heritage value in the old town."
+      },
+      {
+        "when": "2001",
+        "what": "The list was revised to the Ministry of Environment and Forests' categories: I, II-A, II-B and III."
+      }
+    ],
+    "future": [
+      "Support owners of heritage houses with grants, advice and skilled masons, especially in the Tamil Quarter where traditional houses are most at risk.",
+      "Train carpenters, ironworkers and plasterers in repair of period buildings.",
+      "Enforce heritage rules on new building and demolition within the boulevards.",
+      "Keep records of buildings through measured drawings and photographs, as INTACH does.",
+      "Tell the story of the Tamil and Franco-Tamil houses alongside the French villas, and the story of the canal's use to separate communities."
+    ],
+    "pins": [
+      {
+        "lat": 11.934,
+        "lng": 79.835,
+        "label": "French Quarter, Puducherry",
+        "approximate": true
+      },
+      {
+        "lat": 11.937,
+        "lng": 79.827,
+        "label": "Tamil Quarter, Puducherry",
+        "approximate": true
+      },
+      {
+        "lat": 11.9416,
+        "lng": 79.8083,
+        "label": "Puducherry old town",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-grid-and-canal-e3ffc8",
+      "intachpondicherry-org-about-pondy-php-8015ff",
+      "sahapedia-org-craft-walk-through-puducherry-2aa3cc"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "hampi-sculpture",
+    "name": "Hampi Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Karnataka"
+    ],
+    "color": "#78350f",
+    "motif": "arch",
+    "tagline": "Granite gods, a stone chariot and a 6.7-metre Narasimha, left by the Vijayanagara capital.",
+    "facts": [
+      "UNESCO World Heritage Site, inscribed 1986",
+      "Capital of Vijayanagara, 1336 to 1565",
+      "Granite and sandstone, carved on site",
+      "Famous works: stone chariot, Hazara Rama friezes, Narasimha monolith"
+    ],
+    "art": [
+      "Hampi's sculpture is carved in the local granite and sandstone, and much of it is part of the temple buildings. Wikipedia describes friezes, pillars, platforms and large figures cut on the spot from rock.",
+      "The stone chariot in the Vittala temple is a shrine to Garuda and the most pictured symbol of Hampi. Wikipedia notes that the temple's sabha mandapa has 56 carved beams that sound musical notes when struck. One travel source says the chariot is not exactly as it first looked; I did not find a scholarly source on that.",
+      "The Hazara Rama temple has friezes of the Ramayana. Its outer walls also show scenes of Mahanavami (Dasara) and Holi festivals. On the Mahanavami platform, the reliefs show marching elephants, horses, camels, musicians and dancers.",
+      "Some figures are monoliths. The Lakshmi Narasimha, a seated Yoga-Narasimha 6.7 metres tall, is carved in place near the Krishna temple. Two Ganesha figures on Hemakuta hill, the Kadalekalu (over 4.5 metres) and the Sasivekalu (2.4 metres), are also carved in place."
+    ],
+    "artist": [
+      "The sculptors of Hampi are not named in the sources I read. Their work is known through the stone itself, and the names and workshops behind it are not recorded here.",
+      "The Archaeological Survey of India (ASI) maintains the monuments and carries out excavations, per Wikipedia. I did not find a sourced account of present-day Hampi carvers and so leave that out."
+    ],
+    "place": [
+      "Hampi lies on the Tungabhadra River in Vijayanagara district, in east-central Karnataka. The ground is rocky, with boulders and hills, and the granite shaped the carving. The site covers about 4,187 hectares with a larger buffer zone, and Wikipedia says about 1,600 surviving remains.",
+      "Wikipedia names the Vittala temple, the Hazara Rama temple, the Mahanavami platform and the Lotus Mahal, a two-storey pavilion that mixes Hindu and Indo-Islamic styles, among the key monuments.",
+      "The nearby village of Kinhal keeps a wood-painting tradition that its makers link with Hampi."
+    ],
+    "history": [
+      {
+        "when": "1336 to 1565",
+        "what": "Hampi is capital of the Vijayanagara Empire."
+      },
+      {
+        "when": "1565",
+        "what": "After the Battle of Talikota, the capital is conquered and sacked, then left as ruins (Wikipedia)."
+      },
+      {
+        "when": "1986",
+        "what": "UNESCO inscribes the Group of Monuments at Hampi under criteria (i), (iii) and (iv), reference 241."
+      },
+      {
+        "when": "1999 to 2006",
+        "what": "The site is on the List of World Heritage in Danger (Wikipedia)."
+      },
+      {
+        "when": "Today",
+        "what": "The ASI maintains the site and continues excavation."
+      }
+    ],
+    "future": [
+      "Training: teach stone conservation and carving to local young people alongside ASI work.",
+      "Livelihood: make sure the visitors Hampi receives support local guides, craftspeople and families.",
+      "Materials: use matching local granite for repairs, following conservation guidance.",
+      "Documentation: keep photographing and cataloguing reliefs, and record what has changed since restoration.",
+      "Protection: manage the buffer zone so new building does not harm the monuments."
+    ],
+    "pins": [
+      {
+        "lat": 15.335,
+        "lng": 76.46,
+        "label": "Hampi",
+        "approximate": false
+      },
+      {
+        "lat": 15.3433,
+        "lng": 76.475,
+        "label": "Vittala temple",
+        "approximate": true
+      },
+      {
+        "lat": 15.3351,
+        "lng": 76.4614,
+        "label": "Hazara Rama temple",
+        "approximate": true
+      },
+      {
+        "lat": 15.3345,
+        "lng": 76.458,
+        "label": "Hemakuta hill",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-group-of-monuments-at-hampi-f4095f"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "harappan-art",
+    "name": "Harappan Art",
+    "category": "Sculpture",
+    "states": [
+      "Gujarat",
+      "Haryana",
+      "Pakistan border region"
+    ],
+    "color": "#78350f",
+    "motif": "diamond",
+    "tagline": "Stone seals, tiny bronzes and clay animals from the Indus cities, with a script still unread.",
+    "facts": [
+      "Period: mature phase about 2600 to 1900 BCE",
+      "Main forms: steatite seals, terracotta, bronze, beads",
+      "Sites in India: Dholavira, Lothal (Gujarat), Rakhigarhi (Haryana)",
+      "Dholavira: UNESCO World Heritage Site, 2021"
+    ],
+    "art": [
+      "The Indus or Harappan civilisation lasted from about 3300 to 1300 BCE, with its mature phase from about 2600 to 1900 BCE. Its art is small in scale and was made for daily and trade use.",
+      "Steatite seals show animals, human figures and signs of the Indus script, which is still undeciphered. They were used to stamp clay on trade goods. Terracotta includes figures of zebu, carts and chickens. Faience beads were made with materials from far away.",
+      "The Dancing Girl is a bronze, about 10.5 cm tall, made by lost-wax casting. It was found at Mohenjo-daro in 1926 and is in the National Museum in New Delhi. Jonathan Kenoyer argues that the dancer reading reflects a British colonial view and that she may be carrying an offering. The museum still calls her a dancer.",
+      "The Pashupati seal, found at Mohenjo-daro in 1928 or 1929, shows a seated figure with a horned headdress among animals. John Marshall read it as a proto-Shiva. Others have read it as a goddess or a buffalo-man. Wikipedia says many scholars think its meaning cannot be known."
+    ],
+    "artist": [
+      "No makers are named. The craft workers of the Indus cities are known only through what they made. The Indus script cannot be read, so we have no names or voices.",
+      "Archaeologists give us the story of discovery. At Dholavira, a local man, Shambhudan Gadhvi, drew attention to the site in the early 1960s. J. P. Joshi of the ASI is credited with the official discovery in 1967 or 1968, and Ravindra Singh Bisht directed excavations from about 1989 to 1990.",
+      "At Dholavira, ten large gypsum signs were found that once stood on a wooden board about 3 m long. It is among the longest Indus inscriptions known."
+    ],
+    "place": [
+      "The civilisation spread across much of Pakistan, north-western India and north-eastern Afghanistan. In India, Dholavira on Khadir Bet island in the Rann of Kutch, Lothal on the Gujarat coast and Rakhigarhi in Haryana are major sites. Dholavira and Rakhigarhi are two of five major urban centres.",
+      "Dholavira was a walled city of about 47 hectares. It had sixteen or more stone-cut reservoirs and a drainage system. UNESCO inscribed it in 2021 as Dholavira: A Harappan City. Lothal is noted for its drainage. Rakhigarhi has been only partly excavated.",
+      "Mohenjo-daro and Harappa are in Pakistan, and finds such as the Dancing Girl were divided at Partition. India received the Dancing Girl, and Pakistan received the Priest-King. The pin for Mohenjo-daro is shown because it is the find-spot."
+    ],
+    "history": [
+      {
+        "when": "c. 3300 BCE",
+        "what": "The Indus civilisation begins, per Wikipedia. Newer research suggests Dholavira was occupied as early as about 3500 BCE."
+      },
+      {
+        "when": "c. 2600 to 1900 BCE",
+        "what": "The mature phase of the cities."
+      },
+      {
+        "when": "Late 3rd to 2nd millennium BCE",
+        "what": "Decline of the cities. Dholavira is reoccupied after a short break until about 1450 BCE, by the usual account."
+      },
+      {
+        "when": "1926",
+        "what": "The bronze Dancing Girl is found at Mohenjo-daro."
+      },
+      {
+        "when": "1928 to 1929",
+        "what": "The Pashupati seal is found at Mohenjo-daro."
+      },
+      {
+        "when": "1967 to 1968",
+        "what": "J. P. Joshi of the ASI officially discovers Dholavira."
+      },
+      {
+        "when": "1989 to 1990",
+        "what": "ASI excavations begin at Dholavira under R. S. Bisht."
+      },
+      {
+        "when": "2021",
+        "what": "Dholavira is inscribed by UNESCO."
+      }
+    ],
+    "future": [
+      "Training: ASI, universities and site museums train archaeologists and guides. Local people can be part of this.",
+      "Livelihood: the World Heritage listing of Dholavira brings visitors to a remote Kutch area. Fair local jobs and craft sales matter.",
+      "Materials: replicas in clay and bronze give craft workers a link to this heritage, if they are labelled as modern.",
+      "Documentation: the script is unread, so every new inscription and its find-spot should be published.",
+      "Protection: sites need drainage, fencing and watch against looting. The status of some finds between India and Pakistan is still raised in public debate."
+    ],
+    "pins": [
+      {
+        "lat": 23.8873,
+        "lng": 70.2133,
+        "label": "Dholavira, Kutch, Gujarat",
+        "approximate": false
+      },
+      {
+        "lat": 22.5214,
+        "lng": 72.2494,
+        "label": "Lothal, Gujarat",
+        "approximate": false
+      },
+      {
+        "lat": 29.2866,
+        "lng": 76.1111,
+        "label": "Rakhigarhi, Haryana",
+        "approximate": false
+      },
+      {
+        "lat": 27.3292,
+        "lng": 68.1389,
+        "label": "Mohenjo-daro, Pakistan (find-spot of the Dancing Girl)",
+        "approximate": false
+      },
+      {
+        "lat": 28.6112,
+        "lng": 77.2195,
+        "label": "National Museum, New Delhi (Dancing Girl)",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-indus-valley-civilisation-4d6ae9",
+      "en-wikipedia-org-wiki-dancing-girl-prehistoric-sculpture-047895",
+      "en-wikipedia-org-wiki-pashupati-seal-e2c943",
+      "en-wikipedia-org-wiki-dholavira-11ecd7"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "hoysala-sculpture",
+    "name": "Hoysala Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Karnataka"
+    ],
+    "color": "#57534e",
+    "motif": "diamond",
+    "tagline": "Star-shaped temples in soft stone, where sculptors sometimes signed their names.",
+    "facts": [
+      "Sacred Ensembles of the Hoysalas: UNESCO World Heritage, 18 September 2023",
+      "Three sites inscribed: Belur, Halebidu, Somanathapura",
+      "Material: soapstone (chloritic schist)",
+      "Hoysala sculptors often signed their work"
+    ],
+    "art": [
+      "The Hoysala kings ruled much of present-day Karnataka in the 12th and 13th centuries. Their temples are low and wide, built on star-shaped platforms, and covered with carving from the base to the roof edge. The carving is dense and delicate: bands of animals, scrolls and epic scenes run around the walls.",
+      "The stone is a fine-grained soft rock called chloritic schist, often called soapstone. Secondary sources say it is soft when freshly quarried and hardens with exposure to air, which allowed very fine detail. I could not corroborate this from a primary scientific source.",
+      "At Belur, the Chennakeshava temple has bracket figures called madanikas or salabhanjikas on the mandapa: dancers, a huntress, women at their toilette. At Halebidu, the Hoysaleshvara temple has a long frieze of the Ramayana, Mahabharata and Bhagavata stories, with elephants, horses, lions and swans along the base. At Somanathapura, the Keshava temple has three shrines in a star-shaped plan.",
+      "Many figures were turned on a lathe-like method, according to some writers, giving the pillars their polished, rounded look. Sources differ on how, and I do not state it as fact.",
+      "A feature that sets Hoysala work apart is signature. Sculptors often cut their names, titles and home towns at the base of images. This is rare in medieval India."
+    ],
+    "artist": [
+      "The signatures give us real names. Sources name Dasoja of Balligavi (in present Shivamogga district) and his son Chavana as sculptors of madanika figures at Belur, including a huntress and a dancer. Dasoja's period is placed in the 12th century.",
+      "Ruvari Mallitamma (also spelled Mallithamma) is described in the sources as a prolific sculptor with over forty works attributed to him, active in the 13th century. Details of his life come only from the signatures and inscriptions and are thin.",
+      "Counts of figures vary by source: one site says forty-two bracket figures survive at Belur, another thirty-six on the mandapa, so numbers depend on how they are counted.",
+      "Today stone carving continues in Karnataka, and the Archaeological Survey of India looks after the temples. I did not find sourced information on an unbroken family line from the Hoysala sculptors; that needs local research."
+    ],
+    "place": [
+      "The Hoysalas rose in the hilly Malnad country of southern Karnataka, on the edge of the Western Ghats. Their early capital was Belur, known in inscriptions as Velapura, and later Halebidu (Dorasamudra) became the capital.",
+      "Belur and Halebidu are in Hassan district. Somanathapura lies near the Kaveri river, in Mysuru district. Soapstone is found in the region, which put a carvable stone close to the building sites.",
+      "In September 2023, at its 45th session in Riyadh, the World Heritage Committee inscribed the Sacred Ensembles of the Hoysalas. The serial property covers three temples: the Chennakeshava temple at Belur, the Hoysaleshvara temple at Halebidu and the Keshava temple at Somanathapura. UNESCO's decision text lists criteria (i), (ii) and (iv). It was reported as India's 42nd World Heritage site."
+    ],
+    "history": [
+      {
+        "when": "Early 12th century",
+        "what": "Under Vishnuvardhana the Hoysalas gain power; the Chennakeshava temple at Belur is traditionally dated to about 1117, though dating is debated."
+      },
+      {
+        "when": "12th century",
+        "what": "Dasoja and Chavana are named as sculptors at Belur in the sources."
+      },
+      {
+        "when": "Mid 12th century",
+        "what": "The Hoysaleshvara temple at Halebidu is begun under Hoysala patronage and continues over many decades."
+      },
+      {
+        "when": "13th century",
+        "what": "The Keshava temple at Somanathapura is built; the sources I read place it in the 13th century."
+      },
+      {
+        "when": "14th century",
+        "what": "Hoysala rule ends after raids from the north and the rise of Vijayanagara."
+      },
+      {
+        "when": "2014",
+        "what": "The temples are placed on India's Tentative List for UNESCO, as reported."
+      },
+      {
+        "when": "January 2022",
+        "what": "India submits the nomination dossier."
+      },
+      {
+        "when": "18 September 2023",
+        "what": "The three temples are inscribed on the World Heritage List."
+      }
+    ],
+    "future": [
+      "Document and photograph every signature and inscription, and share them openly for scholars and carvers.",
+      "Fund soapstone carvers' training in Hassan and Mysuru districts so that restoration work can use local skills.",
+      "Manage visitor numbers and temple use, so that worship and tourism both continue without wear on the carvings.",
+      "Control pollution, dust and traffic around the three sites, and monitor the stone.",
+      "Offer plain signboards in Kannada and English that explain the stories and the sculptors' names.",
+      "Train local guides, and give nearby villages a share of tourism income."
+    ],
+    "pins": [
+      {
+        "lat": 13.1651,
+        "lng": 75.8655,
+        "label": "Chennakeshava Temple, Belur",
+        "approximate": false
+      },
+      {
+        "lat": 13.2128,
+        "lng": 75.9957,
+        "label": "Hoysaleshvara Temple, Halebidu",
+        "approximate": false
+      },
+      {
+        "lat": 12.2735,
+        "lng": 76.8641,
+        "label": "Keshava Temple, Somanathapura",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-sacred-ensembles-of-the-hoysalas-430b0b",
+      "whc-unesco-org-en-decisions-8419-eb3084",
+      "static-pib-gov-in-writereaddata-specificdocs-documents-2023--6d4a14",
+      "businesstoday-in-amp-latest-story-karnatakas-hoysala-temples-21f927",
+      "imp-art-org-article-dasoja-d5eb27",
+      "imp-art-org-articles-chavana-aa8037",
+      "imp-art-org-72da7f",
+      "metmuseum-org-toah-works-of-art-18-41-7923fd"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "jageshwar-temples",
+    "name": "Jageshwar Temples",
+    "category": "Sculpture",
+    "states": [
+      "Uttarakhand"
+    ],
+    "color": "#57534e",
+    "motif": "diamond",
+    "tagline": "Stone shrines in a deodar valley near Almora, many too small to enter.",
+    "facts": [
+      "Location: Jataganga valley, about 36 km north-east of Almora",
+      "Wikipedia counts 124 temples at Jageshwar and 15 at Dandeshwar",
+      "Mostly Nagara style, mostly for Shiva",
+      "Dates: 7th to 14th century; sources differ"
+    ],
+    "art": [
+      "Jageshwar is a group of stone temples in the Jataganga valley, in a deodar forest at about 1,870 m. Wikipedia counts 124 monuments at Jageshwar and 15 at Dandeshwar, though other figures are also given.",
+      "Most follow the North Indian Nagara style, with a few showing South and Central Indian features. Most are for Shiva, with others for Vishnu, Shakti goddesses and Surya. Many have a plain square sanctum so small that a priest could not enter.",
+      "Wikipedia notes that most lingas have no drain for water offerings, so some shrines may have been memorials or monastic gifts. This is a scholar's suggestion.",
+      "The Archaeological Survey of India protects the site and runs a museum on it. Wikipedia says the museum holds over 150 sculptures dated to the 9th to 13th centuries."
+    ],
+    "artist": [
+      "The sculptors and masons are not named. Wikipedia says some colonial-era writers linked the temples to the Katyuri or Chand dynasties, but no text or inscription supports or refutes this.",
+      "A scholar quoted there, Chanchani, suggests the valley was prominent in Indian architecture by the 10th century.",
+      "I could not open an ASI page on the site, so I do not describe the craft in more detail."
+    ],
+    "place": [
+      "The temples lie in a narrow valley beside the Jataganga stream, on the Kumaon side of Uttarakhand. They are in a pilgrim landscape. Wikipedia says the site is believed to include the Nagesh Jyotirlinga, a claim that is held by tradition and not agreed by all.",
+      "Almora is the nearest town. The cold, forested hills have helped the stone survive in good condition."
+    ],
+    "history": [
+      {
+        "when": "7th to 12th century",
+        "what": "Wikipedia says stone steles on the site range across this span."
+      },
+      {
+        "when": "By 10th century",
+        "what": "The scholar Chanchani suggests the valley was prominent in Indian architecture by then."
+      },
+      {
+        "when": "Katyuri and Chand periods",
+        "what": "Some colonial scholars attributed the temples to these dynasties. Wikipedia says there is no textual or inscription evidence to confirm it."
+      },
+      {
+        "when": "9th to 13th century",
+        "what": "The date range of the sculptures in the ASI museum at the site."
+      },
+      {
+        "when": "Present",
+        "what": "The Archaeological Survey of India protects and manages the site."
+      }
+    ],
+    "future": [
+      "Training: train local youth as guides and as stone conservators.",
+      "Livelihood: share visitor income with the villages around the valley.",
+      "Materials: repair with matching stone and traditional methods.",
+      "Documentation: complete a numbered survey of the temples and steles, and publish it.",
+      "Protection: manage crowds, waste and nearby building so the valley is not harmed."
+    ],
+    "pins": [
+      {
+        "lat": 29.6373,
+        "lng": 79.8547,
+        "label": "Jageshwar",
+        "approximate": false
+      },
+      {
+        "lat": 29.62,
+        "lng": 79.84,
+        "label": "Dandeshwar group",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-jageshwar-33f21f"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "walnut-wood-carving",
+    "name": "Kashmir Walnut Wood Carving",
+    "category": "Sculpture",
+    "states": [
+      "Jammu & Kashmir"
+    ],
+    "color": "#7c3f1d",
+    "motif": "vine",
+    "tagline": "Chinar leaves and grape bunches cut by hand from the root of the Kashmiri walnut tree.",
+    "facts": [
+      "Material: walnut wood (Juglans regia), root wood prized most",
+      "Motifs: chinar leaf, grape bunch, rose, iris, lotus",
+      "Worked in karkhanas led by an ustad",
+      "Registered as a Geographical Indication (sources differ on the year)"
+    ],
+    "art": [
+      "Kashmir walnut wood carving turns the wood of the walnut tree into tables, trays, boxes, screens and other furniture. Sahapedia notes that walnut trees grow in Kashmir between about 5,500 and 7,500 feet, and that the fine grain of the wood, from root or trunk, allows very small detail.",
+      "The motifs come from the Valley itself. Sahapedia lists grape bunches, chinar leaves, pears and roses. Kashmir Life adds lotuses, irises, grape vines and animals. The root wood is the most valuable because it is dark and durable.",
+      "Work happens in a karkhana, or workshop, and falls into three stages: carpentry, carving and polishing. The design is first drawn on the wood so that the carver does not make a mistake that cannot be undone. Kashmir Life describes felled walnut being sun-dried for about a year, shaped by a carpenter, carved by a naqshgar, polished, then put together and finished.",
+      "Other Kashmiri woodwork sits beside walnut carving. Kashmir Life names khatamband, geometric ceilings made from thin slices of wood, and pinjrakari, lattice work. These are separate crafts from walnut carving, although they often share workshops and families."
+    ],
+    "artist": [
+      "A karkhana is led by an ustad, the master. Karigars, the skilled craftsmen, work under him, and apprentices learn by watching and then take on simple tasks before they carve. Sahapedia says the karigar's main task is to turn a customer's idea into a real object.",
+      "Kashmir Life writes about Ghulam Nabi Dar, who has carved for about sixty years, has won state and central awards and has shown his work abroad. He worries that young people will not take up a craft that takes so long to learn. Another carver, Bilal Ahmad, carries on the work of his father and grandfather and believes young people will join if they get proper guidance and training.",
+      "The craft is mostly men's work. One Kashmir Life article says the trade is largely carried by the Najar community, with others also taking part, and that dealers and middlemen take most of the profit, which leaves the carvers with little."
+    ],
+    "place": [
+      "The heart of the craft is Srinagar. Sahapedia points to downtown Srinagar, where many walnut workshops stand. Kashmir Life names Noorbagh as the centre of the trade. The Wikipedia entry places the craft across the Kashmir region, where walnut grows widely.",
+      "Walnut is a tree of the Valley's orchards and hillsides. Kashmir Life calls Kashmir India's only walnut basket, and warns that old trees are dying and supply is tightening. Carved pieces are part of a bride's wedding trousseau, says Sahapedia, and carved furniture is valued in Kashmiri homes."
+    ],
+    "history": [
+      {
+        "when": "From 1028 CE (per one historian)",
+        "what": "Kashmir Life, citing the historian P. N. K. Bamzai, says woodcraft flourished in the Valley from 1028 CE onward, fed by walnut and other timber near the Vitasta (Jhelum)."
+      },
+      {
+        "when": "15th century",
+        "what": "Under Sultan Zain-ul-Abidin (Budshah), Kashmir Life says, master artisans came from Samarqand, Bukhara and Persia, and mosques, shrines and palaces were built largely of wood."
+      },
+      {
+        "when": "Mughal period",
+        "what": "The French traveller Bernier praised the craft, and wooden goods were valued as honorary gifts, says Kashmir Life."
+      },
+      {
+        "when": "1921",
+        "what": "The census recorded about 50 wood-work factories under Dogra rule. Khatamband ceilings were exported to England, and Maharaja Pratap Singh gave a wood-carved gate to King George V."
+      },
+      {
+        "when": "2007-2008 (as listed)",
+        "what": "Wikipedia lists the craft as a registered Geographical Indication, item 182, with the registration period 2007-2008. Kashmir Life, writing later, says the government has started GI tagging for walnut products, so sources do not agree on the date."
+      },
+      {
+        "when": "Today",
+        "what": "Kashmir Life reports an annual turnover of about Rs 10 crore, competition from cheaper machine-made look-alikes from Saharanpur, fewer old trees, and an ageing artisan base."
+      }
+    ],
+    "future": [
+      "Training: keep ustad-apprentice learning alive with paid trainers and stipends. Kashmir Life describes a Karkhandaar scheme with a Rs 2,500 stipend for trainers and trainees.",
+      "Livelihood: bring more of the price back to the carver, so that dealers and middlemen do not keep most of it.",
+      "Materials: plant and protect walnut trees, and track where timber goes, since supply is tightening.",
+      "Documentation: map the sector, including artisan numbers, timber needs and turnover, which insiders told Kashmir Life must come before GI tagging can help.",
+      "Protection: use the GI to separate hand-carved Kashmir work from machine-made imitations, and teach buyers how to tell them apart."
+    ],
+    "pins": [
+      {
+        "lat": 34.0837,
+        "lng": 74.7973,
+        "label": "Srinagar",
+        "approximate": false
+      },
+      {
+        "lat": 34.069,
+        "lng": 74.813,
+        "label": "Fateh Kadal, downtown Srinagar",
+        "approximate": true
+      },
+      {
+        "lat": 34.095,
+        "lng": 74.77,
+        "label": "Noorbagh, Srinagar",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-kashmiri-walnut-wood-carving-587edb",
+      "kashmirlife-net-tense-competition-vol-15-issue-10-318859-7f0639",
+      "kashmirlife-net-kashmirs-wood-works-vol-15-issue-52-348267-ff48b7",
+      "en-wikipedia-org-wiki-kashmir-walnut-wood-carving-dd874b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "khajuraho-temple-sculpture",
+    "name": "Khajuraho Temple Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#9a3412",
+    "motif": "scroll",
+    "tagline": "Sandstone temples of the Chandelas, carved with gods, dancers, soldiers and lovers.",
+    "facts": [
+      "UNESCO World Heritage Site since 1986",
+      "Built by the Chandela rulers, about 950 to 1050",
+      "Material: sandstone",
+      "Western Group is the largest and best known"
+    ],
+    "art": [
+      "Khajuraho is famous for its temples, built mostly from sandstone and set on high platforms. Their towers rise in clusters of smaller spires, and every surface is carved. Britannica says the original capital had about 85 temples built from about 950 to 1050; about 25 survive.",
+      "Most visitors come for the erotic scenes, but those are only part of the story. Sources describe warriors, hunters, dancers, musicians, devotees, teachers and gods among the figures. Writers who have studied the Kandariya Mahadeva temple say the loving couples (mithunas) appear mainly in the bands between the main friezes and make up a small share of the total, about ten percent by one count. Britannica calls the sculpture frequently sensual and sometimes sexually explicit.",
+      "The Western Group is the largest and best known. Its main temples include the Kandariya Mahadeva, Lakshmana and Vishvanatha, along with the Chitragupta, Devi Jagadambi and Matangeshvara temples. The Kandariya Mahadeva is dated variously: Britannica gives about 1000, other sources give about 1017-1029 or later, so the date is uncertain.",
+      "The Lakshmana temple has platform reliefs showing processions, battles, ceremonies and everyday scenes. On the walls, gods and goddesses stand in niches, with celestial women (apsaras) in many poses. Why the Chandelas had the erotic scenes carved is debated by scholars and I do not give a single answer."
+    ],
+    "artist": [
+      "The sculptors of Khajuraho are not named in the sources I used. The temples are credited to Chandela kings, not to carvers.",
+      "The work was done by guilds of stone workers, as in other medieval Indian temple projects, but I did not find a primary source for the guilds at Khajuraho and do not state details.",
+      "Today the temples are looked after by the Archaeological Survey of India. Stone carving and craft in the nearby region serves the tourist trade, and Khajuraho hosts an annual dance festival; I did not verify the details of either for this text.",
+      "Our approach: find and name current stone carvers and conservators in Khajuraho, and record their own account of the craft."
+    ],
+    "place": [
+      "Khajuraho lies in the Bundelkhand region of Madhya Pradesh, in the north of the state. The Chandelas ruled this region, which they called Jejakabhukti, with Khajuraho as a religious centre.",
+      "The temples are built of sandstone, which is easier to carve than granite. Sources describe it as hard river sandstone, and some temples also use granite in places. The exact quarry sources were not given in the sources I read.",
+      "The temples were largely hidden by forest and forgotten by the outside world for centuries, which probably helped them survive. UNESCO inscribed the Khajuraho Group of Monuments in 1986. Hindu and Jain temples stand side by side, showing a tolerant religious setting."
+    ],
+    "history": [
+      {
+        "when": "About 950",
+        "what": "Chandela rulers begin building the group of temples at Khajuraho; Britannica gives about 950 to 1050 for the main phase."
+      },
+      {
+        "when": "10th to 11th century",
+        "what": "The Western Group is built, including the Lakshmana, Kandariya Mahadeva and other temples."
+      },
+      {
+        "when": "12th to 13th century",
+        "what": "Chandela power weakens; building slows and stops."
+      },
+      {
+        "when": "14th century onwards",
+        "what": "The area comes under later rulers. The temples fall out of regular use and the region becomes wooded."
+      },
+      {
+        "when": "1830s",
+        "what": "The British engineer T. S. Burt is credited by common accounts with bringing the temples to wider notice; I did not verify the date in a primary source."
+      },
+      {
+        "when": "1986",
+        "what": "UNESCO inscribes the Khajuraho Group of Monuments."
+      },
+      {
+        "when": "Today",
+        "what": "The ASI manages the site; tourism and an annual dance festival bring visitors."
+      }
+    ],
+    "future": [
+      "Offer guided walks that show the wide range of subjects, not only the erotic panels.",
+      "Train local youth as guides and conservation helpers.",
+      "Document every wall, panel by panel, with photographs and a public catalogue.",
+      "Reduce weathering and visitor wear with barriers, drainage and regular cleaning.",
+      "Support local stone carvers with orders for conservation and for responsibly made copies.",
+      "Improve road and rail access with limits on crowding at peak times."
+    ],
+    "pins": [
+      {
+        "lat": 24.8519,
+        "lng": 79.92,
+        "label": "Western Group of temples, Khajuraho",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "whc-unesco-org-en-list-240-9286eb",
+      "britannica-com-print-article-316061-7466e5",
+      "asi-nic-in-9a199b",
+      "allansartworlds-sites-ucsc-edu-539a5e",
+      "anantamias-com-khajuraho-temples-786d2c"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "konark-sun-temple-sculpture",
+    "name": "Konark Sun Temple Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Odisha"
+    ],
+    "color": "#b91c1c",
+    "motif": "spiral",
+    "tagline": "A temple built as a giant stone chariot of the Sun god, with wheels carved like clocks.",
+    "facts": [
+      "UNESCO World Heritage Site since 1984",
+      "Built in the 13th century under Narasimhadeva I of the Eastern Ganga dynasty",
+      "Shaped as a chariot with 24 carved wheels",
+      "Looked after by the ASI since 1936"
+    ],
+    "art": [
+      "The Sun Temple at Konark is designed as the chariot of the Sun god Surya. Sources describe 24 great stone wheels carved around the base, and horses pulling the chariot at the front. Of the main tower, only the entrance hall (jagamohana) and some other parts remain.",
+      "The wheels are carved with spokes and medallions. Several sources say they work as sundials, with the spokes casting shadows to mark the time of day. This is widely repeated; I did not find a scientific study cited in the sources I read, so treat it as a popular and reasonable reading.",
+      "The walls are covered with sculpture: gods, musicians and dancers, animals, scenes of court and hunt, and lovers (mithunas). There are images of the Sun god in three directions, in chlorite stone, which differs from the main body of the temple.",
+      "The main stone is commonly described as Khondalite, a local rock, with chlorite and laterite used in some parts. I could not confirm the mix from a primary source here. Both Khondalite's softness and its weathering are noted in conservation accounts."
+    ],
+    "artist": [
+      "The names of the Konark sculptors are not given in the sources I used. Odisha's tradition of stone carving survives in the craft of the maharana sculptor families, but I did not find a source that links them directly to Konark, so I do not state it.",
+      "Today Odisha has training in traditional stone carving at government and craft institutions, and stone carvers of Puri district make images and copies. I did not verify specific institutions for this entry.",
+      "The ASI employs conservators, masons and chemists, who now carry the care of the Konark carving.",
+      "Our approach: find and name working Odia stone carvers, and let them tell how they read the wheels and walls."
+    ],
+    "place": [
+      "Konark is on the Odisha coast, in Puri district, near the Bay of Bengal. Sources say the temple was built near the mouth of the river Chandrabhaga; over the centuries the sea has moved away from the site.",
+      "The Eastern Ganga dynasty ruled Kalinga from their capital at Cuttack in the 13th century. Narasimhadeva I (about 1238-1264, as the sources give it) is credited as the builder. Odisha's other great temples, at Bhubaneswar and Puri, are close by.",
+      "In 1903, according to sources, the British administration filled the hall with sand and sealed it to prevent collapse. A later study found the sand had settled, leaving a gap. The complex was handed to the ASI in 1936."
+    ],
+    "history": [
+      {
+        "when": "13th century",
+        "what": "Narasimhadeva I of the Eastern Ganga dynasty builds the Sun Temple, according to the sources; reign dated about 1238-1264."
+      },
+      {
+        "when": "Later centuries",
+        "what": "The temple falls into ruin. Explanations differ and I do not give a single cause."
+      },
+      {
+        "when": "1903",
+        "what": "The jagamohana hall is filled with sand and sealed under British administration."
+      },
+      {
+        "when": "1936",
+        "what": "The complex is handed over to the Archaeological Survey of India."
+      },
+      {
+        "when": "1984",
+        "what": "UNESCO inscribes the Sun Temple, Konark."
+      },
+      {
+        "when": "2013-2018",
+        "what": "The Central Building Research Institute (CBRI), Roorkee, studies the structural stability of the temple."
+      },
+      {
+        "when": "Recent years",
+        "what": "The ASI plans to remove the sand and support the hall, and to open the interior to visitors; sources I found are not current about the status."
+      }
+    ],
+    "future": [
+      "Finish the sand-removal and structural support plan with published results, so that the public can follow progress.",
+      "Monitor salt, wind and rain damage on the soft stones, with gentle cleaning and records.",
+      "Train local youth as guides and carvers, with fair pay for conservation work.",
+      "Explain the chariot design, the wheels and the sculptures on site, in Odia and English.",
+      "Manage crowds, especially during the Konark Dance Festival and Chandrabhaga fair season, to reduce wear.",
+      "Protect the landscape around the temple: green belt, clean beach and careful building rules."
+    ],
+    "pins": [
+      {
+        "lat": 19.8876,
+        "lng": 86.0945,
+        "label": "Sun Temple, Konark",
+        "approximate": false
+      },
+      {
+        "lat": 19.883,
+        "lng": 86.123,
+        "label": "Chandrabhaga beach",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "whc-unesco-org-en-list-246-b96d70",
+      "drishtiias-com-daily-news-analysis-conservation-of-konark-su-0b6f4d",
+      "iasgyan-in-daily-current-affairs-sun-temple-at-konark-histor-82944f",
+      "hinduismtoday-com-hpi-657125",
+      "asi-nic-in-9a199b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "kumartuli-idols",
+    "name": "Kumartuli Idol-Making",
+    "category": "Sculpture",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#9a3412",
+    "motif": "arch",
+    "tagline": "A lane of potters on the Hooghly where the goddess is shaped from river clay each monsoon.",
+    "facts": [
+      "Potters' quarter in north Kolkata, between Ahiritola and Shobhabazar",
+      "Idols built on bamboo and straw frames, finished with clay",
+      "Seasonal work, roughly July to January",
+      "Also spelled Kumortuli"
+    ],
+    "art": [
+      "Each idol begins as a frame, the kathamo, of bamboo and wood tied with straw. Rituals are performed before the sculpting starts. Clay is then layered on. As described on Sahapedia, a first coat of entel mati mixed with rice husk dries for three to four days, then finer bele mati is added and dried for five to six days. Cracks are mended with mud.",
+      "Faces and hands are often cast in moulds and polished. The idol is then painted and decorated. PARI records that the eyes are painted on Mahalaya, the day that is held to bring the idol to life.",
+      "Styles named include ek chala, with one background frame for the whole family of figures, and do chala, with separate frames. Sahapedia lists others, such as Art Bangla and Ajanta Ellora Durga."
+    ],
+    "artist": [
+      "Work is shared among specialists, for example those who paint the eyes and those who make the moulded faces and hands. PARI describes workshops such as Brajeshwar and Sons, run by Karthik Paul, and names Gopal Paul at a nearby workshop.",
+      "Women entered the trade later. Sahapedia names Mala Pal, who gained recognition in the 1990s, and China Pal, who began in 1994 after her father's death.",
+      "Many workers come from Krishnanagar in Nadia and are hired months before the peak season. Wages vary widely with the task."
+    ],
+    "place": [
+      "Kumortuli lies in northern Kolkata, between Ahiritola and Shobhabazar, bordered by Rabindra Sarani (the old Chitpur Road) and the Hooghly. The river gives clay and the boat access that early potters needed.",
+      "Studios are cramped, homes sit beside workshops and finished idols spill into the lane. Sahapedia notes a Rs 22 crore rehabilitation project begun in 2007 that stalled after its first phase."
+    ],
+    "history": [
+      {
+        "when": "About 300 years ago",
+        "what": "Potters are said to have come from Dhaka to Krishnanagar in Nadia, and settled at Ghurni (Sahapedia). PARI says the first potters in Kolkata came from Krishnanagar about 300 years ago."
+      },
+      {
+        "when": "1606",
+        "what": "The first recorded Durga Puja in Krishnanagar, according to Sahapedia."
+      },
+      {
+        "when": "About 1757",
+        "what": "Raja Nabakrishna Deb of Shobhabazar Rajbari held a Durga Puja and brought potters from Krishnanagar. Sahapedia treats this as the start of Kumortuli. Other accounts differ."
+      },
+      {
+        "when": "1910",
+        "what": "The first community puja in Kolkata, at Balaram Basu Ghat Road."
+      },
+      {
+        "when": "1937 or 1938",
+        "what": "A fire destroyed idols of the Kumortuli Sarbojanin committee. Local legend says Gopeshwar Pal made new ones overnight in the do chala style."
+      },
+      {
+        "when": "2007",
+        "what": "A rehabilitation project is launched for the quarter."
+      }
+    ],
+    "future": [
+      "Training: formal apprenticeships, and recognition for women sculptors.",
+      "Livelihood: year-round orders, since work runs only about July to January.",
+      "Materials: keep access to good river clay and look for lasting, low-waste finishes.",
+      "Documentation: record workshop lineages and the styles and rituals of each studio.",
+      "Protection: secure safe, lit workspaces and tenure for the artisans who rent their homes."
+    ],
+    "pins": [
+      {
+        "lat": 22.601,
+        "lng": 88.363,
+        "label": "Kumortuli",
+        "approximate": true
+      },
+      {
+        "lat": 23.4,
+        "lng": 88.5,
+        "label": "Krishnanagar, source of potters",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-kolkatas-potters-colony-kumortuli-3c095f",
+      "ruralindiaonline-org-en-articles-journey-through-kumartuli-53a096"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "capitol-complex",
+    "name": "Le Corbusier's Capitol Complex",
+    "category": "Sculpture",
+    "states": [
+      "Chandigarh"
+    ],
+    "color": "#1e293b",
+    "motif": "arch",
+    "tagline": "Raw concrete, a giant open hand and a capital built for a divided Punjab.",
+    "facts": [
+      "Architect: Le Corbusier, with Pierre Jeanneret",
+      "Buildings: Secretariat, Palace of Assembly, High Court",
+      "Open Hand monument: about 26 m",
+      "UNESCO World Heritage, 2016, as part of Le Corbusier's collective listing"
+    ],
+    "art": [
+      "The Capitol Complex is a group of government buildings at the northern end of Chandigarh's grid, with hills behind. Wikipedia names three main buildings: the Secretariat, a long concrete slab of about 254 m; the Palace of Assembly, raised on pilotis with a conical roof over a circular chamber; and the Punjab and Haryana High Court, with a large cantilevered parasol roof.",
+      "Between them stand monuments and sculptures. Wikipedia lists the Open Hand Monument, a 26 m metal sculpture and wind vane that is the city's emblem; the Tower of Shadows, designed to keep out direct sunlight; the Geometric Hill with a concrete sundial; and the Martyrs' Memorial. A Governor's Palace was planned but never built.",
+      "The design uses exposed concrete, brise-soleil sun screens and Le Corbusier's Modulor proportions. Wikipedia notes passive cooling features such as double-skinned roofs and reflecting pools."
+    ],
+    "artist": [
+      "Le Corbusier took over the Chandigarh project in 1951, and Wikipedia says his cousin Pierre Jeanneret was resident architect. The sources I opened do not name the many Indian engineers, draughtsmen and construction workers who built it, though their work is part of the story.",
+      "I did not find sourced details on the artists who made the tapestries or door panels, so they are not named here."
+    ],
+    "place": [
+      "Chandigarh was planned after Partition, when Lahore went to Pakistan and Punjab needed a new capital. It now serves as the capital of both Punjab and Haryana, which is why the Secretariat houses offices of both states.",
+      "The Tribune reports that the UNESCO listing covers the Capitol Complex, not the whole city. The Centre told Parliament that Chandigarh has no World Heritage City designation. The complex and Sukhna Lake are Grade 1 heritage zones under the city's Master Plan 2031."
+    ],
+    "history": [
+      {
+        "when": "1947",
+        "what": "Partition leaves Punjab without Lahore and a new capital is planned."
+      },
+      {
+        "when": "1951",
+        "what": "Le Corbusier takes over the design of Chandigarh, according to Wikipedia."
+      },
+      {
+        "when": "2016",
+        "what": "UNESCO inscribes the complex within The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement, a transnational property shared among seven countries."
+      },
+      {
+        "when": "2023-2024",
+        "what": "Wikipedia says the Supreme Court halted an unauthorised verandah addition to the High Court."
+      },
+      {
+        "when": "Recent years",
+        "what": "The Tribune reports that a conservation and management plan is being prepared. Critics quoted by Wikipedia say security fencing and later changes have harmed the open esplanade and interiors."
+      }
+    ],
+    "future": [
+      "Protection: finish and follow a conservation plan, as UNESCO has urged.",
+      "Access: open the esplanade more widely, with fair security rules.",
+      "Materials: repair exposed concrete with matching mixes and trained masons.",
+      "Documentation: record the buildings and the workers who made them.",
+      "Learning: guided tours for schools and architecture students."
+    ],
+    "pins": [
+      {
+        "lat": 30.7587,
+        "lng": 76.801,
+        "label": "Capitol Complex, Chandigarh",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-chandigarh-capitol-complex-816266",
+      "tribuneindia-com-news-chandigarh-chandigarh-not-designated-w-c0440b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mamallapuram-stone-carving",
+    "name": "Mamallapuram Stone Carving",
+    "category": "Sculpture",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#334155",
+    "motif": "triangles",
+    "tagline": "Temples and giant reliefs cut from living rock by the sea, and carvers who still work there.",
+    "facts": [
+      "Group of Monuments at Mahabalipuram: UNESCO World Heritage, 1984",
+      "Built mainly under the Pallavas, 7th-8th century",
+      "Includes rock-cut rathas, relief panels and the Shore Temple",
+      "Government College of Architecture and Sculpture started in 1957"
+    ],
+    "art": [
+      "Mamallapuram, also called Mahabalipuram, is a small town on the Bay of Bengal coast. Its monuments were carved from granite outcrops and boulders, and from cut blocks, under the Pallava kings. The Archaeological Survey of India lists them as rock-cut caves, monolithic rathas, open-air reliefs and structural temples.",
+      "The Arjuna's Penance, also called the Descent of the Ganga, is a huge open-air relief carved on two large rocks. It shows gods, humans, animals and celestial beings gathered around a cleft. The ASI places it in the period of Narasimhavarman I. Scholars still debate whether the scene shows Arjuna's penance or the descent of the Ganga, and the two readings are both discussed.",
+      "The Pancha Rathas are five temple-shaped monuments cut from single pieces of rock, each in a different style. They were never used for worship in the usual way. The ASI attributes the rathas and relief to the time of Narasimhavarman I, known as Mamalla.",
+      "The Shore Temple is different: it is built from cut stone blocks, not carved out of a rock. Sources attribute it to Rajasimha (Narasimhavarman II), around 700-728. It has two main shrines to Shiva and a smaller shrine to Vishnu reclining.",
+      "The stone is hard granite. Carvers worked from the top down, shaping the form with chisels and finishing the details. Salt air and sea spray have worn the surfaces over thirteen centuries."
+    ],
+    "artist": [
+      "The names of the original Pallava sculptors are not generally known; the monuments are credited to kings. I did not find sourced names of individual carvers from the 7th century.",
+      "The living tradition owes a good deal to the Government College of Architecture and Sculpture, Mamallapuram. Sources say it began in 1957 as a Sculpture Training Centre under the state Department of Industries and Commerce, to revive traditional temple building and sculpture. It offers courses in traditional architecture and sculpture in stone, wood, metal and stucco (sudhai).",
+      "Reports say most of the local carvers today are college alumni, though some learned within family workshops. An older report from 1994 said admission was free and mostly open to sons of artisan families; fees and admission rules may have changed since, so check with the college.",
+      "Mamallapuram stone carving also has a Geographical Indication entry, as listed by Tamil Nadu sources. Workshops along the main road make temple images, deities, animals and decorative pieces for temples and homes."
+    ],
+    "place": [
+      "Mamallapuram lies about 55 km south of Chennai on the Coromandel coast. It was a port town under the Pallavas, whose capital was Kanchipuram. Coastal trade, and the nearby granite hills, helped the town grow.",
+      "The Pallavas were a dynasty of Tamil country and neighbouring areas who ruled between roughly the 4th and 9th centuries. They are known for early experiments in rock-cut and structural temple building. Mamallapuram holds a concentrated example of those experiments.",
+      "UNESCO inscribed the Group of Monuments at Mahabalipuram in 1984. The monuments are protected and looked after by the ASI. Visitors come in large numbers, which brings income to carvers and also wear to the monuments."
+    ],
+    "history": [
+      {
+        "when": "7th century",
+        "what": "Narasimhavarman I (Mamalla), who ruled about 630-668 as given by the ASI, is linked to rock-cut caves, rathas and the great relief. The town is named after his title."
+      },
+      {
+        "when": "Late 7th to early 8th century",
+        "what": "Rajasimha (Narasimhavarman II) is credited with the Shore Temple, around 700-728."
+      },
+      {
+        "when": "Medieval period",
+        "what": "The port declines and the monuments are partly buried or worn. Later rulers add little."
+      },
+      {
+        "when": "Colonial period",
+        "what": "European travellers write about the 'Seven Pagodas' and the site is drawn and surveyed."
+      },
+      {
+        "when": "1957",
+        "what": "The Sculpture Training Centre begins, which later becomes the Government College of Architecture and Sculpture."
+      },
+      {
+        "when": "1984",
+        "what": "UNESCO inscribes the Group of Monuments at Mahabalipuram as a World Heritage Site."
+      },
+      {
+        "when": "Today",
+        "what": "The ASI conserves the monuments; the college and local workshops keep stone carving as a living trade."
+      }
+    ],
+    "future": [
+      "Offer paid placements and apprenticeships for graduates of the college in conservation work, not only in sales workshops.",
+      "Invite carvers to join ASI conservation projects as skilled stone workers, with recognised pay and credit.",
+      "Reduce salt and sea-spray damage with regular monitoring and gentle cleaning, led by conservation scientists.",
+      "Keep clear visitor routes and shade, and ask visitors not to touch the reliefs.",
+      "Help workshops market under the GI name and keep records of who made each piece.",
+      "Explain the open debate about the great relief on site, in Tamil and English, so visitors see how scholars read it."
+    ],
+    "pins": [
+      {
+        "lat": 12.6165,
+        "lng": 80.1927,
+        "label": "Shore Temple",
+        "approximate": false
+      },
+      {
+        "lat": 12.6179,
+        "lng": 80.1925,
+        "label": "Arjuna's Penance relief",
+        "approximate": true
+      },
+      {
+        "lat": 12.619,
+        "lng": 80.192,
+        "label": "Sculptors' workshops and college area",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "asi-nic-in-pages-worldheritagemahabalipuram-b935ab",
+      "whc-unesco-org-en-list-249-f8359d",
+      "artandculture-tn-gov-in-node-80-269f70",
+      "handicrafts-gov-in-crafts-all-crafts-craft-categories-stone--709ef2",
+      "hinduismtoday-com-magazine-april-1994-1994-04-mahabalipuram--ea4844",
+      "en-wikipedia-org-wiki-shore-temple-54e96a"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mathura-sculpture",
+    "name": "Mathura Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "color": "#9f1239",
+    "motif": "diamond",
+    "tagline": "Red sandstone Buddhas, Jinas and kings from the workshops of Kushan-age Mathura.",
+    "facts": [
+      "Material: mottled red sandstone from the Sikri quarries",
+      "Peak: Kushan period, first to third century CE",
+      "Subjects: Buddhist, Jain and Hindu",
+      "Main collection: Government Museum, Mathura, founded in 1874"
+    ],
+    "art": [
+      "The Mathura school made images from a local red spotted sandstone quarried at Sikri. EBSCO dates the earliest works to about the middle of the 2nd century BCE. The school flourished from the 1st to 6th centuries CE and stayed important until about the 12th century.",
+      "Mathura artists were among the first to show the Buddha in human form. Early figures were squat and smooth with rounded cheeks and a gentle smile. Later ones show a halo, curled hair and folded robes. Wikipedia notes standing Buddhas of about the 2nd century CE combine local yaksha traditions with Gandharan features, such as the halo.",
+      "The school was not limited to Buddhist art. It made Jain images, including Tirthankara figures and ritual tablets called ayagapatas, and early Hindu images. It also made yakshis, graceful female figures. EBSCO calls the school tolerant and mixed in its sources.",
+      "Many works are dated by inscriptions that name Kushan kings. A seated Buddha is dated to year 4 of Kanishka (131 CE), according to Wikipedia. Kanishka also had honorific statues of himself made by Mathura craftsmen."
+    ],
+    "artist": [
+      "The sources I read do not name the sculptors. Inscriptions mostly name donors and rulers, not the carvers. I have left out the names of individuals.",
+      "Kanishka, Huvishka and Vasudeva are named by EBSCO as major patrons. Wikipedia notes a dynastic statue of Vima Kadphises, dated to 90 to 100 CE, in the Mathura Museum, and some Jain fragments dedicated in the name of Vasudeva I."
+    ],
+    "place": [
+      "Mathura lies on the Yamuna in western Uttar Pradesh. EBSCO notes it is regarded as the birthplace of Krishna. The stone came from Sikri, nearby, and Mathura sandstone images are found widely across north India.",
+      "The Government Museum, Mathura was founded in 1874 by F. S. Growse, then collector of Mathura, and holds sculpture from the 3rd century BCE to the 12th century CE. Its captions list objects from the Kankali Mound, including a 1st-century Jain tablet and a Gupta-period colossal Jina head. Other highlights are the Parkham Yaksha (c. 150 BCE) and a statue of Kanishka I."
+    ],
+    "history": [
+      {
+        "when": "c. 150 BCE",
+        "what": "Early Mathura works such as the Parkham Yaksha, as dated by the museum."
+      },
+      {
+        "when": "1st to 3rd century CE",
+        "what": "Kushan rule; EBSCO calls this an early peak of the school."
+      },
+      {
+        "when": "131 CE",
+        "what": "A seated Buddha is dated to the fourth year of Kanishka."
+      },
+      {
+        "when": "4th century CE",
+        "what": "The Gupta empire takes control and patronises Mathura art."
+      },
+      {
+        "when": "Early 7th century",
+        "what": "The Gupta empire has collapsed; Mathura's influence declines, says EBSCO."
+      },
+      {
+        "when": "Until c. 12th century",
+        "what": "Mathura stays an important centre of sculpture."
+      },
+      {
+        "when": "1874",
+        "what": "F. S. Growse founds the museum that now holds many of these works."
+      }
+    ],
+    "future": [
+      "Training: carving in sandstone is taught in few places today, and stone-carving apprenticeships would support it.",
+      "Livelihood: museum visits and heritage tourism in Mathura can support local craft.",
+      "Materials: protect access to the Sikri-type red sandstone for restoration work.",
+      "Documentation: continue reading inscriptions and publish the museum's catalogue.",
+      "Protection: careful storage and display slow wear on soft sandstone images."
+    ],
+    "pins": [
+      {
+        "lat": 27.4924,
+        "lng": 77.6737,
+        "label": "Mathura",
+        "approximate": false
+      },
+      {
+        "lat": 27.4895,
+        "lng": 77.67,
+        "label": "Kankali Tila",
+        "approximate": true
+      },
+      {
+        "lat": 27.503,
+        "lng": 77.68,
+        "label": "Government Museum",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ebsco-com-research-starters-arts-and-entertainment-mathura-a-4c5ca0",
+      "en-wikipedia-org-wiki-government-museum-mathura-b484aa",
+      "en-wikipedia-org-wiki-kushan-art-0ff296"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "naga-woodcarving-morung",
+    "name": "Naga Woodcarving and Morung Art",
+    "category": "Sculpture",
+    "states": [
+      "Nagaland"
+    ],
+    "color": "#78350f",
+    "motif": "arch",
+    "tagline": "Hornbills, mithun heads and human figures carved on the posts of the men's house.",
+    "facts": [
+      "Traditionally practised only by men",
+      "Morung: the men's ceremonial house, with the finest carving",
+      "Eastern groups such as Konyak and Chang favour human figures and hornbills",
+      "Few old carvings survive; mission teaching and fires took many"
+    ],
+    "art": [
+      "The morung is the men's ceremonial house and social centre of a Naga village. Abraham Lotha writes that it had carved central posts, beams and partitions. Sahapedia's overview says morungs had the most elaborate carving of all Naga buildings.",
+      "Motifs had meanings. According to Lotha, the human head stood for the essence of a person and a trophy of courage. A woman's breast meant life and a growing population. The mithun head meant wealth and status, linked to feasts of merit. The hornbill meant valour and youth. The tiger was a spirit protector. Rice plants stood for good harvests.",
+      "Tribes differ. Sahapedia says Angami and Chakhesang carvings stress mithun heads and house horns. Eastern groups such as the Konyak and Chang favour human figures, fertility symbols and hornbills. The hornbill is the elite symbol of the Ang, the Konyak chief. The Cambridge Naga Database also records Ang posts outside Konyak morungs in W.G. Archer's notes.",
+      "Other forms include log-drums beside the morung, village gates, and life-size funerary effigies. Tools were simple: dao, hammer and chisel. Large posts came from whole tree trunks, and carvings were often painted red, black and white."
+    ],
+    "artist": [
+      "Woodcarving was the men's counterpart to women's weaving. Lotha says only some men could own carved houses, because carvings were tied to feasts of merit and rank. Sahapedia says the craft is traditionally men's work, and now mostly practised by specialist master artisans.",
+      "I found no named carvers in these two sources. A travel piece in the Morung Express describes a carved piece in Longwa made by a local carver named Honnu, but it is a travel account and I could not verify it, so I leave it out of the main story.",
+      "Both sources are critical of modern souvenir carving, saying it keeps few of the original meanings."
+    ],
+    "place": [
+      "The Konyak live in Mon district, in the north of Nagaland. Sahapedia notes carving is found among most of the state's major tribes, in east and west. Angami villages used solid carved gates called kharu, per the IGNCA page.",
+      "Surviving old carvings are rare. They are found in remote villages, museums and private collections, according to Lotha. Churches have replaced morungs as the main buildings of most villages."
+    ],
+    "history": [
+      {
+        "when": "Before 1872",
+        "what": "Carving flourished around the morung, village gates and feasts of merit, per Lotha."
+      },
+      {
+        "when": "From 1872",
+        "what": "American Baptist missionaries sought to end the morung system and banned feasts of merit, per Lotha. Converts destroyed objects."
+      },
+      {
+        "when": "British era",
+        "what": "Sahapedia says many old carvings were lost when villages were burned in British-era operations."
+      },
+      {
+        "when": "1950s",
+        "what": "Sahapedia says army operations during the insurgency destroyed more."
+      },
+      {
+        "when": "1946-48",
+        "what": "W.G. Archer records Konyak morung posts in notes now held in the Cambridge Naga Database."
+      },
+      {
+        "when": "Today",
+        "what": "About 90 per cent of Nagas are Christian, per Lotha. Carving continues as tourist work and in new buildings that reuse old symbols."
+      }
+    ],
+    "future": [
+      "Training: master carvers teaching young people with both old and new tools can keep skills alive.",
+      "Livelihood: carvers earn mostly from souvenirs. Commissions for buildings and furniture offer better work.",
+      "Materials: Sahapedia notes forest cover has fallen. Teak and fast-growing wood from plantations are now used.",
+      "Documentation: the Cambridge Naga Database and community collections already hold photos. Village-by-village recording of meanings would help.",
+      "Protection: surviving posts and effigies in villages need safe keeping, decided with the owning communities."
+    ],
+    "pins": [
+      {
+        "lat": 26.7333,
+        "lng": 95,
+        "label": "Mon, Konyak country",
+        "approximate": false
+      },
+      {
+        "lat": 26.74,
+        "lng": 95.12,
+        "label": "Longwa",
+        "approximate": true
+      },
+      {
+        "lat": 25.65,
+        "lng": 94,
+        "label": "Khonoma, Angami",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-woodcarving-craft-of-nagaland-overview-bab128",
+      "morungexpress-com-understanding-naga-woodcarving-40febc",
+      "ignca-gov-in-divisionss-janapada-sampada-northeastern-region-57be9f"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "nek-chand-rock-garden",
+    "name": "Nek Chand's Rock Garden",
+    "category": "Sculpture",
+    "states": [
+      "Chandigarh"
+    ],
+    "color": "#374151",
+    "motif": "spiral",
+    "tagline": "A secret city of figures made from the rubble of the new city.",
+    "facts": [
+      "Maker: Nek Chand Saini (1924-2015)",
+      "Materials: demolition debris, bangles, crockery, slag",
+      "Hidden until found in 1975; opened to the public in 1986 per Wikipedia (other accounts say 1976)",
+      "Padma Shri, 1984"
+    ],
+    "art": [
+      "The Rock Garden is a sculpture garden in a forest gorge near Sukhna Lake in Chandigarh. Wikipedia describes hundreds of concrete sculptures of dancers, musicians and animals, set among interlinked courtyards.",
+      "The materials were what the new city threw away. Wikipedia lists demolition debris, a cement and sand mix, and a final coat of cement mixed with broken glass, bangles, crockery, mosaic and iron-foundry slag. ",
+      "Sizes and dates vary by source. Wikipedia gives eighteen acres in one place and thirteen acres at the time of discovery in another. Other accounts give other figures."
+    ],
+    "artist": [
+      "Nek Chand Saini was born on 15 December 1924 in Barian Kalan, Shakargarh, in what is now Pakistan. His family moved to India at Partition, and he settled in Chandigarh in 1955. He worked as a roads inspector with the Public Works Department and died on 12 June 2015, aged 90.",
+      "He was self-taught. Wikipedia says he built the garden in secret, and that it stayed hidden for eighteen years until authorities found it in 1975.",
+      "Once found, the garden was illegal, and demolition was threatened. Public support saved it. Wikipedia says Chand then received a salary, the title Sub-Divisional Engineer, Rock Garden, and 50 labourers. He received the Padma Shri in 1984."
+    ],
+    "place": [
+      "The garden sits on land once set aside as a forest conservancy, near Sukhna Lake at the edge of Le Corbusier's planned city. It is a counterpoint to the straight lines of the capital: a winding, hand-made landscape built from the city's own scrap.",
+      "Wikipedia says it opened to the public in 1986. Other accounts give 1976, so sources differ. In 1996, funding was withdrawn and vandals damaged the park. The Rock Garden Society took over its care."
+    ],
+    "history": [
+      {
+        "when": "1924",
+        "what": "Nek Chand is born in Barian Kalan, now in Pakistan."
+      },
+      {
+        "when": "1947-1955",
+        "what": "His family crosses to India at Partition. He settles in Chandigarh in 1955."
+      },
+      {
+        "when": "1950s-60s",
+        "what": "He begins gathering stone and waste in secret. Wikipedia says authorities found it in 1975 after eighteen years, which implies the late 1950s."
+      },
+      {
+        "when": "1975",
+        "what": "Authorities discover the hidden complex, per Wikipedia."
+      },
+      {
+        "when": "1976 and 1986",
+        "what": "Wikipedia says it opened to the public in 1986; other accounts say 1976."
+      },
+      {
+        "when": "1983-1984",
+        "what": "The garden appears on an Indian stamp in 1983. Chand receives the Padma Shri in 1984."
+      },
+      {
+        "when": "1996",
+        "what": "Funding is withdrawn and vandals attack the park. The Rock Garden Society takes over."
+      },
+      {
+        "when": "2015",
+        "what": "Nek Chand dies on 12 June, aged 90."
+      }
+    ],
+    "future": [
+      "Protection: keep the original sculptures and walls and involve Nek Chand's family and the Nek Chand Foundation in decisions.",
+      "Documentation: record every figure, its materials and its place, so repairs can match the original.",
+      "Materials: use compatible waste and cement for repairs, as Chand did.",
+      "Livelihood: train local craftspeople and hire families of the original workers where possible.",
+      "Learning: use the garden for school workshops on reuse of waste."
+    ],
+    "pins": [
+      {
+        "lat": 30.7525,
+        "lng": 76.81,
+        "label": "Rock Garden, Chandigarh",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-nek-chand-f798d3"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "nicobarese-wood-carving",
+    "name": "Nicobarese Wood Carving",
+    "category": "Sculpture",
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
+    "color": "#365314",
+    "motif": "triangles",
+    "tagline": "Fierce painted guardians carved to scare away spirits, now rare and mostly in museums.",
+    "facts": [
+      "Figures: kareau and henta-koi, protective guardians",
+      "Material: wood, shell and pigment",
+      "Active until the late 19th and early 20th century",
+      "Examples are held in the British Museum, Pitt Rivers and Brooklyn Museum"
+    ],
+    "art": [
+      "Art of the Ancestors describes two main kinds of protective figure. Henta-koi are animal or mythical forms that 19th century Europeans called devil scarers. They helped the shaman, the menluana, find and neutralise harmful spirits, called iwi. Kareau are more human-like. Larger ones stood outside the house and smaller ones sat on altars facing the entrance. Many show a raised arm.",
+      "The Brooklyn Museum holds a 19th century kareau of wood, shell and pigment. It is a heavy crouching figure with long arms, eyes of shell, a mouth with square-cut teeth and a tongue, and traces of red paint. The museum notes that Nicobar wood carvings are very rare. It also says the style may derive from a Malay region, while the Art of the Ancestors article says some figures show clear Indian influence. The origin of the style is therefore not settled.",
+      "The same article lists other objects: ladder-like healing shrines (halak) and decorated spirit boats used to trap harmful spirits and send them out to sea.",
+      "Wikipedia adds that painted sculptures are tied to the oral tradition and origin stories, showing spirits of ancestors, nature and objects. Craft work that continues today, such as the hodi canoe, is described in its own entry."
+    ],
+    "artist": [
+      "I did not find the names of individual Nicobarese carvers in the sources I could read. The older figures in museums were collected by outsiders, including Lt-Col R.C. Temple, Edward Horace Man and Heinrich Umlauff, according to Art of the Ancestors, and the carvers are not recorded.",
+      "The skill, as far as the sources show, belonged to the community, and to the ritual specialists who used the figures. Wikipedia says shamans deal with harmful spirits in the traditional belief.",
+      "Contemporary carvers and their work are a gap in what I could verify. Please ask the Tribal Development Council and local cultural groups before adding names."
+    ],
+    "place": [
+      "The Nicobar Islands lie in the Bay of Bengal, south of the Andamans. The Nicobarese are an Austroasiatic-speaking people, listed on Wikipedia with a population of 28,912 in the 2011 census. The archipelago has 19 islands, 12 of them inhabited.",
+      "The Art of the Ancestors article places the older figure carving in the central and southern Nicobars. Museum labels name the Nicobar Islands in general, and I did not find a reliable list of villages.",
+      "Most Nicobarese are now Christian (Wikipedia gives about 95 per cent). The article on the sculpture links the decline of the older practices to conversion in the early 20th century. So this is mainly a story of what museums hold and what the community remembers."
+    ],
+    "history": [
+      {
+        "when": "Before the 20th century",
+        "what": "Protective figures stand at houses and altars in the central and southern Nicobars."
+      },
+      {
+        "when": "19th century",
+        "what": "Collectors acquire figures. The Brooklyn Museum piece is dated to this century."
+      },
+      {
+        "when": "Early 20th century",
+        "what": "Conversion to Anglicanism is linked by Art of the Ancestors to the decline of these practices."
+      },
+      {
+        "when": "1754-1869",
+        "what": "Danish rule over the Nicobars, per Wikipedia."
+      },
+      {
+        "when": "1869-1947",
+        "what": "British rule, then Indian rule from 1947."
+      },
+      {
+        "when": "2026",
+        "what": "The Archaeological Survey of India submits Nicobarese Cultural Continuity in the Central Group of Nicobar Islands to India's tentative list for World Heritage, per Nicobar Times. This is not an inscription."
+      }
+    ],
+    "future": [
+      "Training: ask elders and carvers whether they want the old forms taught again, and on what terms.",
+      "Livelihood: carving for local use and fair sale, if the community agrees to share such forms.",
+      "Materials: wood supply and sourcing need to be recorded, as the sources do not say.",
+      "Documentation: community-led records, with museum images brought back to the islands.",
+      "Protection: consent from the community before reproduction of sacred forms, and return of images to the islands."
+    ],
+    "pins": [
+      {
+        "lat": 9.16,
+        "lng": 92.78,
+        "label": "Car Nicobar",
+        "approximate": true
+      },
+      {
+        "lat": 8,
+        "lng": 93.55,
+        "label": "Kamorta and Nancowrie, Central group",
+        "approximate": true
+      },
+      {
+        "lat": 7,
+        "lng": 93.92,
+        "label": "Great Nicobar",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "artoftheancestors-com-blog-sculptural-arts-nicobar-islands-35793e",
+      "opencollection-brooklynmuseum-org-objects-81660-bc8053",
+      "en-wikipedia-org-wiki-nicobarese-people-040078",
+      "nicobartimes-com-db9a26"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "pattadakal-badami",
+    "name": "Pattadakal and Badami",
+    "category": "Sculpture",
+    "states": [
+      "Karnataka"
+    ],
+    "color": "#9a3412",
+    "motif": "arch",
+    "tagline": "Early Chalukya cave shrines and coronation temples in Bagalkot, where northern and southern temple styles meet.",
+    "facts": [
+      "Pattadakal: UNESCO World Heritage Site since 1987 (no. 239)",
+      "Ten major temples at Pattadakal: nine Hindu, one Jain",
+      "Badami Cave 3 carries a dated inscription of 578 CE",
+      "Both sites lie in Bagalkot district"
+    ],
+    "art": [
+      "Badami and Pattadakal hold some of the finest stone carving of the early Chalukya kings. At Badami, four caves are cut into a sandstone cliff above Agastya Lake. Caves 1 to 3 are Hindu and Cave 4 is Jain.",
+      "Cave 1 is Shaiva. Its carvings include a dancing Shiva with many arms, Harihara and Ardhanarishvara. Cave 2 and Cave 3 are Vaishnava. They show Vishnu as Trivikrama and as Varaha, and Cave 3 also has Vishnu resting on the serpent. Cave 4 holds figures of Jain teachers such as Bahubali and Parshvanatha. Cave 3 also keeps traces of some of the earliest painting known in Karnataka.",
+      "Pattadakal is a group of temples on the west bank of the Malaprabha. Wikipedia, citing ASI and scholarly sources, counts ten major temples. Four use the southern Dravida style and four the northern Nagara style. The Papanatha temple mixes the two. This mix of styles is why the site is valued.",
+      "The Virupaksha temple is the largest and most elaborate. Inscriptions call it Shri Lokeshvara Mahasila Prasada. It is dated to about 740 to 745 CE. The Sangameshwara temple is the oldest at the site and was left unfinished. Other temples carry friezes from the Ramayana and the Panchatantra."
+    ],
+    "artist": [
+      "Most carvers are unnamed. One inscription at Pattadakal names the chief architect of the Virupaksha temple as Gunda Anivaritacharya, according to Wikipedia's summary. The same source says King Vikramaditya II honoured him with a title.",
+      "The temples were paid for by the royal family. Queen Lokamahadevi sponsored the Virupaksha temple after her husband Vikramaditya II's campaigns against the Pallavas. Queen Trailokyamahadevi sponsored the Trailokeshwara temple. Her inscriptions also record a grant to the temple's musicians, which shows that music and ritual were part of life at the site.",
+      "Sources differ on exact dates for several temples. Scholars give ranges, not single years, for most of them."
+    ],
+    "place": [
+      "Badami was called Vatapi and was an early Chalukya capital. It sits in Bagalkot district in northern Karnataka. The caves face Agastya Lake, below a cliff.",
+      "Pattadakal lies about 20 km east of Badami by road (approx.), on the Malaprabha river. Its name is often explained as 'stone of coronation', and the site was used for Chalukya coronations. The river turns north here, which locals and texts regard as holy.",
+      "The Archaeological Survey of India protects and manages Pattadakal. Aihole, Badami and Pattadakal are often visited together as a circuit of early temple building."
+    ],
+    "history": [
+      {
+        "when": "Late 6th century CE",
+        "what": "Badami (Vatapi) is the early Chalukya capital. The first caves are cut into the cliff."
+      },
+      {
+        "when": "578 CE",
+        "what": "An inscription in Cave 3 records its dedication under Mangalesha. It is the best dated of the four caves."
+      },
+      {
+        "when": "7th century",
+        "what": "Pattadakal is used for Chalukya coronations, including that of Vinayaditya, according to Wikipedia."
+      },
+      {
+        "when": "697 to 733 CE",
+        "what": "The Sangameshwara temple is built, ASI and Michell dates as given on Wikipedia. It is left unfinished after its patron Vijayaditya dies."
+      },
+      {
+        "when": "About 740 to 745 CE",
+        "what": "Queen Lokamahadevi sponsors the Virupaksha temple."
+      },
+      {
+        "when": "Mid-8th century",
+        "what": "Queen Trailokyamahadevi sponsors the Trailokeshwara temple. The Papanatha temple is also placed in this period."
+      },
+      {
+        "when": "9th century",
+        "what": "The Jain Narayana temple is added, the only Pattadakal temple dedicated to a Jina."
+      },
+      {
+        "when": "1987",
+        "what": "UNESCO inscribes the Group of Monuments at Pattadakal on the World Heritage List."
+      }
+    ],
+    "future": [
+      "Train local guides in the temple styles, so visitors learn the difference between Nagara and Dravida work.",
+      "Keep stone conservation under ASI, with regular checks of cracks, water damage and cave-wall painting.",
+      "Support stone carvers and masons from the region with conservation work, so old skills continue.",
+      "Publish inscriptions and site records in Kannada and English for schools and visitors.",
+      "Manage visitor numbers in the caves and temple courtyards to reduce wear on sculpture."
+    ],
+    "pins": [
+      {
+        "lat": 15.9183,
+        "lng": 75.6842,
+        "label": "Badami cave temples",
+        "approximate": false
+      },
+      {
+        "lat": 15.9514,
+        "lng": 75.8147,
+        "label": "Pattadakal temples",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-pattadakal-269530",
+      "en-wikipedia-org-wiki-badami-cave-temples-8c9665"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sanchi-sculpture",
+    "name": "Sanchi Stupa Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#78350f",
+    "motif": "arch",
+    "tagline": "Four stone gateways where the Buddha is shown only by a footprint, a tree or an empty seat.",
+    "facts": [
+      "Place: Sanchi, about 46 km northeast of Bhopal",
+      "Great Stupa: commissioned by Ashoka, 3rd century BCE",
+      "Gateways (toranas): about 1st century BCE",
+      "Listed by UNESCO as a World Heritage Site (year not confirmed from a page I could open)"
+    ],
+    "art": [
+      "The Great Stupa at Sanchi is a hemispherical mound built over relics of the Buddha. Wikipedia says Ashoka commissioned the original in brick in the 3rd century BCE. Under the Shungas in the 2nd century BCE it was cased in stone and nearly doubled in width, with a railing and a stair.",
+      "Four carved gateways, called toranas, were added in the 1st century BCE. Estimates for the earliest range from about 50 BCE to the 1st century CE, and the builder is generally thought to be Satakarni II (Wikipedia).",
+      "The reliefs tell of the Buddha's life and earlier births. The Buddha is never shown in human form. Instead he is shown by symbols such as a riderless horse, footprints, or a canopy under the bodhi tree (Wikipedia).",
+      "Wikipedia notes that the stone joints on the railings are cut at a slant, as if the design were copied from wood."
+    ],
+    "artist": [
+      "The carvers are not known by name, except in one case. A Brahmi inscription on the southern gateway records a gift made under King Satakarni, by Ananda, foreman of the artisans (Wikipedia).",
+      "Another inscription credits the ivory carvers of Vidisha with carving part of a gateway. This suggests that craftspeople who worked in ivory also worked in stone.",
+      "The stupa was built and decorated by many donors and craftspeople over centuries, so it is not the work of a single artist or patron."
+    ],
+    "place": [
+      "Sanchi stands on a flat-topped hill near Vidisha, about 46 km northeast of Bhopal. Wikipedia says Ashoka's wife Devi was said to come from Vidisha, which links the place to him.",
+      "Visitors walk around the Great Stupa and the smaller stupas and temples on the hill. The gateways are best read slowly, panel by panel."
+    ],
+    "history": [
+      {
+        "when": "3rd century BCE",
+        "what": "Ashoka commissions the original brick stupa (Wikipedia)."
+      },
+      {
+        "when": "2nd century BCE",
+        "what": "The Shungas encase it in stone and add railing and stair."
+      },
+      {
+        "when": "About 50 BCE to 1st century CE",
+        "what": "The four toranas are carved; dates for the earliest differ."
+      },
+      {
+        "when": "Under King Satakarni",
+        "what": "The southern gateway inscription records a gift by the foreman of the artisans."
+      },
+      {
+        "when": "Later",
+        "what": "Sanchi is a UNESCO World Heritage Site; I could not open UNESCO's page to confirm the year."
+      }
+    ],
+    "future": [
+      "Training: guides and stone carvers who learn the iconography, so visitors understand what they see.",
+      "Livelihood: local guides, craft stalls and visitor services around Sanchi.",
+      "Materials: careful stone conservation against weather and crowds.",
+      "Documentation: continue detailed photography and recording of every panel.",
+      "Protection: manage visitor numbers; the site is a UNESCO World Heritage Site."
+    ],
+    "pins": [
+      {
+        "lat": 23.4793,
+        "lng": 77.7396,
+        "label": "Great Stupa, Sanchi",
+        "approximate": false
+      },
+      {
+        "lat": 23.5251,
+        "lng": 77.8081,
+        "label": "Vidisha",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-sanchi-4e7a2e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sandalwood-carving",
+    "name": "Sandalwood Carving",
+    "category": "Sculpture",
+    "states": [
+      "Karnataka"
+    ],
+    "color": "#854d0e",
+    "motif": "vine",
+    "tagline": "Fragrant, fine-grained carving of gods, flowers and animals, centred on Mysuru under royal patronage.",
+    "facts": [
+      "Material: Indian sandalwood (Santalum album)",
+      "Main centre: Mysuru, with Shimoga district also named",
+      "Patrons: the Wodeyar rulers of Mysore",
+      "Sandalwood use and trade is closely regulated"
+    ],
+    "art": [
+      "Artisans hand-carve blocks of sandalwood into figures, jewellery boxes and decorative pieces. Karnataka Tourism says each piece may take weeks or months. Motifs include scenes from mythology, temple architecture, wildlife and flowers.",
+      "Sandalwood is fine-grained and fragrant, which suits small and detailed work. The Royal Collection Trust, in its note on the 1875-76 tour of the Prince of Wales, says Mysore carved panels decorated palaces and were sent to international exhibitions.",
+      "Karnataka Tourism says Karnataka has the highest concentration of Indian sandalwood. It also says artisans must use legally sourced wood under government supervision."
+    ],
+    "artist": [
+      "A museum note quoted by the search results says the sandalwood carving of Shimoga district was practised by the Gudigar community, who are believed to have come from Goa during Portuguese rule. I could not read the museum page itself, so treat this as reported, not confirmed.",
+      "Karnataka Tourism does not name a community. It credits royal patronage, especially under the Wodeyar dynasty, for the craft's growth. It lists master artisans who sometimes demonstrate carving at emporiums in Mysuru.",
+      "I did not find named living artists in sources I could open, so none are named here."
+    ],
+    "place": [
+      "Mysuru is the main centre. Karnataka Tourism names Karnataka State Handicrafts Development Corporation showrooms and the Cauvery Handicrafts Emporium as places to see and buy the work.",
+      "Shimoga district, in the Malnad region, is also named as a place of the craft. Sagara is shown here only as an approximate pin."
+    ],
+    "history": [
+      {
+        "when": "Undated",
+        "what": "Sandalwood carving is described as long patronised by royalty, especially the Wodeyars, per Karnataka Tourism."
+      },
+      {
+        "when": "1875 to 1876",
+        "what": "The Royal Collection Trust's exhibition note records carved panels from Mysore, made with the support of the state's rulers."
+      },
+      {
+        "when": "Colonial exhibitions",
+        "what": "Mysore sent carved work to international exhibitions, per the Royal Collection Trust page."
+      },
+      {
+        "when": "Today",
+        "what": "Sandalwood is regulated, and artisans work under government supervision."
+      }
+    ],
+    "future": [
+      "Make the supply of legal sandalwood predictable and fair for small carvers.",
+      "Pay master artisans to teach apprentices, as the demonstration system already begins to do.",
+      "Document carving techniques and regional styles with the artisans.",
+      "Help artisans sell directly, through emporiums and online, with proof that the wood is legally sourced.",
+      "Find a safe use of reclaimed or planted sandalwood so the craft does not rely on scarce wood."
+    ],
+    "pins": [
+      {
+        "lat": 12.2958,
+        "lng": 76.6394,
+        "label": "Mysuru",
+        "approximate": false
+      },
+      {
+        "lat": 13.93,
+        "lng": 75.57,
+        "label": "Shivamogga",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "karnatakatourism-org-en-experiences-sandalwood-carving-b6a90a"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sirpur-sculpture",
+    "name": "Sirpur Temples and Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Chhattisgarh"
+    ],
+    "color": "#9a3412",
+    "motif": "arch",
+    "tagline": "A brick Vishnu temple and a buried city of monasteries beside the Mahanadi.",
+    "facts": [
+      "Lakshmana Temple: brick with a stone doorway, dated to the 7th century",
+      "Capital of the Sharabhapuriya and then Panduvamshi rulers",
+      "Remains range from about the 5th to the 12th century",
+      "Xuanzang is reported to have visited in 639 CE"
+    ],
+    "art": [
+      "Sirpur's best-known building is the Lakshmana Temple. It is a brick temple to Vishnu, with a stone doorframe and sandstone mandapa pillars, and it is largely ruined. Wikipedia calls it a 7th-century brick temple; Puratattva dates it to the second half of the 7th century and calls it an important early example of north Indian (nagara) temple building. Wikipedia also gives a date of 595 to 605 CE for the earliest dated monument, so sources differ.",
+      "A foundation inscription, now in the Raipur museum, says Vasata, the mother of King Mahashivagupta Balarjuna, built a temple to Hari (Vishnu) after her husband died. Puratattva says it has 23 verses. The brick spire was restored between 1905 and 1911 (Puratattva).",
+      "Elsewhere on the site are the Surang Tila, a large stone temple complex on a high terrace with five sanctums, the Swastik and Ananda Prabha viharas (Buddhist monasteries), Jain remains, and the living Gandheshwar Shiva temple on the river bank, which re-uses older carved pieces.",
+      "Geri Hockfield Malandra, as cited in Wikipedia, called Sirpur a significant bronze workshop and its Buddhist bronzes among the finest of the period. Puratattva reports a hoard of over 80 bronze statues from one vihara, which suggests local making."
+    ],
+    "artist": [
+      "The sculptors and masons are not named in the sources we read. The names we have are patrons: Queen Vasata, and her son, King Mahashivagupta Balarjuna, who is dated to about 595 to 650 CE by Puratattva and called an 8th-century king by Wikipedia. Sources disagree on his dates.",
+      "The scholars of the site are better known. M. G. Dikshit dug at Sirpur in 1953 to 1956, and A. K. Sharma mapped 184 mounds between about 2000 and 2011, according to Puratattva. Wikipedia lists Cunningham's visit in 1882. Puratattva credits the Dikshit excavation with the Swastik and Ananda Prabha viharas.",
+      "Incredible India notes that Sirpur Mahotsav includes a handicraft bazaar, but we found no source naming present-day makers."
+    ],
+    "place": [
+      "Sirpur, called Shripura in old records, lies on the Mahanadi in Mahasamund district, about 35 km from Mahasamund and 78 km from Raipur (Wikipedia). Puratattva says the river's silt was used for bricks and linked Sirpur to trade routes to the coast.",
+      "Every year on Magh Purnima, in January or February, devotees bathe in the Mahanadi and worship at the Gandheshwar temple, and the Sirpur Mahotsav brings folk music, dance and crafts (Incredible India)."
+    ],
+    "history": [
+      {
+        "when": "Late 5th to 6th century",
+        "what": "Sirpur's earliest rulers, the Sharabhapuriya dynasty, are linked to the site (Wikipedia: late 5th century; Puratattva: about 570 to 590 CE). Sources differ."
+      },
+      {
+        "when": "Mid-6th century",
+        "what": "Inscriptions mention the Shaiva king Teevardeva (Wikipedia)."
+      },
+      {
+        "when": "Second half of the 7th century",
+        "what": "The Lakshmana Temple is built, according to Puratattva. Wikipedia gives 595 to 605 CE."
+      },
+      {
+        "when": "639 CE",
+        "what": "The Chinese monk Xuanzang is reported to have visited the Kosala region and described about 100 monasteries. Puratattva says he likely came in Balarjuna's reign."
+      },
+      {
+        "when": "8th century",
+        "what": "Wikipedia dates the Baleshwar group and an inscription on the Ananda Prabha vihara to the mid-8th century."
+      },
+      {
+        "when": "12th century",
+        "what": "Puratattva says a major earthquake led to the site's decline. We saw this in one source only."
+      },
+      {
+        "when": "1882",
+        "what": "Alexander Cunningham's report brings the site to wider notice (Wikipedia)."
+      },
+      {
+        "when": "1953 to 2011",
+        "what": "Excavations by M. G. Dikshit and later by A. K. Sharma reveal Shiva and Vishnu temples, Buddhist and Jain viharas, a market and a palace area."
+      }
+    ],
+    "future": [
+      "Fund trained conservators for the brick Lakshmana Temple, with public records of repairs.",
+      "Train local guides and young people from the villages in the site's story, in Chhattisgarhi, Hindi and English.",
+      "Keep the bronzes and inscriptions on view in Sirpur itself, with clear labels that show dates are debated.",
+      "Publish the excavation records in full and open them to students.",
+      "Manage visitor numbers at festival time, so the standing monuments and river bank are protected."
+    ],
+    "pins": [
+      {
+        "lat": 21.36,
+        "lng": 82.18,
+        "label": "Sirpur, Lakshmana Temple and Surang Tila",
+        "approximate": false
+      },
+      {
+        "lat": 21.36,
+        "lng": 82.18,
+        "label": "Gandheshwar Temple, Mahanadi bank",
+        "approximate": true
+      },
+      {
+        "lat": 21.25,
+        "lng": 81.63,
+        "label": "Raipur museum (inscriptions)",
+        "approximate": false
+      },
+      {
+        "lat": 21.11,
+        "lng": 82.1,
+        "label": "Mahasamund",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-sirpur-group-of-monuments-584347",
+      "en-wikipedia-org-wiki-sirpur-chhattisgarh-17cac8",
+      "puratattva-in-sirpur-an-icon-of-dakshina-kosala-da58e1",
+      "incredibleindia-gov-in-en-festivals-and-events-chhattisgarh--466a17"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "temple-architecture-styles",
+    "name": "Temple Architecture: Nagara, Dravida, Vesara",
+    "category": "Sculpture",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#92400e",
+    "motif": "arch",
+    "tagline": "Three ways of raising a Hindu temple: the curved spire, the stepped tower and the blend.",
+    "facts": [
+      "Nagara: curved shikhara, mainly north, central and east India",
+      "Dravida: pyramidal vimana and gateway gopuram, south India",
+      "Vesara: hybrid style of the Deccan, term debated",
+      "Sanctum in all: the garbhagriha"
+    ],
+    "art": [
+      "Hindu temples in India are often grouped into three styles. Nagara is found mainly in northern, central, western and eastern India. Dravida is the style of the south. Vesara is a mixed style of the Deccan, mainly Karnataka.",
+      "A Nagara temple stands on a stone platform and has one or more shikharas, curved spires, with the sanctum (garbhagriha) beneath the highest. Wikipedia says it generally has no boundary walls. The style grew from Gupta temples, with curved shikharas appearing around the 5th century.",
+      "Dravida temples have a short pyramidal tower, the vimana, over the sanctum, a pillared hall (mandapa) before it and a gateway tower, the gopuram, at the entrance. Pallava, Chola and Vijayanagara builders each shaped it.",
+      "Vesara means mule, referring to the mixed nature of the style. Some scholars, such as Adam Hardy, avoid the term because ancient writers may have meant different things by it. Other names for the style include Karnata Dravida and Chalukyan architecture."
+    ],
+    "artist": [
+      "Most temple builders are unknown. Temples were made by teams of architects, masons and sculptors working for kings and guilds, and rarely signed their work. Where I found no named person in my sources, I have left none.",
+      "The sources I read cite scholars rather than builders. Adam Hardy's The Temple Architecture of India (2007) and Madhusudan Dhaky's 1977 work are named for the Nagara schools. The classification itself is modern, and scholars treat its boundaries with care.",
+      "Today, sthapatis (traditional temple architects) and stone carvers keep these methods alive. I did not research this in detail, so the entry stays short here."
+    ],
+    "place": [
+      "Nagara temples range from Khajuraho in Madhya Pradesh to Konark and Bhubaneswar in Odisha, and Gujarat, where the Solanki school built the stepwell Rani ki Vav at Patan. Wikipedia names three sub-schools: Chandela, Solanki and Odisha.",
+      "Dravida temples are in Tamil Nadu and nearby. Wikipedia dates the Shore Temple at Mahabalipuram to about 700 to 728 CE and the Brihadisvara Temple at Thanjavur to 1009. Hampi was the Vijayanagara capital.",
+      "Vesara temples lie in Karnataka. Pattadakal has both northern and southern towers. The Hoysala temples at Belur, Halebidu and Somanathapura were added to the World Heritage List in 2023. Lakkundi's Kasivisvesvara is dated to 1075."
+    ],
+    "history": [
+      {
+        "when": "c. 5th century CE",
+        "what": "Curved shikharas appear in the Early Nagara phase, from Gupta temples."
+      },
+      {
+        "when": "7th century",
+        "what": "Early Nagara becomes the mainstream Nagara style."
+      },
+      {
+        "when": "c. 700 to 728",
+        "what": "The Shore Temple at Mahabalipuram, under the Pallavas."
+      },
+      {
+        "when": "740",
+        "what": "The Virupaksha Temple at Pattadakal is dated to this year."
+      },
+      {
+        "when": "1009",
+        "what": "The Brihadisvara Temple, Thanjavur, built under the Cholas."
+      },
+      {
+        "when": "1075",
+        "what": "Kasivisvesvara at Lakkundi, a notable Vesara work."
+      },
+      {
+        "when": "1258",
+        "what": "Chennakesava at Somanathapura (Hoysala)."
+      },
+      {
+        "when": "1343 to 1565",
+        "what": "The Vijayanagara period, with rayagopuras and yali pillars."
+      }
+    ],
+    "future": [
+      "Training: traditional stone carvers and sthapatis learn through family and guild. Formal schools exist in Tamil Nadu and Odisha.",
+      "Livelihood: new temples and restoration give steady work to carvers, but fewer young people take it up.",
+      "Materials: sandstone, granite and soapstone quarries are limited. Matching old stone in repairs needs care.",
+      "Documentation: a shared glossary of regional terms, with drawings, would clear up confusion between the three styles.",
+      "Protection: many temples are under the ASI or are World Heritage Sites. Smaller village temples often have no protection."
+    ],
+    "pins": [
+      {
+        "lat": 24.8318,
+        "lng": 79.9199,
+        "label": "Khajuraho, Madhya Pradesh (Nagara, Chandela)",
+        "approximate": false
+      },
+      {
+        "lat": 20.2383,
+        "lng": 85.8338,
+        "label": "Lingaraj Temple, Bhubaneswar (Nagara, Odisha)",
+        "approximate": false
+      },
+      {
+        "lat": 19.8876,
+        "lng": 86.0945,
+        "label": "Konark Sun Temple (Nagara, Odisha)",
+        "approximate": false
+      },
+      {
+        "lat": 23.8593,
+        "lng": 72.1017,
+        "label": "Rani ki Vav, Patan, Gujarat (Solanki)",
+        "approximate": true
+      },
+      {
+        "lat": 12.6171,
+        "lng": 80.1927,
+        "label": "Shore Temple, Mahabalipuram (Dravida)",
+        "approximate": false
+      },
+      {
+        "lat": 10.7828,
+        "lng": 79.1318,
+        "label": "Brihadisvara Temple, Thanjavur (Dravida)",
+        "approximate": false
+      },
+      {
+        "lat": 15.9486,
+        "lng": 75.8167,
+        "label": "Pattadakal, Karnataka (Chalukya, both towers)",
+        "approximate": false
+      },
+      {
+        "lat": 13.1651,
+        "lng": 75.865,
+        "label": "Belur, Karnataka (Hoysala Vesara)",
+        "approximate": true
+      },
+      {
+        "lat": 12.2769,
+        "lng": 76.8683,
+        "label": "Somanathapura, Karnataka (Hoysala)",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-nagara-architecture-f68b61",
+      "en-wikipedia-org-wiki-dravidian-architecture-53ac0c",
+      "en-wikipedia-org-wiki-vesara-3ddf23"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "torma",
+    "name": "Torma Butter Sculpture",
+    "category": "Sculpture",
+    "states": [
+      "Ladakh"
+    ],
+    "color": "#92400e",
+    "motif": "spiral",
+    "tagline": "Cones of barley flour and butter, shaped as offerings and then given away.",
+    "facts": [
+      "Materials: barley flour (tsampa) and butter, often dyed white or red",
+      "Usually cone-shaped; some are large festival tormas",
+      "Tibetan name gtor-ma, from a word meaning to scatter",
+      "Used in rituals as offerings to deities, protectors and spirits"
+    ],
+    "art": [
+      "A torma is a ritual offering of barley flour and butter, shaped by hand. Most are cones. Wikipedia notes they are often dyed, with white or red for the main body, and that milk, sugar or honey may be added depending on the ritual. Small ones sit on a shrine. A very large central one may be built for a festival.",
+      "Different tormas do different work. Some stand for tantric deities, from plain white cones for peaceful ones to more elaborate shapes for fiercer ones. Some are offerings to protectors, some are food in a shared feast, and some are used in Tibetan medicine to draw out an illness and are then thrown away. Butter ornaments such as discs and flowers are added by skilled makers.",
+      "The word gtor-ma is explained as casting away or scattering. The idea is generosity and letting go. After use, tormas are traditionally placed outside, where animals and insects eat them.",
+      "We did not find a source that describes torma making in Ladakh in detail, so the account here is of the general Tibetan Buddhist tradition, which Ladakh's monasteries share."
+    ],
+    "artist": [
+      "Torma makers are usually monks and nuns trained in the ritual. A writer on the 17th Karmapa's work says the butter is hard to handle because it melts at body heat, and makers cool their hands in ice water. The Karmapa trained monks and nuns from Karma Kagyu monasteries and nunneries across the Himalayan region in butter torma making, for the Monlam festival at Bodhgaya.",
+      "We found no source that names torma makers in Ladakh, and we do not guess."
+    ],
+    "place": [
+      "Ladakh is a cold, high desert, which suits butter work: it stays firm. Butter comes from the dri and cattle of herding families. Barley is the staple grain of the region.",
+      "Tormas are made inside monasteries for rituals and festivals. They are not meant to last, so they leave little behind for museums. Wikipedia pictures butter sculptures at Dhankar in neighbouring Spiti."
+    ],
+    "history": [
+      {
+        "when": "Before Tibetan Buddhism",
+        "what": "Wikipedia notes that offering cakes existed in Indian ritual before Tibet. These bali cakes were flat, not conical."
+      },
+      {
+        "when": "In Tibet",
+        "what": "Tormas were made of tsampa and butter. Some permanent ones were made of gold, silver, clay and wood, according to the Karmapa article."
+      },
+      {
+        "when": "Recent decades",
+        "what": "The 17th Karmapa has been developing a new torma tradition in the Karma Kagyu lineage and has designed butter sculptures for the annual Monlam Chenmo at Bodhgaya."
+      }
+    ],
+    "future": [
+      "Record torma making in Ladakhi monasteries on film and in notes, as the work is not meant to last.",
+      "Train young monks and nuns in the finer butter work.",
+      "Keep local barley and butter supply with herding families.",
+      "Explain to visitors that tormas are offerings, not souvenirs.",
+      "Research and write the Ladakhi history of the art, which is not well documented in what we found."
+    ],
+    "pins": [
+      {
+        "lat": 34.1526,
+        "lng": 77.5771,
+        "label": "Leh",
+        "approximate": true
+      },
+      {
+        "lat": 33.9125,
+        "lng": 77.7028,
+        "label": "Hemis Monastery",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-torma-f57c8a",
+      "studybuddhism-com-en-glossary-torma-635cd8",
+      "levekunst-com-the-outstanding-art-of-tibetan-butter-sculptur-76c686"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "unakoti-rock-carvings",
+    "name": "Unakoti Rock Carvings",
+    "category": "Sculpture",
+    "states": [
+      "Tripura"
+    ],
+    "color": "#365314",
+    "motif": "triangles",
+    "tagline": "A forest hillside of giant Shiva faces, one less than a crore in name.",
+    "facts": [
+      "Dated by ASI officials to the 8th or 9th century",
+      "Central Shiva head about 30 feet high",
+      "Unakoti means one less than a crore",
+      "About 8 km from Kailashahar; on India's UNESCO tentative list"
+    ],
+    "art": [
+      "Unakoti is a hillside of rock-cut and stone images in northern Tripura. The central figure, Unakotiswara Kal Bhairava, is a Shiva head about 30 feet high with a headdress about 10 feet tall. Nezine and Homegrown both report this. Around it are a Ganesha, a Durga on a lion, and three large Nandi bulls partly buried in the ground. Other sources list Hanuman and Ravana among the carvings.",
+      "The images are carved on the hill rock and in stone. Sanskriti Magazine says the idols were not made at one time and reflect different sects. It also notes the four-faced idol has one face damaged long ago.",
+      "Dating is uncertain. ASI officials date the sculptures to the 8th or 9th century and link them to Saivism. Nezine says historians suggest the 7th to 9th centuries or a little earlier. Some scholars see the site as a Shaiva place of pilgrimage linked to the Pala dynasty, others as a Buddhist meditation centre. Makers and reasons for the site remain unknown."
+    ],
+    "artist": [
+      "We do not know the sculptors. Local tradition names one: Kalu Kumhar (also written Kallu Kumhar or Kalu Kamar), a craftsman who was to carve a crore of images overnight and fell one short. Homegrown and Sanskriti Magazine retell this as legend, not documented history.",
+      "A second legend says Shiva was travelling to Kashi with a crore of gods, and turned those who overslept to stone, leaving 99,99,999. Both explain the name Unakoti."
+    ],
+    "place": [
+      "Unakoti lies in the forested hills near Kailashahar, the district headquarters of Unakoti district, about 8 km away and about 178 km northeast of Agartala. Eastmojo says the carvings are spread across about 150 acres of Raghunandan hill.",
+      "Each April a fair called Ashokastami Mela draws pilgrims and visitors, according to Nezine and Homegrown."
+    ],
+    "history": [
+      {
+        "when": "7th-9th century",
+        "what": "The period historians suggest for the carvings; ASI officials say 8th or 9th century."
+      },
+      {
+        "when": "1960 onward",
+        "what": "EastMojo says the Archaeological Survey of India has worked to conserve the images since 1960."
+      },
+      {
+        "when": "Over the centuries",
+        "what": "Earthquakes and weather have damaged sculptures, per Sanskriti Magazine."
+      },
+      {
+        "when": "December 2022",
+        "what": "Homegrown reports the site was added to India's tentative list for UNESCO World Heritage."
+      }
+    ],
+    "future": [
+      "Protection: stronger conservation and drainage, since many carvings are defaced or lost.",
+      "Documentation: full survey and excavation to find loose carvings, as EastMojo urges.",
+      "Training: local guides who can tell both the legends and the scholarship.",
+      "Livelihood: pilgrim and visitor services for nearby villages, kept light on the site.",
+      "Research: more study of the sculptors, dating and Shaiva and Buddhist links."
+    ],
+    "pins": [
+      {
+        "lat": 24.32,
+        "lng": 92.07,
+        "label": "Unakoti",
+        "approximate": true
+      },
+      {
+        "lat": 24.33,
+        "lng": 92,
+        "label": "Kailashahar",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "homegrown-co-in-homegrown-explore-a-homegrown-guide-to-the-h-31de93",
+      "nezine-com-info-qxu4rhjmamnooudhcjy0dmhoavrxqt09-where-stone-20e2ef",
+      "sanskritimagazine-com-a398a7",
+      "eastmojo-com-tripura-2023-07-09-restoring-unakotis-grandeur--5fa637"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "wancho-wood-carving",
+    "name": "Wancho Wood Carving",
+    "category": "Sculpture",
+    "states": [
+      "Arunachal Pradesh"
+    ],
+    "color": "#431407",
+    "motif": "diamond",
+    "tagline": "Realistic carved figures from the Wancho hills, once tied to the morung and to ritual life.",
+    "facts": [
+      "Form: wood carving, including human and animal figures",
+      "Community: Wancho, Longding and Tirap districts",
+      "Also known for: gun making and bead making",
+      "Status: a living craft with few written sources"
+    ],
+    "art": [
+      "Wancho carving is known in Arunachal Pradesh as one of the finest wood traditions of the state. D. K. Durah, writing for IGNCA, says the Wancho and the Nocte of Tirap are well versed in producing the finest wood carving, and that their style and motifs differ from other groups'.",
+      "Government craft listings describe Wancho woodcraft as free-standing figures of humans, animals and ceremonial motifs. A secondary source says the human head was the dominant pattern because carving was closely linked with head-hunting. This is a reading of the past; the Wancho today are mostly Christian.",
+      "Another source, a news report on a woodcarving workshop, links Tirap and Longding carving to the morung (the men's communal house), to funeral rituals and to festivities. I could not open that report, so I have not leaned on it.",
+      "I could not read any source on the woods, tools or step-by-step methods, so this entry does not describe them."
+    ],
+    "artist": [
+      "The artists are Wancho men and women of Longding and Tirap, though I found no source naming individual carvers. The Wancho Cultural Society appears in news about a wood-carving centre built in Longding with Assam Rifles help; I could not read the detail.",
+      "Wikipedia notes that Wancho are known for gun making, wood carving and bead making. Durah adds that the Wancho and Nocte tattoo heavily, with marks that show life stages and social status."
+    ],
+    "place": [
+      "Longding district lies on the Myanmar border in south-western Arunachal Pradesh, with Nagaland, Assam and Tirap district as neighbours. It was carved out of Tirap and inaugurated on 19 March 2012, according to Wikipedia.",
+      "The Wancho are the main people of Longding and are culturally close to the Naga. Wikipedia says they traditionally practised animism and that about 92 percent of the district was Christian in the 2011 census. Many practise jhum (slash-and-burn) farming. The Longding district site also lists carving, gun making and bead making among their long-held skills."
+    ],
+    "history": [
+      {
+        "when": "Not documented",
+        "what": "I found no dated source on the start of Wancho carving. Sources describe it as long-standing and linked with the morung, funerals and head-hunting customs."
+      },
+      {
+        "when": "Late 20th century",
+        "what": "Wikipedia says most Wancho converted from animism to Christianity in the late 20th century, which changed the ritual settings for carving."
+      },
+      {
+        "when": "19 March 2012",
+        "what": "Longding district was inaugurated after being separated from Tirap."
+      },
+      {
+        "when": "Recent years",
+        "what": "News reports describe a woodcarving workshop at Rajiv Gandhi University, Rono Hills, and a carving centre in Longding. I could not read these, so details are not given."
+      }
+    ],
+    "future": [
+      "Training: workshops that pair senior carvers with young people, such as those mentioned in Longding and at Rono Hills.",
+      "Livelihood: find markets for carved figures beyond festivals, including craft shops and online sale.",
+      "Materials: record which woods are used and make sure they are harvested sustainably.",
+      "Documentation: write down carving methods, motifs and their older meanings with the carvers' consent.",
+      "Protection: consider a Geographical Indication or similar listing; I found none for Wancho carving."
+    ],
+    "pins": [
+      {
+        "lat": 26.9,
+        "lng": 95.3,
+        "label": "Longding district",
+        "approximate": true
+      },
+      {
+        "lat": 27,
+        "lng": 95.5,
+        "label": "Tirap district",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ignca-gov-in-0ac380",
+      "en-wikipedia-org-wiki-longding-district-5909ff",
+      "vajiramandravi-com-current-affairs-folk-arts-of-arunachal-pr-7ea332"
+    ],
+    "review_status": "draft"
+  }
+]

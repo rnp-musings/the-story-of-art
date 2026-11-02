@@ -1,0 +1,3511 @@
+[
+  {
+    "id": "aipan",
+    "name": "Aipan",
+    "category": "Painting",
+    "states": [
+      "Uttarakhand"
+    ],
+    "color": "#9a3412",
+    "motif": "dots",
+    "tagline": "White rice-paste patterns drawn by hand on red earth floors and walls, for every Kumaoni ritual.",
+    "facts": [
+      "Form: ritual floor and wall painting",
+      "Materials: red geru earth and white rice paste (bisvar)",
+      "Made mostly by women, taught from mother to daughter",
+      "Received a GI certificate, dated to September 2021 by Wikipedia"
+    ],
+    "art": [
+      "Aipan is the ritual folk art of Kumaon. The name is linked to the Sanskrit word lepana, meaning plaster. Designs are drawn on house floors, walls, and the wooden stools and boards used in worship.",
+      "The base is geru, a red mud that is spread on the surface. The white lines are drawn over it with bisvar, a paste made by grinding rice in water. Women usually draw with their fingers. Many households today also use red and white enamel or acrylic paints.",
+      "Outlook Traveller says each design begins and ends with a central dot, which stands for the core of the universe, and the other lines radiate from it. Motifs include flowers, geometric patterns, conch shells, swastikas and the footprints of goddesses.",
+      "Designs are named for the ritual they serve. Sources list the Saraswati chowki for learning, the Nav Durga chowki for Devi worship, the Chamunda Hast chowki for havans, the Janeyu chowki for the sacred thread ceremony, and the Lakshmi yantra. They appear at festivals such as Makar Sankranti, Maha Shivaratri and Lakshmi Pujan, and at household ceremonies."
+    ],
+    "artist": [
+      "Aipan belongs to the women of Kumaon. The skill passes from mothers to daughters and daughters-in-law, and is learned by watching and doing, not from a written manual.",
+      "Wikipedia names Minakshi Khati, who started the Minakriti Aipan Project in December 2019 to give rural Kumaoni women work and orders. The same article mentions a student project at a Delhi college that teaches Aipan artists business skills. I could not check these claims against a second source.",
+      "The sources I read do not name older individual artists, so none are named here."
+    ],
+    "place": [
+      "Aipan comes from Kumaon, the eastern hill division of Uttarakhand. Wikipedia and Outlook Traveller both say it is believed to have started in Almora and flourished under the Chand dynasty, which ruled Kumaon from about the 15th century. This is a tradition and I found no firm documentation.",
+      "Outlook Traveller says migration carried the practice to other parts of the region, and that only some villages in Kumaon still keep it up as a daily household practice. The materials are local: red earth for the base and rice from the farm."
+    ],
+    "history": [
+      {
+        "when": "Tradition",
+        "what": "Aipan is said to have begun in Almora and to have flourished under the Chand rulers of Kumaon. No dated source was found."
+      },
+      {
+        "when": "Over generations",
+        "what": "Women carried the art as they moved, and it spread across Kumaon from floors and walls to household objects and cloth."
+      },
+      {
+        "when": "2015",
+        "what": "Wikipedia says the Uttarakhand government decided to acquire Aipan art for government buildings."
+      },
+      {
+        "when": "December 2019",
+        "what": "The Minakriti Aipan Project was launched by Minakshi Khati, according to Wikipedia."
+      },
+      {
+        "when": "September 2021",
+        "what": "Wikipedia says Aipan received a Geographical Indication certificate. Other web pages give a different year, so check the GI registry."
+      }
+    ],
+    "future": [
+      "Training: workshops where older women teach the ritual meaning of each chowki to younger people, alongside the drawing skill.",
+      "Livelihood: orders for cloth, paper, wall panels and government buildings that pay women fairly for their time.",
+      "Materials: keep geru and rice paste in use at home and in ritual, with enamel and acrylic kept for objects that must last.",
+      "Documentation: record every named design with its occasion and the women who draw it, in Kumaoni and in English.",
+      "Protection: use the GI to keep the name for work from Kumaon and to tell buyers who made it."
+    ],
+    "pins": [
+      {
+        "lat": 29.597,
+        "lng": 79.659,
+        "label": "Almora",
+        "approximate": false
+      },
+      {
+        "lat": 29.335,
+        "lng": 80.091,
+        "label": "Champawat",
+        "approximate": false
+      },
+      {
+        "lat": 29.267,
+        "lng": 79.513,
+        "label": "Nainital",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-aipan-art-e5dd1f",
+      "outlooktraveller-com-explore-culture-all-you-need-to-know-ab-535cf0"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "ajanta-ellora",
+    "name": "Ajanta and Ellora",
+    "category": "Painting",
+    "states": [
+      "Maharashtra"
+    ],
+    "color": "#9a3412",
+    "motif": "arch",
+    "tagline": "Two cave sites in one landscape: painted Buddhist halls and a temple carved from a hillside.",
+    "facts": [
+      "Both are UNESCO World Heritage Sites, inscribed in 1983",
+      "Ajanta: 30 rock-cut Buddhist caves with wall paintings",
+      "Ellora: over 100 caves, 34 open to the public, Buddhist, Hindu and Jain",
+      "Kailasa temple (Cave 16) is attributed to the Rashtrakuta king Krishna I"
+    ],
+    "art": [
+      "Ajanta is a set of 30 rock-cut Buddhist caves cut into the side of a horseshoe-shaped gorge of the Waghora river. Many hold wall paintings. Wikipedia describes them as painted on dry plaster, and says the paintings are dimly lit and fragile.",
+      "The caves are usually described in two phases. The first is dated from the 2nd century BCE to the 1st century CE. The second is traditionally dated to about 400 to 650 CE. The scholar Walter Spink argued that most of the second phase was done in a short period of 460 to 480 CE under the Vakataka emperor Harishena. Other scholars argue for a longer timeline, and the Archaeological Survey of India still uses the traditional dating.",
+      "Ellora is a separate site, some distance to the south-west. Wikipedia counts over 100 caves cut into basalt cliffs, of which 34 are open to visitors: 12 Buddhist (caves 1 to 12), 17 Hindu (13 to 29) and 5 Jain (30 to 34). Its work is dated to about 600 to 1000 CE, and the dates of the Hindu caves are debated.",
+      "The best-known cave at Ellora is Cave 16, the Kailasa temple, dedicated to Shiva and carved out of a single rock. Wikipedia gives a courtyard of about 82 by 46 metres and a height of about 30 metres, and attributes it to the Rashtrakuta king Krishna I in the later 8th century. Ellora is best known for sculpture, while Ajanta is best known for painting."
+    ],
+    "artist": [
+      "Nobody can name the painters or carvers of Ajanta with certainty. The work was done by teams of masons, sculptors and painters, paid by kings, ministers and monks. Spink's reading ties the second phase to the court of Harishena, but this is one scholar's argument.",
+      "At Ellora the patrons shifted with the centuries. The early Buddhist caves are followed by the Hindu caves, mostly linked to the Rashtrakutas, and then the Jain caves, some of which Wikipedia associates with the Yadava period. The Kailasa attribution to Krishna I rests partly on a later copper plate; scholars cited by Wikipedia treat the attribution as accepted but not certain.",
+      "Today the people who hold the sites are conservators, guides and local families. In the early 1920s, Wikipedia says, the last Nizam of Hyderabad had the paintings restored by Italian experts."
+    ],
+    "place": [
+      "Both sites are in Aurangabad district, on the Deccan plateau. Ajanta sits above the Waghora river gorge. Ellora is about 29 km north-west of Aurangabad, carved into the Charanandri hills.",
+      "Ajanta was hidden in jungle for centuries. Wikipedia reports that a British officer, John Smith, came across it on 28 April 1819 while hunting tigers, though local people already knew of it. The ASI protects both sites today.",
+      "Crowds are now the main pressure. Wikipedia reports that in 2012 replicas of caves 1, 2, 16 and 17 were planned at the Ajanta visitor centre to reduce crowding in the originals."
+    ],
+    "history": [
+      {
+        "when": "2nd century BCE to 1st century CE",
+        "what": "First phase of cave-cutting at Ajanta, probably under the Satavahanas according to Spink."
+      },
+      {
+        "when": "c. 400 to 650 CE (traditional); 460 to 480 CE (Spink)",
+        "what": "Second phase at Ajanta. Scholars differ on how long it lasted."
+      },
+      {
+        "when": "c. 600 to 730 CE",
+        "what": "Buddhist phase at Ellora, per scholars cited on Wikipedia."
+      },
+      {
+        "when": "c. 730 to 950 CE",
+        "what": "Hindu and Jain phase at Ellora, including the Kailasa temple attributed to Krishna I."
+      },
+      {
+        "when": "c. 1187 to 1317",
+        "what": "Yadava period, to which some Jain caves are attributed."
+      },
+      {
+        "when": "1819",
+        "what": "John Smith's party rediscovers Ajanta."
+      },
+      {
+        "when": "Early 1920s",
+        "what": "The Nizam of Hyderabad has the Ajanta paintings restored and makes the site a museum."
+      },
+      {
+        "when": "1983",
+        "what": "Both Ajanta and Ellora are inscribed as UNESCO World Heritage Sites."
+      }
+    ],
+    "future": [
+      "Training: support conservators, restorers and guides from the local area, with long-term jobs.",
+      "Livelihood: spread tourism income to nearby villages, craft workers and small traders.",
+      "Materials: continue careful, minimal-intervention conservation of the paintings and the damp-prone rock.",
+      "Documentation: complete high-resolution records of every cave and publish them openly.",
+      "Protection: manage visitor numbers, as replicas and timed entry help to do."
+    ],
+    "pins": [
+      {
+        "lat": 20.55,
+        "lng": 75.7,
+        "label": "Ajanta Caves",
+        "approximate": false
+      },
+      {
+        "lat": 20.03,
+        "lng": 75.18,
+        "label": "Ellora Caves",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-ajanta-caves-6dac89",
+      "en-wikipedia-org-wiki-ellora-caves-bc7fb9"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "baiga-tattoo",
+    "name": "Baiga Tattoo Art",
+    "category": "Painting",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#44403c",
+    "motif": "triangles",
+    "tagline": "Godna, the tattoos that mark a Baiga woman's life, now also drawn on paper.",
+    "facts": [
+      "Name: godna",
+      "Community: Baiga",
+      "Practitioners: women only",
+      "Motifs: mountains, sun, dots, crosses, lines"
+    ],
+    "art": [
+      "Godna is the tattooing tradition of the Baiga. Village Square says the meanings were held in memory and on skin, and never written down. The art is fading.",
+      "Art Monthly says designs are mostly from nature. Triangular lines stand for mountains and a circle often for the sun. Symmetrical lines of varying thickness, dots and crosses also recur.",
+      "Tattoos are placed on the forehead, arms, legs, back, neck and elsewhere, and each placement marks a life stage. A forehead tattoo is made around puberty, and arm and leg tattoos are done by marriageable age (Art Monthly). Village Square names a forehead 'stove' motif as marking a girl's passage into womanhood.",
+      "Art Monthly says the tattoos are linked with beauty, healing and history, and are believed to continue into the afterlife as the ink becomes part of the body."
+    ],
+    "artist": [
+      "Mangala Bai Maravi is a Baiga artist from Lalpur in Dindori district. Art Monthly says she is the daughter of Shanti Bai Maravi, a well-known tattoo artist, and learned from her mother.",
+      "Mangala now translates the designs onto paper and canvas. Earlier the designs were passed on orally or recreated from memory. Her work has brought her family a steady income, and her 2024 works were shown at the 24th Biennale of Sydney.",
+      "Village Square says Shanti Bai taught the Delhi tattoo artist Amit Arjel-Sharma, who documents the practice. Art Monthly says only women can carry the tradition forward."
+    ],
+    "place": [
+      "Baiga live mainly in Madhya Pradesh. Wikipedia says the 2011 census counted 552,495 Baiga, with 414,526 in Madhya Pradesh, and the largest concentration in Mandla and Balaghat. Lalpur, in Dindori district, is the home of the artist Mangala Bai Maravi.",
+      "Wikipedia says the Baiga traditionally avoid ploughing, as they believe it harms the Earth, and practise shifting cultivation known as bewar."
+    ],
+    "history": [
+      {
+        "when": "Origin",
+        "what": "I found no dated source for the beginning of Baiga godna."
+      },
+      {
+        "when": "Traditional practice",
+        "what": "Women tattoo girls at set stages from puberty to marriage (Art Monthly)."
+      },
+      {
+        "when": "Recent decades",
+        "what": "Village Square says the art is fading and its meanings are no longer being passed on."
+      },
+      {
+        "when": "2014",
+        "what": "Amit Arjel-Sharma finds a Baiga village by online search to learn godna (Village Square)."
+      },
+      {
+        "when": "2024",
+        "what": "Mangala Bai Maravi's work is shown at the 24th Biennale of Sydney (Art Monthly)."
+      }
+    ],
+    "future": [
+      "Training: apprenticeships with senior tattooists, as in Shanti Bai's teaching.",
+      "Livelihood: paying work on paper and canvas lets families value the designs.",
+      "Materials: record the traditional needles and inks, which my sources do not describe.",
+      "Documentation: write down motif meanings with the women who know them, with their consent.",
+      "Protection: credit Baiga artists and respect the meaning of marks on skin when designs are copied."
+    ],
+    "pins": [
+      {
+        "lat": 22.94,
+        "lng": 81.08,
+        "label": "Dindori",
+        "approximate": true
+      },
+      {
+        "lat": 22.85,
+        "lng": 81.1,
+        "label": "Lalpur village",
+        "approximate": true
+      },
+      {
+        "lat": 22.6,
+        "lng": 80.37,
+        "label": "Mandla",
+        "approximate": true
+      },
+      {
+        "lat": 21.81,
+        "lng": 80.19,
+        "label": "Balaghat",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "artmonthly-org-au-blog-mangala-bai-maravi-baiga-tattooing-c476e4",
+      "villagesquare-in-inside-the-vanishing-godna-tattoo-art-of-in-fca31f",
+      "en-wikipedia-org-wiki-baiga-people-cd25b9"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "bhil-painting",
+    "name": "Bhil Painting",
+    "category": "Painting",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#b45309",
+    "motif": "dots",
+    "tagline": "Dotted animals and gods from the Bhil wall tradition of Jhabua, now also on paper and canvas.",
+    "facts": [
+      "Community: Bhil, largest tribal group in India (Wikipedia)",
+      "Wall form: Pithora, in Jhabua region",
+      "Known for multi-coloured dots",
+      "Best-known painter: Bhuri Bai, Padma Shri 2021"
+    ],
+    "art": [
+      "Bhil painting is the art of the Bhil community of western Madhya Pradesh. Its wall form is Pithora, a ritual painting from the Jhabua region that is central to the Bhil religious and cultural life, according to The Better India.",
+      "The wall is first coated with cow dung, water and lime in a step called lipai. Colours were traditionally taken from flowers, leaves and spices. The Better India says the paintings show the sun, moon and horses, which are lucky motifs, and also daily life such as hunting, ploughing and farming, along with birds, animals and trees.",
+      "Wikipedia says the art is considered by some to be the oldest of India's tribal art forms, and resembles Australian Aboriginal art in its use of multi-coloured dots. This is a comparison, not a claim of connection.",
+      "Pithora was traditionally painted by men, per the sources. In recent decades Bhil artists have also worked on paper and canvas with acrylics."
+    ],
+    "artist": [
+      "Bhuri Bai was born in Pitol village in Jhabua district. Wikipedia says she came to Bhopal and worked as a labourer at Bharat Bhavan, earning Rs 6 a day. There the artist Jagdish Swaminathan encouraged her to paint on paper. She was the first artist of her community to paint on paper.",
+      "The Better India says her community opposed her work because women were not expected to be artists, and that her husband later accepted it. Her honours, per Wikipedia, are the Shikhar Samman (1986), Ahalya Samman (1998), Rani Durgavati Award (2009) and Padma Shri (2021).",
+      "Her canvases show myth, village scenes and people with animals. Wikipedia says later works include modern things such as aeroplanes and mobile phones. Her work has been shown in India, the UK and the USA, per The Better India. The Better India says she worked at the Madhya Pradesh Tribal Museum in Bhopal, teaching and refining her techniques."
+    ],
+    "place": [
+      "Jhabua district lies on the Madhya Pradesh and Gujarat border, between the Mahi river to the north and the Narmada to the south (The Better India). It is the home of the Bhil community, who historically depended on forests and later on farming.",
+      "Bhopal is where Bhil artists have found markets and institutions. Bharat Bhavan and the Tribal Museum are named in the sources as places where Bhuri Bai worked."
+    ],
+    "history": [
+      {
+        "when": "Unknown, said to be ancient",
+        "what": "Bhil art is considered by some to be very old; I found no firm dates."
+      },
+      {
+        "when": "Traditional practice",
+        "what": "Pithora wall paintings are made for household ritual, mostly by men (sources I read)."
+      },
+      {
+        "when": "1980s",
+        "what": "Jagdish Swaminathan asks Bhuri Bai to paint on paper at Bharat Bhavan (The Better India)."
+      },
+      {
+        "when": "1986",
+        "what": "Bhuri Bai receives the Shikhar Samman from the Government of Madhya Pradesh."
+      },
+      {
+        "when": "1998 and 2009",
+        "what": "She receives the Ahalya Samman and the Rani Durgavati Award (Wikipedia)."
+      },
+      {
+        "when": "2021",
+        "what": "Bhuri Bai receives the Padma Shri."
+      }
+    ],
+    "future": [
+      "Training: teaching young Bhils, and girls in particular, in museums and village workshops.",
+      "Livelihood: fair sales through museum shops and exhibitions, so painting pays as a profession.",
+      "Materials: keep knowledge of natural colours and lipai walls alongside acrylic work.",
+      "Documentation: record the Pithora stories and rites with the priests who know them.",
+      "Protection: credit Bhil artists by name when their designs are used in products."
+    ],
+    "pins": [
+      {
+        "lat": 22.77,
+        "lng": 74.59,
+        "label": "Jhabua",
+        "approximate": true
+      },
+      {
+        "lat": 23,
+        "lng": 74.6,
+        "label": "Pitol village",
+        "approximate": true
+      },
+      {
+        "lat": 23.2599,
+        "lng": 77.4126,
+        "label": "Bhopal",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-bhuri-bai-5ba2d5",
+      "thebetterindia-com-247963-bhuri-bai-madhya-pradesh-padma-shr-b8fc42"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "bhimbetka-rock-art",
+    "name": "Bhimbetka Rock Art",
+    "category": "Painting",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#7f1d1d",
+    "motif": "triangles",
+    "tagline": "Hunters, dancers and animals painted in rock shelters, some thousands of years old.",
+    "facts": [
+      "Location: Raisen district, about 45 km from Bhopal",
+      "Shelters: over 750 in seven hills, about 400 with paintings",
+      "UNESCO World Heritage Site since 2003",
+      "Earliest paintings commonly dated to about 10,000 BCE"
+    ],
+    "art": [
+      "Bhimbetka is a group of rock shelters in the Vindhya foothills with one of the largest bodies of prehistoric painting in India. Wikipedia says the site has seven hills and over 750 shelters spread over about 10 km, and around 400 of them have paintings.",
+      "The themes are animals, hunts with spears and bows, communal dances, musical instruments, birds, and pregnant women and children. Later paintings show riders on horses, archers and religious signs. A rock popularly called Zoo Rock shows elephants, barasingha, bison and deer.",
+      "The colours are red, white and yellow, and in later paintings black from manganese oxide, red from hematite, and charcoal. Early paintings used vegetable colours, which have lasted partly because they were placed deep in niches.",
+      "Dating is not settled. The earliest paintings are commonly placed around 10,000 BCE, in the Mesolithic. V. S. Wakankar dated the earliest to the Upper Palaeolithic, possibly up to 40,000 years ago. Some popular sources repeat very early dates which I could not confirm from UNESCO text."
+    ],
+    "artist": [
+      "The painters are unknown. They were hunter-gatherer people who lived in the shelters and later groups who used them. Some shelters were lived in for more than 100,000 years, according to Wikipedia. That is a statement about the site, not about the paintings.",
+      "The archaeologist V. S. Wakankar was the first to recognise their prehistoric importance. He reported several prehistoric rock shelters in 1957. The full scale of the site was understood only in the 1970s.",
+      "Nobody can speak for the painters. I have not named any group as their descendants, as I found no source that supports this."
+    ],
+    "place": [
+      "Bhimbetka lies in Raisen district, Madhya Pradesh, about 45 km south-east of Bhopal, among sandstone hills and forest. The shelters are formed of large quartzite rocks.",
+      "The Bhimbetka group has 243 of the painted shelters and the nearby Lakha Juar group 178, according to Wikipedia. The largest shelter, called Auditorium cave, has a boulder nicknamed Chief's Rock or King's Rock. Wikipedia notes that there is no evidence of such a role.",
+      "The site is a protected monument of the Archaeological Survey of India (ASI) and has been under its care since 1990. UNESCO inscribed it in 2003 under criteria (iii) and (v). Pins here are approximate."
+    ],
+    "history": [
+      {
+        "when": "Over 100,000 years ago",
+        "what": "Some shelters were first lived in, per Wikipedia."
+      },
+      {
+        "when": "c. 10,000 BCE or earlier",
+        "what": "The earliest paintings, commonly placed in the Mesolithic. Wakankar argued for Upper Palaeolithic dates, which remain debated."
+      },
+      {
+        "when": "Later periods",
+        "what": "Paintings of riders, archers and religious signs are added over many centuries."
+      },
+      {
+        "when": "1957",
+        "what": "V. S. Wakankar reports several prehistoric shelters."
+      },
+      {
+        "when": "1970s",
+        "what": "The full extent of the site is recognised."
+      },
+      {
+        "when": "1990",
+        "what": "The site is protected under Indian law and managed by the ASI."
+      },
+      {
+        "when": "2003",
+        "what": "UNESCO inscribes it as a World Heritage Site."
+      }
+    ],
+    "future": [
+      "Training: guides from nearby villages can be trained in site care and interpretation.",
+      "Livelihood: visitor income is a real source of work for local people, if carefully managed.",
+      "Materials: paintings are on open rock and damaged by water, plants, smoke and touch. Conservation needs skilled hands.",
+      "Documentation: digital recording and a clear published list of shelters with dating methods would settle some debates.",
+      "Protection: ASI care and the World Heritage status protect the site. Visitors should keep to paths and never touch the paintings."
+    ],
+    "pins": [
+      {
+        "lat": 22.9373,
+        "lng": 77.6125,
+        "label": "Bhimbetka rock shelters, Raisen district",
+        "approximate": true
+      },
+      {
+        "lat": 22.94,
+        "lng": 77.62,
+        "label": "Lakha Juar group",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-bhimbetka-rock-shelters-3f4e2d"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "cheriyal",
+    "name": "Cheriyal Scrolls",
+    "category": "Painting",
+    "states": [
+      "Telangana"
+    ],
+    "color": "#dc2626",
+    "motif": "scroll",
+    "tagline": "A story you unroll, painted on a bright red ground.",
+    "facts": [
+      "Medium: cloth scroll",
+      "Look: vivid red background, comic-strip panels",
+      "Subject: Puranas, Ramayana, community histories"
+    ],
+    "art": [
+      "Cheriyal scrolls are long painted cloths, often several metres, arranged in rows of panels read like a picture book. The red background is distinctive and the figures are bold and lively.",
+      "They were made to accompany storytellers, who unrolled the scroll and narrated the tale scene by scene."
+    ],
+    "artist": [
+      "Scroll painters are from the nakash community in Cheriyal and are linked to a community of bard-storytellers, the Kaki Padagollu, who commissioned and performed from the scrolls.",
+      "Today a small number of families keep the craft alive, now also making masks and toys, and the art has moved into galleries.",
+      "Our approach: record a performance with each scroll."
+    ],
+    "place": [
+      "Cheriyal is a village in Telangana's Siddipet district in the Deccan plateau.",
+      "The region's villages once hosted travelling storytellers for communities that supported them."
+    ],
+    "history": [
+      {
+        "when": "Medieval onward",
+        "what": "Narrative scrolls were made for itinerant storytellers."
+      },
+      {
+        "when": "20th century",
+        "what": "Demand from patron communities fell and the craft was near extinction."
+      },
+      {
+        "when": "Today",
+        "what": "Revived through craft bodies and sold to collectors and for home decor."
+      }
+    ],
+    "future": [
+      "Support the families so more young painters take up the scroll.",
+      "Make a digital library with recorded narrations.",
+      "Revive the performing side with community partnerships."
+    ],
+    "pins": [
+      {
+        "lat": 17.9,
+        "lng": 79,
+        "label": "Cheriyal",
+        "approximate": true
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "cheriyal-art.jpg",
+        "alt": "A Cheriyal scroll painting with rows of story panels on a red ground.",
+        "caption": "",
+        "author": "Subha murugan",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cheriyal_painting_-_toddy_tappers.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "chitrakathi",
+    "name": "Chitrakathi",
+    "category": "Painting",
+    "states": [
+      "Maharashtra"
+    ],
+    "color": "#92400e",
+    "motif": "vine",
+    "tagline": "Picture storytelling from Pinguli, where a bundle of painted sheets becomes a tale.",
+    "facts": [
+      "Form: painted picture stories told with song",
+      "A bundle of 30 to 50 or more sheets is called a pothi",
+      "Pinguli, Sindhudurg, is the best-known centre",
+      "Parshuram Gangavane received the Padma Shri in 2021"
+    ],
+    "art": [
+      "Chitrakathi means picture story. Wikipedia describes it as a storytelling art in which a performer travels and narrates stories while showing painted pictures. Each story is on separate sheets kept together as a bundle called a pothi, which Wikipedia says has 30 to 50 pages and Google Arts and Culture says more than 50.",
+      "The subjects are mostly the Ramayana and Mahabharata and other mythological tales. Google Arts and Culture says natural colours were used on handmade paper, and that artists set the songs first and then painted pictures to support the performance. Wikipedia says the colours are brownish and stone based and the figures are stylised.",
+      "The tradition also includes puppets. Wikipedia lists leather shadow puppets and stringed wooden puppets alongside picture stories, though only the picture form is now called Chitrakathi. Parshuram Gangavane's family works in all three."
+    ],
+    "artist": [
+      "The best-known living figure is Parshuram Gangavane of Pinguli village in Kudal taluka, Sindhudurg. Wikipedia says he belongs to the Thakar tribal community and learned Chitrakathi, string puppetry and leather shadow puppetry from his father and grandfather.",
+      "He began reviving the art in the 1970s, when he saw it near extinction. He turned part of the family cowshed into a museum and gallery, the Thakar Adivasi Kala Aangan, which holds old paintings, puppets and instruments. His sons Chetan and Eknath perform and help run it. He received the Padma Shri in January 2021.",
+      "A popular family tradition says the ancestors worked as spies for Shivaji, with travelling shows as cover. Wikipedia reports it as what the family says. We found no independent historical source."
+    ],
+    "place": [
+      "Pinguli is a village in Kudal taluka of Sindhudurg district, in the Konkan. Google Arts and Culture also names Gawdewada in Sindhudurg for Chitrakathi wall paintings. The page says the art developed in the Maharashtra and Karnataka region.",
+      "The art survives mainly where families keep it. Wikipedia describes Chitrakathi as nearly extinct and warns that without support the storytelling could vanish within roughly 15 years, a claim we could not check."
+    ],
+    "history": [
+      {
+        "when": "Traditional",
+        "what": "Chitrakathi developed in the Maharashtra-Karnataka region as small painted images of religious and historical events, per Google Arts and Culture."
+      },
+      {
+        "when": "Traditional account",
+        "what": "Families say their ancestors served as spies of Shivaji, with performance as cover. Not independently confirmed."
+      },
+      {
+        "when": "1970s",
+        "what": "Parshuram Gangavane starts reviving the art."
+      },
+      {
+        "when": "January 2021",
+        "what": "Gangavane is awarded the Padma Shri."
+      }
+    ],
+    "future": [
+      "Training: family workshops that teach painting, singing and puppet-making together.",
+      "Livelihood: bookings in schools, museums and festivals, and fair pay for the pothis.",
+      "Materials: handmade paper and natural colours made available at fair cost.",
+      "Documentation: record the songs and the full cycles of each pothi.",
+      "Protection: support the museum, and credit the Thakar families as owners of the tradition."
+    ],
+    "pins": [
+      {
+        "lat": 16.07,
+        "lng": 73.7,
+        "label": "Pinguli, Kudal taluka",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-chitrakathi-c37146",
+      "en-wikipedia-org-wiki-parshuram-gangavane-f08e15",
+      "artsandculture-google-com-story-old-chitrakathi-art-dastkari-20af9b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "godna",
+    "name": "Godna Tattoo Art",
+    "category": "Painting",
+    "states": [
+      "Chhattisgarh"
+    ],
+    "color": "#1f2937",
+    "motif": "dots",
+    "tagline": "Soot-ink tattoos worn as identity, from the Ram name of the Ramnamis to Baiga women's life marks.",
+    "facts": [
+      "Godna is the word for tattooing in Chhattisgarh and nearby regions",
+      "Ramnami tattoos carry the name of Ram, up to the whole body",
+      "Baiga women are tattooed by Badnins from the Ojha community",
+      "Ink: soot from an oil lamp or burned kerosene"
+    ],
+    "art": [
+      "Godna is traditional tattooing. In Chhattisgarh and neighbouring regions it is practised by different communities, for different reasons. We follow two of them here, and the sources do not cover every community.",
+      "The Ramnami Samaj, a community in the Janjgir-Champa area, tattoo the name of Ram on the body. According to Sahapedia, they write it as a doubled Ram Ram, standing for the formless (nirgun) god and not for the Ram of the epic. Some Ramnamis are marked all over the body, including the eyelids. Sahapedia describes a ranking by extent: nakhshikh (whole body), shiromani (forehead) and badan (face). Others keep the faith without tattoos.",
+      "Baiga women's godna, as described by Sahapedia, follows life stages. The forehead comes first, around age 8 to 10. Back, arms and legs are done by marriageable age, thighs after marriage, and neck and breast after childbearing. Motifs include the cow's eye, triangular lines for mountains, a sun at the centre of the chest, and dots, crosses and circles. A moon shape on the forehead marks a Baiga woman. Village Square adds fire, crops, peacocks, fish and flowers.",
+      "For both, the ink is soot. A Ramnami source describes burning kerosene in a lamp under an earthen pot and scraping soot from the pot, then storing it in a coconut shell. Baiga Badnins use soot from a sesame-oil lamp mixed with water. They draw with a thin stick and prick the ink in with needles, one for thin lines and three or four tied together for thick ones (Sahapedia)."
+    ],
+    "artist": [
+      "Among the Baiga the tattooists are women called Badnins, of the Ojha community. Sahapedia says they learned from their mothers and grandmothers and work from memory. Village Square profiles Mangala Bai Marawi, a Badnin of Dindori in Madhya Pradesh who did her first tattoo at seven. She fears the art may fade within about a decade, and she is teaching a niece and drawing the designs on canvas and charts.",
+      "Among the Ramnamis, Sahapedia says designated members of the community apply the tattoo with wooden needles, often in childhood or before marriage.",
+      "Godna is not the same everywhere. A tattoo can be devotion, beauty, protection, or a marker of identity, and tales about its origin, such as one about Parvati told among the Gond, are stories and not documented history."
+    ],
+    "place": [
+      "The Ramnami movement is traditionally linked to Charpara village in Janjgir-Champa district. Sahapedia calls its account of the founder, Parasuram, a popular legend. It says the movement is more than a century old and records that the samaj was recognised as an organisation in 1960. It holds a gathering called the Bada Bhajan Mela.",
+      "Baiga communities live in Madhya Pradesh, Jharkhand and Chhattisgarh. Sahapedia says the fully tattooed women it met were mostly older women in interior villages of Dindori district in Madhya Pradesh, so we use these accounts for the wider Baiga tradition, not for Chhattisgarh alone."
+    ],
+    "history": [
+      {
+        "when": "Origin",
+        "what": "No hard facts date the origin of godna, according to Homegrown. It is tied to myths."
+      },
+      {
+        "when": "Mid-19th century (legend)",
+        "what": "Sahapedia reports that the Ramnami founder was born in Charpara in this period, and calls the tale a popular legend."
+      },
+      {
+        "when": "About a century ago",
+        "what": "Sahapedia says the movement is more than a century old and its Bada Bhajan Mela is almost a hundred years old. Exact dates are not given."
+      },
+      {
+        "when": "1960",
+        "what": "The Ramnami Samaj is made a government-sanctioned organisation, according to Sahapedia."
+      },
+      {
+        "when": "Present",
+        "what": "Both traditions are declining. Sahapedia reports that the number of tattooed Ramnamis is falling fast, and Baiga girls now often decline the full tattoos."
+      }
+    ],
+    "future": [
+      "Record Badnins and Ramnami elders on video, with their consent, naming each motif in their own words.",
+      "Pay the tattooists and teachers for workshops and for any use of their designs on cloth, prints and art.",
+      "Support young people who want to learn, without pressing them to be marked.",
+      "Keep a community-held archive of designs, so they are not taken as free decoration.",
+      "Teach schools and clinics about the meaning of godna, and challenge the idea that it is primitive."
+    ],
+    "pins": [
+      {
+        "lat": 21.7,
+        "lng": 82.3,
+        "label": "Charpara, Janjgir-Champa (Ramnami origin, approx.)",
+        "approximate": true
+      },
+      {
+        "lat": 21.99,
+        "lng": 82.14,
+        "label": "Janjgir",
+        "approximate": false
+      },
+      {
+        "lat": 22.94,
+        "lng": 81.08,
+        "label": "Dindori, Baiga country, Madhya Pradesh",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-ramnamis-chhattisgarh-wearing-ram-defiance-cas-de62e1",
+      "sahapedia-org-traditions-skin-baiga-women-and-their-tattoos-c3e6f3",
+      "villagesquare-in-keeping-the-baiga-tribal-tattoo-art-alive-ce07b8",
+      "homegrown-co-in-article-42041-the-caste-marking-tattoos-of-i-f030bf"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "gond",
+    "name": "Gond",
+    "category": "Painting",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#15803d",
+    "motif": "dots",
+    "tagline": "Trees, animals and spirits drawn in dots and dashes.",
+    "facts": [
+      "Medium: walls, canvas, paper",
+      "Tools: brush, pen and acrylic or poster colours",
+      "Signature: patterns of dots, lines and dashes (digna)"
+    ],
+    "art": [
+      "Gond art fills animals, birds, trees and deities with fine patterns of dots and lines that convey movement. Each form is alive because of its own pattern.",
+      "It draws on Gond belief that every hill, tree and animal has a spirit. Stories include the creation myths of the Gond people and local folk tales."
+    ],
+    "artist": [
+      "Jangarh Singh Shyam (1962–2001), from Patangarh village, was discovered by the artist J. Swaminathan in the 1980s and went on to paint at Bharat Bhavan, Bhopal. He transformed Gond art from the ritual wall into the contemporary art world. He died in 2001 in Japan.",
+      "Many relatives and village artists from the Pardhan Gond community have followed him, including Bhajju Shyam and Durga Bai Vyam, whose work is widely published.",
+      "Our approach: honour Jangarh's legacy while profiling a new generation."
+    ],
+    "place": [
+      "The Gond are among India's largest adivasi communities, living across central India. Patangarh is in the Dindori area of eastern Madhya Pradesh, near the Narmada, in sal forest country.",
+      "Forests are home, source of stories and now under pressure from mining and clearing."
+    ],
+    "history": [
+      {
+        "when": "Traditional",
+        "what": "Pardhans were bards and singers who recited Gond lore; ritual wall art decorated homes."
+      },
+      {
+        "when": "1980s",
+        "what": "Jangarh Singh Shyam was brought to Bhopal; Bharat Bhavan gave him a platform."
+      },
+      {
+        "when": "Since 2001",
+        "what": "His legacy has grown into a movement of Gond painters exhibiting worldwide."
+      }
+    ],
+    "future": [
+      "Forest voices: let artists tell the forest's story for climate and conservation work.",
+      "Fair contracts for artists working with publishers and galleries.",
+      "A village museum in Patangarh to keep its own heritage."
+    ],
+    "pins": [
+      {
+        "lat": 22.94,
+        "lng": 81.08,
+        "label": "Dindori",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "artist",
+        "file": "gond-artist.jpg",
+        "alt": "Jangarh Singh Shyam at work at Bharat Bhavan, Bhopal.",
+        "caption": "Jangarh Singh Shyam at Bharat Bhavan, Bhopal.",
+        "author": "Jimparsons73",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jangarh_Singh_Shyam_at_BB.jpeg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "jadu-patua",
+    "name": "Jadu Patua",
+    "category": "Painting",
+    "states": [
+      "Jharkhand"
+    ],
+    "color": "#6b21a8",
+    "motif": "scroll",
+    "tagline": "The painter who brings back the eyes of the dead on a scroll.",
+    "facts": [
+      "Form: scroll painting with song",
+      "Place: Naoasar village, Dumka",
+      "Scroll of 10 to 12 panels",
+      "Fewer than a dozen artists in the district"
+    ],
+    "art": [
+      "Jadu Patua, also spelled Jadu Patiya or Jadopatia, is a scroll painting of the Santhal Pargana. Each scroll has 10 to 12 paintings joined with homemade glue. The performer unrolls it, shows one painting at a time and sings the story, according to Village Square and The Better India.",
+      "The name is explained as jadu, meaning magician, and patia, meaning painter. Colours are natural: geru (red stone), sim leaves from broad beans and lamp black, mixed to make other shades. Brushes are made from thin twigs.",
+      "One use is ritual. Painters traditionally visited homes where someone had died. The picture of the dead person was drawn without pupils, and the family gave a gift (daan) so that the painter would paint the pupils in. Later scrolls showed the dead person happy in heaven, giving comfort to the family. Painters today also paint mythology and folklore."
+    ],
+    "artist": [
+      "The Better India and Village Square report on three painters of Naoasar village in Masalia block, Dumka: Ganapati Chitrakar, Nitai Chitrakar and Jaydhan Chitrakar, whose late father Kamal Chitrakar was a noted artist. The ages given are from the time of the report.",
+      "Ganapati earned about Rs 150 to 200 a day, only in festival periods, and otherwise worked as a daily wager. The artists performed in Bhopal and Ahmedabad and were paid Rs 25,000 each, but the attention faded. Fewer than a dozen painters remain in the district, and few young people are learning."
+    ],
+    "place": [
+      "Dumka is the headquarters of the Santhal Pargana in eastern Jharkhand, near the West Bengal border. The Naoasar painters live in a village of Hathiapathar panchayat, Masalia block.",
+      "The form is not confined to Jharkhand. Handicrafts sources place the tradition in West Bengal as well as the Santhal Pargana, and its patrons were Santhal and related communities."
+    ],
+    "history": [
+      {
+        "when": "Origins (uncertain)",
+        "what": "Village Square calls it one of the oldest painting forms in the region. We found no dated record of its beginnings."
+      },
+      {
+        "when": "Traditional use",
+        "what": "Painters visited Santhal and other homes with scrolls and songs, including after a death."
+      },
+      {
+        "when": "Recent years",
+        "what": "The Better India reports that the state Art and Culture Department kept no list of practising artists and that a minister said artists are called to perform in Ranchi on special occasions. An elder, Manik Chandra Mandal, asked for help to revive it."
+      }
+    ],
+    "future": [
+      "Start a register of Jadu Patua artists, with their families and villages.",
+      "Fund the elder painters to teach, with a small regular stipend for students.",
+      "Document the funeral-scroll songs and the stories, with consent from the families who hold them.",
+      "Create steady paid performances and fair-priced sales beyond festivals.",
+      "Make natural colours and handmade glue easy to source, and support women and youth of the painter families to join."
+    ],
+    "pins": [
+      {
+        "lat": 24.27,
+        "lng": 87.25,
+        "label": "Dumka",
+        "approximate": false
+      },
+      {
+        "lat": 24.2,
+        "lng": 87.3,
+        "label": "Naoasar village, Masalia block",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "thebetterindia-com-102854-indigenous-art-forms-santhal-parga-36838f",
+      "villagesquare-in-indigenous-art-forms-santhal-pargana-need-r-41f11e",
+      "ruralindiaonline-org-article-in-jharkhand-paitkar-art-is-fad-0914f0"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "kalighat",
+    "name": "Kalighat Painting",
+    "category": "Painting",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#b91c1c",
+    "motif": "arch",
+    "tagline": "Bold brushstrokes from a temple street, from gods to gossip.",
+    "facts": [
+      "Medium: paper, watercolour",
+      "Style: sweeping brush lines, flat bright colour",
+      "Subjects: deities, then social satire"
+    ],
+    "art": [
+      "Kalighat paintings, or pats, are bold and fast. Figures are outlined in one sweep of the brush, with a smooth shaded body. Early works showed Kali, Lakshmi and Krishna; later ones turned to everyday Calcutta life.",
+      "Satire became a strong theme, poking fun at the wealthy babu, at fashionable women and at scandals of the day."
+    ],
+    "artist": [
+      "The painters were patuas, scroll-painters from rural Bengal who moved to Calcutta in the 19th century. They sold paintings to pilgrims at the Kali temple.",
+      "The style later inspired modern artists such as Jamini Roy.",
+      "Our approach: honour the patua community and its descendants, some of whom still paint in Bengal's villages."
+    ],
+    "place": [
+      "Kalighat, in south Kolkata, is home to the Kali temple, one of the Shakti pithas. The temple grew from a riverside village into part of a colonial city.",
+      "The city's mix of pilgrims, clerks, merchants and colonial officials gave patuas their audience and their subjects."
+    ],
+    "history": [
+      {
+        "when": "Early 19th century",
+        "what": "Patuas settled near the Kalighat temple and began painting for pilgrims."
+      },
+      {
+        "when": "Mid–late 19th century",
+        "what": "The style flourished and began to portray city life and satire."
+      },
+      {
+        "when": "Early 20th century",
+        "what": "Cheap lithographs and prints replaced hand-painted pats."
+      },
+      {
+        "when": "Today",
+        "what": "Museums hold collections, and Bengal's patuas continue their tradition."
+      }
+    ],
+    "future": [
+      "Link museum collections to the patua families who inherit the tradition.",
+      "Commission new satire on today's city for a living tradition.",
+      "Keep street-level storytelling alive with temple-side workshops."
+    ],
+    "pins": [
+      {
+        "lat": 22.52,
+        "lng": 88.34,
+        "label": "Kalighat, Kolkata",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "kalighat-art.jpg",
+        "alt": "A Kalighat painting of Radha and Krishna.",
+        "caption": "",
+        "author": "Rajan Guptta",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Radha-_Krishna,_Kalighat_Painting.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "kangra-miniature",
+    "name": "Kangra Miniature Painting",
+    "category": "Painting",
+    "states": [
+      "Himachal Pradesh"
+    ],
+    "color": "#1e5a5a",
+    "motif": "lotus",
+    "tagline": "Soft lines, cool greens and the love of Radha and Krishna, painted in the hills below the Dhauladhar.",
+    "facts": [
+      "Form: Pahari miniature painting, mineral and vegetable colours on paper",
+      "Peak: late 18th and early 19th century under Raja Sansar Chand",
+      "Main theme: Radha and Krishna, from the Gita Govinda and the Bhagavata Purana",
+      "GI registration: reported as 2012 (Wikipedia)"
+    ],
+    "art": [
+      "Kangra painting is a style of the Pahari, or hill, schools of miniature painting. It takes its name from the old Kangra state in what is now Himachal Pradesh. It grew out of the Guler school in the early 18th century and became famous in the later 18th century.",
+      "Its main subject is love, told through the story of Radha and Krishna. Painters drew on the Bhagavata Purana and Jayadeva's Gita Govinda. They also painted lovers (nayaka and nayika), the twelve months of the year (baramasa), and tales such as Nala and Damayanti.",
+      "The look is gentle. Lines are fine and faces are delicately modelled. Colours are cool and fresh, made from minerals and plants, and the surface has a glossy, enamel-like finish. Landscapes use many greens, flowering plants and streams, with a light pink for distant hills. Later works include night scenes and storms.",
+      "Pahari painting as a whole is dated from the early 17th to the mid 19th century. One survey calls Kangra the point where Pahari miniatures reach their finest and most creative work."
+    ],
+    "artist": [
+      "Accounts say the style began in Guler, where painters trained in the Mughal manner, said to have come from Kashmir, found shelter at the court of Raja Dalip Singh (reigned 1695-1741). Their work was carried forward by Pandit Seu's sons, Nainsukh and Manaku, who are named among the great masters of the mid 18th century. Other names given are Khushala, Kishan Lal, Basia, Purkhoo and Fatoo.",
+      "Maharaja Sansar Chand Katoch (reigned 1776-1824) was the great patron. He commissioned many paintings on the life of Krishna, and the style reached its height at his court.",
+      "In modern times the state opened a training centre at Rait in 1973. Chandu Lal Raina, said to be a descendant of Pandit Seu and Nainsukh, led it until 1993 and trained 35 artists. The Kangra Arts Promotion Society in Dharamshala runs a school and workshop using traditional methods. In Chamba a long-running family lineage of painters, the Manikanth family, continues the tradition today, with Parkash Chand named as its present master."
+    ],
+    "place": [
+      "Kangra lies in the Kangra valley at the foot of the Dhauladhar range. The old fort and the town of Kangra were the seat of the Katoch rulers. The Maharaja Sansar Chand Museum near Kangra Fort holds notable works.",
+      "The Pahari painting centres were Guler, Basohli, Chamba, Nurpur, Bilaspur and Kangra. The style later reached Mandi, Suket, Kullu, Arki, Nalagarh and Tehri Garhwal. Kangra paintings are also held in museums abroad, including the Rietberg in Zurich, the Museum of Fine Arts in Boston, the Philadelphia Museum of Art, the Metropolitan Museum and the Chester Beatty Library."
+    ],
+    "history": [
+      {
+        "when": "Late 16th century",
+        "what": "Painter families from Gujarat are said to have moved into the Punjab hills; the Manikanth family is recorded in Chamba around 1589."
+      },
+      {
+        "when": "c. 1690",
+        "what": "The Rasamanjari illustrations, the earliest known Pahari-style series, date to about this time (Basohli)."
+      },
+      {
+        "when": "Early 18th century",
+        "what": "The Guler style takes shape at the court of Raja Dalip Singh (1695-1741)."
+      },
+      {
+        "when": "Mid 18th century",
+        "what": "Nainsukh and Manaku, sons of Pandit Seu, are the leading masters of the age."
+      },
+      {
+        "when": "1776-1824",
+        "what": "Sansar Chand rules Kangra and patronises Krishna paintings; the style peaks."
+      },
+      {
+        "when": "1973",
+        "what": "The Himachal government opens a training centre at Rait."
+      },
+      {
+        "when": "2012",
+        "what": "Kangra painting is reported to have received a Geographical Indication registration."
+      },
+      {
+        "when": "2020s",
+        "what": "Writers describe the art as close to dying out because of cost, competition from digital art and thin support."
+      }
+    ],
+    "future": [
+      "Training: more year-long courses like the Rait centre, with master-student pairing in Kangra and Chamba.",
+      "Livelihood: steady commissions, fair prices and GI-based labelling so that hand-painted work is not confused with prints.",
+      "Materials: keep mineral and plant pigments and handmade paper in use, and support the people who prepare them.",
+      "Documentation: digitise old works, as Project Srijan is doing, and record workshop methods from living painters.",
+      "Protection: use the GI registration, and care for the old collections in the Kangra and Chamba museums."
+    ],
+    "pins": [
+      {
+        "lat": 32.0998,
+        "lng": 76.2691,
+        "label": "Kangra Fort and Sansar Chand Museum",
+        "approximate": true
+      },
+      {
+        "lat": 32.05,
+        "lng": 76.03,
+        "label": "Guler",
+        "approximate": true
+      },
+      {
+        "lat": 32.219,
+        "lng": 76.3234,
+        "label": "Dharamshala",
+        "approximate": true
+      },
+      {
+        "lat": 32.5534,
+        "lng": 76.1258,
+        "label": "Chamba",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-kangra-painting-aaef07",
+      "en-wikipedia-org-wiki-pahari-painting-ddf360",
+      "en-wikipedia-org-wiki-chamba-himachal-pradesh-ae0d88",
+      "tribuneindia-com-news-archive-features-himachal-to-move-agai-bf272b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "keralamural",
+    "name": "Kerala Mural Painting",
+    "category": "Painting",
+    "states": [
+      "Kerala"
+    ],
+    "color": "#047857",
+    "motif": "arch",
+    "tagline": "Gods in five earth-and-leaf colours, painted on lime walls of temples and palaces.",
+    "facts": [
+      "Medium: lime-plaster wall, painted with natural pigments",
+      "Palette: pancha varna, five colours (red, yellow, green, black, white)",
+      "Famous walls: Mattancherry, Padmanabhapuram, Ettumanoor, Krishnapuram",
+      "Training: Institute of Mural Painting, Guruvayur (1989)"
+    ],
+    "art": [
+      "Kerala's temple and palace murals are wall paintings of Hindu gods and stories: Vishnu, Krishna, Shiva, Devi and scenes from the Ramayana and Puranas. Most surviving examples are dated between about the 15th and 18th centuries, though some sites are older. Figures have large eyes, strong outlines, rich ornaments, and are framed by vines, flowers and cloth.",
+      "The traditional palette is called pancha varna, 'five colours': red, yellow, green, black and white. Writers describe red and yellow as coming from laterite earth, white from lime, black from lamp soot, and green from a plant-based mix that includes indigo-bearing leaves and a yellow tree resin or gamboge-type pigment. Binders such as tender coconut water and neem extract are named in several accounts. Scientific studies of old murals show that green in particular varied from one temple to another, so no single recipe fits every wall.",
+      "Colour also carries meaning. Several writers say the three gunas guide how a figure is coloured: gentle, godly (sattvic) figures are green, powerful and worldly (rajasic) ones red to golden-yellow, and fierce or dark (tamasic) ones black or white. This logic is described in modern books and surveys; we have not checked it against the old texts line by line, so treat it as the tradition's own account.",
+      "The technique is usually described as fresco-secco: pigment is applied on a lime plaster wall that is already prepared and mostly dry. One published account lists three plaster stages, the last with many fine washes of lime and tender coconut water. The work follows set stages: preparing the wall, drawing the outline, filling colour, and finishing with fine detail and ornament.",
+      "Painters are said to follow iconographic rules from texts such as the Chitrasutra (part of the Vishnudharmottara Purana), the Tantrasamuccaya (attributed to Narayana, 15th century) and Sri Kumara's Silparatna (16th century). These are named in standard surveys; how closely each wall follows them is a matter for specialists."
+    ],
+    "artist": [
+      "The old painters of Kerala are mostly unnamed. Murals were made by trained guild-like workshops on the order of temples and rulers, and the art passed from teacher to student. Few signatures survive, so we do not name historical painters here.",
+      "The tradition weakened during the colonial period and, in several accounts, nearly died out. After Independence it was revived in a number of temples, and the Guruvayur Devaswom Board set up the Institute of Mural Painting at Guruvayur in 1989. Mammiyur Krishnan Kutty Nair is named as its first principal and as the leading figure of the modern revival; accounts differ on how credit for founding is shared with others at the Devaswom.",
+      "The institute offers a five-year National Diploma course in the gurukula spirit: two years of fine-art foundation, then three years of Kerala mural painting, with drawing, design, art history, and materials and methods. It admits about ten students a year, who are given scholarships and lodging. A Sanskrit university at Kalady also teaches the art.",
+      "Today trained painters work on temple walls, homes and public buildings, and also on canvas and panel. We would like to profile working painters by name with their consent; this draft does not yet name them."
+    ],
+    "place": [
+      "Kerala is a narrow strip between the Western Ghats and the Arabian Sea, with a hot, humid climate and two monsoons. Laterite earth, lime from shells, coconut and forest plants are all close at hand, which suits a craft made from them.",
+      "The murals are spread across the old kingdoms of Travancore, Kochi and Venad. Mattancherry Palace in Kochi, given to the Raja of Kochi by the Portuguese in the 16th century, has more than sixty Ramayana and other panels, according to Kerala Tourism. Padmanabhapuram Palace, built at the foot of the Veli hills, has 18th-century murals on its upper floor. It lies in Kanyakumari district of today's Tamil Nadu, but was Travancore's capital and is still owned and maintained by the Government of Kerala.",
+      "At Krishnapuram Palace near Kayamkulam, the Gajendra Moksham panel, Vishnu saving the elephant king, is described by Kerala Tourism as the largest mural panel in Kerala. Its size is quoted differently in different places, so we give no figure. Other key walls are at the Ettumanoor Shiva temple, the Vadakkunnathan temple in Thrissur (where Shiva panels are said to be over 350 years old), the Pundarikapuram temple, and the Thirunandikkara cave temple, now in Tamil Nadu, which is counted among the oldest surviving examples.",
+      "Guruvayur, one of Kerala's best-known Krishna temple towns, is where the training institute stands. The same damp air that makes the pigments from local plants also attacks the walls."
+    ],
+    "history": [
+      {
+        "when": "Early centuries",
+        "what": "Cave and rock painting exists in Kerala, such as Edakkal and Marayoor, long before temple murals. The temple murals are a separate tradition."
+      },
+      {
+        "when": "c. 8th–9th century (traditionally)",
+        "what": "The Thirunandikkara cave temple is counted among the oldest surviving mural sites; its exact date is debated."
+      },
+      {
+        "when": "15th century",
+        "what": "The Tantrasamuccaya, a temple-building manual, is dated to this century in standard surveys."
+      },
+      {
+        "when": "16th century",
+        "what": "The Silparatna of Sri Kumara is dated to this century. Mattancherry Palace was built or gifted by the Portuguese around the mid-1500s (sources give 1545 to 1557)."
+      },
+      {
+        "when": "17th–18th century",
+        "what": "Murals spread across temples and palaces: Ettumanoor, Vadakkunnathan, Padmanabhapuram (rebuilt c. 1750) and Krishnapuram's Gajendra Moksham."
+      },
+      {
+        "when": "19th–early 20th century",
+        "what": "Royal patronage fades and the art declines under colonial rule."
+      },
+      {
+        "when": "1951",
+        "what": "Mattancherry Palace is declared a centrally protected monument; the ASI restores it again in 2007–2009."
+      },
+      {
+        "when": "After 1947",
+        "what": "The art is revived in several temples, led by painters such as Mammiyur Krishnan Kutty Nair."
+      },
+      {
+        "when": "1989",
+        "what": "The Guruvayur Devaswom Board founds the Institute of Mural Painting."
+      },
+      {
+        "when": "Today",
+        "what": "Scientific teams study old pigments to plan conservation, and trained painters keep the practice alive."
+      }
+    ],
+    "future": [
+      "Site-by-site conservation: studies show different murals need different treatment, so each wall should have its own pigment and damage record.",
+      "Control damp and light in palaces and temples, and keep the walls open to worshippers and visitors without harming them.",
+      "A public digital archive with high-resolution photographs of every major wall, shared with temples and the Archaeology departments.",
+      "Support the Guruvayur institute and similar schools with apprenticeships, fair commissions and better pay for graduates.",
+      "Preserve the knowledge of making pigments and plaster, with documented recipes and small workshops.",
+      "Tell visitors the story at the site: guided walks that link Padmanabhapuram, Mattancherry, Krishnapuram and Guruvayur."
+    ],
+    "pins": [
+      {
+        "lat": 9.9583,
+        "lng": 76.2593,
+        "label": "Mattancherry Palace, Kochi",
+        "approximate": false
+      },
+      {
+        "lat": 9.669,
+        "lng": 76.56,
+        "label": "Ettumanoor Shiva temple",
+        "approximate": false
+      },
+      {
+        "lat": 10.5253,
+        "lng": 76.2142,
+        "label": "Vadakkunnathan temple, Thrissur",
+        "approximate": false
+      },
+      {
+        "lat": 10.5944,
+        "lng": 76.0412,
+        "label": "Guruvayur (Institute of Mural Painting)",
+        "approximate": false
+      },
+      {
+        "lat": 8.2512,
+        "lng": 77.326,
+        "label": "Padmanabhapuram Palace (Kanyakumari dist., Tamil Nadu; historically Travancore)",
+        "approximate": false
+      },
+      {
+        "lat": 9.15,
+        "lng": 76.51,
+        "label": "Krishnapuram Palace, Kayamkulam",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-kerala-mural-painting-b1f42a",
+      "keralatourism-org-kerala-article-2010-mural-heritage-kerala--4373f0",
+      "en-wikipedia-org-wiki-institute-of-mural-painting-df6603",
+      "en-wikipedia-org-wiki-padmanabhapuram-palace-76c3bd",
+      "en-wikipedia-org-wiki-mattancherry-palace-5c6cc6",
+      "en-wikipedia-org-wiki-vadakkunnathan-temple-6a4058",
+      "keralatourism-org-kerala-article-2010-krishnapuram-palace-ga-031c0f",
+      "escholarship-org-uc-item-2r0751tf-8647d7"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "kolam",
+    "name": "Kolam",
+    "category": "Painting",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#9a3412",
+    "motif": "dots",
+    "tagline": "A handful of rice flour at dawn, drawn around dots, gone by evening.",
+    "facts": [
+      "Medium: rice flour (kolapodi), coloured powders",
+      "Built on a grid of dots called pulli",
+      "Main types: pulli kolam and sikku (knot) kolam",
+      "Redrawn daily; Margazhi is the big season"
+    ],
+    "art": [
+      "Kolam is a floor drawing made by pressing dry rice flour between thumb and finger and letting it fall in lines. Many designs start from a grid of dots, called pulli, which are joined or looped by lines. Sahapedia lists the six-pointed star, lotus, lamp, conch and pot among common symbols.",
+      "In sikku kolam, a continuous line loops around the dots and returns to where it began, like a knot. Both Sahapedia and Wikipedia describe the rule that every dot is circled and the lines close. Computer scientists and mathematicians have studied these rules, and Sahapedia mentions the scholar Gift Siromoney of Madras Christian College.",
+      "For special days, rice paste pressed through a cloth makes a longer-lasting kolam called makolam. Brick-red powder, kaavi, is often used for borders. Pongal, Deepavali, weddings, births and death rites each have their own kolams.",
+      "Sources give several reasons for the practice. Wikipedia says the flour feeds ants and birds, a form of welcoming guests. Sahapedia says it invites deities such as Lakshmi and Bhudevi and keeps misfortune away. Today stencils, rollers and stickers are also used."
+    ],
+    "artist": [
+      "Kolam is mostly drawn by women, and the knowledge passes from mother to daughter. Sahapedia says women keep notebooks of difficult patterns to share. Sahapedia also notes that Jain and Paravar Catholic women draw kolam on special occasions.",
+      "Skill is judged by size and complexity. Wikipedia says that in the past women showed their skill by drawing large designs without lifting their hand, especially in Margazhi. Today some kolam artists also share their work on social media.",
+      "Our approach: record the women and the notebooks, with their own names for each pattern."
+    ],
+    "place": [
+      "Kolam belongs to the thresholds of Tamil homes, temples and shops. It is drawn in Tamil Nadu and Puducherry, and Wikipedia also notes similar practice in Andhra Pradesh, Telangana and parts of Goa and Maharashtra, and among South Indian communities abroad.",
+      "Sahapedia says women draw it before dawn, and sometimes before dusk. The ground is swept, then sprinkled with water or a cow-dung and water mix. The threshold is seen as the meeting point of inside and outside.",
+      "The month of Margazhi (mid-December to mid-January) is the season most linked with kolam. Sahapedia and Wikipedia both say competitions are held then, for example at Mylapore in Chennai."
+    ],
+    "history": [
+      {
+        "when": "Origins unclear",
+        "what": "Sahapedia says the origins are unclear. Gift Siromoney argued that most threshold patterns are perhaps 600 years old, while some geometric designs may be far older."
+      },
+      {
+        "when": "13th century",
+        "what": "A Tirunelveli inscription is the earliest textual reference Sahapedia names. It mentions temple women cleaning and decorating floors with kolam."
+      },
+      {
+        "when": "17th century",
+        "what": "The Sanskrit text Stridharmapaddhati by Tryambakayajvan says household thresholds should bear ritual designs (Sahapedia)."
+      },
+      {
+        "when": "Margazhi tradition",
+        "what": "The poems of Andal, the Tiruppavai, speak of women's ritual art. Sahapedia notes that she uses the term mandala."
+      },
+      {
+        "when": "Present",
+        "what": "Kolam competitions in Chennai and other cities, and online sharing, keep the art visible."
+      }
+    ],
+    "future": [
+      "Teach children kolam in schools and community centres, along with its geometry.",
+      "Encourage natural rice flour and coloured powders from safe plant and mineral sources, in place of plastic stickers and chalk.",
+      "Pay women kolam artists fairly for festival and event work.",
+      "Collect and document pattern notebooks and oral names, with consent, in an open archive.",
+      "Support research that treats kolam as living heritage and credits the women who practise it."
+    ],
+    "pins": [
+      {
+        "lat": 13.0339,
+        "lng": 80.2619,
+        "label": "Mylapore, Chennai (Margazhi kolam competitions)",
+        "approximate": false
+      },
+      {
+        "lat": 9.9252,
+        "lng": 78.1198,
+        "label": "Madurai",
+        "approximate": true
+      },
+      {
+        "lat": 10.787,
+        "lng": 79.1378,
+        "label": "Thanjavur",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-significance-of-kolam-tamil-culture-c2eb53",
+      "en-wikipedia-org-wiki-kolam-8fd62b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "ladakhi-thangka",
+    "name": "Ladakhi Thangka",
+    "category": "Painting",
+    "states": [
+      "Ladakh"
+    ],
+    "color": "#7c2d12",
+    "motif": "lotus",
+    "tagline": "Rolled paintings of deities and mandalas, made in prayer and hung in the monasteries of the Indus valley.",
+    "facts": [
+      "Form: painted or embroidered scroll on cotton, linen or silk",
+      "Pigments: minerals and plants, with gold for sacred details",
+      "Subjects: Buddhas, Tara, Avalokiteshvara, mandalas, the Wheel of Life",
+      "Giant thangkas are unfurled at festivals such as Hemis"
+    ],
+    "art": [
+      "A thangka is a Buddhist scroll painting. The Tibetan word is usually explained as 'something that can be rolled up'. It is kept rolled when not in use, and is mounted on silk brocade so it can be carried and stored. In Ladakh it is described as the central form of religious art.",
+      "The painter stretches cotton or silk on a frame and coats it with chalk and natural glue. The design is first drawn on a grid. Buddhist texts fix the proportions of each figure, so a Buddha or a Tara is drawn by rule, not by taste. Colours come from minerals, plants and semi-precious stones, and gold marks the most sacred parts. One painting can take weeks or months.",
+      "Common subjects are Buddha Shakyamuni, Avalokiteshvara (Chenrezig), Tara, protector deities and mandalas. A mandala is a nested pattern of circles and squares around a central deity. The Bhavachakra, or Wheel of Life, shows the six realms of rebirth, held by Yama. Colours carry meaning: one source reads blue as wisdom, red as power and gold as enlightenment, and another reads white as purity and red as compassion. Different teachers explain the colours differently.",
+      "Thangkas are not decoration only. They are aids to meditation and teaching, and they are hung in monasteries and in household prayer rooms. Very large ones are unfurled on festival days. A source on Ladakh names Hemis, where large thangkas of Padmasambhava are shown during the festival."
+    ],
+    "artist": [
+      "Thangka painters were traditionally monks, and in Ladakh young monks and apprentices still learn in monastery workshops under master painters. The training covers technique, Buddhist philosophy and iconography. Sources describe the making as a ritual act, with purification, prayer and mantra chanting, and a blessing by lamas when the painting is finished.",
+      "Today the Central Institute of Buddhist Studies (CIBS) and the Ladakh Arts and Media Organisation (LAMO) are named as places that train young artisans in traditional methods, natural pigments and iconometry, the system of sacred proportions.",
+      "We did not find named painters in the sources we read, so we leave them out."
+    ],
+    "place": [
+      "Ladakh lies between India, Tibet and Central Asia, and its monasteries have long been places of learning as well as worship. Sources name Hemis, Thiksey, Spituk and Alchi among the places where thangka painting and sacred scrolls are found.",
+      "Hemis sits on the bank of the Indus about 45 km from Leh. Thiksey is known for its tall Maitreya figure and wall paintings. Alchi, further west, is also named as a place where the art flourished."
+    ],
+    "history": [
+      {
+        "when": "8th to 12th century",
+        "what": "Popular accounts trace thangka roots to Indian Pala-period painting; others place the start of the form in Nepal around the 8th century. Scholars do not agree on a single origin."
+      },
+      {
+        "when": "11th to 12th century",
+        "what": "The earliest surviving Tibetan cloth paintings that scholars cite date from around this time."
+      },
+      {
+        "when": "Later centuries",
+        "what": "Ladakhi painters are described as blending Tibetan, Indian and Nepalese influences into their own style."
+      },
+      {
+        "when": "Today",
+        "what": "Monasteries, CIBS and LAMO run training. Cheap printed copies and synthetic materials are named as a threat to the craft."
+      }
+    ],
+    "future": [
+      "Support apprenticeships so young painters can earn a living, since the long training puts many off.",
+      "Keep natural pigments in use and help pigment makers and cotton suppliers.",
+      "Photograph and document old thangkas in monastery stores, and teach safe storage in Ladakh's dry, cold climate.",
+      "Label printed copies as copies, so buyers can tell hand-painted work from prints.",
+      "Record the names of painters, so the makers are not forgotten."
+    ],
+    "pins": [
+      {
+        "lat": 34.1526,
+        "lng": 77.5771,
+        "label": "Leh",
+        "approximate": false
+      },
+      {
+        "lat": 33.9125,
+        "lng": 77.7028,
+        "label": "Hemis Monastery",
+        "approximate": false
+      },
+      {
+        "lat": 34.0486,
+        "lng": 77.6666,
+        "label": "Thiksey Monastery",
+        "approximate": true
+      },
+      {
+        "lat": 34.2167,
+        "lng": 77.17,
+        "label": "Alchi",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "jkartsfoundation-in-post-tibetan-thangka-art-in-ladakh-the-s-3fb60f",
+      "oaklores-com-2024-12-01-from-canvas-to-cosmos-the-enigmatic--89ffdc",
+      "en-wikipedia-org-wiki-thangka-5d285b",
+      "en-wikipedia-org-wiki-hemis-monastery-d0c58e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "lepakshi-murals",
+    "name": "Lepakshi Murals",
+    "category": "Painting",
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "color": "#7f1d1d",
+    "motif": "lotus",
+    "tagline": "Sixteenth-century ceilings in red ochre, lime white and lamp black, with a Veerabhadra over seven metres long.",
+    "facts": [
+      "Period: 16th century, Vijayanagara style",
+      "Palette: red and yellow ochre, earth brown, lime white, lamp black, green",
+      "Patrons: Virupanna and Viranna",
+      "Temple is maintained by the Archaeological Survey of India"
+    ],
+    "art": [
+      "The Veerabhadra temple at Lepakshi has painted ceilings and walls from the Vijayanagara period. They show scenes from the Ramayana, the Mahabharata and the Puranas, and forms of Shiva.",
+      "The IIACD documentation records the palette as red ochre, yellow ochre, earth brown, lime white, lamp black and green. Colours are laid flat and outlined in black or red ochre. Each scene is arranged around a centre, and figures are shown singly with little overlap, set apart by body colour, dress and ornament.",
+      "In the mukhamantapa is a large image of Veerabhadra, recorded at 7.7 by 4.3 m. IIACD calls it the largest single-figure painting of its period. Other writers use grander claims such as largest in Asia, and these claims conflict.",
+      "In the natyamantapa a cosmic lotus is at the centre of the ceiling. Around it are Kiratarjuniya in over fifteen scenes, the marriage of Parvati, and the story of Manuneeti Cholan, the longest single panel in the temple."
+    ],
+    "artist": [
+      "The painters are not named in the sources I read. The murals are generally dated to the 16th century and probably belong to the same period as the temple.",
+      "Virupanna and Viranna, Vijayanagara officials, funded the temple. Panels show Virupanna and his brothers worshipping Veerabhadra, so the patrons are painted into the walls.",
+      "IIACD says the style is close to the ceiling paintings at the Chennakesava temple at Sompalem in Chittoor district."
+    ],
+    "place": [
+      "Lepakshi is a village about 15 km east of Hindupur and about 120 km from Bengaluru. The temple stands on Kurmasila, a tortoise-shaped hill. It holds three shrines: Veerabhadra, Papanaseswara (Shiva) and Raghunatha (Vishnu).",
+      "A large monolithic Nandi bull stands at the village entrance, facing the temple. The Federal notes that the temple and the bull were added to India's tentative list for UNESCO World Heritage in 2022."
+    ],
+    "history": [
+      {
+        "when": "1493",
+        "what": "IIACD notes an inscription dated 1493, in the reign of Saluva Immadi Narasimha, which mentions the Papanaseswara cave temple."
+      },
+      {
+        "when": "1530 to 1542",
+        "what": "The Veerabhadra and Raghunatha shrines and the present Papanaseswara shrine seem to belong to the reign of Achyuta Deva Raya. Virupanna and Viranna funded them. Some writers give about 1538, and others 1530 or 1540, so the date is approximate."
+      },
+      {
+        "when": "16th century",
+        "what": "The murals are dated to this century. Hanumantha Rao's book Lepakshi Temples (2004) is cited for this."
+      },
+      {
+        "when": "Later periods",
+        "what": "Some panels were retouched in later times, according to the Auro Society article."
+      },
+      {
+        "when": "2022",
+        "what": "The temple and Nandi were added to India's tentative UNESCO list, according to The Federal."
+      }
+    ],
+    "future": [
+      "Restore the damaged panels with trained mural conservators. IIACD records bat damage in the Raghunatha shrine and The Federal reports that most panels outside the Veerabhadra figure are deteriorating.",
+      "Control bats, soot from lamps and damp, which are named as causes of damage.",
+      "Make a full digital record of every panel before more is lost.",
+      "Train local guides to explain the stories, and share the record with schools.",
+      "Protect the site through the ASI while involving the village, which depends on its visitors."
+    ],
+    "pins": [
+      {
+        "lat": 13.81,
+        "lng": 77.6,
+        "label": "Veerabhadra temple, Lepakshi",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "iiacd-org-south-indian-murals-lepakshi-veerabhadraswamy-temp-591b9b",
+      "thefederal-com-category-the-eighth-column-the-vanishing-mura-6b4118",
+      "renaissance-aurosociety-org-68c4c7",
+      "en-wikipedia-org-wiki-lepakshi-1597a2"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "madhubani",
+    "name": "Madhubani",
+    "category": "Painting",
+    "states": [
+      "Bihar"
+    ],
+    "color": "#c2410c",
+    "motif": "fish",
+    "tagline": "Walls of Mithila that became paper, and paper that travelled the world.",
+    "facts": [
+      "Medium: walls, handmade paper, cloth",
+      "Pigments: natural dyes, rice paste, lampblack",
+      "Tools: bamboo nibs, twigs, fingers"
+    ],
+    "art": [
+      "Madhubani, also called Mithila painting, is known for dense, flat-colour figures with double-line borders and almost no empty space. Fish, birds, the sun and moon, lotuses, bamboo groves and scenes from the Ramayana and Krishna stories recur.",
+      "It was traditionally made by women on freshly plastered walls, especially the kohbar, the inner room where a newly married couple spends their first days. The images are blessings: fertility, abundance and union.",
+      "Scholars commonly describe several styles: Bharni (filled colour), Katchni (fine line work), Tantrik, Godna (tattoo-inspired) and Kohbar."
+    ],
+    "artist": [
+      "Mithila painting was passed from mother to daughter and from aunt to niece. The painter was rarely credited by name because the work belonged to the household and the occasion.",
+      "That changed as the art moved to paper. Sita Devi, Ganga Devi and Mahasundari Devi became widely known and received Padma Shri honours, and Baua Devi was honoured in 2017. Today men also paint, and artists from different caste communities, once associated with distinct styles, now share and blend them.",
+      "Our approach: every artwork we feature should name its maker, her village and her story."
+    ],
+    "place": [
+      "Mithila is a cultural region spanning northern Bihar and the adjoining Terai of Nepal. Madhubani is the district town most associated with the art; villages such as Jitwarpur and Ranti are known painting centres.",
+      "The land is a flood plain fed by the Kosi, Kamla and other Himalayan rivers. Fish, water and lotus imagery grows from that landscape, and the region's Maithili language, songs and Sita's legend as Mithila's daughter shape the stories told."
+    ],
+    "history": [
+      {
+        "when": "Ancient to medieval",
+        "what": "Oral tradition and literary references link Mithila with ritual floor and wall decoration. Sita's marriage in Mithila anchors much of the imagery."
+      },
+      {
+        "when": "1934",
+        "what": "After a major earthquake in Bihar, British colonial officer William G. Archer photographed paintings on the walls of damaged homes, bringing them to outside attention."
+      },
+      {
+        "when": "1960s",
+        "what": "During a severe drought, the All India Handicrafts Board encouraged village women to paint on paper as an income source."
+      },
+      {
+        "when": "1970s–80s",
+        "what": "Artists such as Sita Devi and Ganga Devi gained national and international recognition and exhibited abroad."
+      },
+      {
+        "when": "Today",
+        "what": "Painting is a livelihood for many families, sold through cooperatives, fairs and online; the art has also spread to products and public murals."
+      }
+    ],
+    "future": [
+      "Credit and pay: build direct-to-artist storytelling and fair pricing so the maker's name travels with the work.",
+      "Pass on the craft: partner with schools and village studios so younger painters learn both the traditional canon and new themes.",
+      "Safeguard authenticity: help buyers tell hand-painted work from prints.",
+      "Climate resilience: document flood-affected communities and support art-based income that does not depend on the farming season."
+    ],
+    "pins": [
+      {
+        "lat": 26.35,
+        "lng": 86.07,
+        "label": "Madhubani",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "madhubani-art.jpg",
+        "alt": "A display of Madhubani paintings at a craft stall.",
+        "caption": "",
+        "author": "Raj Gopal Singh Verma राजगोपाल सिंह वर्मा",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Madhubani_paintings_or_Milithila_Painting-IMG_0103.jpg"
+      },
+      {
+        "kind": "artist",
+        "file": "madhubani-artist.jpg",
+        "alt": "A Madhubani artist drawing at Dilli Haat, Delhi.",
+        "caption": "An artisan at work.",
+        "author": "Pallav.journo",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dilli_Haat_Madhubani_Mithila_Painting_Artist.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "mandana",
+    "name": "Mandana Wall Art",
+    "category": "Painting",
+    "states": [
+      "Madhya Pradesh",
+      "Rajasthan"
+    ],
+    "color": "#b91c1c",
+    "motif": "triangles",
+    "tagline": "White chalk designs on red clay, drawn by women to welcome blessings into the home.",
+    "facts": [
+      "Medium: lime or chalk (khadiya) on red ochre (geru) and cow dung",
+      "Rajasthan: walls and floors; Madhya Pradesh: mostly floors",
+      "Makers: mainly Meena women",
+      "Tools: date-twig brush, hair or cotton"
+    ],
+    "art": [
+      "Mandana are wall and floor paintings from Rajasthan and Madhya Pradesh. Wikipedia says they are drawn to protect hearth and home, to welcome the gods and to mark festivals and weddings.",
+      "The ground is clay plastered with cow dung and a local red clay or ochre. Designs are drawn in white lime or chalk, using cotton, a tuft of hair or a brush made from a date twig (Wikipedia; Utsavpedia).",
+      "Motifs include Ganesha, peacocks, women at work, tigers and flowers, along with geometric forms such as triangles and jaali lattices. Utsavpedia adds that newer designs show tractors, bullock carts and buses.",
+      "Utsavpedia says the art is traditionally done at Navratri and Diwali after the house is cleaned. It is linked to rangoli."
+    ],
+    "artist": [
+      "Mandana is mainly made by Meena women, and skills pass from mothers to daughters by watching and copying (Utsavpedia). Wikipedia notes the Meena women of Hadoti in Rajasthan for their symmetrical, precise designs.",
+      "Wikipedia names Koshalya Devi of Baran as an artist who has helped conserve the traditional white-on-red style and who has painted over 100 designs on hardboard in oil.",
+      "Wikipedia and Utsavpedia both say the practice has become less visible. Utsavpedia says adapting the style to canvas has not revived it in villages."
+    ],
+    "place": [
+      "In Rajasthan, mandana appears on both walls and floors. Utsavpedia names Tonk and Sawai Madhopur as places where it survives. In Madhya Pradesh it is mostly limited to floors, according to the same source.",
+      "In both states the art belongs to the home. Walls and courtyards are renewed with fresh clay at festival times, so each painting is temporary."
+    ],
+    "history": [
+      {
+        "when": "Origin",
+        "what": "I found no reliable source for when mandana began; it is a household tradition passed on by women."
+      },
+      {
+        "when": "Traditional practice",
+        "what": "Drawn at Navratri, Diwali, weddings and births (Utsavpedia)."
+      },
+      {
+        "when": "2009",
+        "what": "Madan Meena's book Nurturing Walls: Animal Paintings by Meena Women is published, as cited in Wikipedia."
+      },
+      {
+        "when": "2016",
+        "what": "The Hindustan Times reports on an artist struggling to keep the tradition alive, as cited by Wikipedia."
+      },
+      {
+        "when": "Recent decades",
+        "what": "Designs are adapted to canvas, saris and salwar kameez fabrics (Utsavpedia)."
+      }
+    ],
+    "future": [
+      "Training: workshops where older women teach girls, in school or village.",
+      "Livelihood: pay women for commissioned work on cloth and canvas under their own names.",
+      "Materials: keep local ochre, chalk and clay in use.",
+      "Documentation: record designs and the names for them in each district, since Rajasthan and Madhya Pradesh differ.",
+      "Protection: encourage villages to keep festival practice, which is what the art is for."
+    ],
+    "pins": [
+      {
+        "lat": 26.17,
+        "lng": 75.79,
+        "label": "Tonk, Rajasthan",
+        "approximate": true
+      },
+      {
+        "lat": 26.02,
+        "lng": 76.35,
+        "label": "Sawai Madhopur, Rajasthan",
+        "approximate": true
+      },
+      {
+        "lat": 23.18,
+        "lng": 75.78,
+        "label": "Malwa region, Ujjain",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-mandana-painting-f08139",
+      "utsavpedia-com-motifs-embroideries-mandana-paintings-f46171"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "manjusha-art",
+    "name": "Manjusha Art",
+    "category": "Painting",
+    "states": [
+      "Bihar"
+    ],
+    "color": "#7c2d12",
+    "motif": "scroll",
+    "tagline": "Snakes, a boat and a faithful wife, painted on temple-shaped boxes made for the snake goddess.",
+    "facts": [
+      "Region: Anga, around Bhagalpur in eastern Bihar",
+      "Story: Bihula and the Bishahari sisters",
+      "Painted on boxes of bamboo, jute straw and paper, and on walls",
+      "Sources differ on age: 7th century is often cited, and some artists claim far older"
+    ],
+    "art": [
+      "Manjusha comes from a Sanskrit word for box. The boxes are temple-shaped and are used in Bishahari Puja, the worship of the snake goddesses in Bhagalpur. Sahapedia describes them as made of bamboo, jute straw and paper, and painted with scenes from the story of Bihula and the Bishahari sisters. The same story is painted on pots used in the worship and on house walls.",
+      "The story, as Sahapedia tells it, is this. Five Bishahari sisters sought worship from Chando Saudagar, a rich merchant of Champanagar and a devotee of Shiva. He refused. His six sons died at sea and the seventh, Bala Lakhendra, was bitten by a snake on his wedding night. His wife Bihula floated with his body on a boat, covered by a manjusha, to the world of the gods. She won back his life and the merchant agreed to worship the Bishaharis.",
+      "The look of the art is easy to spot. Human figures are drawn in an X shape with raised arms, large eyes and no ears. Borders carry motifs such as river ripples (leheriya), groups of snakes (sarp ladi), triangles and the bel leaf, which is sacred to Shiva. Sahapedia says each Bishahari sister is known by what she holds: a bow and arrow, a rising sun, a lotus, a mynah bird, or snakes in both hands. Outlines were traditionally drawn in green, though some artists now use black.",
+      "Writers call it a line drawing, a folk art and a scroll painting. It is often called Angika art or, by outsiders, snake painting."
+    ],
+    "artist": [
+      "The art was made in the households around Bhagalpur. Sahapedia says the ceremonial boxes were traditionally made by Malakar families and the worship pots by Kumbhakar families. Women and men both painted murals in the worship space and in the rooms of newly married couples.",
+      "Several people are named as helping its revival. Chakravarty Devi, from a Malakar family, organised artisans and received the Bihar Kala Award (the Sita Devi Award). Basant Pandit and Chhedi Pandit, Kumbhakar artists of Champanagar, are credited with reviving the work. Manoj Pandit, a fine arts graduate, tried new materials and was given the title Manjusha Kala Guru by the Ministry of Culture in 2014. Other artists named include Nirmala Devi, Ulupi Jha and Soma Roy.",
+      "Today artists also paint on silk and other fabrics and make more abstract pieces, while keeping the religious motifs."
+    ],
+    "place": [
+      "Manjusha belongs to Anga, the old region of eastern Bihar whose capital Champa lies near today's Bhagalpur. Sahapedia notes that rivers separated Anga from neighbouring Magadha and Vajji, which is one reason given for the art staying so local.",
+      "Bhagalpur is on the Ganga. The Bishahari Puja is held there and in nearby areas. The Bihula-Bishahari story is also sung as an oral gatha, though Sahapedia says it is now less popular. Manjusha work is seen on some government buildings in Bhagalpur, and workshops have been held under the Bhagalpur Smart City project."
+    ],
+    "history": [
+      {
+        "when": "Ancient Anga",
+        "what": "Anga is named in early texts. Sahapedia says Champa was its capital and that Magadha under Bimbisara annexed it in the 6th century BC."
+      },
+      {
+        "when": "Age of the art",
+        "what": "Wikipedia, citing a promotional foundation, says the art dates to the 7th century. Some artists, quoted by Sahapedia, link it to the Indus period (about 2600 BC) because of snake terracottas found at Karnagarh. This second claim is the artists' own and is not firmly established."
+      },
+      {
+        "when": "1930s",
+        "what": "Sahapedia says W.G. Archer, an ICS officer, documented the paintings and his collection was shown at the India Office Library in London."
+      },
+      {
+        "when": "After 1947",
+        "what": "Sahapedia says patronage fell and the art nearly died out."
+      },
+      {
+        "when": "1980s",
+        "what": "The Bihar government's public relations department revived interest through slide shows in villages."
+      },
+      {
+        "when": "2007",
+        "what": "Disha Gramin Vikas Manch worked with NABARD to build livelihoods through the art."
+      },
+      {
+        "when": "2012-2016",
+        "what": "Awards were given to Manjusha artists, including the Manjusha Kala Guru title in 2014."
+      }
+    ],
+    "future": [
+      "Training: workshops for young painters, so the Malakar and Kumbhakar knowledge is not lost",
+      "Livelihood: new products on fabric and paper, with fair prices to the artist",
+      "Materials: keep the boxes, bamboo and natural colours alive for worship, not only for sale",
+      "Documentation: record the Bihula-Bishahari gatha, which is now sung less",
+      "Protection: seek recognition such as a GI tag, if the community wants it, to separate genuine Bhagalpur work from copies"
+    ],
+    "pins": [
+      {
+        "lat": 25.2425,
+        "lng": 86.9842,
+        "label": "Bhagalpur",
+        "approximate": false
+      },
+      {
+        "lat": 25.248,
+        "lng": 87,
+        "label": "Champanagar, ancient Champa",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-manjusha-exploring-traditional-art-form-anga-p-1e2d71",
+      "en-wikipedia-org-wiki-manjusha-art-3c6ab2"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "medinipur-patachitra",
+    "name": "Medinipur Patachitra",
+    "category": "Painting",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#92400e",
+    "motif": "scroll",
+    "tagline": "Painted scrolls that are sung as they unroll, from the patuas of Naya.",
+    "facts": [
+      "Scroll painting on cloth, sung while shown (pater gaan)",
+      "Painters are called patuas, often with surname Chitrakar",
+      "Bengal Patachitra received a GI tag in 2018",
+      "About 300 patuas live in Naya, according to Down To Earth"
+    ],
+    "art": [
+      "A patachitra is a painted scroll. The patua unrolls it a section at a time and sings a song that tells what each picture shows. Wikipedia quotes that every patachitra has a song to go with it.",
+      "Subjects include the Ramayana and Mahabharata, Radha-Krishna, Chaitanya, Kali and Shiva, and Bengali tales such as Manasa, Chandi and Behula-Lakhindar. Some scrolls tell news and social issues, such as dowry. Naya's recent scrolls have shown COVID-19 and strong women.",
+      "Colours come from plants and minerals. Wikipedia lists chalk for white, pauri for yellow, indigo for blue, bhushakali for black and sindur for red. Down To Earth adds that artists now also use modern paint and varnish to make scrolls last. Wikipedia says Medinipur scrolls are known for large seated figures."
+    ],
+    "artist": [
+      "Patuas have been scroll painters and singers for generations. Down To Earth describes Naya, where Swarna Chitrakar is a role model; she overcame poverty and discrimination and keeps the art alive, with her husband and daughter. In 2018 she showed her work at a UNESCO General Assembly in Paris.",
+      "Wikipedia notes Manimala Chitrakar for bold colour and a personal iconography. Folklibrary says the project covering patachitra included about 380 artists from Paschim Medinipur and 319 from Purba Medinipur.",
+      "Artists sell online and take custom orders, and Pingla has become a known market."
+    ],
+    "place": [
+      "Naya is in Pingla block, Paschim Medinipur. Down To Earth says the nearest railway station is 11 km away. The village is far from big towns, yet scrolls from Naya are held in the National Museum of Ethnology in Lisbon, according to Wikipedia.",
+      "Medinipur lies in the lower Ganga plain of south-west Bengal. Purulia, Birbhum and Bankura also have patachitra traditions with their own colour schemes."
+    ],
+    "history": [
+      {
+        "when": "Uncertain",
+        "what": "Wikipedia says the dating is disputed, with some sources linking it to the pre-Pala period from the historical themes in songs."
+      },
+      {
+        "when": "2013-2016",
+        "what": "Patachitra is included in a Ministry of Textiles craft cluster project, per Folklibrary."
+      },
+      {
+        "when": "2018",
+        "what": "Bengal Patachitra receives a GI tag. The tag covers Bengal as a whole, not only Medinipur."
+      }
+    ],
+    "future": [
+      "Training: teach young patuas the song as well as the painting.",
+      "Livelihood: keep direct online and custom sales, led by women artists.",
+      "Materials: record and keep plant and mineral colour recipes beside modern paints.",
+      "Documentation: record scroll songs and their painters.",
+      "Protection: use the GI to separate hand-painted scrolls from printed copies."
+    ],
+    "pins": [
+      {
+        "lat": 22.42,
+        "lng": 87.58,
+        "label": "Naya, Pingla",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "folklibrary-com-craft-medinipur-patachitra-4c5b74",
+      "downtoearth-org-in-blog-governance-naya-s-women-patuas-are-p-4a26cc",
+      "en-wikipedia-org-wiki-patachitra-412b4e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mewar-kishangarh-miniatures",
+    "name": "Mewar and Kishangarh Miniature Painting",
+    "category": "Painting",
+    "states": [
+      "Rajasthan"
+    ],
+    "color": "#9a3412",
+    "motif": "scroll",
+    "tagline": "Bold, flat colour in Mewar; long-eyed, devotional elegance in Kishangarh.",
+    "facts": [
+      "Two Rajput court schools of Rajasthan",
+      "Mewar: earliest dated work is the Chawand Ragamala of 1605",
+      "Kishangarh: best known for Nihal Chand's Bani Thani",
+      "Both patronised by royal courts"
+    ],
+    "art": [
+      "Mewar and Kishangarh are two of the Rajasthani courts that produced miniature paintings under Rajput rulers. Their styles are very different.",
+      "Wikipedia's account of Mewar painting calls it a conservative idiom: bright colour, flat forms, abstract shapes and bold line. Early works were manuscripts. Later, at Udaipur, court paintings grew larger and recorded durbars, festivals, hunts and temple visits.",
+      "Kishangarh painting is known for slender figures with long necks, arched eyebrows, lotus-shaped eyes and a pointed nose and chin. The themes are Krishna's life and the epics, in the moods of bhakti (devotion) and shringara (romance). Colours include white, yellow and pink, and the materials include handmade paper (basli), a chalk ground (khadiya) and natural pigments.",
+      "The best-known Kishangarh picture is the portrait called Bani Thani, often called the Indian Mona Lisa. That nickname is popular, not scholarly."
+    ],
+    "artist": [
+      "Mewar names are well documented. Nasiruddin painted the Chawand Ragamala in 1605. Sahibdin (active 1628-55) led the workshop under Jagat Singh I and worked on a large Ramayana with Manohar. Later names include the Stipple Master (active c. 1692-1715, anonymous), Jai Ram, Bagta, Chokha, Baijnath and Tara.",
+      "Kishangarh's leading painter was Nihal Chand (1710-1782), credited with the Bani Thani portraits and with beginning to show the royal couple as Krishna and Radha. Some sources say Sawant Singh sketched the ideas himself; this is not settled.",
+      "In the 19th century, Nathdwara painting centred on the Shrinathji temple. Ghasiram Sharma (1869-1932) carried its devotional style into the 20th century."
+    ],
+    "place": [
+      "Mewar was based first around Chittor and later Udaipur in southern Rajasthan. It was the last Rajput state to accept Mughal overlordship, in 1615, according to Wikipedia. Painting also flourished at Deogarh and at Nathdwara.",
+      "Kishangarh is a small princely town in central Rajasthan, near Ajmer. Its courts used the town's lakes and palaces as the settings of its paintings, with turquoise lakes, terraced gardens and marble pavilions, as EBSCO describes."
+    ],
+    "history": [
+      {
+        "when": "1605",
+        "what": "The Chawand Ragamala by Nasiruddin is the earliest dated Mewar work."
+      },
+      {
+        "when": "1615",
+        "what": "Mewar accepts Mughal suzerainty after long resistance."
+      },
+      {
+        "when": "1628-1652",
+        "what": "Under Jagat Singh I, Sahibdin leads a large output including a Bhagavata Purana (1648) and a Ramayana (1649-53)."
+      },
+      {
+        "when": "c. 1692-1773",
+        "what": "Udaipur court painting develops: the Stipple Master under Amar Singh II, large durbar scenes under Sangram Singh II and Jagat Singh II."
+      },
+      {
+        "when": "1748",
+        "what": "Sawant Singh begins to rule Kishangarh. EBSCO gives his death as 1764 and 30 Stades gives his reign as 1748-57, so sources differ on when it ended."
+      },
+      {
+        "when": "Mid-18th century",
+        "what": "Nihal Chand paints Bani Thani and the couple as Radha and Krishna. EBSCO notes some finest works were made in the decade or so after Sawant Singh's death."
+      },
+      {
+        "when": "Early 19th century",
+        "what": "The Kishangarh school largely ends."
+      },
+      {
+        "when": "1949",
+        "what": "Royal patronage in Mewar ends with the end of princely powers."
+      }
+    ],
+    "future": [
+      "Support schools and workshops that teach traditional miniature technique: paper preparation, natural pigments and fine brush work.",
+      "Pay painters fairly for original work, and make copies and prints clear as copies.",
+      "Digitise manuscripts and paintings held in palaces, museums and private collections, with open access and local-language notes.",
+      "Name the painters in exhibitions and labels, not only the rulers.",
+      "Protect natural pigments and handmade paper makers who supply the studios."
+    ],
+    "pins": [
+      {
+        "lat": 24.58,
+        "lng": 73.71,
+        "label": "Udaipur",
+        "approximate": false
+      },
+      {
+        "lat": 24.88,
+        "lng": 74.63,
+        "label": "Chittorgarh",
+        "approximate": false
+      },
+      {
+        "lat": 24.93,
+        "lng": 73.82,
+        "label": "Nathdwara",
+        "approximate": false
+      },
+      {
+        "lat": 25.53,
+        "lng": 73.92,
+        "label": "Deogarh",
+        "approximate": true
+      },
+      {
+        "lat": 26.57,
+        "lng": 74.87,
+        "label": "Kishangarh",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-mewar-painting-89aa35",
+      "ebsco-com-research-starters-arts-and-entertainment-kishangar-0bd728",
+      "30stades-com-2022-08-19-bani-thani-indias-mona-lisa-kishanga-2f1667"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mughal-miniature",
+    "name": "Mughal Miniature Painting",
+    "category": "Painting",
+    "states": [
+      "Delhi",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "color": "#1e3a5f",
+    "motif": "scroll",
+    "tagline": "Court painting made in imperial workshops, from Persian roots to portraits, animals and emperors.",
+    "facts": [
+      "Period: roughly 1530s to the 18th century",
+      "Roots: Persian miniature painting",
+      "Medium: opaque watercolour and gold on paper",
+      "Hamzanama: about 1,400 cotton folios, worked on 1562 to 1577"
+    ],
+    "art": [
+      "Mughal painting grew from Persian miniature painting and became almost entirely secular, with a strong interest in portraits, animals and plants. It was made for the court, to illustrate books and to record the emperor's life.",
+      "Works were done in opaque watercolour and gold on paper, then mounted in borders and placed between decorated covers. Wikipedia describes a team method. Senior artists outlined the composition, junior artists applied colour, and specialists sometimes painted faces.",
+      "The Hamzanama is the great early project. According to Wikipedia it was worked on from 1562 to 1577, on about 1,400 cotton folios, each about 69 by 54 cm. It helped merge artists from Iran and different parts of India into one style.",
+      "Under Jahangir the brushwork became finer and the colours lighter, with European influence on perspective and a taste for nature studies. Under Shah Jahan, court painting became more formal, with the emperor shown in strict profile. The Padshahnama, now at Windsor, was painted on gold-flecked paper."
+    ],
+    "artist": [
+      "Wikipedia names several painters. Basawan was active around 1580 to 1600, and his son Manohar Das around 1582 to 1624. Daswanth, who died in 1584, worked on the Razmnama. Ustad Mansur, active around 1590 to 1624, was a specialist in animals and plants. Bichitr, active around 1610 to 1660, was a portraitist with European influence.",
+      "Akbar liked artists' names to be written below the paintings. This is why scholars can attribute many works to named hands. He hired over one hundred painters between 1570 and 1585, according to the same page.",
+      "Humayun brought the Persian artists Abd al-Samad and Mir Sayyid Ali to India after his exile at the Safavid court. Akbar studied painting under Abd al-Samad."
+    ],
+    "place": [
+      "The imperial workshops moved with the court. Wikipedia places the early work in Delhi and Agra, and Akbar's reign includes Fatehpur Sikri, near Agra in Uttar Pradesh. I did not find a source on the exact location of each workshop, so the map pins mark these cities in general.",
+      "After the Mughal court weakened, many painters moved to Rajput courts. This is how Mughal ideas flowed into Rajasthani painting, and why Rajasthan is in this entry's state line.",
+      "Large collections of Mughal paintings are held in museums in India and abroad. The Padshahnama is in the Royal Collection at Windsor."
+    ],
+    "history": [
+      {
+        "when": "1530s to 1556",
+        "what": "Humayun is exposed to Persian miniatures in exile and brings Abd al-Samad and Mir Sayyid Ali to India."
+      },
+      {
+        "when": "c. 1560 to 1566",
+        "what": "The Tutinama shows the imperial style taking shape."
+      },
+      {
+        "when": "1562 to 1577",
+        "what": "The Hamzanama is made under Akbar."
+      },
+      {
+        "when": "1570 to 1585",
+        "what": "Akbar hires more than a hundred painters, per Wikipedia."
+      },
+      {
+        "when": "1605 to 1627",
+        "what": "Under Jahangir, finer brushwork, portraits and natural-history studies."
+      },
+      {
+        "when": "1628 to 1658",
+        "what": "Under Shah Jahan, a formal style. The Padshahnama is painted."
+      },
+      {
+        "when": "After c. 1668",
+        "what": "Aurangzeb probably commissioned no paintings after about this date."
+      },
+      {
+        "when": "1719 to 1748",
+        "what": "A short revival under Muhammad Shah. By the time of Shah Alam II (1759 to 1806) its earlier standing is gone, and Rajput and Company painting take over."
+      }
+    ],
+    "future": [
+      "Training: a few families and art schools still teach miniature techniques, but I did not find a specific source on Mughal-style training today.",
+      "Livelihood: modern miniature painters sell copies and new work in Delhi, Agra and Jaipur. The market mixes careful work with cheap copies.",
+      "Materials: mineral and plant pigments, gold, and handmade paper are costly. Supporting small suppliers keeps the methods alive.",
+      "Documentation: digitising museum folios, with the names of artists where known, helps study and teaching.",
+      "Protection: original folios need controlled light and humidity. Illegal trade in manuscript leaves is a concern for museums."
+    ],
+    "pins": [
+      {
+        "lat": 28.6139,
+        "lng": 77.209,
+        "label": "Delhi (Mughal court)",
+        "approximate": false
+      },
+      {
+        "lat": 27.1767,
+        "lng": 78.0081,
+        "label": "Agra, Uttar Pradesh (Mughal court)",
+        "approximate": false
+      },
+      {
+        "lat": 27.0945,
+        "lng": 77.6679,
+        "label": "Fatehpur Sikri, Uttar Pradesh (Akbar's capital)",
+        "approximate": false
+      },
+      {
+        "lat": 26.9124,
+        "lng": 75.7873,
+        "label": "Jaipur, Rajasthan (Rajput courts took in Mughal-trained painters)",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-mughal-painting-d383e3",
+      "en-wikipedia-org-wiki-rajput-painting-e1ea1c"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mysore",
+    "name": "Mysore Painting",
+    "category": "Painting",
+    "states": [
+      "Karnataka"
+    ],
+    "color": "#ca8a04",
+    "motif": "arch",
+    "tagline": "Serene gods in gold leaf, from the court of the Wodeyars.",
+    "facts": [
+      "Medium: paper pasted on wood or cloth",
+      "Materials: gesso, gold leaf, natural pigments",
+      "Subject: Hindu gods, goddesses and court scenes"
+    ],
+    "art": [
+      "Mysore paintings are known for their gentle, calm figures with delicate faces, soft shading and fine gold leaf. Gods and goddesses sit in decorated arches amid floral borders.",
+      "A raised gesso paste is applied to ornaments before gilding, which gives the jewellery a relief look, and every layer is done by hand."
+    ],
+    "artist": [
+      "The art is made by trained painters, many from families in Mysuru, who follow strict rules for the proportions and colours of each deity.",
+      "A single painting can take weeks or months.",
+      "Our approach: show the process, layer by layer."
+    ],
+    "place": [
+      "Mysuru was the seat of the Wodeyar rulers, known for palaces, silk, sandalwood and the Dasara festival.",
+      "The city remains a major cultural centre in southern Karnataka."
+    ],
+    "history": [
+      {
+        "when": "Vijayanagara era",
+        "what": "The style has roots in painting traditions of the Vijayanagara empire."
+      },
+      {
+        "when": "Wodeyar patronage",
+        "what": "The Mysore court supported painters and the style flowered."
+      },
+      {
+        "when": "Today",
+        "what": "A small number of studios keep the tradition."
+      }
+    ],
+    "future": [
+      "Offer apprenticeships to younger painters.",
+      "Rely on sustainable gold-leaf sourcing.",
+      "Let visitors see the stages in open workshops."
+    ],
+    "pins": [
+      {
+        "lat": 12.3,
+        "lng": 76.64,
+        "label": "Mysuru",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "nirmal-art",
+    "name": "Nirmal Paintings and Toys",
+    "category": "Painting",
+    "states": [
+      "Telangana"
+    ],
+    "color": "#92400e",
+    "motif": "lotus",
+    "tagline": "Gold-touched paintings and soft-wood toys from the Naqash families of Nirmal.",
+    "facts": [
+      "Makers: Naqash (Nakkash) artisans",
+      "Toys: soft poniki wood, painted and oiled",
+      "Paintings: lacquered wood, bright colours, a touch of gold",
+      "GI: toys tagged in 2008 per one source; others say 2009"
+    ],
+    "art": [
+      "Nirmal is known for two related crafts. Nirmal paintings are made on lacquered wooden boards, often with a black ground, in bright colours with gold touches. Nirmal toys are small painted wooden figures of fruit, birds, animals and village people.",
+      "For the paintings, the artist coats the wood, traces a design in chalk, fills it with colour, adds gold and varnishes it. Wikipedia says colours came from minerals, herbs and plants. Outlook Traveller adds that the style shows Ajanta, Mughal and Rajasthani miniature influence, and that a touch of gold marks Nirmal work.",
+      "For the toys, the main wood is poniki (Givotia rottleriformis), a soft white wood from Adilabad forests. Pieces are sun-dried and joined with lappam, a paste of sawdust and tamarind seed powder. A coat of glue and river silt gives a white base. Painting is now mostly with enamel, and the finish is groundnut oil, according to an excerpt from a book on Nirmal toys published by ThePrint.",
+      "Themes are mythology, folk tales, flowers and everyday life. Craftspeople now also paint furniture and utility goods."
+    ],
+    "artist": [
+      "The makers are the Naqash community. The toy makers are described as the Somakshatriya subgroup. Accounts of how they came to Nirmal differ. One names a 17th-century general, Nimmal Naidu, who founded a weapons foundry. The community itself says it arrived during Vijayanagara rule. Another feature says a chieftain brought them from Rajasthan, but that their origins are lost in antiquity.",
+      "Nirmal was a weapons centre until Hyderabad's annexation in 1948 ended the Nizam's patronage. Since 1955 a state-funded cooperative has supported the artisans, and most now work through it. Some women work from home.",
+      "Our approach: name the cooperative's painters and toy makers and show who paints which part."
+    ],
+    "place": [
+      "Nirmal is a town in Nirmal district, northern Telangana, about 220 km by road from Hyderabad. Basara, about 70 km away, has more places to stay.",
+      "The poniki wood comes from forests in Adilabad district. ThePrint's excerpt says present rules let artisans collect only fallen trees, which makes the wood harder and costlier to find."
+    ],
+    "history": [
+      {
+        "when": "14th century (traditional)",
+        "what": "The government handicrafts portal and Wikipedia say Naqash artisans practised the art as early as the 14th century."
+      },
+      {
+        "when": "Kakatiya era (attributed)",
+        "what": "Some writers link the art to the Kakatiya period. Sources differ and this is not firmly documented."
+      },
+      {
+        "when": "17th century (one account)",
+        "what": "A general named Nimmal Naidu is said to have founded a weapons foundry at Nirmal."
+      },
+      {
+        "when": "1948",
+        "what": "Hyderabad's annexation ends the Nizam's patronage."
+      },
+      {
+        "when": "1950s",
+        "what": "Wikipedia says Lady Hyderi brought the artisans to Hyderabad state and promoted the craft."
+      },
+      {
+        "when": "1955",
+        "what": "A state-funded cooperative begins to support the artisans."
+      },
+      {
+        "when": "2008 or 2009",
+        "what": "Nirmal toys receive a GI tag; sources differ on the year."
+      }
+    ],
+    "future": [
+      "Training: courses for new learners, already run by the state and NGOs, with paid apprenticeships.",
+      "Livelihood: new products and fair prices so that painting pays as well as other work.",
+      "Materials: planted poniki stock and safe pigments, as wood and natural colours are hard to get.",
+      "Documentation: record traditional designs and colour recipes.",
+      "Protection: guard the GI and label genuine pieces. Reports say toy-making families fell from about 200 to 40."
+    ],
+    "pins": [
+      {
+        "lat": 19.1,
+        "lng": 78.35,
+        "label": "Nirmal town",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "theprint-in-pageturner-excerpt-crafting-play-the-art-of-nirm-909ef6",
+      "en-wikipedia-org-wiki-nirmal-paintings-f02841",
+      "outlooktraveller-com-explore-culture-nirmal-home-to-nakkash--43e08b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "pahari-wall-painting",
+    "name": "Pahari Wall Painting",
+    "category": "Painting",
+    "states": [
+      "Himachal Pradesh"
+    ],
+    "color": "#6b3a2a",
+    "motif": "arch",
+    "tagline": "Murals in hill temples and bridal rooms, where the miniature painter's world meets the wall.",
+    "facts": [
+      "Form: murals on temple and house walls in the Pahari region",
+      "Example: Devi Kothi temple, Chamba, built in the reign of Raja Umed Singh (1748-64)",
+      "Related: bangadwari, wedding-room wall paintings of Chamba",
+      "Style link: Chamba miniature painting"
+    ],
+    "art": [
+      "Pahari wall painting is the mural side of the hill painting tradition. It is found in temples, forts and houses of the Himalayan foothills, painted by artists who also worked in miniature.",
+      "At the Devi Kothi temple in Chamba, murals show Devi and Krishna slaying demons. They are influenced by Chamba miniature painting, with only primary colours. Sahapedia says the Krishna scenes on the eastern wall follow episodes from Laharu's Bhagavata paintings. The carved wooden ceiling shows mythological and celestial beings.",
+      "Chamba's nuptial wall paintings, called bangadwari, retain features of 16th-century northern Indian art. Under the Dogras, temples and forts were decorated with murals, such as those at Krimchi, Babbor and Bahu fort.",
+      "A Sahapedia article on murals at Sui and Burj temples in Jammu says Pahari murals were painted on lime plaster with pigments from marble, soot and indigo. I have not confirmed that the same method was used everywhere in Himachal."
+    ],
+    "artist": [
+      "The temple murals I read do not name their painters. Sahapedia describes the Devi Kothi murals as influenced by the Chamba miniature tradition, so the painters were probably from the same circles, but this is an inference.",
+      "Chamba's painter families, such as the Manikanth family settled around 1589, worked in miniatures. Whether they painted particular walls I could not confirm.",
+      "Because wall paintings are rarely signed, this entry names no individual wall painters."
+    ],
+    "place": [
+      "Chamba, on the Ravi, has many temples and a museum, the Bhuri Singh Museum, with Pahari paintings. Devi Kothi lies on the northern edge of the old Chamba kingdom.",
+      "Wall paintings in bridal rooms are also reported in Kangra, Mandi and Bilaspur. One non-scholarly source says some survived the 1905 earthquake; I treat that as unconfirmed."
+    ],
+    "history": [
+      {
+        "when": "c. 1600-1630",
+        "what": "One scholar dates the origins of Pahari painting in Chamba to this period (Wikipedia, citing Ohri)."
+      },
+      {
+        "when": "17th-18th centuries",
+        "what": "Pahari painting flourishes in the hills."
+      },
+      {
+        "when": "1748-64",
+        "what": "Devi Kothi temple is built under Raja Umed Singh of Chamba."
+      },
+      {
+        "when": "Dogra period",
+        "what": "Temples and forts in the region are decorated with murals."
+      }
+    ],
+    "future": [
+      "Training: train local conservators and painters in lime plaster and mineral pigment methods.",
+      "Livelihood: temple-visit trails that bring income to villages that hold murals.",
+      "Materials: use compatible lime and natural pigments when repairing.",
+      "Documentation: survey and photograph murals village by village, since many remain unrecorded.",
+      "Protection: involve temple committees and the Archaeological Survey and state departments in care."
+    ],
+    "pins": [
+      {
+        "lat": 32.5534,
+        "lng": 76.1258,
+        "label": "Chamba",
+        "approximate": false
+      },
+      {
+        "lat": 32.8,
+        "lng": 76.4,
+        "label": "Devi Kothi, northern Chamba district",
+        "approximate": true
+      },
+      {
+        "lat": 32.0998,
+        "lng": 76.2691,
+        "label": "Kangra",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-murals-devi-kothi-temple-chamba-55711e",
+      "en-wikipedia-org-wiki-pahari-painting-ddf360",
+      "en-wikipedia-org-wiki-chamba-himachal-pradesh-ae0d88"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "paitkar-scrolls",
+    "name": "Paitkar Scroll Painting",
+    "category": "Painting",
+    "states": [
+      "Jharkhand"
+    ],
+    "color": "#7c2d12",
+    "motif": "scroll",
+    "tagline": "Painted scrolls unrolled one panel at a time while the painter sings.",
+    "facts": [
+      "Form: scroll painting with song",
+      "Village: Amadubi, East Singhbhum",
+      "Colours from stones, leaves and soot",
+      "Few families still practise it"
+    ],
+    "art": [
+      "Paitkar paintings are scrolls made of several panels. The painter unrolls one panel at a time and sings the story it shows. The Handicrafts Ministry page, the Rural India Online report and Village Square all describe the painting and the song as a pair.",
+      "Stories include the origin of the Santhals and of life, village scenes and festivals, the dances Karma and Baha, the epics, and deities such as Durga, Kali and Manasa. Paintings once reached 12 to 14 feet. Today they are mostly about A4 size.",
+      "Rural India Online describes the colours: red from stone rubbed on a wet slab, yellow from turmeric, green from beans or chillies, violet from lantana fruit and black from lamp soot. Paper has largely replaced cloth. Neem or babool resin is added to protect the work from insects."
+    ],
+    "artist": [
+      "The painters belong to Chitrakar families, and the singers to Gayen families, according to Village Square, which counts about 45 artisans in Amadubi. Outlook Traveller puts it at around 54 painter families. The figures differ, so treat them as approximate.",
+      "Rural India Online names Anil Chitrakar, aged 71 in the report, as the village's oldest painter, who learned music from his father. Vijay Chitrakar learned from his grandfather. Anjana Patekar is one of the few women painters.",
+      "Traditionally artists travelled to villages during festivals, selling paintings and singing, as far as Bengal, Odisha and Chhattisgarh. Rural India Online reports that mobile phones and recorded music have reduced demand for live singing, and that young people have left for wage work."
+    ],
+    "place": [
+      "Amadubi (spelled Amadobi in some sources) is a village near Dhalbhumgarh and Ghatshila in East Singhbhum district, in south-east Jharkhand. Distances given to Jamshedpur differ across sources, from about 65 to 70 km.",
+      "In 2013 the state government and the non-profit Kalamandir set up the Amadubi Rural Tourism Centre. Artists told Village Square it has brought few buyers. Kalamandir's founder disagrees that the art is fading and says it is seeking a GI tag."
+    ],
+    "history": [
+      {
+        "when": "Origins (uncertain)",
+        "what": "Rural India Online says the art came from West Bengal and Jharkhand and was influenced by pandulipi manuscript scrolls. No written record exists, so its age is not known."
+      },
+      {
+        "when": "Local tradition",
+        "what": "Village Square reports that artisans trace their settlement to King Ramchandra Dhal of Dhalbhumgarh, who gave land to travelling painters and singers. This is the artisans' account and we found no other confirmation."
+      },
+      {
+        "when": "2013",
+        "what": "The Amadubi Rural Tourism Centre was set up by the state government and Kalamandir."
+      },
+      {
+        "when": "Recent years",
+        "what": "Rural India Online reports that over 40 households once painted in the village and only a few do now. Village Square says the pandemic stopped paid workshops and pushed artists into other work."
+      }
+    ],
+    "future": [
+      "Pay artists to train young people in both painting and singing, since the two go together.",
+      "Keep scrolls long and in cloth or paper made for the purpose, not only small souvenir sheets.",
+      "Record the songs with the senior singers and their families, with the story texts written down.",
+      "Build steady buyers and fair prices for the artists, with the work marketed beyond the tourism centre.",
+      "Help artists get natural colour materials, and bring the village onto an arts trail in the festival season.",
+      "Support women painters in the family to work openly and sell their work."
+    ],
+    "pins": [
+      {
+        "lat": 22.57,
+        "lng": 86.43,
+        "label": "Amadubi village, near Dhalbhumgarh",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ruralindiaonline-org-article-in-jharkhand-paitkar-art-is-fad-0914f0",
+      "villagesquare-in-paitkar-paintings-fading-in-jharkhand-df7dc2",
+      "outlooktraveller-com-experiences-heritage-all-about-the-art--23676c"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "pattachitra",
+    "name": "Pattachitra",
+    "category": "Painting",
+    "states": [
+      "Odisha"
+    ],
+    "color": "#a16207",
+    "motif": "lotus",
+    "tagline": "Cloth scrolls of Lord Jagannath, painted with stone, shell and soot.",
+    "facts": [
+      "Medium: cloth coated with tamarind-seed gum and chalk",
+      "Pigments: minerals, shell, lampblack, plant colours",
+      "Tools: brushes from animal hair"
+    ],
+    "art": [
+      "Pattachitra (from patta, cloth, and chitra, picture) is a detailed narrative painting. Bold outlines, rich borders and expressive eyes frame stories of Jagannath, Krishna and Rama and the Puri temple's rituals.",
+      "Craftsmen prepare their own canvas by pasting layers of cloth with tamarind seed paste and chalk, then polishing it smooth. Colours are made from natural sources such as white from burnt conch shell, black from lamp soot and red from ochre."
+    ],
+    "artist": [
+      "The painters are called chitrakars. Skills pass within families and are linked to the Jagannath temple, where painters create the deity's sacred images and ornaments.",
+      "Raghurajpur, near Puri, is a heritage craft village where nearly every home is also a studio, and children learn alongside their parents.",
+      "Our approach: profile a household at a time, including the women who prepare canvases and colours."
+    ],
+    "place": [
+      "Puri on the Bay of Bengal is one of the four dhams and home to the Rath Yatra. Raghurajpur lies in a palm-fringed grove on the Bhargavi river banks nearby.",
+      "Cyclones regularly hit the Odisha coast, so houses, studios and materials are repeatedly at risk."
+    ],
+    "history": [
+      {
+        "when": "Medieval",
+        "what": "Painted images tied to the cult of Jagannath developed in Odisha; paintings were made as souvenirs for pilgrims."
+      },
+      {
+        "when": "20th century",
+        "what": "Revived with government support and craft fairs; Raghurajpur was developed as a heritage craft village."
+      },
+      {
+        "when": "Today",
+        "what": "Artists also paint on palm leaf, tussar silk and products, while temple-linked commissions continue."
+      }
+    ],
+    "future": [
+      "Storm-proof the archive: digitise heirloom scrolls and recipes for natural colours.",
+      "Cyclone recovery fund: help the village rebuild studios quickly after storms.",
+      "Pilgrim-to-patron path: turn the pilgrim souvenir market into long-term relationships with artists."
+    ],
+    "pins": [
+      {
+        "lat": 19.89,
+        "lng": 85.86,
+        "label": "Raghurajpur",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "pattachitra-art.jpg",
+        "alt": "A Pattachitra painting of Jagannath, Balabhadra and Subhadra.",
+        "caption": "",
+        "author": "Patrick.zip",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pattachitra_of_Jagannath.jpg"
+      },
+      {
+        "kind": "artist",
+        "file": "pattachitra-artist.jpg",
+        "alt": "An artist's hand painting fine detail on a Pattachitra from Raghurajpur.",
+        "caption": "An artisan at work.",
+        "author": "Sumit Surai",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Raghurajpur_Artist.JPG"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "phad",
+    "name": "Phad",
+    "category": "Painting",
+    "states": [
+      "Rajasthan"
+    ],
+    "color": "#9f1239",
+    "motif": "scroll",
+    "tagline": "A temple on a scroll, carried by singers from village to village.",
+    "facts": [
+      "Medium: long cloth scrolls (phad)",
+      "Subject: epics of Pabuji and Devnarayan",
+      "Performers: Bhopas and Bhopis"
+    ],
+    "art": [
+      "A phad is a long painted cloth, sometimes many metres wide, crowded with a single epic. The folk deities Pabuji and Devnarayan are the heroes, and the entire narrative is spread across the cloth in colour-coded scenes.",
+      "The scroll is a portable shrine. At night, a bhopa singer and his wife sing the epic by lamplight and point to each scene as the story unfolds."
+    ],
+    "artist": [
+      "The painters are the Joshi family of the Chhipa community. The art centres around Shahpura and Bhilwara.",
+      "Shree Lal Joshi received a Padma Shri in 2006 and set up the Joshi Kala Kunj / Chitrashala in Bhilwara to train people outside the family, opening a closed tradition.",
+      "Our approach: record the full performance, painter and singer together."
+    ],
+    "place": [
+      "The Marwar and Mewar regions of Rajasthan are dry, with a strong tradition of itinerant bards and folk heroes.",
+      "Pabuji is revered as a protector of camels and cattle, a hero for herding communities."
+    ],
+    "history": [
+      {
+        "when": "Medieval",
+        "what": "Phad painting grew alongside the performance tradition."
+      },
+      {
+        "when": "20th century",
+        "what": "The Joshis opened the craft to new students and began making smaller paintings for sale."
+      },
+      {
+        "when": "Today",
+        "what": "Fewer villages commission full performances, so the art is shifting to galleries and homes."
+      }
+    ],
+    "future": [
+      "Keep the performance alive: fund bhopa-bhopi performances, not only paintings.",
+      "Record the epics, in the singers' own voices, as an open archive.",
+      "Pair each painting with a QR audio of the song."
+    ],
+    "pins": [
+      {
+        "lat": 25.35,
+        "lng": 74.63,
+        "label": "Bhilwara",
+        "approximate": false
+      },
+      {
+        "lat": 25.63,
+        "lng": 74.93,
+        "label": "Shahpura",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "phad-art.jpg",
+        "alt": "A Phad scroll showing the epic of Pabuji (Tropenmuseum collection).",
+        "caption": "",
+        "author": "MicheleLovesArt",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:WLANL_-_MicheleLovesArt_-_Tropenmuseum_-_Pabuji-Verteldoek_(4669-1).jpg"
+      },
+      {
+        "kind": "artist",
+        "file": "phad-artist.jpg",
+        "alt": "Shree Lal Joshi receiving the Padma Shri in 2006.",
+        "caption": "Shree Lal Joshi receiving the Padma Shri, 2006.",
+        "author": "President's Secretariat",
+        "license": "GODL-India",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_President,_Dr._A.P.J._Abdul_Kalam_presenting_Padma_Shri_to_Shri_Shreelal_Joshi,_for_his_pioneer_work_in_the_art_of_phad_painting,_at_an_Investiture_Ceremony_at_Rashtrapati_Bhavan_in_New_Delhi_on_March_29,_2006.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "pichwai",
+    "name": "Pichwai",
+    "category": "Painting",
+    "states": [
+      "Rajasthan"
+    ],
+    "color": "#0f766e",
+    "motif": "lotus",
+    "tagline": "The cloth that dresses a god's wall, painted for each season.",
+    "facts": [
+      "Medium: cloth, hand-painted",
+      "Subject: Shrinathji, Krishna with cows and lotus",
+      "Context: Pushtimarg tradition"
+    ],
+    "art": [
+      "Pichwai means 'that which hangs at the back'. These large cloths hang behind the image of Shrinathji, a form of Krishna lifting Mount Govardhan.",
+      "Different festivals have different designs: lotus ponds for summer, cows and cowherds for Gopashtami, and the grand Annakut mountain of food."
+    ],
+    "artist": [
+      "Pichwai painters work in Nathdwara's family workshops, many trained from childhood. A single large pichwai can involve several artists, each handling a task such as outline, gold work or faces.",
+      "Our approach: acknowledge the full team on every piece."
+    ],
+    "place": [
+      "Nathdwara in the Aravalli hills near Udaipur became a pilgrimage centre when the Shrinathji image was moved here from the Braj region in the 17th century to protect it. It has remained the heart of the Pushtimarg sect.",
+      "The entire town's economy is tied to the temple."
+    ],
+    "history": [
+      {
+        "when": "17th century",
+        "what": "The Shrinathji image was moved to Mewar under the Maharana's protection; the temple town grew."
+      },
+      {
+        "when": "18th–19th century",
+        "what": "Nathdwara's painters developed into a flourishing school under temple patronage."
+      },
+      {
+        "when": "Today",
+        "what": "Pichwai has reached global fashion and design, sometimes without community credit."
+      }
+    ],
+    "future": [
+      "Protect both the sacred use and the market work, with clear guidelines.",
+      "Credit workshops by name on every product line.",
+      "Digitise the festival calendar so the cycle of designs is not forgotten."
+    ],
+    "pins": [
+      {
+        "lat": 24.93,
+        "lng": 73.82,
+        "label": "Nathdwara",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "pithora",
+    "name": "Pithora",
+    "category": "Painting",
+    "states": [
+      "Gujarat",
+      "Madhya Pradesh"
+    ],
+    "color": "#a21caf",
+    "motif": "dots",
+    "tagline": "A wall of horses painted to give thanks to the god.",
+    "facts": [
+      "Medium: house walls, now paper and canvas",
+      "Ground: prepared cow-dung and clay wall",
+      "Subject: Baba Pithora and a procession of horses"
+    ],
+    "art": [
+      "Pithora is a ritual wall painting of the Rathwa, Bhil and Bhilala communities. The walls of a home's main room fill with horses, deities, riders, sun, moon, trees and animals in bright colours.",
+      "It is painted to give thanks after a wish has been granted, such as a good harvest, a birth or recovery from illness. Horses are the key symbol."
+    ],
+    "artist": [
+      "The painting is led by a priest-painter, the lakhara, who learns the mythic chant and the images. The family and neighbours help.",
+      "As the painting is a vow and a ceremony, it is made once and left for the elements.",
+      "Our approach: record the ritual with permission from the community."
+    ],
+    "place": [
+      "Chhota Udepur in eastern Gujarat and Jhabua in western Madhya Pradesh sit in a hilly tribal belt along the border.",
+      "Farming, forests and festivals structure community life."
+    ],
+    "history": [
+      {
+        "when": "Traditional",
+        "what": "Pithora has long been painted in village homes by Rathwa and Bhil communities."
+      },
+      {
+        "when": "20th century",
+        "what": "Collectors and cultural bodies noticed the art and artists began to paint on paper."
+      },
+      {
+        "when": "Today",
+        "what": "Both ritual and gallery versions exist."
+      }
+    ],
+    "future": [
+      "Protect the ritual from commercial copying.",
+      "Fund documentation of the chants as well as the images.",
+      "Support the next generation of lakharas."
+    ],
+    "pins": [
+      {
+        "lat": 22.31,
+        "lng": 74.01,
+        "label": "Chhota Udepur",
+        "approximate": false
+      },
+      {
+        "lat": 22.77,
+        "lng": 74.59,
+        "label": "Jhabua",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "pithora-art.jpg",
+        "alt": "A Pithora wall painting of horses on a house wall.",
+        "caption": "",
+        "author": "Anilbhardwajnoida",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pithora_wall_painting.JPG"
+      },
+      {
+        "kind": "artist",
+        "file": "pithora-artist.jpg",
+        "alt": "A Pithora painter at work on a wall.",
+        "caption": "A Pithora painter at work.",
+        "author": "Anilbhardwajnoida",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pithora_Painter.JPG"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "rajput-miniature",
+    "name": "Rajput Miniature Schools",
+    "category": "Painting",
+    "states": [
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "color": "#9a3412",
+    "motif": "lotus",
+    "tagline": "Court schools of Mewar, Bundi, Kota, Kishangarh, Jaipur and more, each with its own hand.",
+    "facts": [
+      "Period: late 16th to mid-19th century",
+      "Name: introduced by Ananda Coomaraswamy in 1916",
+      "Medium: gouache on paper",
+      "Themes: Ragamala, Krishna stories, Ramayana, heroine types"
+    ],
+    "art": [
+      "Rajput painting is the court painting of the Hindu Rajput states. It is divided into Rajasthani and Pahari (hill) styles. The name was introduced by Ananda Coomaraswamy in 1916. This entry covers the Rajasthani and Malwa schools.",
+      "The medium is gouache, opaque watercolour on paper. Wikipedia describes the stages as a charcoal sketch, black outline, layered colour, burnishing, and last details such as gold. Common themes are Ragamalas (pictures of musical modes), episodes of Krishna from the Bhagavata Purana, the Ramayana, and types of heroine from Hindi poetry.",
+      "Each court had its own look. Mewar is the most traditional. Bundi's fine line and calm palette owe much to Mughal painting. Kota is known for large hunting scenes. Bikaner blends Mughal polish with a Deccani-influenced palette. Marwar has early landmarks such as the Pali Ragamala of 1623. Malwa, once called Primitive Rajasthani, uses flat colour blocks and vermilion. Sirohi has strong colours and bold contour lines.",
+      "Kishangarh is famous for slender faces with large upturned eyes. Jaipur's school peaked under Pratap Singh (r. 1778 to 1803), with a 43-painting Ragamala and a Bhagavata Purana of 1792 with 366 illustrations."
+    ],
+    "artist": [
+      "Many painters are known by name. At Mewar, Nisardin painted the Chawand Ragamala in 1605, and Sahibdin worked under Jagat Singh I on the large Ramayana of 1649 to 1653. At Bikaner, Ruknuddin was the best known painter. At Kishangarh, Bhavanidas came from Delhi in 1719 and taught Nihal Chand (c. 1710 to 1782), whose work is seen as the classic Kishangarh idiom. At Jaipur, Sahibram was a leading portraitist.",
+      "Wikipedia says Savant Singh of Kishangarh (r. 1748 to 1764), a poet and Krishna devotee, is linked to the classic style, and that his companion Bani Thani is supposedly the model for Radha. The word supposedly matters here, as this is tradition and not firm record.",
+      "Patrons were the royal courts. When courts lost power, painters lost their work. Royal patronage in Mewar ended with the abolition of princely powers in 1949. Nathdwara painting continued through temple patronage."
+    ],
+    "place": [
+      "The schools belong to the old kingdoms of Rajasthan and the Malwa region of Madhya Pradesh: Mewar (Udaipur), Bundi, Kota, Bikaner, Marwar (Jodhpur), Sirohi, Kishangarh and Jaipur (Amber). Each court had its workshop and its own taste.",
+      "Mewar accepted Mughal rule only in 1615. Bikaner submitted to Akbar in 1570. This helps explain why some schools look closer to Mughal work than others. In 1728 Sawai Jai Singh moved his capital to Jaipur and built a complex for the arts of the book.",
+      "Nathdwara, near Udaipur, is linked to the temple painting that outlasted the courts. Pins for Malwa are approximate because the sources I read name the style, not one exact town."
+    ],
+    "history": [
+      {
+        "when": "1570 to 1615",
+        "what": "Bikaner submits to Akbar (1570) and Mewar accepts Mughal rule (1615). Contact with Mughal painting grows."
+      },
+      {
+        "when": "1591 to 1605",
+        "what": "Early Ragamalas: the Chunar Ragamala (1591) and the Chawand Ragamala (1605)."
+      },
+      {
+        "when": "1623",
+        "what": "The Pali Ragamala of Marwar, by Pandit Virji."
+      },
+      {
+        "when": "1649 to 1653",
+        "what": "The large Mewar Ramayana, in which Sahibdin and Manohar worked."
+      },
+      {
+        "when": "1680",
+        "what": "The Narsyang Shahar Ragamala by Madho Das marks the peak of the Malwa style."
+      },
+      {
+        "when": "1719 to 1748",
+        "what": "Kishangarh under Raj Singh (r. 1706 to 1748). Bhavanidas arrives in 1719."
+      },
+      {
+        "when": "1728",
+        "what": "Sawai Jai Singh moves his capital to Jaipur."
+      },
+      {
+        "when": "19th century",
+        "what": "Photography and imported pigments reduce court patronage. Kota and Bundi schools fade by the end of the century, per Wikipedia."
+      }
+    ],
+    "future": [
+      "Training: miniature painting is taught in Udaipur, Jaipur, Bundi and Kishangarh workshops, though I found no specific source on numbers.",
+      "Livelihood: painters sell to tourists and collectors. Fine hand work competes with printed copies.",
+      "Materials: mineral colours, gold leaf and burnished handmade paper take skill and cost. Reliable supply helps keep them in use.",
+      "Documentation: museums and royal collections hold many works with artists' names. Joint catalogues across collections would help.",
+      "Protection: older folios are fragile. Careful storage and digital copies reduce handling."
+    ],
+    "pins": [
+      {
+        "lat": 24.5854,
+        "lng": 73.7125,
+        "label": "Udaipur, Mewar",
+        "approximate": false
+      },
+      {
+        "lat": 24.937,
+        "lng": 73.824,
+        "label": "Nathdwara (temple painting)",
+        "approximate": true
+      },
+      {
+        "lat": 25.4305,
+        "lng": 75.6499,
+        "label": "Bundi",
+        "approximate": false
+      },
+      {
+        "lat": 25.2138,
+        "lng": 75.8648,
+        "label": "Kota",
+        "approximate": false
+      },
+      {
+        "lat": 28.0229,
+        "lng": 73.3119,
+        "label": "Bikaner",
+        "approximate": false
+      },
+      {
+        "lat": 26.2389,
+        "lng": 73.0243,
+        "label": "Jodhpur, Marwar",
+        "approximate": false
+      },
+      {
+        "lat": 26.574,
+        "lng": 74.87,
+        "label": "Kishangarh",
+        "approximate": false
+      },
+      {
+        "lat": 26.9124,
+        "lng": 75.7873,
+        "label": "Jaipur (Amber)",
+        "approximate": false
+      },
+      {
+        "lat": 24.8855,
+        "lng": 72.859,
+        "label": "Sirohi",
+        "approximate": false
+      },
+      {
+        "lat": 22.3,
+        "lng": 75.4,
+        "label": "Malwa, Madhya Pradesh",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-rajput-painting-e1ea1c",
+      "en-wikipedia-org-wiki-mughal-painting-d383e3"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "rangoli",
+    "name": "Rangoli",
+    "category": "Painting",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#b45309",
+    "motif": "dots",
+    "tagline": "Floor designs at the doorstep, drawn fresh each day and left for feet, wind and ants.",
+    "facts": [
+      "Form: floor drawing in powder, flour, petals or paint",
+      "Names: kolam, muggu, alpana, mandana, aipan, pookkalam and more",
+      "Makers: traditionally women, passed from mother to daughter",
+      "Origin of the word: Sanskrit ranga, colour"
+    ],
+    "art": [
+      "Rangoli is the art of drawing patterns on the ground, most often at the entrance of a home. The word comes from the Sanskrit ranga, meaning colour. Almost every region has its own name and style for it. It is called kolam in Tamil Nadu, muggu in Andhra Pradesh and Telangana, alpana in West Bengal, mandana in Rajasthan, aipan in Uttarakhand, saathiyo in Gujarat and pookkalam in Kerala.",
+      "Materials are simple. Wikipedia lists powdered limestone, red ochre, dry rice flour, coloured sand, flower petals and brick powder. Turmeric and vermilion give colour. Today crayons, acrylic paint and coloured cement are also used.",
+      "Styles differ. Kolam in the south is drawn with rice flour as lines looping round a grid of dots, at dawn, on a swept and dampened floor. Wikipedia notes that coarse flour was used so ants and birds could feed on it. Alpana in Bengal is drawn freehand with rice-flour paste, often with lotuses, a granary or an owl linked to Lakshmi. In Kerala, flower carpets are laid for Onam and grow more complex over the ten days.",
+      "Rangoli is made for daily welcome and for festivals such as Diwali, Pongal, Onam, Durga Puja and weddings. It is often said to invite the goddess Lakshmi into the home. Several of these explanations are only weakly sourced, so they are best read as beliefs of the practice, not as proven history."
+    ],
+    "artist": [
+      "Rangoli has no single named master. It is a household art, and sources say it is made traditionally by girls and women, with designs passed from one generation to the next. Men and boys also make it.",
+      "In Tamil Nadu, the month of Margazhi was a time when young women showed their skill with large kolams, sometimes covering a whole street. In Bengal, alpana is tied to bratas, religious fasts kept by women, and it is taught today at Kala Bhavana, the fine arts faculty of Visva-Bharati University.",
+      "Because the art is made fresh and then walked over or washed away, it lives in people's memory and hands more than in museums."
+    ],
+    "place": [
+      "Rangoli belongs to the whole subcontinent, not to one place. The sources I read describe southern kolam as tidy and symmetric, and northern rangoli as more colourful and free.",
+      "Each region links the art to its own festival. Kolam and muggu go with the Pongal and Margazhi season in the south. Alpana goes with Durga Puja and Kali Puja in Bengal. In Odisha, designs called muruja and jhoti are made, and Wikipedia says they are often dedicated to Krishna and Jagannath. In Kerala, pookkalam belongs to Onam.",
+      "The map pins mark a few cities where particular styles are well known. They are examples, not boundaries."
+    ],
+    "history": [
+      {
+        "when": "Ancient",
+        "what": "The Sanskrit word ranga (colour) gives the name. Wikipedia says rangoli is mentioned in Hindu literature, but its claim about the Ramayana is marked as needing a source."
+      },
+      {
+        "when": "Chola period",
+        "what": "Wikipedia says the southern floor-drawing culture developed in the Chola era. I did not find a firmer source for this."
+      },
+      {
+        "when": "Tradition",
+        "what": "The month of Margazhi becomes known as a season for large kolams, linked in Sri Vaishnava tradition to the poet-saint Andal."
+      },
+      {
+        "when": "1884",
+        "what": "The earliest source cited by Wikipedia is a Bombay Presidency gazetteer of 1884."
+      },
+      {
+        "when": "20th century",
+        "what": "Alpana is taken into art teaching at Visva-Bharati University."
+      },
+      {
+        "when": "Today",
+        "what": "Paint, stickers and coloured powders sit beside rice flour. Wikipedia reports that coloured-sand rangoli products were recalled in Australia and New Zealand over possible asbestos contamination."
+      }
+    ],
+    "future": [
+      "Training: the art is still taught at home. Schools, festivals and competitions help children learn the regional patterns.",
+      "Livelihood: professional rangoli artists work at weddings and events. Their income is irregular and seasonal.",
+      "Materials: rice flour and flower petals are safe and cheap. Buyers should check coloured powders and sand, given the recall reported above.",
+      "Documentation: patterns and names vary by village. Recording them by region, with the women who know them, would help.",
+      "Protection: I found no GI or UNESCO listing for rangoli as a whole. Its best protection is daily use."
+    ],
+    "pins": [
+      {
+        "lat": 13.0827,
+        "lng": 80.2707,
+        "label": "Chennai, Tamil Nadu (kolam)",
+        "approximate": false
+      },
+      {
+        "lat": 22.5726,
+        "lng": 88.3639,
+        "label": "Kolkata, West Bengal (alpana)",
+        "approximate": false
+      },
+      {
+        "lat": 26.9124,
+        "lng": 75.7873,
+        "label": "Jaipur, Rajasthan (mandana)",
+        "approximate": false
+      },
+      {
+        "lat": 20.2961,
+        "lng": 85.8245,
+        "label": "Bhubaneswar, Odisha (muruja, jhoti)",
+        "approximate": false
+      },
+      {
+        "lat": 10.5276,
+        "lng": 76.2144,
+        "label": "Thrissur, Kerala (pookkalam)",
+        "approximate": true
+      },
+      {
+        "lat": 29.5971,
+        "lng": 79.6591,
+        "label": "Almora, Uttarakhand (aipan)",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-rangoli-82ff3b",
+      "en-wikipedia-org-wiki-kolam-8fd62b",
+      "en-wikipedia-org-wiki-alpona-54c1af"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "rogan-art",
+    "name": "Rogan Art",
+    "category": "Painting",
+    "states": [
+      "Gujarat"
+    ],
+    "color": "#7f1d1d",
+    "motif": "vine",
+    "tagline": "Thick castor-oil paint drawn into patterns on cloth with a needle that never touches it.",
+    "facts": [
+      "Form: paste painting on cloth with castor-oil colour",
+      "Kept alive by the Khatri family of Nirona, Kutch",
+      "Nirona Rogan art holds GI number 718, per the family's website",
+      "Rogan means oil in Persian"
+    ],
+    "art": [
+      "Rogan is a cloth painting made from a thick paste of boiled castor oil and colour. The Better India says the oil is heated and stirred for over 12 hours, then mixed with cold water into a sticky, elastic paste and combined with natural colours. It is stored in earthen pots.",
+      "The painter sits on the floor and draws the paste out with a blunt needle or rod, so that the tool does not touch the cloth. Often only half the design is drawn. The cloth is then folded to print the other half as a mirror image.",
+      "Common motifs are geometric flowers, peacocks and the tree of life. The finished cloth becomes wall hangings, saris, cushion covers and other items."
+    ],
+    "artist": [
+      "The craft is held by the Khatri family of Nirona. Abdul Gafur Khatri has a State Award (1988), a National Award (1997) and the Padma Shri (2019), according to the family's website. The family says it is the only authentic family preserving the art.",
+      "The Better India says the art was passed down only through male members. The family's website says that since 2010 it has trained more than 400 girls, mostly from Nirona and Bhuj, and names Shahenajbanu Sumar Khatri as the first woman in the family to give live demonstrations. His younger brother Sumar Khatri and son Suleman Khatri are also named.",
+      "In 2014, Prime Minister Narendra Modi gave a rogan Tree of Life painting to US President Barack Obama, as reported by both sources. The family says it also has work at Rashtrapati Bhavan."
+    ],
+    "place": [
+      "Nirona is a village in Kutch district, west Gujarat, north-west of Bhuj. The land is dry, but castor is grown locally and the artists buy the seed from nearby farmers.",
+      "Visitors can see the family at work in Nirona, where demonstrations and workshops are offered, according to the family's website."
+    ],
+    "history": [
+      {
+        "when": "Origin (sources differ)",
+        "what": "The family's website says rogan came from Persia to Kutch about 400 years ago. The Better India says the Khatri family has practised it for over three centuries."
+      },
+      {
+        "when": "Traditional use",
+        "what": "It decorated bridal trousseaus."
+      },
+      {
+        "when": "1980s",
+        "what": "A secondary source says machine-made cloth hurt the craft. We could not check this in a primary source."
+      },
+      {
+        "when": "1988-1997",
+        "what": "State and National awards go to Abdul Gafur Khatri."
+      },
+      {
+        "when": "2010",
+        "what": "The family begins training girls and women."
+      },
+      {
+        "when": "2014",
+        "what": "A rogan painting is gifted to President Obama."
+      },
+      {
+        "when": "2019",
+        "what": "Abdul Gafur Khatri receives the Padma Shri."
+      }
+    ],
+    "future": [
+      "Training: keep opening classes to girls and to families outside the Khatris, as the family has begun to do.",
+      "Livelihood: build steady markets beyond gifts and fairs, since the Better India notes the family has struggled to earn from the craft.",
+      "Materials: secure castor oil from local farmers and safe natural colours.",
+      "Documentation: record the paste-making and drawing steps.",
+      "Protection: the family's site cites GI 718 for Nirona Rogan art; confirm in the registry."
+    ],
+    "pins": [
+      {
+        "lat": 23.4,
+        "lng": 69.45,
+        "label": "Nirona",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "roganartnirona-com-06cbf0",
+      "thebetterindia-com-60969-gujarat-rogan-art-modi-obama-nirona-dc125d"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "saura-paintings",
+    "name": "Saura Paintings",
+    "category": "Painting",
+    "states": [
+      "Odisha"
+    ],
+    "color": "#7c2d12",
+    "motif": "triangles",
+    "tagline": "Ritual wall paintings of the Saura, made to house a spirit.",
+    "facts": [
+      "Also called idital or ikon",
+      "Made on house walls over red or yellow earth",
+      "Painted with brushes of bamboo twig",
+      "Often compared with Warli, but differs in its border"
+    ],
+    "art": [
+      "Saura paintings, called idital or ikon, are ritual wall paintings made by the Saura people of southern Odisha. They are painted for the gods and ancestors, not as decoration.",
+      "Wikipedia says the wall is prepared with red or yellow ochre earth, and the paint is white from ground stone and other natural colours, applied with brushes of bamboo shoot. OdishaBytes says the wall is made ready by women of the family, who also prepare a rice paste. Motifs include the sun, moon, axe, bow and arrow, elephant, horse, monkey, peacock and snake. Newer pictures show aeroplanes and bicycles.",
+      "Every idital has a detailed border. Human figures are drawn with smooth lines and the sexes are not easily told apart. Outlook Traveller says this sets it apart from Warli art, which has no marked border."
+    ],
+    "artist": [
+      "OdishaBytes describes the specialist painter as the Idimar. Wikipedia says the priestly Kudang traditionally painted the ikons and explained them. The two names may refer to different roles or places, and the sources do not settle this.",
+      "According to OdishaBytes, a painting is called for when someone is ill for a long time. A shaman finds the spirit, and if it asks for a home, the family calls the Idimar. The painting takes up to three days, and the Idimar eats only after sunset in that time.",
+      "Verrier Elwin was the first outside scholar to study these paintings, says Wikipedia."
+    ],
+    "place": [
+      "The Saura live mainly in Rayagada, Gajapati and Koraput, and also in Ganjam. OdishaBytes says the Lanjia, Jara, Arsi, Bhima and Sudha groups still keep the tradition, among 14 Saora subgroups.",
+      " OdishaBytes says the idital is placed in a dark corner of the house and is treated as the deities' house, responsible for family well-being."
+    ],
+    "history": [
+      {
+        "when": "Scholarly attention",
+        "what": "Verrier Elwin, an anthropologist, is named as the first outsider to study the Saura pictographs."
+      },
+      {
+        "when": "Through the 20th century",
+        "what": "OdishaBytes says the practice has nearly died out in places, due to modern culture and objections to animal sacrifice, which is part of the ritual."
+      },
+      {
+        "when": "Recent decades",
+        "what": "The motifs have spread to canvas, paper, T-shirts and hotel walls. Wikipedia and OdishaBytes both note this commercial turn."
+      }
+    ],
+    "future": [
+      "Livelihood: sell paintings on paper and cloth with the artist's name and village, so the income reaches the community.",
+      "Training: let young Saura learn from Idimars, with the community deciding what is public and what is ritual.",
+      "Materials: keep natural pigments and bamboo brushes in use.",
+      "Documentation: record meanings of each ikon with the painters' consent.",
+      "Protection: respect the sacred role of the work, and avoid copying it without the community."
+    ],
+    "pins": [
+      {
+        "lat": 19.17,
+        "lng": 83.42,
+        "label": "Rayagada",
+        "approximate": false
+      },
+      {
+        "lat": 18.78,
+        "lng": 84.09,
+        "label": "Paralakhemundi, Gajapati",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-saura-painting-8c5a35",
+      "outlooktraveller-com-explore-culture-pictures-that-speak-sau-db8588",
+      "odishabytes-com-idital-paintings-take-a-leap-from-homes-of-s-692967"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sohrai-khovar",
+    "name": "Sohrai and Khovar Painting",
+    "category": "Painting",
+    "states": [
+      "Jharkhand"
+    ],
+    "color": "#9a3412",
+    "motif": "dots",
+    "tagline": "Mud-wall murals by village women, cut into white clay with a comb.",
+    "facts": [
+      "Form: wall murals made by women",
+      "Sohrai: harvest season; Khovar: marriage season",
+      "Four earth colours: black, white, red, yellow",
+      "Registered with a GI tag (sources give 2019 or 2020)"
+    ],
+    "art": [
+      "Sohrai and Khovar are mural traditions of the villages around Hazaribagh in Jharkhand. They are painted on the mud walls of houses by women. Sahapedia notes that the two names are broad umbrella terms for a range of practices, not single fixed styles.",
+      "Sohrai is painted in the harvest season, between about October and January, around the Sohrai festival that follows Diwali. Houses are repainted as a renewal that closes one farming year and opens the next. Khovar is painted for weddings. Its name is explained as kho (cave or shelter) and var (the bridal couple), so it refers to the decorated bridal room.",
+      "The colours come from local earth. Memeraki describes black from soil at field edges near forests, yellow from the clay potters also use, red from geru, and white from lime or kaolin pits. In the comb-cut method, a dark base is covered with white clay and the design is scratched out of the wet layer with a broken comb, fingers or twigs. Chewed neem twigs, cloth swabs and stencils are also used.",
+      "Common motifs are animals such as cattle, tigers, boar and nilgai, trees, lotus forests, lines and dots. Sources link the Sohrai animals to the painted rock shelters near Isko. Sahapedia says the Hazaribagh motifs include the tree of life and Pashupati. Designs and techniques differ from village to village."
+    ],
+    "artist": [
+      "Women are the artists. Sahapedia names Kurmi women as the main painters around Hazaribagh, and says related wall painting is done by Adivasi and non-Adivasi women in Singhbhum. Men sometimes help by fetching clays.",
+      "A mural can take from a week to a month. Women fit it around household and farm work, and the monsoon limits when it can be done. Skills pass from mother to daughter.",
+      "The sources we could open name few individual painters. Memeraki names one Sohrai artist, Rukmani, in a photo caption. We have not named others we could not verify."
+    ],
+    "place": [
+      "Hazaribagh lies on the northern Chota Nagpur plateau in Jharkhand. Memeraki contrasts hill villages with plains villages, which paint in somewhat different ways.",
+      "Painted rock shelters near Isko, in the Hazaribagh area, were brought to wider notice in the early 1990s by Bulu Imam of INTACH. Researchers have noted resemblances between their motifs and Sohrai and Khovar. How direct the link is remains a scholarly question."
+    ],
+    "history": [
+      {
+        "when": "Prehistory (debated)",
+        "what": "Rock art at Isko, dated by researchers to a period between the Mesolithic and Chalcolithic, is compared with the modern murals. Sources describe the link as a resemblance of motifs, not proven descent."
+      },
+      {
+        "when": "1991",
+        "what": "Bulu Imam of INTACH Hazaribagh is credited by one source with first bringing the painted shelters to light."
+      },
+      {
+        "when": "1993",
+        "what": "Memeraki says a grant allowed INTACH to bring Sohrai designs onto paper, leading to exhibitions abroad."
+      },
+      {
+        "when": "1995",
+        "what": "Sahapedia says Bulu Imam and family founded the Tribal Women Artists Cooperative to revive the tradition."
+      },
+      {
+        "when": "2008",
+        "what": "Memeraki gives this as the year the Virasat Trust was founded; Sahapedia credits Justin Imam and Alka with the Virasat Foundation."
+      },
+      {
+        "when": "2019 or 2020",
+        "what": "Sohrai Khovar painting received a Geographical Indication tag. Sources give 2019 and 2020; check the GI registry."
+      },
+      {
+        "when": "Recent decade",
+        "what": "Sahapedia reports a fall in mural making, linked to less time, fewer mud houses and housing schemes that require brick and concrete."
+      }
+    ],
+    "future": [
+      "Support women painters to keep painting their own walls as well as paper, as Virasat encourages.",
+      "Offer fair prices and direct sales for paper and cloth work, through the women's cooperative that holds the GI.",
+      "Help families who move to brick houses keep a wall or panel for Sohrai and Khovar.",
+      "Record each village's patterns and techniques, with the women as the named authors.",
+      "Protect the clay and lime sources that supply the four colours, and teach girls the colour-making."
+    ],
+    "pins": [
+      {
+        "lat": 23.99,
+        "lng": 85.36,
+        "label": "Hazaribagh",
+        "approximate": false
+      },
+      {
+        "lat": 23.85,
+        "lng": 85.35,
+        "label": "Isko rock shelters, near Barkagaon",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-mural-traditions-of-jharkhand-0-443a5c",
+      "memeraki-com-blogs-news-the-comb-cut-paintings-of-jharkhand--07d882"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "talapatra",
+    "name": "Talapatra (Palm-Leaf Manuscripts)",
+    "category": "Painting",
+    "states": [
+      "Odisha"
+    ],
+    "color": "#78350f",
+    "motif": "vine",
+    "tagline": "Scenes scratched into dried palm leaf with an iron stylus.",
+    "facts": [
+      "Also called tala patta chitra",
+      "Tool: an iron stylus",
+      "Main centre: Raghurajpur, near Puri",
+      "Leaves are dried, soaked and treated with turmeric"
+    ],
+    "art": [
+      "Talapatra, also called tala patta chitra, is the art of engraving on palm leaf. The line is scratched into the leaf with a pointed iron stylus. Colour is then rubbed over the surface with a cloth so that it settles in the cut lines.",
+      "Indian Villez describes the preparation. Leaves are dried for a month or two, soaked in water and cut to size. A turmeric solution is applied for longevity. Colours are made by the artists from sources such as conch shell, lamp soot and green leaves. A slip of the stylus cannot be undone, as palm leaves are fragile.",
+      "Subjects are mostly religious and mythological: the Gita Govinda, the Ramayana, the Mahabharata and devotion to Lord Jagannath. Skilled hands also decorate cards, lamp shades and other objects."
+    ],
+    "artist": [
+      "The article names Benudhar Mohapatra as a master who trained many artists and won awards, and his son Arun U. Mohapatra as a state awardee. It speaks of about 500 artists in the area.",
+      "We could read only one detailed source on this craft, so this entry is short."
+    ],
+    "place": [
+      "Raghurajpur is a small hamlet near Puri and is the main centre. Indian Villez also lists smaller centres at Nayakpatna, Balanga, Nikalata, Jatni, Balipatna and Kalapathar.",
+      "Indian Villez says Cyclone Fani in 2019 destroyed many paintings."
+    ],
+    "history": [
+      {
+        "when": "Old tradition",
+        "what": "Indian Villez says the art began around the 5th century BCE and was first used for horoscopes and manuscripts. It also mentions an unclear, much longer journey of the art, so we treat the early dates as uncertain."
+      },
+      {
+        "when": "Later",
+        "what": "It grew from writing and manuscript illustration into an independent art, and it is now applied to decorative goods."
+      },
+      {
+        "when": "2019",
+        "what": "Cyclone Fani damaged paintings and stocks in the area."
+      }
+    ],
+    "future": [
+      "Livelihood: widen the market through craft fairs and online sales, as the source notes the market is shrinking.",
+      "Training: keep master-and-student teaching alive in Raghurajpur.",
+      "Materials: a steady supply of well-seasoned palm leaf and natural colours.",
+      "Documentation: record old manuscripts and the stories the leaves carry.",
+      "Protection: Indian Villez says a GI tag is being sought for legal protection."
+    ],
+    "pins": [
+      {
+        "lat": 19.9,
+        "lng": 85.87,
+        "label": "Raghurajpur",
+        "approximate": true
+      },
+      {
+        "lat": 19.81,
+        "lng": 85.83,
+        "label": "Puri",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "indianvillez-com-blogs-craft-story-palm-leaf-engraving-a49649"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "thangka",
+    "name": "Thangka",
+    "category": "Painting",
+    "states": [
+      "Sikkim",
+      "Ladakh"
+    ],
+    "color": "#0e7490",
+    "motif": "lotus",
+    "tagline": "A mountain monastery you can roll up and carry.",
+    "facts": [
+      "Medium: cotton or silk scroll",
+      "Pigments: mineral and plant colours, gold",
+      "Subject: Buddhas, mandalas, the Wheel of Life"
+    ],
+    "art": [
+      "A thangka is a Buddhist painting on cloth, framed in silk brocade, that can be rolled up and carried. It depicts the Buddha, bodhisattvas, protector deities and mandalas.",
+      "The proportions of every figure follow strict iconographic rules, and the image is a support for meditation as well as art."
+    ],
+    "artist": [
+      "Thangka painting is a long apprenticeship, in monasteries and art schools, often lasting years, under a master.",
+      "Artists begin with sacred measurements and a ritual before painting.",
+      "Our approach: honour the lineage and the teacher behind each painter."
+    ],
+    "place": [
+      "Sikkim and Ladakh are Himalayan Buddhist regions. Gangtok has institutions devoted to Tibetan studies, and the region has monasteries such as Rumtek. Leh lies on the Indus in high-altitude desert, with monasteries on the hills nearby.",
+      "In these places Buddhism, mountain climate and trade routes shaped art over centuries."
+    ],
+    "history": [
+      {
+        "when": "Early centuries",
+        "what": "The art travelled with Buddhism across the Himalaya and Tibet."
+      },
+      {
+        "when": "20th century",
+        "what": "Tibetan refugees brought teachers and styles to India, strengthening the art."
+      },
+      {
+        "when": "Today",
+        "what": "Both traditional temple thangkas and modern works are made."
+      }
+    ],
+    "future": [
+      "Care for mountain monastery collections through shared conservation.",
+      "Apprenticeship paths for local young people.",
+      "Respectful display: sacred images presented with context."
+    ],
+    "pins": [
+      {
+        "lat": 27.33,
+        "lng": 88.61,
+        "label": "Gangtok",
+        "approximate": false
+      },
+      {
+        "lat": 34.15,
+        "lng": 77.58,
+        "label": "Leh",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "thangka-art.jpg",
+        "alt": "A thangka painting of a Buddhist teacher with attendant figures.",
+        "caption": "",
+        "author": "Paintings on clothes in a cloth shop at Miao, Arunachal Pradesh. Photographer: D",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Traditional_Thangka_Painting_03.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "tanjore",
+    "name": "Thanjavur Painting",
+    "category": "Painting",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#b45309",
+    "motif": "arch",
+    "tagline": "Gold, gems and devotion on a wooden panel.",
+    "facts": [
+      "Medium: wood panel with cloth",
+      "Materials: gesso relief, gold leaf, semi-precious stones",
+      "Subject: Hindu deities and saints"
+    ],
+    "art": [
+      "Thanjavur (Tanjore) paintings glow. Figures of Krishna, Ganesha, Lakshmi and Rama sit centred in an arch or throne, in rich colours, with raised gesso work covered in gold foil and sometimes set with glass or stones.",
+      "The base is a wooden plank covered with cloth; the drawing is laid in first, then the relief, then gold leaf and colour."
+    ],
+    "artist": [
+      "The craft has been practised by families such as the Naidus and Rajus. Painters from Thanjavur and nearby Tiruchirappalli also made smaller works.",
+      "Women and men both paint today, and many artists have trained in local workshops or art schools.",
+      "Our approach: show the layers of an artwork being built, step by step, with the artist narrating."
+    ],
+    "place": [
+      "Thanjavur lies in the Kaveri delta, the 'rice bowl of Tamil Nadu', and is the seat of the Chola-era Brihadisvara temple and the Tamil classical music and Bharatanatyam traditions.",
+      "The region's temples, courts and festivals have long been the art's patrons."
+    ],
+    "history": [
+      {
+        "when": "Chola and Vijayanagara eras",
+        "what": "Painting traditions flourished in southern temples."
+      },
+      {
+        "when": "Maratha period (c. 1700s)",
+        "what": "The Maratha rulers of Thanjavur patronised the style that became known as Thanjavur painting."
+      },
+      {
+        "when": "Colonial era",
+        "what": "British officers and travellers bought the works as souvenirs."
+      },
+      {
+        "when": "Today",
+        "what": "The craft has a geographical-indication status and is made for homes and temples."
+      }
+    ],
+    "future": [
+      "Fair gold: promote gold-foil use in sustainable amounts and transparency in materials.",
+      "Teach the technique to young artists through short residencies.",
+      "Connect with music and dance: pair paintings with the delta's music and Bharatanatyam stories."
+    ],
+    "pins": [
+      {
+        "lat": 10.79,
+        "lng": 79.14,
+        "label": "Thanjavur",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "tanjore-art.jpg",
+        "alt": "A Thanjavur painting of Krishna and Radha on a swing, with gold foil.",
+        "caption": "",
+        "author": "Dr. M. Muthukrishnan, (Traditional thanjavurpainting artist)",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Thanjavur_Painting.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "tikuli-art",
+    "name": "Tikuli Art",
+    "category": "Painting",
+    "states": [
+      "Bihar"
+    ],
+    "color": "#a16207",
+    "motif": "dots",
+    "tagline": "The bindi turned into a painting: once glass and gold foil, now enamel on hardboard.",
+    "facts": [
+      "Tikuli is the local word for the bindi",
+      "Said to be about 800 years old; dates are not firm",
+      "Revived by Upendra Maharathi, from 1954 by most accounts",
+      "Now painted in enamel on hardboard"
+    ],
+    "art": [
+      "Tikuli began as the forehead ornament. Gaon Connection describes the older method: molten glass cut into small round pieces, covered with gold foil, with designs traced in with a sharp bamboo tool, coloured, and sealed with gond, a natural gum.",
+      "The modern craft moved to hardboard. The Better India says artists cut the board into circles, rectangles and other shapes, apply four or five coats of enamel and sand between coats, then paint the design and add gold foil. Brushes are fine, made of squirrel or sable hair. Dry weather suits the enamel.",
+      "Designs often use Madhubani motifs, and the common themes are Krishna Leela, weddings and Bihar festivals. Products include wall pieces, coasters, trays and pen stands."
+    ],
+    "artist": [
+      "Upendra Maharathi (1908-1981) is the central name. Sources say he saw enamel on wood being used in Japan and brought the idea back. Gaon Connection and The Better India date this to 1954, while another source says 1950. The Better India calls him Padmashree Upendra Maharathi.",
+      "Ashok Kumar Biswas and his wife Shibani Biswas carried the revival forward. Gaon Connection says Biswas has trained hundreds of women and received the Guru Shishya Parampara award in 2022. Women from rural areas, such as Arti Devi and Sapna Kumari quoted in that article, now earn from the craft.",
+      "Gaon Connection also notes that Muslim artisans once cut the glass and Hindu artists applied the gold, a shared effort."
+    ],
+    "place": [
+      "Patna, on the Ganga, is the home of Tikuli. Gaon Connection says Patna, Varanasi and Kolkata are the main hubs for buying and selling. Biswas's training centre is described as being near Patna.",
+      "Patna was a trading city under the Mughals, and the sources link the craft's best days to that period."
+    ],
+    "history": [
+      {
+        "when": "About 800 years ago (traditional)",
+        "what": "Sources say Tikuli began in the Patna region. Biswas, quoted by Gaon Connection, links it to Mauryan-era ornaments. These two dates do not match, and no source proves either."
+      },
+      {
+        "when": "Mughal period",
+        "what": "The craft is said to have flourished with royal and aristocratic patrons."
+      },
+      {
+        "when": "Colonial period",
+        "what": "Cheap machine-made bindis replaced the handmade ones and many artisans lost work, per The Better India."
+      },
+      {
+        "when": "1954",
+        "what": "Upendra Maharathi moves the craft to enamel on wood, per two sources. One source says 1950."
+      },
+      {
+        "when": "1984",
+        "what": "Gaon Connection says this was the last year government bought artwork directly from artists."
+      },
+      {
+        "when": "2017",
+        "what": "Gaon Connection mentions a state policy to promote Tikuli training."
+      }
+    ],
+    "future": [
+      "Training: more centres for women, with paid learning time",
+      "Livelihood: direct buyers and a government market, since artisans say state buying stopped in 1984",
+      "Materials: enamel and hardboard are cheap, so keep options open, including a small line of traditional glass and gold work",
+      "Documentation: record the glass-and-gold method while older artisans remember it",
+      "Protection: seek GI or similar recognition, if the community wants it"
+    ],
+    "pins": [
+      {
+        "lat": 25.5941,
+        "lng": 85.1376,
+        "label": "Patna",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "gaonconnection-com-english-bihar-patna-tikuli-art-culture-tr-20f3cd",
+      "thebetterindia-com-93754-tikuli-art-revival-bihar-women-arti-a3a55e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "usta-art",
+    "name": "Usta Art (Bikaner)",
+    "category": "Painting",
+    "states": [
+      "Rajasthan"
+    ],
+    "color": "#92400e",
+    "motif": "scroll",
+    "tagline": "Gold laid over raised paint on camel hide, by the Usta families of Bikaner.",
+    "facts": [
+      "Forms: manoti (embossed gold) and naqqashi (flat gold)",
+      "GI tag for Bikaner Usta Kala: August 2023",
+      "Fewer than 70 artists practise it today",
+      "Hisam-ud-din Usta (1910-1987) received the Padma Shri in 1986"
+    ],
+    "art": [
+      "Usta art is the work of the Usta artisans of Bikaner. Wikipedia describes two main forms. Manoti is embossed, with gold layered over painted floral patterns. Naqqashi uses the same methods but with flat, unembossed gold.",
+      "Wikipedia lists the steps: priming the surface, drawing the design, painting floral motifs, embossing with a paste, adding yellow layers, and laying gold foil with fine detailing. The work decorates walls, ceilings, glass, wood and marble as well as camel-hide objects.",
+      "Camel-hide pots, once used for oil and fragrance, became a portable surface, and Wikipedia ties this to the period of British rule."
+    ],
+    "artist": [
+      "Hisam-ud-din Usta (1910-1987) is described by Wikipedia as the last formally trained painter in the Bikaner school style. He won a national award in 1967 and the Padma Shri in 1986.",
+      "101 Reporters says that by 1967 he was the only artist left, and that efforts in 1976 led to a Camel Hide Training Centre and to students taking up the art.",
+      "The same report says fewer than 70 artists work today. A piece can take months, and mastery takes three to five years. Artists say short government training camps are not enough, and few women take part. Pieces sell from about Rs 7,000 to Rs 50,000."
+    ],
+    "place": [
+      "Bikaner is in the Thar desert region of north-west Rajasthan. Usta work can still be seen in the Anup, Phool and Karan Mahals of Junagarh Fort, according to Wikipedia.",
+      "NIFT Jodhpur and the USTTAD scheme have supported artists, per 101 Reporters."
+    ],
+    "history": [
+      {
+        "when": "Origin (contested)",
+        "what": "Wikipedia says Usta artists came to Bikaner under Maharaja Rai Singh in Akbar's time to decorate Junagarh Fort. 101 Reporters says Rai Singh invited artists from Iran. Other sources give other stories, so treat these as tradition."
+      },
+      {
+        "when": "British period",
+        "what": "Camel-hide objects spread as portable pieces, according to Wikipedia."
+      },
+      {
+        "when": "1967",
+        "what": "Hisam-ud-din Usta receives a national award for master craftspeople. By this year he was the only remaining artist, per 101 Reporters."
+      },
+      {
+        "when": "1976",
+        "what": "A training centre and new students revive the art, per 101 Reporters."
+      },
+      {
+        "when": "1986",
+        "what": "Padma Shri to Hisam-ud-din Usta."
+      },
+      {
+        "when": "August 2023",
+        "what": "Bikaner Usta Kala receives a GI tag, per 101 Reporters."
+      }
+    ],
+    "future": [
+      "Offer longer courses than two or three months.",
+      "Open the craft to women and to people outside the Usta families.",
+      "Use the GI tag with artist names on each work, as planned.",
+      "Create schemes made for this craft and tell artists about them.",
+      "Document Bikaner's palace murals as a record to learn from."
+    ],
+    "pins": [
+      {
+        "lat": 28.02,
+        "lng": 73.31,
+        "label": "Bikaner (Junagarh Fort)",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-usta-art-1354ec",
+      "en-wikipedia-org-wiki-hisam-ud-din-usta-40799b",
+      "101reporters-com-article-art-gi-tag-is-no-quick-fix-for-bika-221d4e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "warli",
+    "name": "Warli",
+    "category": "Painting",
+    "states": [
+      "Maharashtra"
+    ],
+    "color": "#7c2d12",
+    "motif": "triangles",
+    "tagline": "A whole world drawn from a circle, a triangle and a line.",
+    "facts": [
+      "Medium: mud walls, now cloth and paper",
+      "Pigment: white rice paste on red-ochre ground",
+      "Tools: bamboo stick brush"
+    ],
+    "art": [
+      "Warli paintings use only a few shapes: the circle for the sun and moon, the triangle for mountains and trees, the square for sacred enclosures. Human figures are two triangles joined at the tip, and the picture tells everyday life: harvests, dances, hunting, fishing.",
+      "The central ritual image is the chowk, drawn for weddings, built around Palaghata, the goddess of fertility. A circular spiral of dancers, the tarpa dance, often fills the frame."
+    ],
+    "artist": [
+      "Warli art was traditionally made by women, often the suvasini (married women) during weddings. Men were not usually the painters.",
+      "Jivya Soma Mashe, from Kalambipada in Dahanu, is widely credited with taking the art beyond ritual in the 1970s, painting daily life as an end in itself. He received a Padma Shri in 2011. His sons and others continue his work.",
+      "Our approach: record artists in their own words, in Warli and Marathi, with translation."
+    ],
+    "place": [
+      "The Warli are an adivasi community living in the hills and coast of Palghar and parts of Thane in northern Maharashtra, as well as adjoining Gujarat. Their villages sit between the Western Ghats and the Arabian Sea.",
+      "The nearness of Mumbai means the same land has seen rapid change: farms, brick kilns and commuter towns are close together."
+    ],
+    "history": [
+      {
+        "when": "Early tradition",
+        "what": "Scholars connect the drawing style with ancient rock art shapes, though dating is debated. Walls were painted fresh for each ritual."
+      },
+      {
+        "when": "1970s",
+        "what": "Jivya Soma Mashe began painting on paper and cloth and exhibiting; the art gained a national audience."
+      },
+      {
+        "when": "1980s onward",
+        "what": "Government and NGO programmes encouraged Warli painters to produce for the market."
+      },
+      {
+        "when": "Today",
+        "what": "Warli motifs appear on textiles, home decor and public walls, sometimes copied without credit to the community."
+      }
+    ],
+    "future": [
+      "Community ownership: support cooperatives run by Warli women so the benefits of the Warli name return to Warli villages.",
+      "Protect the ritual: keep the chowk and wedding practice alive alongside the market art.",
+      "Tell the whole place: link the art to Warli ecology, agriculture and oral songs in an open archive."
+    ],
+    "pins": [
+      {
+        "lat": 19.97,
+        "lng": 72.73,
+        "label": "Dahanu",
+        "approximate": false
+      }
+    ],
+    "images": [
+      {
+        "kind": "art",
+        "file": "warli-art.jpg",
+        "alt": "A Warli painting by Jivya Soma Mashe with a spiral of dancers.",
+        "caption": "A painting by Jivya Soma Mashe.",
+        "author": "Jean-Pierre Dalbéra (Flickr)",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_Warli_painting_by_Jivya_Soma_Mashe,_Thane_district.jpg"
+      },
+      {
+        "kind": "artist",
+        "file": "warli-artist.jpg",
+        "alt": "Jivya Soma Mashe with one of his paintings.",
+        "caption": "Jivya Soma Mashe, who took Warli painting beyond ritual.",
+        "author": "Romain Mounier-Poulat (Romainmp)",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jivya_Soma_Mashe.jpg"
+      }
+    ],
+    "source_ids": [],
+    "review_status": "draft"
+  }
+]

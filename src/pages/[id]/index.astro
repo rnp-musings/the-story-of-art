@@ -1,0 +1,63 @@
+---
+import Base from '../../layouts/Base.astro';
+import IndiaMap from '../../components/IndiaMap.astro';
+import { allArts, getArt, sourcesFor, url, motifStyle, whereOf, type Art } from '../../lib/data';
+
+export function getStaticPaths() {
+  const arts = allArts();
+  return arts.map((art, i) => ({
+    params: { id: art.id },
+    props: { art, prev: arts[(i + arts.length - 1) % arts.length], next: arts[(i + 1) % arts.length] }
+  }));
+}
+interface Props { art: Art; prev: Art; next: Art }
+const { art, prev, next } = Astro.props;
+const sources = sourcesFor(art);
+const SECTIONS = [
+  ['art', 'The story of the art'], ['artist', 'The story of the artist'], ['place', 'The story of the place'],
+  ['history', 'History of art, artist & place'], ['future', 'Our vision for the future']
+] as const;
+const image = (kind: 'art' | 'artist') => art.images.find(i => i.kind === kind);
+const issue = `https://github.com/rnp-musings/the-story-of-art/issues/new?title=${encodeURIComponent('Correction: ' + art.name)}&body=${encodeURIComponent(`Page: ${Astro.site}${url(art.id + '/').replace(/^\//, '')}\n\nWhat should change, and the source:\n`)}`;
+---
+<Base title={art.name} description={art.tagline}>
+  <div class="detail-hero" style={motifStyle(art.motif, art.color)}>
+    <div class="inner">
+      <div class="where">{art.category} · {whereOf(art)}</div>
+      <h1>{art.name}</h1>
+      <p>{art.tagline}</p>
+      <div class="facts">{art.facts.map(f => <span>{f}</span>)}</div>
+    </div>
+  </div>
+  <nav class="subnav">{SECTIONS.map(([k, t]) => <a href={`#${k}`}>{t}</a>)}<a href="#sources">Sources</a></nav>
+  {SECTIONS.map(([k, t], n) => (
+    <section class="story" id={k}>
+      <div class="kicker">{n + 1} of 5</div>
+      <h2>{t}</h2>
+      {k === 'place' && <IndiaMap arts={[art]} fit link={false} id="mini" />}
+      {(k === 'art' || k === 'artist') && image(k) && (
+        <figure class={`photo ${k}`}>
+          <img src={url(`images/${image(k)!.file}`)} alt={image(k)!.alt} loading="lazy" />
+          <figcaption>
+            {image(k)!.caption || (k === 'art' ? `${art.name}.` : '')}
+            <small>Photo: {image(k)!.author} · <a href={image(k)!.source_url} target="_blank" rel="noopener">{image(k)!.license}</a></small>
+          </figcaption>
+        </figure>
+      )}
+      {k === 'history' ? (
+        <ul class="timeline">{art.history.map(h => <li><b>{h.when}</b>{h.what}</li>)}</ul>
+      ) : k === 'future' ? (
+        <div class="vision"><h4>What we hope to do</h4><ul>{art.future.map(x => <li>{x}</li>)}</ul></div>
+      ) : (
+        art[k].map(p => <p>{p}</p>)
+      )}
+    </section>
+  ))}
+  <section class="story sources" id="sources">
+    <div class="kicker">Sources</div>
+    <ul>{sources.map(s => <li><a href={s.url} target="_blank" rel="noopener">{s.title}</a></li>)}</ul>
+    <p class="status">Status: {art.review_status === 'draft' ? 'draft, not yet expert-reviewed' : art.review_status}</p>
+  </section>
+  <p class="note correct">Know something we got wrong, or have a photo to share? <a href={issue} target="_blank" rel="noopener">Suggest a correction</a>.</p>
+  <div class="pager"><a href={url(`${prev.id}/`)}>← {prev.name}</a><a href={url(`${next.id}/`)}>{next.name} →</a></div>
+</Base>

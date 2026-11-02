@@ -1,0 +1,34 @@
+---
+// India drawn as inline SVG from an embedded outline (no map tiles, no external requests).
+// Pins link to each art form; hovering or focusing a pin shows its name in the caption below.
+import { INDIA } from '../lib/india';
+import type { Art } from '../lib/data';
+import { url } from '../lib/data';
+interface Props { arts: Art[]; fit?: boolean; link?: boolean; id?: string }
+const { arts, fit = false, link = true, id = 'map' } = Astro.props;
+const K = INDIA.k;
+const [bx0, by0, bx1, by1] = INDIA.bounds;
+const pins = arts.flatMap(a => a.pins.map(p => ({ a, x: p.lng * K, y: -p.lat, label: p.label })));
+let vb = [bx0 - 1, by0 - 1, bx1 - bx0 + 2, by1 - by0 + 2];
+if (fit && pins.length) {
+  const xs = pins.map(p => p.x), ys = pins.map(p => p.y);
+  const w = Math.max(10, Math.max(...xs) - Math.min(...xs) + 6), h = Math.max(10, Math.max(...ys) - Math.min(...ys) + 6);
+  const cx = (Math.max(...xs) + Math.min(...xs)) / 2, cy = (Math.max(...ys) + Math.min(...ys)) / 2;
+  const side = Math.max(w, h * 1.2);
+  vb = [cx - side / 2, cy - side / 2.4, side, side / 1.2];
+}
+const r = vb[2] / (fit ? 60 : 170);
+---
+<div class="map" id={id} role="region" aria-label="Map of India showing where each art form comes from">
+  <svg viewBox={vb.join(' ')} role="img" aria-label="Map of India with pins for each art form" preserveAspectRatio="xMidYMid meet">
+    <path class="land" d={INDIA.path} />
+    {pins.map(p => {
+      const label = `${p.a.name}: ${p.label}, ${p.a.states.join(' · ')}`;
+      const dot = <circle cx={p.x} cy={p.y} r={r * 1.7} fill={p.a.color} stroke="#fff" stroke-width={r * 0.5} />;
+      return link
+        ? <a href={url(`${p.a.id}/`)} data-art={p.a.id} data-label={label} aria-label={label}>{dot}</a>
+        : <g data-art={p.a.id} data-label={label}>{dot}</g>;
+    })}
+  </svg>
+  <div class="mapinfo" aria-live="polite">{fit ? pins.map(p => p.label).join(' · ') : 'Hover or tap a pin to see the art form.'}</div>
+</div>

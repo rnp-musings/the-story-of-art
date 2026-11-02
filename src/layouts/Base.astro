@@ -1,0 +1,26 @@
+---
+import '../styles/global.css';
+import { url } from '../lib/data';
+interface Props { title?: string; description?: string }
+const { title = 'Story of Art', description = 'Indian painting, textiles, crafts, sculpture, dance, music and theatre, told through the art, the artist, the place, their history and a vision for their future.' } = Astro.props;
+const full = title === 'Story of Art' ? title : `${title} · Story of Art`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content={description} />
+    <title>{full}</title>
+  </head>
+  <body>
+    <header class="top">
+      <a class="brand" href={url()}>Story of Art<span>Indian art forms, place by place</span></a>
+      <nav><a href={url()}>All art forms</a><a href={url('about/')}>About</a></nav>
+    </header>
+    <main><slot /></main>
+    <footer>
+      <p>Story of Art is a living project. Content is a draft written for review with practitioners, scholars and the communities who keep these traditions alive.</p>
+    </footer>
+  </body>
+</html>

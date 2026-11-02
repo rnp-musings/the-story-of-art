@@ -1,0 +1,15 @@
+---
+import type { Art } from '../lib/data';
+import { url, motifStyle, whereOf } from '../lib/data';
+interface Props { art: Art }
+const { art } = Astro.props;
+const search = [art.name, art.tagline, art.category, art.states.join(' '), art.pins.map(p => p.label).join(' '), art.facts.join(' ')].join(' ').toLowerCase();
+---
+<a class="card" href={url(`${art.id}/`)} data-art={art.id} data-category={art.category} data-states={art.states.join('|')} data-search={search}>
+  <div class="art" style={motifStyle(art.motif, art.color)}></div>
+  <div class="body">
+    <div class="where">{art.category} · {art.states.join(' · ')}</div>
+    <h3>{art.name}</h3>
+    <p>{art.tagline}</p>
+  </div>
+</a>

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "gatka",
+    "name": "Gatka",
+    "category": "Martial art",
+    "states": [
+      "Punjab"
+    ],
+    "color": "#0f4c5c",
+    "motif": "triangles",
+    "tagline": "Wooden sticks and leather shields: the Sikh weapon art, practised in akharas and at festivals.",
+    "facts": [
+      "Weapons: soti (stick) and farri (small leather shield)",
+      "Linked to the older Sikh weapon science, shastar vidya",
+      "Gatka Federation of India formed 2008",
+      "Training halls are called akharas"
+    ],
+    "art": [
+      "Gatka is a Sikh stick-fighting art from Punjab. Practitioners use a wooden stick, the soti, to stand in for a sword. They also use a small round shield called the farri. Wikipedia gives the soti as about 91 to 107 cm long, and the farri as about 23 cm across.",
+      "Gatka is described as a part, or a toned-down form, of shastar vidya, the older science of weapons. Sources differ on how the two relate and on dates. Drishti IAS ties gatka to Guru Hargobind adopting the kirpan in the Mughal era; Wikipedia says the 15th century.",
+      "Training happens in an akhara. Wikipedia says students learn footwork and body movement before weapons, and sessions include simran (meditation), warm-ups and prayer. In sport bouts, points are given by where a strike lands.",
+      "Weapons shown in displays can also include the kirpan and the chakkar, a throwing ring."
+    ],
+    "artist": [
+      "Gatka is practised by people of many ages and, Drishti IAS notes, is open to all faiths. Nihang Sikhs are linked with keeping it alive during hard times. We did not open a page that names living teachers, so none are listed.",
+      "Wikipedia says women now practise gatka and that Punjabi University offers a one-year diploma."
+    ],
+    "place": [
+      "Gatka belongs to Punjab, and to places of Sikh history such as Anandpur Sahib. Before it became a sport, Drishti IAS says, it lived in gurdwaras, nagar kirtans and akharas.",
+      "It is also taught outside India. Wikipedia mentions tournaments in North America under the name Yudh Gatka."
+    ],
+    "history": [
+      {
+        "when": "15th to 17th century (sources differ)",
+        "what": "Gatka's beginnings are dated differently. Wikipedia says 15th century; other sources link it to Guru Hargobind in the early 17th century."
+      },
+      {
+        "when": "After the Second Anglo-Sikh War",
+        "what": "Wikipedia says the British banned carrying swords, and gatka moved to sticks, continuing in rural areas and among Nihangs."
+      },
+      {
+        "when": "1920",
+        "what": "Two forms existed: rasmi (traditional) and khel (sport), according to Wikipedia."
+      },
+      {
+        "when": "1936",
+        "what": "Kartar Singh Akali published a treatise, and Panjab University standardised rules."
+      },
+      {
+        "when": "1982 and later",
+        "what": "Wikipedia says the International Gatka Federation was founded in 1982; it lists the year inconsistently elsewhere."
+      },
+      {
+        "when": "2008",
+        "what": "The Gatka Federation of India was formed and moved gatka into sports (Drishti IAS)."
+      }
+    ],
+    "future": [
+      "Keep both sides alive: the sport with its rules, and the traditional practice with its prayer and discipline.",
+      "Support akharas with equipment, space and fair pay for teachers.",
+      "Safe training for children, with protective gear in practice.",
+      "Record old drills and the elders who know them.",
+      "Add more girls' and women's teams."
+    ],
+    "pins": [
+      {
+        "lat": 31.24,
+        "lng": 76.5,
+        "label": "Anandpur Sahib",
+        "approximate": false
+      },
+      {
+        "lat": 31.63,
+        "lng": 74.87,
+        "label": "Amritsar",
+        "approximate": false
+      },
+      {
+        "lat": 30.37,
+        "lng": 76.78,
+        "label": "Patiala (Punjabi University)",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-gatka-d10ae5",
+      "drishtiias-com-daily-news-analysis-gatka-martial-art-0faec7"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "kalaripayattu",
+    "name": "Kalaripayattu",
+    "category": "Martial art",
+    "states": [
+      "Kerala"
+    ],
+    "color": "#7c2d12",
+    "motif": "spiral",
+    "tagline": "A martial art learned barefoot in a sunken earth hall, with oil, breath and a shrine.",
+    "facts": [
+      "Form: martial art and body discipline",
+      "Training space: the kalari, entrance facing east",
+      "Stages: meipayattu, kolthari, angathari, verumkai",
+      "Two styles: northern (Vadakkan) and southern (Thekkan)"
+    ],
+    "art": [
+      "Kalaripayattu is a martial art of Kerala. The word kalari means the training hall, and payattu means practice. Students begin with body training and stances, then learn wooden weapons, then metal weapons, and last, bare-handed combat.",
+      "Wikipedia describes the northern style as one of flexibility, jumps and weapons, and the southern style as more about hard impact, footwork and strikes at vital points. The northern style is practised mainly in Malabar and the southern in the south of Kerala.",
+      "Oil is part of the practice. Teachers give massage (uzhichil) with medicinal oils, to make the body supple or to treat injuries. The art is also linked to knowledge of marma, the body's vital points. Wikipedia notes that claims about what marma strikes can do have not been verified by outside testing, so the teaching is best presented as tradition.",
+      "The kalari itself is a work of design. Sources describe a rectangular hall about 42 feet by 21 feet, with the floor dug into the earth. Depth is given as four to six feet in different sources, and the hall is dark and cool. The entrance faces east. At the south-west corner is the poothara, a stepped platform, often with seven steps, where the guardian goddess, commonly named as Bhadrakali, is honoured. Students touch the shrine and the earth on entering.",
+      "A recent report from Cherthala says builders now often avoid the deep pit because it floods, and build kalaris at ground level."
+    ],
+    "artist": [
+      "Kalari teachers are called gurukkal. They are traditionally also healers who know oils and bone-setting, and the teaching is passed from teacher to student, usually in a family or a long-standing school.",
+      "Wikipedia notes that Meenakshi Amma received the Padma Shri in 2017. She is a woman gurukkal who teaches the art. Women and girls now train in many kalaris.",
+      "Wikipedia mentions Kottackkal Kanaran Gurukkal as a teacher who kept the art going in secret after the British ban.",
+      "Our approach: ask gurukkals how they teach, what they keep private, and what they are happy to share."
+    ],
+    "place": [
+      "The art is linked above all to Malabar in the north, where Thalassery and the Kozhikode region were centres of the 20th century revival. A southern tradition survives around Thiruvananthapuram.",
+      "Kerala's warm, wet climate matters for the practice. The sunken kalari stays cool, and the herbal oils and medicines come from the Western Ghats forests and village gardens. This is why the art is often presented together with Ayurveda, in Kerala's health tourism.",
+      "The kalari is often next to a family home or a temple, in the same village or town, and the shrine inside it makes it a sacred place as much as a gym. Schools and training centres now welcome visitors across the state."
+    ],
+    "history": [
+      {
+        "when": "Origins (debated)",
+        "what": "Legend credits the sage Parashurama as the teacher. Historians point to older combat traditions of the Sangam era and to Dhanur Veda texts as possible precursors. Zarrilli, quoted on Wikipedia, says it has been practised since at least the 12th century."
+      },
+      {
+        "when": "Late medieval period",
+        "what": "Kalari training was common among Nair and Thiyyar communities, and duels called ankam and poithu were used to settle disputes."
+      },
+      {
+        "when": "From the 17th century",
+        "what": "The art declined as firearms spread and European colonisation advanced."
+      },
+      {
+        "when": "1804",
+        "what": "The British banned Kalaripayattu after the Kottayathu war led by Pazhassi Raja, according to Wikipedia. Teachers carried on in secret."
+      },
+      {
+        "when": "1920s",
+        "what": "A public revival began in Thalassery."
+      },
+      {
+        "when": "1937",
+        "what": "Chirakkal T. Sreedharan Nair wrote what Wikipedia calls the first book on the art."
+      },
+      {
+        "when": "2017",
+        "what": "Meenakshi Amma was awarded the Padma Shri."
+      },
+      {
+        "when": "2021",
+        "what": "The Kerala government announced a Kalaripayattu Academy in Thiruvananthapuram, according to Wikipedia."
+      },
+      {
+        "when": "Today",
+        "what": "The Kerala Kalaripayattu Association, based in Thiruvananthapuram, is recognised by the state sports council."
+      }
+    ],
+    "future": [
+      "Support family-run kalaris with repair grants and fair fees, so the old schools can stay open.",
+      "Teach Kalaripayattu in schools as movement and health education, with trained gurukkals paid for the work.",
+      "Record the oils, herbal medicine knowledge and training manuals with the gurukkals, and protect their ownership of it.",
+      "Keep standards for visitor classes, so short tourist courses do not replace years of training.",
+      "Plant and protect the medicinal plants that kalari oils depend on, with local communities.",
+      "Encourage more women gurukkals and girls to train, and record their stories."
+    ],
+    "pins": [
+      {
+        "lat": 11.75,
+        "lng": 75.49,
+        "label": "Thalassery",
+        "approximate": false
+      },
+      {
+        "lat": 11.25,
+        "lng": 75.78,
+        "label": "Kozhikode",
+        "approximate": false
+      },
+      {
+        "lat": 8.49,
+        "lng": 76.95,
+        "label": "Thiruvananthapuram",
+        "approximate": false
+      },
+      {
+        "lat": 9.49,
+        "lng": 76.33,
+        "label": "Cherthala",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-kalaripayattu-204841",
+      "en-wikipedia-org-wiki-kalari-aba1c9",
+      "keralatourism-org-kalaripayattu-training-4546ba",
+      "onmanorama-com-news-kerala-2026-07-03-cherthala-new-kalari-a-5c0be4"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "parichakali",
+    "name": "Parichakali",
+    "category": "Martial art",
+    "states": [
+      "Lakshadweep"
+    ],
+    "color": "#1e3a8a",
+    "motif": "diamond",
+    "tagline": "Men with wooden swords and shields turn mock combat into a dance on the islands.",
+    "facts": [
+      "Name means shield dance (paricha, shield)",
+      "Performed by men with wooden swords and shields",
+      "Starts slowly and builds to an energetic finish",
+      "Named by the UT government as one of two popular folk arts, with Kolkali"
+    ],
+    "art": [
+      "Parichakali is a sword and shield dance of Lakshadweep. The Lakshadweep administration names it, with Kolkali, as one of the two popular folk art forms of the territory, except at Minicoy where Lava is the favourite.",
+      "Maps of India describes it as a dance somewhat like a martial art. The swords and shields are made of very soft wood so that nobody is hurt. Dancers act out dual combats, and the themes are brave wars, warriors and the freedom struggle. It begins slowly and speeds up to a high-energy finish, with songs.",
+      "Do not confuse it with Parichamuttukali of Kerala. Kerala Tourism describes that as a Christian art, danced by men around a lamp at church feasts, with songs for saints. The names are close and some websites mix them up. I found no source that shows a link between the two."
+    ],
+    "artist": [
+      "Parichakali is a men's art. I found no named performers or teachers in Lakshadweep in the sources I could read.",
+      "Groups perform at community events and festivals. The administration lists Independence Day, Republic Day, Milad-un-Nabi, Id-ul-Fitr, Bakrid and Muharram as the most widely celebrated occasions, but it does not say which ones feature Parichakali."
+    ],
+    "place": [
+      "Lakshadweep is a chain of small coral islands in the Arabian Sea off Kerala. Kavaratti is the capital. The islands' culture has close ties with Kerala, and the administration notes that some folk dances resemble those of the North East.",
+      "Parichakali is spread through the islands except Minicoy, the southernmost, where the Lava dance has the place of honour. The pins below show the capital and the island groups, not specific performance venues."
+    ],
+    "history": [
+      {
+        "when": "Origin",
+        "what": "No source I read gives a firm date or history for Parichakali in Lakshadweep."
+      },
+      {
+        "when": "Kerala neighbour",
+        "what": "Wikipedia says Kerala's Parichamuttukali became distinct from other Kalari-based dances in the 16th century. This is a different art and is given here only to prevent confusion."
+      }
+    ],
+    "future": [
+      "Record senior performers and their songs on video, in the island dialect, before the knowledge is lost.",
+      "Organise inter-island gatherings where dance groups meet and learn from each other.",
+      "Teach it in island schools, with safe wooden props.",
+      "Find out and write down what the songs say, with island elders as the authors.",
+      "Pay dancers fairly when they perform for visitors."
+    ],
+    "pins": [
+      {
+        "lat": 10.5669,
+        "lng": 72.642,
+        "label": "Kavaratti, capital of Lakshadweep",
+        "approximate": false
+      },
+      {
+        "lat": 10.8167,
+        "lng": 73.6833,
+        "label": "Androth Island",
+        "approximate": true
+      },
+      {
+        "lat": 10.0833,
+        "lng": 73.6333,
+        "label": "Kalpeni Island",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "lakshadweep-gov-in-culture-d5fea9",
+      "mapsofindia-com-lakshadweep-culture-dance-html-fd9387",
+      "keralatourism-org-christianity-parichamuttu-kali-37-58fadc",
+      "en-wikipedia-org-wiki-parichamuttukali-5de6af"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "thang-ta",
+    "name": "Thang-Ta",
+    "category": "Martial art",
+    "states": [
+      "Manipur"
+    ],
+    "color": "#7f1d1d",
+    "motif": "triangles",
+    "tagline": "Sword and spear of the Meitei, kept alive through a long colonial ban.",
+    "facts": [
+      "Thang means sword, ta means spear",
+      "Armed half of Huyen Lallong; the unarmed half is Sarit Sarak",
+      "Banned by the British after 1891",
+      "Closely tied to dance, ritual and theatre"
+    ],
+    "art": [
+      "Thang-Ta is a martial art of the Meitei people of Manipur. The name is made of two words: thang, sword, and ta, spear. It is the armed branch of a wider art called Huyen Lallong, which roughly means the art of warfare. The unarmed branch is Sarit Sarak.",
+      "Training is graded. Sources describe students starting with stepping patterns and basic sword strikes from a basic stance known as the lion posture. Spear work comes later, and bare-handed techniques are taught only once a student is skilled with weapons. Wikipedia notes that this training section is thinly sourced.",
+      "Wikipedia lists several parts of the art. Ta Khousarol is a spear dance performed with a spear and a round shield. Thanghairol is swordplay, both decorative and for combat. Sparring takes place in a circular arena using leather-covered cudgels and shields. There is also a secret practice of coiled-snake footwork that, the article says, is taught only to trusted disciples.",
+      "Thang-Ta is not only fighting. UNESCO's ICM page says it is closely tied to dance and ritual practice. Wikipedia adds that Manipuri classical dance draws hand movements and footwork from it."
+    ],
+    "artist": [
+      "Old teachers are called ojas. Wikipedia says training begins with an initiation called Oja Boriba and a code of conduct. The code includes going barefoot in the training hall, bowing to teachers and partners, and respecting the weapons.",
+      "One named master is Gurumayum Gourakishor Sharma, who received the Padma Shri in 2009 for his work to preserve and advance the art, according to the Huiyen Lallong article. That article also names the Huyen Langlon Thang-Ta Academy as the largest training school.",
+      "Academies across Manipur now teach both men and women. Many dance and theatre schools also include Thang-Ta in their courses."
+    ],
+    "place": [
+      "Thang-Ta belongs to the Manipur valley around Imphal, the home of the Meitei. The Meitei past, the sources say, was marked by frequent warfare with neighbouring kingdoms, and long practice kept warriors sharp in peace as well as war.",
+      "Today it is taught in schools and academies in Imphal and other towns, and competitions run from school to national level. The Department of Thang-Ta at Manipur University of Culture teaches it as a subject, according to Wikipedia."
+    ],
+    "history": [
+      {
+        "when": "Myth",
+        "what": "Meitei myth credits the deity Pakhangba as the source of the art, with parts of his body becoming swords and tools. This is legend, not documented history."
+      },
+      {
+        "when": "Early kings",
+        "what": "The Huiyen Lallong article names kings such as Loiyamba Shinyen (1074-1122) and Punshiba (1404-1432) as having organised armed forces."
+      },
+      {
+        "when": "1597-1652",
+        "what": "The art is said to have peaked under King Khagemba. A manuscript called the Chainarol describes dueling rules of that period, in which a fight usually ended at first blood."
+      },
+      {
+        "when": "1709-1748",
+        "what": "Meidingu Pamheiba's military service system relied on individually trained warriors, according to the Huiyen Lallong article."
+      },
+      {
+        "when": "1891",
+        "what": "After the Anglo-Manipur War the British annexed Manipur, banned weapons and martial arts, and the art survived underground."
+      },
+      {
+        "when": "After 1947",
+        "what": "The art came back after independence and has since been promoted as both a sport and a system of self-defence."
+      },
+      {
+        "when": "2009",
+        "what": "Gurumayum Gourakishor Sharma received the Padma Shri for his work on the art."
+      }
+    ],
+    "future": [
+      "Training: support ojas to teach in schools and community clubs, and to pass on the parts of the art taught only to close disciples.",
+      "Livelihood: pay teachers and demonstration troupes fairly, and link Thang-Ta with dance, theatre and film work.",
+      "Documentation: record the full forms, rules of conduct and teachers' lineages in video and writing, with the teachers' consent.",
+      "Protection: keep the art rooted in its ritual and dance links and not only in sport; check whether national or international heritage listing is wanted by practitioners.",
+      "Access: keep teaching open to women and girls, as academies already do."
+    ],
+    "pins": [
+      {
+        "lat": 24.817,
+        "lng": 93.9368,
+        "label": "Imphal",
+        "approximate": false
+      },
+      {
+        "lat": 24.8066,
+        "lng": 93.9456,
+        "label": "Kangla, Imphal",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-thang-ta-c92515",
+      "en-wikipedia-org-wiki-huiyen-lallong-5bc9ab",
+      "unescoicm-org-en-global-arts-view-107-thang-ta-2c3bab"
+    ],
+    "review_status": "draft"
+  }
+]

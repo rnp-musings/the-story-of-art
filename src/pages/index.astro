@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import ArtCard from '../components/ArtCard.astro';
+import IndiaMap from '../components/IndiaMap.astro';
+import { allArts, allStates, categories } from '../lib/data';
+const arts = allArts();
+---
+<Base>
+  <section class="hero">
+    <h1>Every Indian art form has a place, a maker and a story.</h1>
+    <p>Paintings, textiles, crafts, sculpture, dance, music, theatre and more. Each art form is told through five lenses: the art, the artist, the place, their history, and our vision for their future.</p>
+  </section>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Search art forms, places, themes..." aria-label="Search" />
+    <select id="cat" aria-label="Filter by type"><option value="">All types</option>{categories().map(c => <option>{c}</option>)}</select>
+    <select id="st" aria-label="Filter by state"><option value="">All states</option>{allStates().map(s => <option>{s}</option>)}</select>
+  </div>
+  <IndiaMap arts={arts} />
+  <p class="mapnote">Pins show where each art form is centred. Select a pin to open its story.</p>
+  <p class="count" id="count">{arts.length} art forms</p>
+  <div class="grid" id="grid">{arts.map(a => <ArtCard art={a} />)}</div>
+  <p class="empty hidden" id="empty">No art forms match your search yet.</p>
+</Base>
+<script src="../scripts/home.ts"></script>

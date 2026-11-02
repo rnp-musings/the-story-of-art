@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { allArts, categories } from '../lib/data';
+const arts = allArts();
+---
+<Base title="About" description="About Story of Art.">
+  <section class="hero">
+    <h1>About Story of Art</h1>
+    <p>Story of Art tells the story of India's art forms, from painting, textiles and sculpture to dance, music and theatre, through the geography that shaped them. Each art form is told in five parts: the art, the artist, the place, the history of all three, and our vision for what comes next.</p>
+    <p>The site holds {arts.length} art forms across {categories().length} types, from every state and union territory.</p>
+    <p class="note">Every entry is a draft. Sources are listed on each page, and claims we could not verify are left out. Names, dates and honours should be checked with practitioners, scholars and community organisations before wider publication. Use the "Suggest a correction" link on any page to tell us what to fix.</p>
+  </section>
+</Base>

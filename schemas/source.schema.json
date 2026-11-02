@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "url", "checked"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "title": { "type": "string", "minLength": 3 },
+      "url": { "type": "string", "pattern": "^https?://" },
+      "checked": { "type": "boolean", "description": "true once a reviewer has opened the page and confirmed it supports the claims citing it" }
+    }
+  }
+}

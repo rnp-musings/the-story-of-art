@@ -1,0 +1,3065 @@
+[
+  {
+    "id": "varanasi-tabla",
+    "name": "Banaras Tabla Gharana",
+    "category": "Music",
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "color": "#1e3a8a",
+    "motif": "spiral",
+    "tagline": "A powerful, full-handed tabla school from Varanasi, shaped by Pandit Ram Sahai.",
+    "facts": [
+      "Founder: Pandit Ram Sahai (1780 to 1826)",
+      "Part of the Purbi (eastern) baaj with Lucknow and Farukhabad",
+      "Suited to solo, khyal, dhrupad, kathak and thumri",
+      "Known players: Kishan Maharaj, Sharda Sahai, Samta Prasad"
+    ],
+    "art": [
+      "Banaras is one of the main tabla gharanas. It belongs to the Purbi baaj with the Farukhabad and Lucknow gharanas. It should not be confused with the Banaras vocal gharana.",
+      "Sources describe a powerful, resonant sound, although players can also be delicate. Resonant strokes such as Na (on the edge with the curved ring finger) and Din are central. Players prefer full-hand strokes. It works well as a solo and also for khyal, dhrupad and kathak, and suits lighter forms like thumri and tappa.",
+      "Mativetsky says Ram Sahai created forms such as uthan, the Benarsi theka and fard, and that the style uses over twenty compositional types."
+    ],
+    "artist": [
+      "The gharana is traced to Pandit Ram Sahai (1780 to 1826), who trained in Lucknow under Modhu Khan and then developed the Benares style. The seven-night recital story is told in sources, but they give different ages for it.",
+      "The line runs through Bhairav Sahai (1815 to 1894) and Baldeo Sahai (1856 to 1906). Baldeo's sons and pupils include Kanthe Maharaj (1880 to 1969) and Bhagvati Sahai (1896 to 1946). Sharda Sahai (1935 to 2011) descends from Bhagvati and was a leading soloist and teacher.",
+      "Kishan Maharaj was born in 1923 in Kabir Chaura, Varanasi, and died in 2008. Wikipedia lists the Padma Shri (1973) and Padma Vibhushan (2002) for him; that page is flagged for weak references. He was taught by his father Hari Maharaj and then by Kanthe Maharaj. Other noted names are Samta Prasad (1921 to 1994), Anokhelal Mishra and Durga Sahai."
+    ],
+    "place": [
+      "Varanasi, also called Benares or Kashi, is on the Ganga in eastern Uttar Pradesh. The gharana grew here and in surrounding mohallas such as Kabir Chaura.",
+      "The tabla here lived alongside kathak, thumri and temple music of the city. Players worked as accompanists as well as soloists."
+    ],
+    "history": [
+      {
+        "when": "Late 18th century",
+        "what": "Ram Sahai is born in 1780 in Varanasi."
+      },
+      {
+        "when": "Early 19th century",
+        "what": "He trains in Lucknow and then shapes the Benares style."
+      },
+      {
+        "when": "1826",
+        "what": "Ram Sahai dies; his line continues through Bhairav Sahai and Baldeo Sahai."
+      },
+      {
+        "when": "Early 20th century",
+        "what": "Baldeo's pupils, including Kanthe Maharaj, spread the style."
+      },
+      {
+        "when": "1923",
+        "what": "Kishan Maharaj is born in Kabir Chaura."
+      },
+      {
+        "when": "2008 and 2011",
+        "what": "Kishan Maharaj and Sharda Sahai die."
+      }
+    ],
+    "future": [
+      "Training: the guru-shishya line continues through teachers such as Sharda Sahai's students; wider teaching in schools would help.",
+      "Livelihood: concerts, accompaniment and teaching abroad give income; local stipends would help young players.",
+      "Materials: tabla makers and skin suppliers need steady support.",
+      "Documentation: record compositions such as uthan, fard and parans in notation and audio.",
+      "Protection: a Benares oral-history archive would help keep family teaching intact."
+    ],
+    "pins": [
+      {
+        "lat": 25.3176,
+        "lng": 82.9739,
+        "label": "Varanasi",
+        "approximate": false
+      },
+      {
+        "lat": 25.3125,
+        "lng": 83.01,
+        "label": "Kabir Chaura",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "shawnmativetsky-com-benares-gharana-a07d44",
+      "en-wikipedia-org-wiki-benares-gharana-5d1caf",
+      "en-wikipedia-org-wiki-kishan-maharaj-c79c90"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "baul",
+    "name": "Baul",
+    "category": "Music",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#a16207",
+    "motif": "vine",
+    "tagline": "Wandering mystic singers of Bengal, with a one-string drone and songs of the body and the divine.",
+    "facts": [
+      "UNESCO: inscribed in 2008, originally proclaimed in 2005 (Bangladesh)",
+      "Instruments: ektara, dotara, dubki",
+      "Songs said to date back to the 15th century",
+      "Joydev Kenduli Poush Mela in Birbhum draws many Bauls"
+    ],
+    "art": [
+      "Baul songs are the songs of wandering mystics of Bengal. UNESCO describes their poetry, music, song and dance as exploring the relationship between humanity and God, and the search for spiritual freedom. UNESCO says their devotional songs date back to the 15th century.",
+      "The songs draw on Hindu bhakti and Sufi ideas among others, but UNESCO says Bauls reject organised religion, the caste system and set places of worship. They see the human body as the place where God lives. Wikipedia adds that Lalon criticised religious divisions in his songs.",
+      "The main instruments, UNESCO says, are the ektara, a one-stringed instrument, the dotara, a lute, and the dubki, a drum. Wikipedia describes the ektara as a plucked drone made from a gourd, bamboo and goatskin, and the dotara as a long-necked, fretless lute, usually with four metal strings. Small cymbals (khartal, manjira), flutes and ankle bells also appear.",
+      "The singing is direct and the language is that of everyday Bengal. UNESCO notes that teachers pass philosophy to their disciples orally, and that the language of the songs is continually updated."
+    ],
+    "artist": [
+      "Bauls are mystic minstrels, UNESCO says, a group long marginalised. Some live near villages and others travel from place to place, earning their living by singing. Wikipedia says that most are Sufi-influenced Bengali Muslims or Gaudiya Vaishnava Bengali Hindus, and that many came from lower-caste groups.",
+      "Lalon, also called Lalon Shah or Lalon Fakir, is the most celebrated Baul saint. Wikipedia gives his dates as 1774 to 1890, and notes other sources give 1775 to 1891. His shrine at Cheuriya near Kushtia, in Bangladesh, holds an annual gathering.",
+      "Purna Das Baul, born in 1933, is one of the best-known living Baul singers in India. Wikipedia says that President Rajendra Prasad recognised him as Baul Samrat in 1967. The claims about famous foreign admirers on the same page need a better source.",
+      "Teaching goes from guru to disciple by voice. Wikipedia notes that Islamists have targeted Bauls in some places, which is a real threat to this community."
+    ],
+    "place": [
+      "Bauls live on both sides of the India-Bangladesh border. In India they are most closely linked to West Bengal, especially Birbhum district and Shantiniketan, where Rabindranath Tagore founded his school.",
+      "The Joydev Kenduli Poush Mela is held in Birbhum around Makar Sankranti, in the month of Poush, in honour of the poet Jayadeva. Wikipedia says so many Bauls attend that it is often called the Baul Fair. Bauls also gather at Shantiniketan during the Poush Mela.",
+      "UNESCO notes that the Baul tradition depends on the social and economic condition of Bauls, which has worsened in recent decades amid wider rural poverty in Bangladesh. The Bengal delta, with its rivers, villages and shifting settlements, has long been a home to wanderers."
+    ],
+    "history": [
+      {
+        "when": "15th century (UNESCO)",
+        "what": "UNESCO says Baul devotional songs date back to the 15th century. Scholars do not agree on an earlier origin."
+      },
+      {
+        "when": "1774 to 1890",
+        "what": "Lalon lived in this span according to Wikipedia. Other sources give 1775 to 1891."
+      },
+      {
+        "when": "19th and early 20th century",
+        "what": "UNESCO says the Baul movement peaked in this period."
+      },
+      {
+        "when": "1930s",
+        "what": "Rabindranath Tagore discusses the Bauls in lectures in Europe, and an essay from them appears in The Religion of Man (Wikipedia). Tagore's own songs show Baul influence."
+      },
+      {
+        "when": "1967",
+        "what": "Purna Das Baul is called Baul Samrat by President Rajendra Prasad (Wikipedia)."
+      },
+      {
+        "when": "2005",
+        "what": "UNESCO proclaims Baul songs a Masterpiece of the Oral and Intangible Heritage of Humanity (Bangladesh)."
+      },
+      {
+        "when": "2008",
+        "what": "Baul songs are inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity (Bangladesh)."
+      }
+    ],
+    "future": [
+      "Support Baul families with regular fees and health cover, since many live on small and irregular earnings.",
+      "Record songs from elders with the singer's own explanation, in Bengali and English.",
+      "Pay Baul singers fairly at Poush Mela, Shantiniketan and city festivals.",
+      "Protect singers against harassment and violence, and make their right to perform safe.",
+      "Help young people learn the ektara and dotara from living Bauls.",
+      "Treat Bangladeshi and Indian Bauls as one tradition in archives and festivals."
+    ],
+    "pins": [
+      {
+        "lat": 23.6625,
+        "lng": 87.44,
+        "label": "Joydev Kenduli, Birbhum",
+        "approximate": true
+      },
+      {
+        "lat": 23.681,
+        "lng": 87.685,
+        "label": "Shantiniketan",
+        "approximate": true
+      },
+      {
+        "lat": 23.9,
+        "lng": 89.13,
+        "label": "Cheuriya, Kushtia, Lalon shrine",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ich-unesco-org-en-rl-baul-songs-00107-46eb50",
+      "en-wikipedia-org-wiki-baul-7f9dfc"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "bhakti-kirtan",
+    "name": "Bhakti Kirtan",
+    "category": "Music",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#b45309",
+    "motif": "lotus",
+    "tagline": "Singing the names and stories of God together, with a leader calling and the crowd answering.",
+    "facts": [
+      "Kirtan means narrating or reciting; group kirtan is sankirtan",
+      "Usually call and response, with drums and hand cymbals",
+      "Manipur's Sankirtana was inscribed by UNESCO in 2013",
+      "Found among Vaishnava, Warkari and Sikh communities, among others"
+    ],
+    "art": [
+      "Kirtan is devotional singing that tells and praises. The word comes from Sanskrit and means narrating, reciting or describing. Wikipedia says it is usually a group performance of call and response: a lead singer calls out a line and the others answer. Instruments often include the harmonium, tabla, mridanga and karatalas, small cymbals.",
+      "Kirtan grew in the bhakti movements, where devotion was open to people regardless of status or learning. Wikipedia names Chaitanya Mahaprabhu in 16th-century Bengal, Shankaradeva in Assam, and Vallabha's followers as promoting Krishna kirtan.",
+      "Forms differ by region. In Maharashtra, Wikipedia describes Warkari kirtan, which draws on saints such as Namdev and Tukaram, and Naradiya kirtan, which is performed by one person. In Sikh practice, shabad kirtan is the musical singing of the Guru Granth Sahib, usually in gurdwaras and set to ragas.",
+      "In Manipur, Sankirtana is a ritual of singing, drumming and dancing. UNESCO says a typical performance has two drummers and about ten singer-dancers, with devotees seated around them, and that it is seen as the visible manifestation of God."
+    ],
+    "artist": [
+      "Kirtan has no single artist. It belongs to its performers, who may be lead singers, drummers and the whole gathered group. UNESCO says the knowledge of Sankirtana is passed from mentor to disciple, and that it marks festivals and life stages for the Vaishnava people of Manipur's plains.",
+      "In Maharashtra, the Warkari movement, whose sources name Dnyaneshwar, Namdev, Chokhamela, Eknath and Tukaram among its poet-saints, sings kirtan and bhajan daily. Wikipedia says followers reject discrimination by caste, gender or wealth, and make a yearly pilgrimage to Pandharpur in the month of Ashadha.",
+      "The performers are often farmers, teachers and homemakers who sing in their spare time. Naming their individual voices is a task still to do."
+    ],
+    "place": [
+      "Kirtan is heard all over India. Manipur's Imphal valley, where Sankirtana is performed in temple halls called mandapa, is one of its best-documented homes. Pandharpur in Maharashtra is where Warkari pilgrims gather. Wikipedia places Chaitanya's kirtan in Bengal, with Nabadwip as the usual centre, and Shankaradeva's in Assam. In Amritsar and elsewhere in Punjab, gurdwaras are the main places for shabad kirtan.",
+      "The pins show these places; their positions are approximate where marked. The form has also travelled abroad."
+    ],
+    "history": [
+      {
+        "when": "13th century",
+        "what": "The Warkari movement forms in Maharashtra, with poet-saints such as Dnyaneshwar and Namdev, according to Wikipedia."
+      },
+      {
+        "when": "15th-16th century",
+        "what": "Bhakti teachers such as Chaitanya in Bengal and Shankaradeva in Assam spread group kirtan."
+      },
+      {
+        "when": "18th century",
+        "what": "Wikipedia gives the 18th century as the start of the Meitei Sankirtana as it is now known; other sources point to earlier arrival in Manipur."
+      },
+      {
+        "when": "2013",
+        "what": "UNESCO inscribes Sankirtana of Manipur on the Representative List of the Intangible Cultural Heritage of Humanity."
+      },
+      {
+        "when": "Today",
+        "what": "Kirtan is sung in temples, homes, gurdwaras and pilgrimages, and in yoga and devotional gatherings abroad."
+      }
+    ],
+    "future": [
+      "Support mentor-to-disciple teaching in Manipur and elsewhere, with stipends for senior drummers and singers.",
+      "Record complete kirtans in each tradition, with texts, tunes and notes in the local language.",
+      "Make instruments such as the pung and mridanga easier to buy, repair and learn on.",
+      "Keep women and children involved, since the form depends on whole communities taking part.",
+      "Protect kirtan as a shared, community practice, and avoid reducing it to a show for visitors."
+    ],
+    "pins": [
+      {
+        "lat": 24.817,
+        "lng": 93.9368,
+        "label": "Imphal, Manipur (Sankirtana, approx.)",
+        "approximate": true
+      },
+      {
+        "lat": 17.6792,
+        "lng": 75.3306,
+        "label": "Pandharpur, Maharashtra (Warkari kirtan)",
+        "approximate": false
+      },
+      {
+        "lat": 23.4066,
+        "lng": 88.3672,
+        "label": "Nabadwip, West Bengal (Chaitanya's kirtan, approx.)",
+        "approximate": true
+      },
+      {
+        "lat": 26.95,
+        "lng": 94.17,
+        "label": "Majuli, Assam (Shankaradeva's tradition, approx.)",
+        "approximate": true
+      },
+      {
+        "lat": 31.62,
+        "lng": 74.8765,
+        "label": "Amritsar, Punjab (shabad kirtan)",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ich-unesco-org-en-rl-sankirtana-ritual-singing-drumming-and--cdcd87",
+      "en-wikipedia-org-wiki-kirtan-f29c25",
+      "en-wikipedia-org-wiki-meitei-sankirtana-75a7f0",
+      "en-wikipedia-org-wiki-warkari-bada89"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "bobbili-veena",
+    "name": "Bobbili Veena",
+    "category": "Music",
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "color": "#78350f",
+    "motif": "vine",
+    "tagline": "A veena carved from one log of jackfruit wood, by families who have made it since the Bobbili court.",
+    "facts": [
+      "Wood: jackfruit (panasa), one piece",
+      "Takes about a month to make",
+      "Makers: the Sarvasiddi families of Gollapalli",
+      "Geographical Indication, 2011 or 2012 (sources differ)"
+    ],
+    "art": [
+      "The Bobbili veena is a large plucked string instrument used in Carnatic music. It is carved from a single piece of jackfruit wood, so it is called an ekandi veena. The log is about four to five feet long.",
+      "The resonator, called the thumba, is traditionally a hollowed pumpkin, and may now be an aluminium bowl. A metal cylinder links it to the neck. Wikipedia gives a neck of about 51 inches and seven strings.",
+      "Makers say jackfruit wood is light, its grain suits the sound, and it swells little with moisture. Ivory inlay was once used, and plastic is used now because of the ivory ban. One veena takes about a month."
+    ],
+    "artist": [
+      "The Sarvasiddi community of Gollapalli village near Bobbili has made the veena for generations. Outlook Traveller names Sarvasiddi Acchanna as the master craftsman appointed to the king's court. The South First says he is believed to have made the first Bobbili veena, under Pedda Rayudu.",
+      "The South First notes that Sarvasiddi Veeranna received a National Master Craftsman award in 1980. His son Sarvasiddi Ramakrishna says young people are not interested in the veena.",
+      "Players are called vainikas. Outlook Traveller says women played the veena especially in the Bobbili reign, and its style of playing is known as the Bobbili veena sampradayam."
+    ],
+    "place": [
+      "Bobbili is a town in Vizianagaram district in north coastal Andhra Pradesh, about 55 km from Vizianagaram city. It was the seat of a small kingdom, and its rulers loved music.",
+      "Gollapalli, the village near Bobbili, is where the families who make the veena live. Sources count about 40 to 45 families."
+    ],
+    "history": [
+      {
+        "when": "17th century (traditional)",
+        "what": "Local tradition says the veena was first made in Bobbili under Pedda Rayudu, founder of the Bobbili kingdom."
+      },
+      {
+        "when": "Over three centuries",
+        "what": "Wikipedia says the instrument developed over more than three hundred years."
+      },
+      {
+        "when": "1980",
+        "what": "Sarvasiddi Veeranna received a National Master Craftsman award."
+      },
+      {
+        "when": "1990s",
+        "what": "A crafts development centre was set up in Bobbili, which the South First says has not gained much traction."
+      },
+      {
+        "when": "2011 or 2012",
+        "what": "The veena received a Geographical Indication tag. Wikipedia and the South First say 2011. I also saw 2012 in search results but did not open the source."
+      }
+    ],
+    "future": [
+      "Teach young players in Bobbili and give them instruments, so makers have local buyers.",
+      "Help makers get wood legally and reliably, since jackfruit logs come through forest officials and traders.",
+      "Support the market for miniature veenas as an extra income, as Gollapalli families already make them, while protecting the full-size craft.",
+      "Document the making process and the Bobbili veena sampradayam style in recordings and measured drawings.",
+      "Use government and music-society purchases to give makers steady income."
+    ],
+    "pins": [
+      {
+        "lat": 18.57,
+        "lng": 83.36,
+        "label": "Bobbili",
+        "approximate": true
+      },
+      {
+        "lat": 18.56,
+        "lng": 83.34,
+        "label": "Gollapalli",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "outlooktraveller-com-experiences-heritage-the-gi-tagged-bobb-93d83f",
+      "thesouthfirst-com-andhrapradesh-survival-crisis-glory-days-o-28e341",
+      "en-wikipedia-org-wiki-bobbili-veena-a6f929"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "carnatic-music",
+    "name": "Carnatic Music",
+    "category": "Music",
+    "states": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "color": "#14532d",
+    "motif": "lotus",
+    "tagline": "South India's classical music, from the kriti of the Trinity to the December season in Chennai.",
+    "facts": [
+      "Form: classical music of South India built on raga and tala",
+      "The Trinity: Tyagaraja, Muthuswami Dikshitar, Syama Sastri",
+      "Main song form: the kriti",
+      "Chennai's December season began in 1927 to 1928"
+    ],
+    "art": [
+      "Carnatic music is the classical music of South India. Like Hindustani music, it is built on raga, a melodic frame, and tala, a rhythmic cycle. It is mostly vocal. Even when an instrument is played, the player tries to imitate the voice.",
+      "The main song form is the kriti, also called kirtanam. Wikipedia describes it as having three parts. The pallavi is a refrain of one or two lines, the anupallavi is a second verse, and the charana is the final and longest verse. Some kritis add a passage of sung notes (chittaswara), or a section sung at double speed.",
+      "A typical group has a lead singer, a violin following the melody, a mridangam drum for rhythm and a tambura drone. Wikipedia also lists the ghatam (clay pot), kanjira, morsing, flute, veena and chitraveena among the instruments that may join.",
+      "Alongside the composed song, musicians improvise. They explore the raga freely in alapana, and they sing kalpanaswaram, or improvised notes, within the rhythm. So a concert mixes learned songs and spontaneous play."
+    ],
+    "artist": [
+      "The best-known composers are the Trinity. Wikipedia gives their dates as Tyagaraja (1767 to 1847), Muthuswami Dikshitar (1776 to 1835) and Syama Sastri (1762 to 1827). Wikipedia says they are honoured as a trinity for Syama Sastri's compositions, Dikshitar's varied output and Tyagaraja's many kritis. Dates of the composers are given differently in some sources.",
+      "Before them, Purandara Dasa (1484 to 1564 according to Wikipedia) is called the Pitamaha, the father or grandfather, of Carnatic music. He is said to have set the graded lessons that students still start with, including swaravalis and alankaras, and the raga Mayamalavagowla as the first scale.",
+      "Training is also teacher to student, traditionally in the teacher's home. Singers, violinists, mridangam players and veena players each train for years. Mridangam makers, who build the drum from wood and skin, are an essential but often unnamed part of the art.",
+      "I could not confirm from the sources I read the names of living artists to include. These need sourcing before adding."
+    ],
+    "place": [
+      "Carnatic music grew across the four southern states, but its heart is the Kaveri delta in Tamil Nadu. Tiruvaiyaru is a town in Thanjavur district on the river Kaveri, about 11 km from Thanjavur city. Wikipedia says the name is linked to five rivers. It has the Aiyarappar temple, and Tevaram saints sang more than 100 songs about its deity.",
+      "Tiruvaiyaru is known for Tyagaraja, whose samadhi stands on the banks of the Kaveri. Every year the Thyagaraja Aradhana is held in the month of Margazhi (December or January), and leading Carnatic musicians gather there to sing his kritis.",
+      "The other great centre is Chennai (earlier Madras). The Madras Music Season was started in 1927, Wikipedia says, by the group that founded the Madras Music Academy. It was first held in March or April and from 1928 in December, for better weather and more visitors. Concerts are arranged by sabhas, such as the Madras Music Academy, Narada Gana Sabha and Indian Fine Arts Society, which also give titles and awards.",
+      "Temples, courts and homes in the delta fostered the art. Why this region became so rich in music is a question for historians, and I could not confirm a single explanation."
+    ],
+    "history": [
+      {
+        "when": "15th to 16th century",
+        "what": "Purandara Dasa (1484 to 1564 in Wikipedia) sets out graded lessons that are still used to start teaching."
+      },
+      {
+        "when": "1762 to 1847",
+        "what": "The Trinity lived in this span: Syama Sastri (1762 to 1827), Tyagaraja (1767 to 1847) and Muthuswami Dikshitar (1776 to 1835)."
+      },
+      {
+        "when": "19th century",
+        "what": "Tyagaraja lives at Tiruvaiyaru, where his samadhi now stands. The annual Aradhana honours him."
+      },
+      {
+        "when": "1927",
+        "what": "The Madras Music Academy is formally founded after a resolution at the All India Music Conference held with that year's Indian National Congress session in Madras."
+      },
+      {
+        "when": "1928",
+        "what": "The Academy holds its season in December, and the Madras Music Season takes its present timing."
+      },
+      {
+        "when": "20th century",
+        "what": "Sabhas multiply in Chennai and become the main stage for concerts, with titles and awards."
+      },
+      {
+        "when": "Present",
+        "what": "The Madras Music Season is described as one of the largest cultural events in the world. The week-long Chennaiyil Thiruvaiyaaru festival is also part of the city's season."
+      }
+    ],
+    "future": [
+      "Fund guru-shishya training for children from smaller towns, not only Chennai.",
+      "Give mridangam, violin and veena makers apprenticeships and fair prices.",
+      "Record Aradhana and season concerts with notes on raga and composer, and place them in open archives.",
+      "Take free concerts to delta villages and schools outside the December season, so musicians have year-round work.",
+      "Support women and artists from smaller communities with sabha slots and awards.",
+      "Teach the Trinity's songs in schools with translations."
+    ],
+    "pins": [
+      {
+        "lat": 10.88,
+        "lng": 79.1,
+        "label": "Tiruvaiyaru, Tyagaraja samadhi",
+        "approximate": true
+      },
+      {
+        "lat": 10.787,
+        "lng": 79.1378,
+        "label": "Thanjavur",
+        "approximate": false
+      },
+      {
+        "lat": 13.0418,
+        "lng": 80.2535,
+        "label": "Music Academy, Chennai",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-carnatic-music-3aa65c",
+      "en-wikipedia-org-wiki-madras-music-season-1c4935",
+      "en-wikipedia-org-wiki-tiruvaiyaru-2cfb3b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "chenda-melam",
+    "name": "Chenda Melam and Panchavadyam",
+    "category": "Music",
+    "states": [
+      "Kerala"
+    ],
+    "color": "#b45309",
+    "motif": "spiral",
+    "tagline": "Temple drum orchestras of Kerala, building from a slow start to a roaring finish.",
+    "facts": [
+      "Panchavadyam: five instruments, four percussion and one wind",
+      "Chenda melam: all-percussion ensemble led by chenda drums",
+      "Heard at Thrissur Pooram, held in Medam",
+      "Panchavadyam form took shape in the 1930s per Wikipedia"
+    ],
+    "art": [
+      "A chenda is a two-headed drum with a jackfruit-wood body, played with sticks. Wikipedia says the left head has one or two layers of cowhide and the right head five or seven layers. The uruttu chenda leads and varies, and the veekku chenda keeps the basic beat.",
+      "A melam is a drum ensemble. Wikipedia lists Panchari, Champa, Chempada, Adantha, Anchadatha, Druvam and Pandi as melam types. Chenda melam is central to Kerala festivals, and the chenda also accompanies Kathakali, Koodiyattam and Theyyam.",
+      "Panchavadyam means an orchestra of five instruments. Four are percussion: timila, maddalam, ilathalam and idakka. The fifth is the kombu, a wind instrument. It builds a rising pyramid of tempo on the seven-beat thripuda thalam, with room for improvising on timila, maddalam and idakka. A big performance can use about 60 artists."
+    ],
+    "artist": [
+      "Wikipedia credits Venkichan Swami and his disciple Madhava Warrier with shaping the modern five-stage panchavadyam concert in the 1930s, along with timila masters Annamanada Achutha Marar and Chengamanad Sekhara Kurup, and the idakka master Pattirath Sankara Marar. The article carries a warning about thin citations, so these attributions need checking.",
+      "The chenda craft is associated with Perumkollan smith families, and Vellarkad village is noted for instrument quality, per Wikipedia.",
+      "Formal training is offered at Kerala Kalamandalam, Kshetra Kalapeetham in Vaikom and Kshethrakala Kshethram in Kongad."
+    ],
+    "place": [
+      "These ensembles belong to temple festivals in central and northern Kerala, mostly in March and April. Thrissur Pooram and Arattupuzha Pooram are named venues.",
+      "At Thrissur Pooram, Sakthan Thampuran, Maharaja of Cochin, is credited with starting the festival in 1796, according to Wikipedia. It centres on the Vadakkunnathan temple, with Paramekkavu and Thiruvambady sides. The Ilanjithara Melam begins at 2 pm on Pooram day, and Madathil Varavu is accompanied by a panchavadyam."
+    ],
+    "history": [
+      {
+        "when": "Undated",
+        "what": "Chenda melam grows as a temple and festival tradition of Kerala."
+      },
+      {
+        "when": "1796",
+        "what": "Sakthan Thampuran is credited with starting Thrissur Pooram, per Wikipedia."
+      },
+      {
+        "when": "1930s",
+        "what": "The elaborate form of panchavadyam takes shape, per Wikipedia."
+      },
+      {
+        "when": "Today",
+        "what": "Kalamandalam and other institutions teach it formally."
+      }
+    ],
+    "future": [
+      "Keep training young drummers in both temple families and public schools.",
+      "Pay instrument makers and keep a supply of seasoned jackfruit wood and hides.",
+      "Record named melams with teachers, in notation and on video.",
+      "Look after hearing health for performers who play long festival hours.",
+      "Share festival income fairly with the artists."
+    ],
+    "pins": [
+      {
+        "lat": 10.5276,
+        "lng": 76.2144,
+        "label": "Thrissur Pooram, Vadakkunnathan",
+        "approximate": true
+      },
+      {
+        "lat": 10.74,
+        "lng": 76.28,
+        "label": "Kerala Kalamandalam, Cheruthuruthy",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-panchavadyam-16950e",
+      "en-wikipedia-org-wiki-chenda-ffa4bb",
+      "en-wikipedia-org-wiki-thrissur-pooram-6dc2a5"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "delhi-tabla-gharana",
+    "name": "Delhi Tabla Gharana",
+    "category": "Music",
+    "states": [
+      "Delhi"
+    ],
+    "color": "#1e3a8a",
+    "motif": "dots",
+    "tagline": "The oldest tabla school, said to be the source from which the others grew.",
+    "facts": [
+      "Founder: Siddhar Khan Dhadhi, early 18th century",
+      "Style: bandh baaj (closed style), also called kinar baaj",
+      "Strong in qaida, rela and short compositions",
+      "Said to be the oldest tabla gharana"
+    ],
+    "art": [
+      "Tabla is a pair of hand drums used in Hindustani music. Each gharana has its own way of playing, its own stock of compositions and its own teachers. Wikipedia calls the Delhi gharana the oldest tabla gharana, and many writers call it the source of the others.",
+      "The Delhi style is called bandh baaj or closed style. Wikipedia contrasts it with the open style of Punjab and Farrukhabad. Outlook says its clarity comes from the early role of the tabla as accompaniment to song and instrumental music, and that the sharp sound comes from playing on the chanti or kinar, the rim of the right drum. Another name given is kinar baaj.",
+      "Wikipedia notes a large stock of qaidas, the basic theme and variation form, with light and precise strokes and bols such as dha and tita. A guide on hindustaniclassical.com lists qaida, rela, mukhda and mohra as its main forms, and says pakhawaj bols are not used. Sources differ in detail on these points, which is normal for an oral tradition."
+    ],
+    "artist": [
+      "Siddhar Khan Dhadhi is the earliest known name. Wikipedia says he was a pakhawaj player of the tradition of Lala Bhavanidas. Outlook says he played at the court of Muhammad Shah Rangile. Accounts of his family and his origins differ, so these details should be read with care.",
+      "In the 20th century the main names include Natthu Khan (1875-1940) and Gamay Khan (1883-1958), described by Outlook as the most important player of the gharana in that century. His son Inam Ali Khan (1924-90) and disciple Latif Ahmed Khan (1941-90) carried it forward, along with Pandit Chatur Lal. Outlook names Ustad Faiyaz Khan, Ustad Rafiuddin Sabri and Pandit Subhash Nirwan as current exponents. Birth and death years vary slightly between sources."
+    ],
+    "place": [
+      "The Delhi gharana is the tabla school named after the city. Sources place its start in the early 18th century, at the time of the Mughal emperor Muhammad Shah, known as Rangile. The Outlook article describes Delhi as a centre of music under many dynasties and patrons.",
+      "Its influence travelled outward. Wikipedia says players of this tradition founded or shaped other gharanas: Lucknow, Farrukhabad, Ajrara, Benares and Punjab. The Lucknow gharana is credited to Miyan Bakhshu, described as a nephew and disciple of the founder.",
+      "The Outlook article notes that the revolt of 1857 and the Partition of 1947 moved many artists away from Delhi in search of new patrons."
+    ],
+    "history": [
+      {
+        "when": "Early 18th century",
+        "what": "Siddhar Khan Dhadhi is credited with founding the gharana in Delhi, in the time of Muhammad Shah Rangile."
+      },
+      {
+        "when": "18th-19th century",
+        "what": "Disciples and relatives spread the tradition. The Lucknow gharana is credited to Miyan Bakhshu, and the Ajrara and others are linked to this lineage."
+      },
+      {
+        "when": "1857",
+        "what": "The revolt leads many Delhi artists to leave in search of patronage."
+      },
+      {
+        "when": "Early 20th century",
+        "what": "Natthu Khan and Gamay Khan are the leading names of the gharana."
+      },
+      {
+        "when": "1947",
+        "what": "Partition moves artists again."
+      },
+      {
+        "when": "Later 20th century",
+        "what": "Inam Ali Khan and Latif Ahmed Khan teach and perform."
+      },
+      {
+        "when": "Today",
+        "what": "Players such as Ustad Faiyaz Khan and Pandit Subhash Nirwan are named as current exponents."
+      }
+    ],
+    "future": [
+      "Training: this is taught person to person by senior players, so support for the teaching families and for long-term students is the base.",
+      "Livelihood: accompaniment and solo concerts, and teaching in music colleges.",
+      "Materials: tabla making depends on skins, wood and iron-ring work. Keeping these craftspeople visible would help.",
+      "Documentation: record the compositions with named teachers and the line they were learnt from.",
+      "Protection: open sharing of old compositions with credit to the families who kept them."
+    ],
+    "pins": [
+      {
+        "lat": 28.6562,
+        "lng": 77.23,
+        "label": "Shahjahanabad, Old Delhi",
+        "approximate": true
+      },
+      {
+        "lat": 26.8467,
+        "lng": 80.9462,
+        "label": "Lucknow gharana",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-delhi-gharana-fe4317",
+      "outlookindia-com-website-story-delhi-school-of-music-235321-c27fbb",
+      "indianclassicalmusic-com-delhi-gharana-b627a9",
+      "hindustaniclassical-com-gharana-delhi-tabla-64e1f4"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "dhadi",
+    "name": "Dhadi Singing",
+    "category": "Music",
+    "states": [
+      "Punjab"
+    ],
+    "color": "#7c2d12",
+    "motif": "scroll",
+    "tagline": "A small hourglass drum, a bowed sarangi and a story sung on its feet.",
+    "facts": [
+      "Instruments: dhadd (small hourglass drum) and sarangi",
+      "A group (jatha) usually has 3 or 4 members",
+      "Sings vaars: heroic, devotional and folk ballads",
+      "Malwa was the main area, according to Hardial Thuhi"
+    ],
+    "art": [
+      "Dhadi is a Punjabi ballad tradition. The word names both the genre and the singers. Dhadis sing with the dhadd, a small hand-beaten hourglass drum, and the sarangi, a bowed lute.",
+      "Wikipedia says a jatha usually has three or four members: a sarangi player, one or two dhadd players, and a storyteller. They perform standing, sometimes singing together as a chorus, with chanted narration between sung parts.",
+      "The repertoire is wide. Hardial Thuhi, in the Journal of Punjab Studies, sorts folk dhadi tales into love stories such as Hir and Sohni, devotional tales such as Puran Bhagat, and heroic ones such as Dulla Bhatti. He also notes moral parables.",
+      "Because their texts do not come from scripture, Wikipedia says dhadi performances are not counted as shabad kirtan, though they are an important part of Sikh music."
+    ],
+    "artist": [
+      "Thuhi writes that the Gurus used the word dhadi for one who praises God. He also writes that dhadi art as we know it began under Guru Hargobind (1606 to 1644), whose court dhadis were remembered as Natha and Abdul. The spelling and details vary between sources.",
+      "Thuhi says that in Malwa most dhadis came from Mirasi families, though people from other communities also made names. He names old masters such as Didar Singh Ratainda and Bhagatu Ramgarhia. Wikipedia lists present-day jathas such as those of Jaswant Singh Taan and Daya Singh Dilbar, and late artists Pal Singh Panchi and Sohan Singh Seetal. We did not check these living names beyond that page.",
+      "Dhadis were historically from lower castes, and the source says the work was not seen as respectable by higher castes."
+    ],
+    "place": [
+      "Thuhi says dhadi singing was popular throughout Punjab but its main area was Malwa, quoting a saying that the dhadd-sarangi plays in Malwa.",
+      "Performances were held in village arenas, near ponds, at shrines and at gurdwaras. Sikh dhadis sing history in gurdwaras, especially around the Akal Takht in Amritsar (per Wikipedia)."
+    ],
+    "history": [
+      {
+        "when": "Gurbani",
+        "what": "The word dhadhi appears in the Guru Granth Sahib, where the Gurus call themselves dhadhi, a singer of praise."
+      },
+      {
+        "when": "1604",
+        "what": "Thuhi says Guru Arjan set some of the Gurus' vaars to the tunes of older warrior ballads."
+      },
+      {
+        "when": "1606 to 1644",
+        "what": "Dhadi art flourished under Guru Hargobind, who is said to have kept dhadis to inspire his troops."
+      },
+      {
+        "when": "1716 onward",
+        "what": "Thuhi says patronage faded after the death of Banda Singh Bahadur and the rise of the misls."
+      },
+      {
+        "when": "Early 1800s",
+        "what": "Folk tales began to be sung with dhadd-sarangi in peacetime, in the era of Ranjit Singh."
+      },
+      {
+        "when": "About 1929 to 1930",
+        "what": "The first recordings of Punjabi folk balladry were made, including dhadi."
+      },
+      {
+        "when": "Today",
+        "what": "The tradition has shrunk under modern entertainment, but groups still perform in gurdwaras and fairs."
+      }
+    ],
+    "future": [
+      "Pay dhadi jathas fairly for gurdwara and festival programmes.",
+      "Teach young players the sarangi and dhadd, which fewer learn now.",
+      "Record the long ballads (Hir, Puran, Mirza) in full before they are lost.",
+      "Document the lineages (gharanas) of Malwa through oral histories.",
+      "Include dhadi in school and university music programmes."
+    ],
+    "pins": [
+      {
+        "lat": 30.21,
+        "lng": 74.95,
+        "label": "Bathinda (Malwa)",
+        "approximate": false
+      },
+      {
+        "lat": 30.25,
+        "lng": 75.84,
+        "label": "Sangrur (Malwa)",
+        "approximate": false
+      },
+      {
+        "lat": 31.62,
+        "lng": 74.88,
+        "label": "Akal Takht, Amritsar",
+        "approximate": false
+      },
+      {
+        "lat": 30.9,
+        "lng": 75.86,
+        "label": "Ludhiana",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "punjab-global-ucsb-edu-sites-default-files-sitefiles-journal-ebe423",
+      "en-wikipedia-org-wiki-dhadi-music-e3e68b"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "dhrupad",
+    "name": "Dhrupad",
+    "category": "Music",
+    "states": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan"
+    ],
+    "color": "#3b0764",
+    "motif": "spiral",
+    "tagline": "The oldest surviving form of Hindustani music: slow, deep, and sung in praise of the divine.",
+    "facts": [
+      "Form: the oldest surviving form of Hindustani vocal music",
+      "Begins with a long unmetred alap",
+      "Accompanied by the pakhawaj drum and tanpura",
+      "Family traditions include Dagar, Darbhanga and Bettiah"
+    ],
+    "art": [
+      "Dhrupad is an old form of Hindustani vocal music. Its name is linked by Wikipedia to the dhruvapada of the Natyashastra, though it notes that dhrupad's roots are much older. It is slow, serious and devotional, and many texts are in praise of gods, especially Krishna.",
+      "A performance opens with the alap, a long section where the singer explores the raga slowly, without rhythm and without words, using syllables such as nom and tom. Only after this does the composition begin, with the pakhawaj drum, a two-headed barrel drum, and the tanpura drone.",
+      "Wikipedia says the Dagar family style puts great emphasis on alap, and the family has often performed in pairs, frequently brothers. Voice is used with little ornament compared with khyal.",
+      "Dhrupad is also linked to a string instrument, the rudra veena. I did not confirm the details of this link in the sources read, so it is only mentioned here."
+    ],
+    "artist": [
+      "The Dagar family is the best-known lineage, performing in the Dagar vani or Dagar gharana. Wikipedia describes them as Muslims who sing Hindu devotional texts, but that claim is marked as needing a citation.",
+      "Among the Dagar pupils are Umakant and Ramakant Gundecha, called the Gundecha Brothers, who come from Ujjain. They moved to Bhopal in 1981 to study dhrupad under Zia Fariduddin Dagar and his brother Zia Mohiuddin Dagar, and they set up a dhrupad institute outside Bhopal. They received the Padma Shri in 2012.",
+      "In Bihar, the Mallicks of the Darbhanga gharana are linked to the Khandar and Gauharvani styles. Pandit Vidur Mallick taught in Vrindavan in the 1980s and 1990s, and his sons Ram Kumar Mallick and Prem Kumar Mallick carried on the tradition. The Bettiah gharana is said to have flourished under the Bettiah Raj, with Pandit Falguni Mitra named as a present-day exponent, but those Bettiah claims need better sources.",
+      "Dhrupad singers need long years of voice training, and few students take up this hard and poorly paid path."
+    ],
+    "place": [
+      "Dhrupad is tied to Gwalior in Madhya Pradesh. Wikipedia says Raja Man Singh Tomar, who ruled around 1486 to 1516, is linked with the form and with the Mankutuhal, and that a dhrupad school was set up at Gwalior. Ravi Shankar, cited there, says it grew from the older prabandha and flowered in Gwalior in the 15th century.",
+      "The tradition also looks to Braj, the land around Mathura and Vrindavan, and to the saints Swami Haridas, Surdas and Govind Swami. Haridas, a Krishna devotee and court musician linked with Gwalior, is a well-known dhrupad singer in Wikipedia's account, though its description of his relation to the Mughal court is confusing.",
+      "Under the Mughals, dhrupad was a court music. Wikipedia cites the Ain-i-Akbari (1593) as an early Mughal-era mention. After the courts declined, family traditions survived in Bihar's Darbhanga and Bettiah, and later teaching centres opened in places such as Bhopal."
+    ],
+    "history": [
+      {
+        "when": "Ancient roots (uncertain)",
+        "what": "The name is linked to the dhruvapada of the Natyashastra, but scholars say the roots of dhrupad are much older and the line of development is not certain."
+      },
+      {
+        "when": "15th century",
+        "what": "Dhrupad flourishes in Gwalior under Raja Man Singh Tomar, who ruled about 1486 to 1516 according to Wikipedia."
+      },
+      {
+        "when": "16th century",
+        "what": "Haridas and the Braj saints compose Krishna songs. The Ain-i-Akbari (1593) mentions dhrupad in the Mughal court."
+      },
+      {
+        "when": "17th to 19th century",
+        "what": "Family schools including the Dagar and the Darbhanga and Bettiah gharanas develop under different patrons. Exact dates for these are not confirmed in the sources I read."
+      },
+      {
+        "when": "1980s and 1990s",
+        "what": "Pandit Vidur Mallick teaches dhrupad in Vrindavan."
+      },
+      {
+        "when": "1981",
+        "what": "Umakant and Ramakant Gundecha move to Bhopal to study with the Dagar brothers Zia Fariduddin and Zia Mohiuddin."
+      },
+      {
+        "when": "2012",
+        "what": "The Gundecha Brothers receive the Padma Shri."
+      }
+    ],
+    "future": [
+      "Fund full-time gurukula places in dhrupad, since few students can afford years of voice training.",
+      "Support pakhawaj players and makers, who are fewer than singers.",
+      "Record alap and bandish from elders of the Dagar, Darbhanga and Bettiah families in full, with notes, and archive them openly.",
+      "Hold regular dhrupad concerts in Vrindavan, Gwalior and Darbhanga with fair fees.",
+      "Find and support women dhrupad singers, who have been few.",
+      "Give clear, simple listening guides for new audiences."
+    ],
+    "pins": [
+      {
+        "lat": 26.2183,
+        "lng": 78.1828,
+        "label": "Gwalior",
+        "approximate": false
+      },
+      {
+        "lat": 27.58,
+        "lng": 77.7,
+        "label": "Vrindavan",
+        "approximate": true
+      },
+      {
+        "lat": 26.1542,
+        "lng": 85.8918,
+        "label": "Darbhanga",
+        "approximate": false
+      },
+      {
+        "lat": 26.801,
+        "lng": 84.503,
+        "label": "Bettiah",
+        "approximate": true
+      },
+      {
+        "lat": 23.2599,
+        "lng": 77.4126,
+        "label": "Bhopal",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-dhrupad-a3d380",
+      "en-wikipedia-org-wiki-gundecha-brothers-16ad33",
+      "en-wikipedia-org-wiki-hindustani-classical-music-aaf6b6"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "ghazal",
+    "name": "Ghazal",
+    "category": "Music",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#831843",
+    "motif": "scroll",
+    "tagline": "Couplets of longing, sung: a Persian form that became one of the voices of Urdu and Hindustani music.",
+    "facts": [
+      "A ghazal is a poem of self-contained couplets (sher) with a refrain (radif) and rhyme (qafia)",
+      "The form came to South Asia around the 12th century and reached a peak in Urdu",
+      "Begum Akhtar was called Mallika-e-Ghazal (Queen of Ghazal)",
+      "Love poems can be read as human or divine love"
+    ],
+    "art": [
+      "A ghazal is a poem, and also a way of singing a poem. Wikipedia says it began in Arabic poetry in the 7th century, became central in Persian poetry, and spread across South Asia. It came to the subcontinent around the 12th century and was shaped here by poets such as Amir Khusrau.",
+      "The form has strict rules. A ghazal has five to fifteen couplets, each called a sher. Each couplet stands on its own, but all share a metre and a rhyme. The first couplet is the matla. The refrain that repeats at the end of each second line is the radif. The last couplet, the maqta, often has the poet's pen name. The subject is usually love and longing for a beloved who is out of reach. Because the beloved can be a person or God, many couplets can be read in both ways.",
+      "In music, the ghazal is sung in a light-classical way. The singer sets the words to a raga-based tune and stops to repeat and shade a line, so the audience hears the meaning of the couplet. A harmonium, tabla and sarangi or other string instrument usually accompany the singer.",
+      "In Urdu, the form reached a classical peak with poets such as Mir Taqi Mir and Mirza Ghalib, according to Wikipedia. Singers set their lines to music, and Ghalib's verses are still sung widely."
+    ],
+    "artist": [
+      "Begum Akhtar (1914-1974), born Akhtaribai Faizabadi in Faizabad, is the singer most associated with the ghazal. She trained under several teachers, and the IGNCA timeline names Ata Mohammed Khan of the Patiala gharana and, later in Lucknow, Abdul Wahid Khan of the Kirana gharana. Her first HMV recording was in 1927. She married a Lucknow barrister in the early 1940s and largely stopped concerts, then returned to the stage in 1950. She is regarded as one of the greatest exponents of ghazal, dadra and thumri.",
+      "Her honours were the Padma Shri, the Sangeet Natak Akademi Award for vocal music, and the Padma Bhushan, given after her death. Sources differ by a year on the dates, so we give none here. She died in Ahmedabad after her last concert, and is buried at Pasand Bagh in Lucknow, beside her mother.",
+      "Jagjit Singh (1941-2011), born in Sri Ganganagar in present-day Rajasthan, brought the ghazal to a wide audience with simpler arrangements and poetry chosen for ordinary listeners. He received the Padma Bhushan in 2003. Mehdi Hassan, who sang from Pakistan, is also named in sources on the form."
+    ],
+    "place": [
+      "The ghazal does not belong to one place. Delhi and Lucknow were the great centres of Urdu poetry. Hyderabad under the Nizams was another, and Begum Akhtar received patronage there. Kolkata, with its recording houses, was where she made her first records.",
+      "Faizabad, now part of Ayodhya in Uttar Pradesh, is her birthplace, and a Faizabad university has planned a memorial to her. In Lucknow her grave was restored in 2012, according to Wikipedia. Today the ghazal is sung in mehfils, in concerts and on recordings across India and beyond."
+    ],
+    "history": [
+      {
+        "when": "7th century",
+        "what": "The ghazal takes shape in Arabic poetry from the qasida."
+      },
+      {
+        "when": "c. 12th century",
+        "what": "The form arrives in the Indian subcontinent through Persian."
+      },
+      {
+        "when": "13th-14th century",
+        "what": "Amir Khusrau helps blend it with local languages, according to Wikipedia."
+      },
+      {
+        "when": "18th-19th century",
+        "what": "Mir Taqi Mir and Mirza Ghalib bring Urdu ghazal to a peak."
+      },
+      {
+        "when": "1927",
+        "what": "Begum Akhtar makes her first HMV recording."
+      },
+      {
+        "when": "1950",
+        "what": "She returns to the stage in Delhi, billed as Begum Akhtar for the first time."
+      },
+      {
+        "when": "1970s",
+        "what": "Jagjit Singh and Chitra Singh become widely known for light ghazal albums."
+      },
+      {
+        "when": "1974",
+        "what": "Begum Akhtar dies after her last concert in Ahmedabad."
+      }
+    ],
+    "future": [
+      "Teach the poetry along with the singing, so young singers understand the couplets they perform.",
+      "Support accompanists such as sarangi and tabla players, whose numbers are falling.",
+      "Archive old radio and gramophone recordings of Begum Akhtar and others, with notes on lyrics and poets.",
+      "Pay poets and translators when their words are sung, and credit them on every recording.",
+      "Create small mehfil spaces in towns outside the big cities, where listeners can hear the form live."
+    ],
+    "pins": [
+      {
+        "lat": 28.6139,
+        "lng": 77.209,
+        "label": "Delhi (Urdu poetry centre)",
+        "approximate": false
+      },
+      {
+        "lat": 26.8467,
+        "lng": 80.9462,
+        "label": "Lucknow (Begum Akhtar's grave, Pasand Bagh, approx.)",
+        "approximate": true
+      },
+      {
+        "lat": 26.7922,
+        "lng": 82.1998,
+        "label": "Faizabad, Uttar Pradesh (Begum Akhtar's birthplace)",
+        "approximate": false
+      },
+      {
+        "lat": 17.385,
+        "lng": 78.4867,
+        "label": "Hyderabad",
+        "approximate": false
+      },
+      {
+        "lat": 22.5726,
+        "lng": 88.3639,
+        "label": "Kolkata (early recordings)",
+        "approximate": false
+      },
+      {
+        "lat": 29.9094,
+        "lng": 73.88,
+        "label": "Sri Ganganagar, Rajasthan (Jagjit Singh's birthplace)",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-ghazal-c5a5a1",
+      "ignca-gov-in-begum-akhtar-timeline-html-86259a",
+      "en-wikipedia-org-wiki-begum-akhtar-bf021e",
+      "en-wikipedia-org-wiki-jagjit-singh-1883f8"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "ghumot",
+    "name": "Ghumot",
+    "category": "Music",
+    "states": [
+      "Goa"
+    ],
+    "color": "#78350f",
+    "motif": "spiral",
+    "tagline": "A clay pot with a skin on its mouth, played at Ganesh puja and at the mando.",
+    "facts": [
+      "Struck membranophone of Goa, a clay pot open at both ends",
+      "Declared a Goa state heritage instrument in August 2019",
+      "Skin was traditionally monitor lizard; now often goat skin",
+      "Played at Ganesh Chaturthi, Shigmo, Sao Joao and in the mando"
+    ],
+    "art": [
+      "The ghumot (also ghumat or gumot) is a clay pot drum. The larger opening is covered by a stretched hide. A smaller opening on the other side lets the player's hand control the air and tone. Wikipedia says the player uses both hands, one on the small opening and the other striking the skin.",
+      "The skin is soaked overnight, stretched over the mouth, bound with coir and banana fibre and dried in shade. Traditionally the hide was from the Indian monitor lizard. This lizard is protected under Schedule I of the Wildlife Protection Act, 1972, so many makers now use goat skin or synthetic material.",
+      "The ghumot is usually played with the shamel (main rhythm drum) and kansallem (cymbals), a group called suvari vadan. A related drum, the mhadalem, has a skin at both ends."
+    ],
+    "artist": [
+      "Potters make the earthen body, so the instrument depends on the Kumbhar community. Down To Earth reports that the number of makers is shrinking, and that some use lizard hide still, saying it sounds better. One potter recalled a police inquiry in 2018.",
+      "The same article asks whose heritage the label serves, pointing to caste hierarchy and the roles of soloists and accompanists. Wikipedia says local tribal communities are believed to have created the instrument and that classical musicians later formalised its use. The ghumata vazop dance was originally Kunbi, the article says, and has been adopted by others."
+    ],
+    "place": [
+      "Among Hindus the ghumot is played at birth rituals (Satipujan), at Shigmo in Phalgun and at Ganesh Chaturthi prayers, including the aarti. Christians use it for pre-wedding roce, in the mando and dekhni, and at the Sao Joao festival on 24 June.",
+      "It is also played in parts of Karnataka and is known as gummeta in Andhra Pradesh, per Wikipedia."
+    ],
+    "history": [
+      {
+        "when": "Early",
+        "what": "Believed to have come with migrants and to have been made by a local tribal community. It is not named in classical Sanskrit treatises."
+      },
+      {
+        "when": "1972",
+        "what": "Monitor lizards were given legal protection, per Down To Earth."
+      },
+      {
+        "when": "August 2019",
+        "what": "Goa declared the ghumot a state heritage instrument. Down To Earth and Wikipedia agree on the date; they say the declaration is for ghumot made without lizard skin."
+      }
+    ],
+    "future": [
+      "Support potters who make the pot bodies and pay fairly for them.",
+      "Develop and share good non-lizard skins, so tone does not suffer.",
+      "Offer lessons in school and village clubs.",
+      "Record the many rhythms across Hindu and Christian use.",
+      "Give players and accompanists recognition."
+    ],
+    "pins": [
+      {
+        "lat": 15.59,
+        "lng": 73.95,
+        "label": "Bicholim",
+        "approximate": true
+      },
+      {
+        "lat": 15.2993,
+        "lng": 73.958,
+        "label": "Margao",
+        "approximate": false
+      },
+      {
+        "lat": 15.4909,
+        "lng": 73.8278,
+        "label": "Panaji",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-ghumot-7909d5",
+      "downtoearth-org-in-amp-story-wildlife-biodiversity-ghumot-th-58366a",
+      "gomantaktimes-com-my-goa-art-culture-international-dance-day-8c64d8"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "gurbani-kirtan",
+    "name": "Gurbani Kirtan",
+    "category": "Music",
+    "states": [
+      "Punjab"
+    ],
+    "color": "#b8860b",
+    "motif": "lotus",
+    "tagline": "Sacred verse set to raga, sung at the Golden Temple from before dawn into the night.",
+    "facts": [
+      "Shabad kirtan began with Guru Nanak and Bhai Mardana's rabab",
+      "Guru Arjan is said to have set five daily chaukis at Harmandir Sahib",
+      "Asa di Var is sung in the early morning",
+      "Hazoori ragis take rotating shifts"
+    ],
+    "art": [
+      "Shabad kirtan is the devotional singing of hymns from Sikh scripture. Inderjit N. Kaur writes that it is central to Sikh life and is a tradition of some five hundred years, beginning with Guru Nanak (1469 to 1539), who sang to the rabab of Bhai Mardana.",
+      "The Guru Granth Sahib is arranged by raga. Wikipedia counts 31 single ragas, with mixed ones bringing the total higher, and says scholars disagree about how the arrangement was set and what the ghar markings once meant.",
+      "Instruments include the rabab, saranda, taus, dilruba and jori. Wikipedia says the harmonium and tabla have largely replaced older instruments, and groups have shrunk from four performers to a trio.",
+      "Kaur proposes the term raga-based shabad kirtan for kirtan that uses raga, noting that the common term gurmat sangeet is relatively recent."
+    ],
+    "artist": [
+      "Tradition holds that the descendants of Bhai Mardana became hereditary rababi musicians who served the later Gurus. Wikipedia says their tradition declined sharply after Partition in 1947, when many families moved to Pakistan.",
+      "The Golden Temple site says Hazoori ragis, appointed by the SGPC, perform in rotating two-hour shifts so kirtan does not stop, and visiting jathas perform on a schedule.",
+      "Ragis were traditionally trained in taksals such as Damdami Taksal, and newer institutions now teach Sikh music alone (Wikipedia)."
+    ],
+    "place": [
+      "Harmandir Sahib in Amritsar is the centre of kirtan. Kaur says Guru Arjan is said to have started five chaukis (sittings) a day: Asa di Var at dawn, Anand mid-morning, Charan Kanwal at midday, Sodar in the evening and Kalyan at night.",
+      "The Golden Temple site says kirtan runs from the early hours until the Sukhasan ceremony at night and is relayed by speakers around the parikrama. The page gives both 'over 20 hours' and a timetable ending at 10 pm, so check the current times locally."
+    ],
+    "history": [
+      {
+        "when": "Guru Nanak, 1469 to 1539",
+        "what": "Sang his hymns with Mardana on the rabab, as the janam sakhis and later paintings show (Kaur)."
+      },
+      {
+        "when": "Guru Angad",
+        "what": "Is said to have made Asa di Var a regular morning practice."
+      },
+      {
+        "when": "1604",
+        "what": "Guru Arjan compiled the Adi Granth, which includes saints of several faiths."
+      },
+      {
+        "when": "Guru Arjan",
+        "what": "Is said to have started the five daily chaukis at Harmandir Sahib."
+      },
+      {
+        "when": "18th century",
+        "what": "Wikipedia says persecution disrupted kirtan and Jassa Singh Ahluwalia helped revive it."
+      },
+      {
+        "when": "19th century",
+        "what": "Sikh states such as Patiala, Nabha and Kapurthala patronised musicians (Wikipedia)."
+      },
+      {
+        "when": "1947",
+        "what": "Partition ended the world of many rababi families."
+      }
+    ],
+    "future": [
+      "Teach raga-based kirtan to children, with the older instruments, not only the harmonium.",
+      "Support revival of the rabab and its makers and players.",
+      "Offer stipends for young ragis in taksals and academies.",
+      "Record rare compositions and old styles with the senior ragis.",
+      "Keep clear, public notes on the daily schedule for visitors."
+    ],
+    "pins": [
+      {
+        "lat": 31.62,
+        "lng": 74.88,
+        "label": "Harmandir Sahib, Amritsar",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "punjab-global-ucsb-edu-sites-default-files-sitefiles-journal-517cd0",
+      "goldentempleamritsar-org-darbar-sahib-golden-temple-gurbani-62be77",
+      "en-wikipedia-org-wiki-sikh-music-cf783e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "gwalior-gharana",
+    "name": "Gwalior Gharana",
+    "category": "Music",
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "color": "#1e3a8a",
+    "motif": "spiral",
+    "tagline": "The oldest khayal gharana, rooted in a Tomar king's dhrupad school and a family of court singers.",
+    "facts": [
+      "Form: Hindustani vocal music, khayal",
+      "Founders: Naththan Pir Bakhsh and grandsons Haddu and Hassu Khan",
+      "Style: straight taans, simple ragas",
+      "Court: Scindia patronage from 1810"
+    ],
+    "art": [
+      "The Gwalior gharana is a school of Hindustani classical singing, and Wikipedia calls it the first and most influential khayal gharana. It follows what the article calls the ashtangi gayaki, an eight-part framework: alap, behlava, taan, kampan, meend, gamaka, khatka and murki.",
+      "Wikipedia says it favours simplicity and well-known ragas. Its taans are straight (sapaat) rather than zig-zag, and it does not use an extra-slow alap. Vilambit khayals are sung relatively briskly. The article itself is flagged as needing more citations, so these descriptions are indicative.",
+      "Gwalior is also remembered for dhrupad. Sahapedia says Man Singh Tomar (reigned 1486 to 1516) founded a school of music at Gujari Mahal in Gwalior fort and helped write the treatise Mankutuhal."
+    ],
+    "artist": [
+      "Sahapedia credits Ustad Naththan Pir Bux with the khayal style, and his grandsons Hassu and Haddu Khan and nephew Natthu Khan with refining it. Wikipedia gives Hassu Khan's death as 1859 and Haddu Khan's as 1875. Other sources give different dates, so these are not firm.",
+      "Pupils carried the style outward. Wikipedia says Balakrishnabuwa Ichalkaranjikar took it to Maharashtra, and Krishnarao Shankar Pandit trained his son Laxman Krishnarao Pandit and granddaughter Meeta Pandit. Sahapedia says he founded the Shankar Gandharva Vidyalaya in 1914.",
+      "Tansen is linked to Gwalior as a native of the area (Sahapedia) and a singer at Akbar's court. Sahapedia calls him a dhrupad composer. His link is to the older Gwalior dhrupad tradition, not to the khayal family above, as these sources present it."
+    ],
+    "place": [
+      "Gwalior stands in northern Madhya Pradesh, with its fort above the city. Sahapedia says it became the Scindia capital in 1810, and that Daulatrao Scindia and Jayajirao Scindia supported musicians.",
+      "Tansen's tomb near the fort is still visited by locals, per Sahapedia. The city still has music schools that go back to the early twentieth century."
+    ],
+    "history": [
+      {
+        "when": "1486 to 1516",
+        "what": "Man Singh Tomar rules and sets up a music school at Gwalior (Sahapedia)."
+      },
+      {
+        "when": "16th century",
+        "what": "Tansen, from near Gwalior, sings at Akbar's court."
+      },
+      {
+        "when": "1810",
+        "what": "Gwalior becomes the Scindia capital; court patronage grows."
+      },
+      {
+        "when": "Early 19th century",
+        "what": "Naththan Pir Bux is credited with the Gwalior khayal style under Daulatrao Scindia."
+      },
+      {
+        "when": "1859 and 1875",
+        "what": "Hassu Khan and Haddu Khan die, as per Wikipedia; sources vary."
+      },
+      {
+        "when": "1901 and 1914",
+        "what": "Gandharva Mahavidyalaya is founded by Vishnu Digambar Paluskar (1901) and Shankar Gandharva Vidyalaya by Krishnarao Shankar Pandit (1914)."
+      }
+    ],
+    "future": [
+      "Training: gurukul-style teaching in Gwalior, supported by schools such as Shankar Gandharva Vidyalaya.",
+      "Livelihood: concerts, radio and recordings that pay singers and accompanists.",
+      "Materials: keep the making of tanpuras and tablas alive in nearby workshops.",
+      "Documentation: record older singers and their compositions in the gharana.",
+      "Protection: archive recordings and notation so lesser-known bandishes are not lost."
+    ],
+    "pins": [
+      {
+        "lat": 26.2183,
+        "lng": 78.1828,
+        "label": "Gwalior",
+        "approximate": false
+      },
+      {
+        "lat": 26.23,
+        "lng": 78.169,
+        "label": "Gwalior Fort, Gujari Mahal",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-gwaliors-musical-heritage-38f887",
+      "en-wikipedia-org-wiki-gwalior-gharana-c95253"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "haryanvi-ragini",
+    "name": "Haryanvi Ragini",
+    "category": "Music",
+    "states": [
+      "Haryana"
+    ],
+    "color": "#1e3a8a",
+    "motif": "scroll",
+    "tagline": "Sung story-poems of Haryana, made famous by Pandit Lakhmi Chand.",
+    "facts": [
+      "Form: sung story-poem, also spelt raagni or ragni",
+      "Closely tied to Saang theatre",
+      "Linked to Pandit Lakhmi Chand (1903-1945)",
+      "Accompanied by instruments such as sarangi and harmonium"
+    ],
+    "art": [
+      "Ragini, also spelt raagni, is a folk song form of Haryana. It is sung stories, love, parting, devotion and moral teaching in Haryanvi verse. The Wikipedia page on the music of Haryana lists Ragini among the state's folk theatrical performances, alongside Rasa Lila.",
+      "The sources I read do not describe the metre or tune of a raagni in detail. What they do show is its close link to Saang. Wikipedia says singing in the raagni style is central to Saang, and the Tribune says Lakhmi Chand's raagnis were written on Vedanta, love and separation.",
+      "Instruments named for Haryanvi folk music in general include the sarangi, harmonium, dholak, dhadd and manjeera. The Tribune names a sarangi player, Dhoolia Khan, as Lakhmi Chand's teacher. Which instruments accompany a particular raagni can differ by troupe."
+    ],
+    "artist": [
+      "Lakhmi Chand (1903-1945), called Suryakavi Pandit Lakhmi Chand and Dada Lakhmi Chand, was a Haryanvi poet. Wikipedia says he was born at Janti Kalan in Sonipat district to a farming family and had no formal schooling. It says the village's spelling varies. Wikipedia's music page says the Ragini form was popularised by him.",
+      "The Tribune says he composed raagni on the spot, trained for two decades with the sarangi player Dhoolia Khan, and wrote about 20 Saangs. Wikipedia lists 14 Saangs and names his disciples Mangeram Susana and Mehar Singh Barona. The two pages differ on his teachers and on the number of Saangs.",
+      "Wikipedia also lists Baje Bhagat, Bharatchandra Kaushik and Dayachand Mayna among early Haryanvi singers. Some honours and a film about Lakhmi Chand mentioned in Wikipedia lack citations, so they are left out here. I could not confirm any Sangeet Natak Akademi honour for him."
+    ],
+    "place": [
+      "Raagni belongs to the villages and small towns of Haryana, especially Sonipat, Rohtak and Rewari districts, where the Saang poets lived. It is sung at fairs, weddings and gatherings, and in contests between singers.",
+      "Wikipedia notes that folk singers in Haryana are highly esteemed and invited to events regardless of caste or status."
+    ],
+    "history": [
+      {
+        "when": "1903",
+        "what": "Lakhmi Chand is born at Janti Kalan, Sonipat, according to Wikipedia."
+      },
+      {
+        "when": "Early 20th century",
+        "what": "He composes raagnis and Saangs in Haryanvi, and is named by the Tribune as the founder of the present raagni form."
+      },
+      {
+        "when": "1945",
+        "what": "Year of Lakhmi Chand's death, given in the lead of the Wikipedia article without a citation."
+      },
+      {
+        "when": "1939-2008",
+        "what": "His son Tule Ram works to preserve his father's heritage, says the Tribune."
+      },
+      {
+        "when": "After 1945",
+        "what": "Haryanvi artists continue to perform his best-known work, Lakhmichand Ka Brahmgyaan, says Wikipedia."
+      }
+    ],
+    "future": [
+      "Documentation: record elder singers and write out raagnis with the poet's name, so that authorship is not lost.",
+      "Training: create apprenticeships between older raagni singers and young singers.",
+      "Livelihood: support fair payment for festival and radio work, and care that popular recordings credit the original poets.",
+      "Scholarship: translate the major raagnis with notes on their poets.",
+      "Protection: archive recordings in public institutions."
+    ],
+    "pins": [
+      {
+        "lat": 28.9931,
+        "lng": 77.0151,
+        "label": "Sonipat (Lakhmi Chand's district)",
+        "approximate": true
+      },
+      {
+        "lat": 28.8955,
+        "lng": 76.6066,
+        "label": "Rohtak",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-music-of-haryana-9fd7ee",
+      "en-wikipedia-org-wiki-lakhmi-chand-b76c68",
+      "tribuneindia-com-news-archive-haryanatribune-haryanas-folk-t-86ee5c",
+      "en-wikipedia-org-wiki-saang-873e10"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "hindustani-music",
+    "name": "Hindustani Music",
+    "category": "Music",
+    "states": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Punjab",
+      "Maharashtra",
+      "Delhi"
+    ],
+    "color": "#7c2d12",
+    "motif": "arch",
+    "tagline": "A music of slow-unfolding ragas and rhythmic cycles, handed from teacher to student.",
+    "facts": [
+      "Form: classical music of North India built on raga and tala",
+      "Taught through the guru-shishya (teacher-student) tradition",
+      "Styles passed down in families and schools called gharanas",
+      "Moved from courts to concert halls and radio in the 20th century"
+    ],
+    "art": [
+      "Hindustani music is the classical music of North India. It is built on two ideas. A raga is a melodic frame: a set of notes with its own rules, moods and characteristic phrases. A tala is a rhythmic cycle of a fixed number of beats. The musician does not read a score. Within the frame of the raga, he or she improvises, and the same raga is never sung twice in quite the same way.",
+      "A performance usually starts slowly, with the raga explored without a beat, and then settles into rhythm with a drum such as the tabla. A steady drone, played on the tanpura, sits underneath. Wikipedia notes that ragas are often grouped by their notes into parent scales called thaats, a system brought together around 1900 by Vishnu Narayan Bhatkhande.",
+      "Several forms sit inside the tradition. Dhrupad is the older, austere form (see its own story). Khyal, meaning imagination, is the main concert form today and allows more ornament and free play. Lighter forms such as thumri and the devotional bhajan are also sung. Instruments include the sitar, sarod, bansuri flute, sarangi and santoor.",
+      "Ragas are linked to times of day and seasons. A morning raga is not meant to be sung at midnight. Listeners who do not know the rules can still follow: listen for the way a few notes are returned to again and again, and how the singer or player slowly builds the mood."
+    ],
+    "artist": [
+      "Training has long been one to one. Until the late 19th century, Wikipedia says, a student learned from a single teacher, the guru or ustad, often living in the teacher's house. This had benefits, but students often spent much of their time serving the teacher, and the music stayed within a small community.",
+      "Musical styles were carried by families and schools called gharanas, many linked to princely courts. Wikipedia names Oudh, Patiala and Banaras among the court-linked schools, and the Gwalior school as important in the development of dhrupad. Other well-known gharana names are Agra, Kirana and Jaipur-Atrauli. I could not confirm in the sources I read which artists founded each school, so the founders are not named here. That needs a specialist source.",
+      "In the 20th century two teachers opened the art to wider groups. Vishnu Digambar Paluskar founded the Gandharva Mahavidyalaya in 1901, a school open to all. Bhatkhande published the four-volume Hindustani Sangeeta Paddhati (1909 to 1932), which proposed a system of notation.",
+      "Accompanists matter too: tabla players, harmonium and sarangi players, and the instrument makers whose work is little recognised."
+    ],
+    "place": [
+      "Hindustani music belongs to the north and centre of India, from Punjab in the west to Bengal in the east. Its homes are the old courts and cities: Gwalior in Madhya Pradesh, Agra, Lucknow and Banaras in Uttar Pradesh, Jaipur in Rajasthan, Patiala in Punjab, and Delhi.",
+      "Two court worlds shaped it. Under the Delhi Sultanate, Wikipedia says, rule brought wide cultural exchange, musicians came to courts, and Hindu and Muslim musical ideas mixed. Under the Mughals, Akbar's court patronised musicians such as Tansen, and rulers took interest in local forms. This exchange helped produce new forms such as khyal.",
+      "Music also lived in temples and shrines, in the singing of devotional poetry and in Sufi gatherings. After the 16th century, styles spread out into gharanas under different princely patrons. When royal patronage declined, government-run All India Radio helped bring artists to the public."
+    ],
+    "history": [
+      {
+        "when": "Early centuries (uncertain)",
+        "what": "Ancient Sanskrit texts describe melodic and rhythmic theory. Scholars connect modern raga music to this long line but not directly."
+      },
+      {
+        "when": "13th to 14th century",
+        "what": "Under the Delhi Sultanate, musicians moved into courts and Hindu and Muslim musical ideas mixed. Amir Khusrau (1253 to 1325) is traditionally credited with systematising parts of the music. Wikipedia says his link to the origin of khyal is not supported."
+      },
+      {
+        "when": "About 1486 to 1516",
+        "what": "Raja Man Singh Tomar of Gwalior is linked with the Mankutuhal, a work on the main forms of his time, and with dhrupad."
+      },
+      {
+        "when": "16th century",
+        "what": "Under Akbar, the Mughal court patronised musicians such as Tansen. After this, singing styles split into gharanas under different courts."
+      },
+      {
+        "when": "18th century",
+        "what": "Sadarang, a court musician under Muhammad Shah, may have been the father of modern khyal, says Wikipedia. The attribution is a scholar's view, not a certain fact."
+      },
+      {
+        "when": "1901",
+        "what": "Vishnu Digambar Paluskar founds the Gandharva Mahavidyalaya, a school open to all, moving training away from the closed gharana system."
+      },
+      {
+        "when": "About 1900 to 1932",
+        "what": "Vishnu Narayan Bhatkhande groups ragas into thaats and publishes Hindustani Sangeeta Paddhati (1909 to 1932)."
+      },
+      {
+        "when": "20th century",
+        "what": "Royal patronage declines. All India Radio and public concerts become the main stage for artists."
+      }
+    ],
+    "future": [
+      "Support long-term teacher-student training with fair stipends for gurus, so the one-to-one tradition survives alongside classroom teaching.",
+      "Give accompanists and instrument makers (tabla, sitar, sarangi) recognition, training places and fair pay.",
+      "Record elders in full, with notes on raga, bandish and teacher lineage, and keep the recordings in open archives.",
+      "Offer free or low-cost concerts and listening introductions in small towns, so the music reaches new audiences.",
+      "Work with gharana families to document their repertoire before it is lost, and let the families decide what is made public.",
+      "Teach the basics of raga and tala in schools, in Hindi and local languages."
+    ],
+    "pins": [
+      {
+        "lat": 26.2183,
+        "lng": 78.1828,
+        "label": "Gwalior, early home of dhrupad and khyal",
+        "approximate": false
+      },
+      {
+        "lat": 27.1767,
+        "lng": 78.0081,
+        "label": "Agra",
+        "approximate": false
+      },
+      {
+        "lat": 26.9124,
+        "lng": 75.7873,
+        "label": "Jaipur",
+        "approximate": false
+      },
+      {
+        "lat": 30.3398,
+        "lng": 76.3869,
+        "label": "Patiala",
+        "approximate": false
+      },
+      {
+        "lat": 28.6139,
+        "lng": 77.209,
+        "label": "Delhi",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-hindustani-classical-music-aaf6b6",
+      "en-wikipedia-org-wiki-dhrupad-a3d380",
+      "en-wikipedia-org-wiki-qawwali-211b25"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "kumaoni-holi",
+    "name": "Kumaoni Holi",
+    "category": "Music",
+    "states": [
+      "Uttarakhand"
+    ],
+    "color": "#be185d",
+    "motif": "scroll",
+    "tagline": "Holi in the Kumaon hills is sung for weeks, seated in raga, then standing in the open.",
+    "facts": [
+      "Forms: Baithaki, Khari (Khadi) and Mahila Holi",
+      "Songs based on classical ragas, with Kumaoni folk influence",
+      "Begins in winter and runs almost two months",
+      "Traditionally traced to the Chand court at Champawat, 15th century"
+    ],
+    "art": [
+      "Kumaoni Holi is a musical festival. Wikipedia and Outlook Traveller describe three main forms. Baithaki Holi is sung seated, in homes and temple courtyards. Khari (Khadi) Holi is sung and danced standing, mostly in villages. Mahila Holi is sung by women.",
+      "Baithaki songs follow classical ragas. DailyO lists Peelu, Bhimpalasi and Sarang for noon sittings, and Kalyan, Shyam Kalyan and Yaman for the evening. Harmonium and tabla are central. Songs are in Hindi, Braj bhasha and Kumaoni.",
+      "The mood changes through the season. The first phase, called Nirvan ki Holi, has devotional songs. After Basant Panchami the themes turn to love and beauty, with many songs on Radha and Krishna.",
+      "Khari Holi groups, called tolis, visit houses singing blessings for the household. Dancers wear white kurtas, churidar pyjamas and pointed caps, and move to dhol and hurka drum.",
+      "Cheer Bandhan and Cheer Dahan are the ritual tying and burning of the cheer, the festival's centre, before the colour day."
+    ],
+    "artist": [
+      "The singers are called Holiyars. The sources I read do not list names of notable ones, except that Wikipedia mentions a Champawat singer, Heera Ballabh Bhatt, as well known.",
+      "DailyO says a family that hosts a Baithaki sitting is expected to host it every year, and to invite everyone to the next sitting. Singers are given tea and machwani, a warm milk drink with ginger and black pepper.",
+      "Kumaonis living in other cities also keep up all three forms."
+    ],
+    "place": [
+      "Kumaoni Holi belongs to Kumaon, the eastern hills of Uttarakhand. The sources link its musical form to Champawat, where the Chand kings held court. Wikipedia and a web search also found a claim that Almora, the later Chand capital, was the origin, so the place of origin is not settled.",
+      "Today Baithaki Holi is heard in Almora, Pithoragarh, Champawat and other towns, and Khari Holi in the villages. Songs begin at Basant Panchami and some areas start as early as Paush in December."
+    ],
+    "history": [
+      {
+        "when": "15th century",
+        "what": "Outlook Traveller and DailyO trace the tradition to the court of the Chand kings in Champawat, where Braj musical styles met Kumaoni ones. Sources repeat this date and I found no independent documentation."
+      },
+      {
+        "when": "Chand period",
+        "what": "As the Chand kingdom grew, Holi singing spread across Kumaon and took on a local character."
+      },
+      {
+        "when": "Later centuries",
+        "what": "Wikipedia cites E. T. Atkinson's Himalayan Gazetteer and B. D. Pandey's History of Kumaun as background reading. I did not read these books."
+      },
+      {
+        "when": "Recent years",
+        "what": "The festival is now a draw for visitors and for Kumaonis returning home."
+      }
+    ],
+    "future": [
+      "Training: hold sittings where older Holiyars teach ragas and lyrics to young singers, boys and girls.",
+      "Livelihood: pay singers and instrument players for performances outside the festival season.",
+      "Materials: keep tabla, harmonium and drum makers and repairers in the hill towns.",
+      "Documentation: record the songs in their ragas and in Kumaoni, with the names of the singers.",
+      "Protection: keep Mahila Holi and village Khari Holi visible, not only the town sittings."
+    ],
+    "pins": [
+      {
+        "lat": 29.335,
+        "lng": 80.091,
+        "label": "Champawat",
+        "approximate": false
+      },
+      {
+        "lat": 29.597,
+        "lng": 79.659,
+        "label": "Almora",
+        "approximate": false
+      },
+      {
+        "lat": 29.582,
+        "lng": 80.218,
+        "label": "Pithoragarh",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-kumauni-holi-17b21e",
+      "dailyo-in-arts-holi-kumaon-hills-baithaks-video-spring-basan-ceb1e1",
+      "outlooktraveller-com-destinations-india-from-the-mountains-a-119c84"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mando-dekhni",
+    "name": "Mando and Dekhni",
+    "category": "Music",
+    "states": [
+      "Goa"
+    ],
+    "color": "#1e3a8a",
+    "motif": "scroll",
+    "tagline": "Songs of love, loss and local news, from the Catholic houses of Salcete.",
+    "facts": [
+      "Mando: Goan Catholic dance song, mainly 19th-20th century",
+      "Played with violin, guitar and ghumot",
+      "Dekhni: a related dance song with Hindu themes",
+      "Classical mandos use the Salcete dialect of Konkani"
+    ],
+    "art": [
+      "The mando is a Goan song and dance of the Catholic community. Wikipedia describes it as a form that grew in the 19th and 20th centuries and blended Goan and Western traditions. Most mandos come from villages of Salcete. It is usually sung in the first person, and love is the main theme. The singers sway gently to the rhythm. It is accompanied by guitar, violin and the ghumot drum.",
+      "Dr Alvarinho Luis, writing in The Goan, lists four themes: longing for a lover, lament over loss, union, and the telling of local or political events. Because there was little mass media, some mandos worked as public comment. He names 'Luizinha Mhojea Luizinha', based on the 1854 murder of a Portuguese captain at Divar, and a fast section recalling a shooting at Holy Spirit Church in Margao in 1880.",
+      "The dekhni is a dance song of Goan Christians, close to the mando but with Hindu themes. Panjim.org says it is sung in two voices, usually with shehnai, tabla and cymbals, and was danced after the mando at big gatherings. One reading of it, given on that page, is that it expresses nostalgia for a Hindu past, while the mando shows acceptance of Christianity. A Gomantak Times piece describes the dekhni as a women's dance with ghumot and small clay lamps; its best known song is 'Hanv Saiba Poltoddi Vetam'. Sources differ on whether it is mainly a song or a dance."
+    ],
+    "artist": [
+      "Mando was once kept to elite Brahmin families of Salcete and their homes, according to Dr Luis. It later spread across Goan society and is now sung at roce ceremonies, weddings and gatherings.",
+      "Composers named in the same article are Dr Jose Inacio de Loyola, who wrote a mando on the 1880 Margao events, and Paulo Milagres Silva (1855-1931) and Arnaldo de Menezes (1863-1917), whose songs a Portuguese governor is said to have seen danced in 1877-78. The Department of Art and Culture and Kala Academy hold annual mando competitions.",
+      "Traditionally the dancers wore velvet or silk embroidered with gold thread and used a fan, per Wikipedia."
+    ],
+    "place": [
+      "Mando belongs to the villages of Salcete in South Goa. Dr Luis names Curtorim, Loutolim and Raia for early work, and Margao was a centre of the community.",
+      "Many Portuguese words appear in mandos, which suggests the form grew during Portuguese rule."
+    ],
+    "history": [
+      {
+        "when": "Before 1840",
+        "what": "Panjim.org says the mando grew out of the ovi, a nuptial song form used in church hymns, and likely gained its refrain around 1840 under the influence of Portuguese fado."
+      },
+      {
+        "when": "About 1840",
+        "what": "The first mando is reportedly written and sung at Curtorim, according to The Goan. The scholar Filipe Neri Xavier dated it to 1846 among Salcete Brahmins. Dates differ."
+      },
+      {
+        "when": "1854",
+        "what": "'Luizinha Mhojea Luizinha' is said to be based on a murder at Divar in this year."
+      },
+      {
+        "when": "1880",
+        "what": "A shooting of civilians at Holy Spirit Church, Margao, during a municipal election, remembered in a mando."
+      },
+      {
+        "when": "Late 20th century",
+        "what": "Mando competitions by the Department of Art and Culture and Kala Academy help spread the form beyond the old elite."
+      }
+    ],
+    "future": [
+      "Keep the classical Salcete dialect alive by recording old mandos with singers and meanings.",
+      "Teach the dance and its dress to young people in schools and cultural clubs.",
+      "Pay violin, guitar and ghumot players for performances.",
+      "Archive old manuscripts and family collections of mandos.",
+      "Support the annual competitions and open them to singers from all communities."
+    ],
+    "pins": [
+      {
+        "lat": 15.3,
+        "lng": 73.95,
+        "label": "Curtorim",
+        "approximate": true
+      },
+      {
+        "lat": 15.2993,
+        "lng": 73.958,
+        "label": "Margao",
+        "approximate": false
+      },
+      {
+        "lat": 15.32,
+        "lng": 73.99,
+        "label": "Loutolim",
+        "approximate": true
+      },
+      {
+        "lat": 15.25,
+        "lng": 73.98,
+        "label": "Raia",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "thegoan-net-perspective-keeping-alive-the-tradition-of-mando-d5a56d",
+      "en-wikipedia-org-wiki-mando-music-dcbebd",
+      "panjim-org-culture-b945a4",
+      "gomantaktimes-com-my-goa-art-culture-international-dance-day-8c64d8"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "manganiyar-langa",
+    "name": "Manganiyar and Langa Music",
+    "category": "Music",
+    "states": [
+      "Rajasthan"
+    ],
+    "color": "#b45309",
+    "motif": "dots",
+    "tagline": "Desert songs carried by hereditary Muslim musicians for their Hindu patrons.",
+    "facts": [
+      "Region: Jaisalmer and Barmer in the Thar Desert",
+      "Hereditary Muslim musicians with Hindu patrons (jajman)",
+      "Instruments: kamaicha, khartal (kartaal), dholak",
+      "Songs are called oral history of the desert"
+    ],
+    "art": [
+      "The Manganiyar (also spelt Manganiar) are a community of hereditary professional musicians in the Thar Desert of Rajasthan, mainly in Barmer and Jaisalmer. Their songs speak of people, nature and salvation. The Hindu newspaper calls them oral historians of the desert, because the songs carry local memory from one generation to the next.",
+      "The kamaicha is a bowed instrument with 17 strings and is related to the sarangi, Wikipedia says. The kartaal (khartal) is a pair of teak pieces clapped like castanets. The dholak is a hand drum. Wikipedia adds that some of their ragas began in the Thar and are not found in North Indian classical music.",
+      "The Langa are a related community of musicians in the same region. I could not find a full source on the Langa in this research, so details of their instruments and songs are left out and should be added with a proper source.",
+      "Songs are sung at births, weddings and other family events, in the homes of their patrons."
+    ],
+    "artist": [
+      "Wikipedia describes the Manganiyar as a Muslim community of hereditary musicians. Their traditional patrons, called jajman, are the locally dominant Hindu Rajput and Charan communities, who supported their music for generations. This jajmani relationship tied each musician family to patron families.",
+      "The name is linked to the words for begging (mangan) and garland (har), and a legend ties it to a gift of a necklace from Bibi Fatema. This is a legend, not a historic fact.",
+      "Named musicians in Wikipedia include Sakar Khan, a kamaicha player and Padma Shri recipient, and Lakha Khan, a singer and sarangi player.",
+      "Children learn by sitting with elders and playing from a very young age. Related communities live across the border in Sindh, Pakistan."
+    ],
+    "place": [
+      "The Thar Desert covers western Rajasthan. Jaisalmer and Barmer, near the border with Pakistan, are dry, sparsely settled lands where distances are great and music was one of the few arts that could travel.",
+      "Patrons were Rajput and Charan families, and the Rajput forts and homes were stages for songs of lineage and heroism. Mehrangarh Fort in Jodhpur today hosts the Rajasthan International Folk Festival, founded in October 2007 by the Mehrangarh Museum Trust and the Jaipur Virasat Foundation and timed to Sharad Purnima. Wikipedia says the 2013 edition included sessions on the culture of the Manganiar of Marwar.",
+      "I could not verify the role of the Jaisalmer Desert Festival or the Rajasthan Roots project in these sources, so they are not described here."
+    ],
+    "history": [
+      {
+        "when": "Medieval period (uncertain)",
+        "what": "Oral accounts link the Manganiyar to Rajput courts, but I could not find a firm date for the start of the jajmani relationship."
+      },
+      {
+        "when": "Over generations",
+        "what": "Songs and instruments are passed down within families as desert oral history, Wikipedia says."
+      },
+      {
+        "when": "20th century",
+        "what": "The old system of patronage weakens as courts and landed patrons lose influence. A source for the exact process is needed."
+      },
+      {
+        "when": "October 2007",
+        "what": "Rajasthan International Folk Festival is founded at Mehrangarh, Jodhpur."
+      },
+      {
+        "when": "2013",
+        "what": "The festival holds sessions on the culture of the Manganiar of Marwar."
+      }
+    ],
+    "future": [
+      "Support children of musician families with schooling, so they can learn music and also have other options.",
+      "Pay fair fees for festival and private concerts, with written agreements that name the musicians.",
+      "Record elders and make kamaicha makers' work visible, with local-language notes.",
+      "Document the Langa repertoire with community members as the main voices.",
+      "Fund a village music school in Barmer and Jaisalmer run by hereditary musicians.",
+      "Protect songs and rights so that recordings and fusion projects share income with the families."
+    ],
+    "pins": [
+      {
+        "lat": 26.9157,
+        "lng": 70.9083,
+        "label": "Jaisalmer",
+        "approximate": false
+      },
+      {
+        "lat": 25.75,
+        "lng": 71.3967,
+        "label": "Barmer",
+        "approximate": false
+      },
+      {
+        "lat": 26.2979,
+        "lng": 73.0185,
+        "label": "Mehrangarh Fort, Jodhpur",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-manganiyar-a19757",
+      "en-wikipedia-org-wiki-rajasthan-international-folk-festival-bef282"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "miraj-instrument-making",
+    "name": "Miraj Sitar and Tanpura Making",
+    "category": "Music",
+    "states": [
+      "Maharashtra"
+    ],
+    "color": "#78350f",
+    "motif": "spiral",
+    "tagline": "In one lane of a Krishna valley town, families have shaped sitars and tanpuras by hand for about 150 years.",
+    "facts": [
+      "Place: Sitarmaker Galli, Miraj (renamed Faridsaheb Sitarmaker Marg)",
+      "GI: sitars and tanpuras of Miraj, granted 30 March 2024",
+      "Gourds: grown in Solapur district, near Pandharpur",
+      "Makers: more than 450 craftspeople in the cluster, by their own count"
+    ],
+    "art": [
+      "The sitar and the tanpura are central to Hindustani classical music. The tanpura gives the steady drone that a singer or sitar player tunes against. At Miraj both are built by hand, mostly with little power machinery, in small family workshops.",
+      "A sitar has a large resonator made from a seasoned gourd (tumba), a long wooden neck and a tabli, a thin wooden face. The gourd is the key material. A Sahapedia article says the founder, Faridsaheb, noticed that sadhus carried gourds as water pots (kamandalu) and saw that gourds could be good resonators for the sitar, veena and tanpura.",
+      "The same article credits Faridsaheb with refining the javari, the bridge detail that gives the strings their ringing tone. It says each sitar is tailored to the player. Pandit Ravi Shankar and Ustad Vilayat Khan had instruments made in Miraj, and some sitar styles carry their names.",
+      "In March 2024 the Indian GI registry gave two tags: one to the Miraj Musical Instruments Cluster for sitars, and one to a firm called Soultune Musical Instrument Producer for tanpuras. The makers had applied in 2021 after complaints that instruments from elsewhere were sold as Miraj-made. This is as reported by PTI in The Week."
+    ],
+    "artist": [
+      "Sahapedia tells of the Shikalgar community, metalsmiths who repaired arms. It says they arrived in Miraj under the Adil Shahis in the 17th century. When firearms replaced older weapons, demand fell and the community turned to carpentry and then to musical instruments. The makers' own account in The Week is similar.",
+      "Faridsaheb (1827 to 1898) is named by Sahapedia as the founder of the local instrument craft. It says his brother Moinuddin helped with trials, and that the craft passed to his son Abdul Ghani and grandson Hussainsaheb. Another version in The Week says two brothers named Farid Mohideen Saheb Shikalgar and Farid Saheb Shikalgar impressed a visiting singer by repairing his tanpura about 200 years ago. Accounts differ on names and dates, so treat them as family and local tradition.",
+      "The makers describe seven generations of work. The Week quotes Mohsin Mirajkar, chairman of the cluster, as a descendant of these workers. Knowledge passes in families through hands-on practice rather than books.",
+      "The GI report says the cluster has more than 450 craftsmen who together make about 60 to 70 sitars and about 100 tanpuras a month. These figures are the makers' own claims."
+    ],
+    "place": [
+      "Miraj is in Sangli district in southern Maharashtra, on the Krishna river plain. It was the seat of a small princely state under the Patwardhan family. Sahapedia says the rulers supported musicians, and Balasaheb Patwardhan II invited performers from across the subcontinent, making Miraj a centre of Hindustani music that influenced the Kirana gharana.",
+      "The gourds are the town's most unusual material. The Week says pumpkin gourds come from the Mangalvedha area of Solapur district and that gourd farming was encouraged along the Krishna river. Other reports say bitter gourds grown near Pandharpur, about 130 km away, are used. The wood for necks and faces comes from forests in Karnataka according to The Week.",
+      "The making lane is Sitarmaker Galli, now officially Faridsaheb Sitarmaker Marg. The town is also known for Sufi shrines and a long history of classical music, and musicians came here to have instruments repaired and built. That mix of craft and a musical court is why the trade settled here."
+    ],
+    "history": [
+      {
+        "when": "17th century",
+        "what": "The Shikalgar community, who repaired arms, are said to arrive in Miraj under the Adil Shahis."
+      },
+      {
+        "when": "18th century",
+        "what": "Maratha rule follows; in 1820 the town is split into two jagirs, according to Sahapedia."
+      },
+      {
+        "when": "Early to mid 1800s",
+        "what": "Firearms replace older weapons; the Shikalgar community takes up carpentry and then instrument making. The Week places a tanpura repair about 200 years ago, with the Patwardhan ruler then encouraging the trade."
+      },
+      {
+        "when": "1827 to 1898",
+        "what": "The life span given for Faridsaheb, the founding figure."
+      },
+      {
+        "when": "20th century",
+        "what": "Pandit Ravi Shankar and Ustad Vilayat Khan have instruments made in Miraj, per Sahapedia."
+      },
+      {
+        "when": "2021",
+        "what": "Makers apply for a GI tag after other places sold instruments as Miraj-made."
+      },
+      {
+        "when": "30 March 2024",
+        "what": "GI tags are issued for Miraj sitars and tanpuras."
+      }
+    ],
+    "future": [
+      "Train young makers through paid apprenticeships with master families, covering gourd selection, carving and tuning.",
+      "Support gourd farmers along the Krishna and in Solapur with seed, drying yards and assured purchase.",
+      "Secure legal wood supply from managed sources, and plan for scarcity of old seasoned timber.",
+      "Use the GI to stop copies, with a simple maker registry and a mark that tells buyers an instrument is truly from Miraj.",
+      "Document each stage on film and write down tonal rules (javari, tabli thickness) with the makers' approval.",
+      "Give instrument makers a name beside the players, with maker's names on instruments and at concerts."
+    ],
+    "pins": [
+      {
+        "lat": 16.82,
+        "lng": 74.64,
+        "label": "Sitarmaker Galli, Miraj",
+        "approximate": true
+      },
+      {
+        "lat": 17.68,
+        "lng": 75.33,
+        "label": "Pandharpur",
+        "approximate": true
+      },
+      {
+        "lat": 17.51,
+        "lng": 75.45,
+        "label": "Mangalvedha, gourd-growing area",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-string-masters-sitarmakers-of-miraj-85226d",
+      "theweek-in-news-india-2024-04-07-sitars-tanpuras-made-in-mah-543448",
+      "deccanherald-com-india-maharashtra-sitars-tanpuras-made-in-m-e0a069",
+      "handicrafts-gov-in-crafts-all-crafts-craft-categories-miscel-165d63",
+      "livehistoryindia-com-story-living-culture-miraj-from-swords--ed12b4",
+      "darbar-org-article-from-pumpkin-to-sitar-019955"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mridangam-making",
+    "name": "Mridangam Making",
+    "category": "Music",
+    "states": [
+      "Tamil Nadu and Kerala"
+    ],
+    "color": "#7f1d1d",
+    "motif": "dots",
+    "tagline": "A drum of jackfruit wood and layered hide, tuned by hand, made by communities who rarely get the credit.",
+    "facts": [
+      "Body: hollowed jackfruit wood",
+      "Heads: goat, cow or buffalo skin, in layers",
+      "Black paste on the small head: rice flour, iron oxide, starch",
+      "Makers: Dalit Christian families in Chennai, Kollan families in Peruvemba"
+    ],
+    "art": [
+      "The mridangam is the main drum of Carnatic music. It has two heads of different size, so one drum gives both bass and treble. Wikipedia says the body is traditionally hollowed from jackfruit wood and the heads are goat, cow or buffalo skin, laced together with leather straps that are tightened to tune the drum.",
+      "The smaller head carries a black circle of paste, a mix of rice flour, iron oxide and starch, which gives the metallic ring. Wikipedia names it saatham or karanai; other writers use the word soru. The paste gives the drum its sound and must be right for the pitch. Before play, a paste of semolina is put on the bass head to deepen it, Wikipedia adds.",
+      "Skins are layered, but sources describe the layers differently. A Palakkad report in The News Minute says a cow skin is supported by a buffalo skin, with straps to tighten the cover. A Chennai report says the head has a thick outer ring, a middle layer and a top layer of goat skin. Treat the exact layers as differing by workshop.",
+      "Raw hides must be washed, stretched, pegged and sun-dried for weeks before use. The Palakkad makers told The News Minute that rain slows drying and affects tone, and that cattle fed on cattle feed give fattier skin which is harder to tan.",
+      "A Chennai maker quoted in the Mylapore reports works on several drums at once and takes about seven days for each. The skill is in the ear: the maker hears the pitch and adjusts the skin and paste until the drum sings."
+    ],
+    "artist": [
+      "In Chennai, the best-known makers work in Mylapore. Reports say they came from Thanjavur. Several sources describe them as Dalit and often Dalit Christian, and one Outlook piece traces their ancestry to the Paraiyar community. Their forebears hoped conversion would end untouchability, but the piece says it did not. One family is reported to trace its work back to the time of the composer Thyagaraja (1767 to 1847).",
+      "Working with raw cowhide has long been treated as unclean by caste custom, and sources say that brought stigma to the makers even as their drums were used in temples and concert halls. T. M. Krishna's book Sebastian and Sons: A Brief History of Mrdangam Makers (2020) tells this story through a Thanjavur family. It is the best-known treatment of the subject, and I have not read it in full.",
+      "In Kerala, craftsmen of the Kollan community in Peruvemba village, about 15 km from Palakkad, have made drums for over two centuries, according to The News Minute. In 2007 about 60 craftsmen from several families formed a cooperative, the Thukal Vadyopakarna Nirmana Sangam. NABARD and Vision India Charitable Trust support a cluster project there.",
+      "Makers in both places report low earnings, little government support and an uncertain supply of good hide. The Palakkad craftsmen asked for pensions and said they get none. I did not find named makers in the sources apart from families and cooperatives mentioned here, and I have chosen not to name individuals I could not check."
+    ],
+    "place": [
+      "Mridangam making is spread between two places. In Tamil Nadu, Thanjavur and Chennai (Mylapore) are the main centres, where musicians come to buy and repair. In Kerala, Peruvemba near Palakkad makes mridangams, maddalams and other drums.",
+      "The materials come from the surrounding country. Jackfruit trees grow in the wet south, and the log is dried before it is hollowed. Hides come from abattoirs. The Mylapore makers buy cowhide from Thanjavur and Ambur, and the Palakkad makers also buy from abattoirs. Rice and other items for the paste are from the local market.",
+      "The drum belongs to temple and concert life alike. Wikipedia notes that Tamil Sangam literature mentions a drum called tannumai, and that the Silappadikaram describes drum ensembles in dramatic performance. These are old references to drums in general, and scholars debate how far they describe the modern mridangam. In Kerala, the Mridangamela is held at the Koodalmanikyam temple, Irinjalakuda."
+    ],
+    "history": [
+      {
+        "when": "Ancient references (debated)",
+        "what": "Sangam-era Tamil texts and the Silappadikaram mention drums that later writers connect to the mridangam. The name is from Sanskrit words for clay and limb, which suggests early clay bodies; wood replaced clay later."
+      },
+      {
+        "when": "Before the 19th century",
+        "what": "The mridangam becomes the main percussion instrument of Carnatic music along with the growth of the tala system."
+      },
+      {
+        "when": "Around 200 years ago",
+        "what": "The Kollan families of Peruvemba are said to have been making drums for over two centuries."
+      },
+      {
+        "when": "Time of Thyagaraja (1767 to 1847)",
+        "what": "One Chennai family traces its drum-making back to this time, by its own account."
+      },
+      {
+        "when": "Later 20th century",
+        "what": "Makers move from Thanjavur to Mylapore, Chennai, near the concert world."
+      },
+      {
+        "when": "2007",
+        "what": "About 60 Peruvemba craftsmen form a cooperative."
+      },
+      {
+        "when": "2020",
+        "what": "T. M. Krishna publishes Sebastian and Sons, a history of mridangam makers."
+      }
+    ],
+    "future": [
+      "Treat makers as artists: credit them on programmes, in the music season and in awards, and record their stories in their own words.",
+      "Pay a fair price and offer pensions and health cover through cooperatives like the one in Peruvemba.",
+      "Secure legal, clean hide supply, with training in safe tanning, and look at new ways to dry skins in the monsoon.",
+      "Set up apprenticeships for young people from the maker families, with a recognised certificate and a path to open workshops.",
+      "Record each step of making, including the paste, on film with the makers, and keep copies with them.",
+      "Work with musicians and music sabhas to end stigma and hold public events in the makers' neighbourhoods."
+    ],
+    "pins": [
+      {
+        "lat": 13.033,
+        "lng": 80.27,
+        "label": "Mylapore, Chennai",
+        "approximate": true
+      },
+      {
+        "lat": 10.787,
+        "lng": 79.139,
+        "label": "Thanjavur",
+        "approximate": true
+      },
+      {
+        "lat": 10.77,
+        "lng": 76.6,
+        "label": "Peruvemba, near Palakkad",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-mridangam-06a018",
+      "thenewsminute-com-amp-story-features-keeping-craft-alive-ker-4cf8db",
+      "ruralindiaonline-org-article-the-mridangam-makers-of-mylapor-3449d9",
+      "citizenmatters-in-chennai-arts-music-mridangam-makers-of-myl-37fb94",
+      "outlookindia-com-society-thyagarajas-cow-news-221354-558146",
+      "caravanmagazine-in-bookshelf-sebastian-and-sons-7ddbfb",
+      "onmanorama-com-lifestyle-news-2018-09-12-palakkad-peruvemba--662a12"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "nadaswaram-thavil",
+    "name": "Nadaswaram and Thavil",
+    "category": "Music",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#854d0e",
+    "motif": "spiral",
+    "tagline": "A loud, bright reed pipe and a two-headed drum, the sound of an auspicious day.",
+    "facts": [
+      "Nadaswaram: double-reed pipe, traditionally of aacha wood",
+      "Thavil: barrel drum of jackfruit wood, played with a stick and thumb caps",
+      "Narasingapettai nagaswaram: GI-tagged in March 2022",
+      "Played as mangala vadyam, auspicious music"
+    ],
+    "art": [
+      "The nadaswaram is a double-reed instrument with a conical bore that widens to a metal bell. Wikipedia says it has seven finger-holes and five lower holes that can be stopped with wax. The reed, seevali, is made of dried grass. It is loud, so it suits open air, temples and processions. It is played at almost all Hindu weddings and temple events in the South Indian tradition.",
+      "The thavil is a cylinder hollowed from one block of jackfruit wood, with skin on both ends held by hemp hoops. Wikipedia says the right head is played with the hand, with thumb caps made of hardened flour glue, and the left head with a short stick. It usually accompanies the nadaswaram.",
+      "PARI describes making the nadaswaram. A cylindrical block of wood is turned on a lathe, once hand-turned and now sometimes motor-driven. Cutting, filing and drilling need exact work, and each instrument takes about three people. The flared lower end, the anusu, is fitted at the end.",
+      "The instrument is called a mangala vadyam, an auspicious instrument. N. R. Selvaraj of Narasingapettai told PARI it originated in this area, near Mayavaram."
+    ],
+    "artist": [
+      "PARI names four families still making nadaswarams in Narasingapettai, among them N. R. Selvaraj, a fourth-generation maker, his uncle Sakthivel Achari and Sakthivel's son Senthilkumar. Selvaraj's great-grandfather, Govindasamy Achari, learned the craft near Mayavaram and brought it to the village.",
+      "Selvaraj's father, Ranganathan Achari, is credited with a 1955 redesign that lets all seven swaras sound. PARI says makers earn about Rs 1,000 profit per instrument, and some younger family members are choosing other careers.",
+      "Wikipedia lists master nadaswaram players such as T. N. Rajarathnam Pillai and Karukurichi Arunachalam, and thavil players such as Thirumulaivayil Muthuveer Pillai and Valayapatti A. R. Subramaniam."
+    ],
+    "place": [
+      "The nadaswaram and the thavil are played together at temples, weddings and festivals across Tamil Nadu. Wikipedia links the thavil to Thanjavur and says most thavils are made in Thanjavur and Valayapatti.",
+      "Narasingapettai is a village near Kumbakonam where a few families still make the nadaswaram by hand. PARI places it in Nagapattinam district, while news reports on the GI tag place it in Thanjavur district, so sources differ.",
+      "Many makers say the wood is a problem. PARI reports that the aacha wood must be 75 to 100 years old, so makers reuse old lintels and pillars, and they are sometimes stopped at check posts on suspicion of carrying sandalwood."
+    ],
+    "history": [
+      {
+        "when": "15th to 16th century",
+        "what": "Wikipedia says the instrument appears, spelled nagaswaram, in Vijayanagara-era land grant inscriptions from the mid-1400s and in inscriptions of Achyuta Deva Raya from around the 1530s."
+      },
+      {
+        "when": "17th century",
+        "what": "A treatise called Padasangraham mentions it (Wikipedia)."
+      },
+      {
+        "when": "1955",
+        "what": "Ranganathan Achari of Narasingapettai is credited with the redesign that made all seven swaras sound (PARI)."
+      },
+      {
+        "when": "31 January 2014",
+        "what": "An application for a Geographical Indication was filed by the Thanjavur Musical Instruments Workers Co-operative Cottage Industrial Society (Gulf News)."
+      },
+      {
+        "when": "March 2022",
+        "what": "The Narasinghapettai nagaswaram received a GI tag. Reports differ on the certificate number, so check the GI registry."
+      }
+    ],
+    "future": [
+      "Secure a legal supply of seasoned aacha wood, and plant trees for the makers of the future.",
+      "Help makers get fair prices, and use the GI tag to protect them from imitations.",
+      "Fund apprenticeships for young makers, and for young nadaswaram and thavil players.",
+      "Record the making process and the playing styles of senior players, with the makers' own words.",
+      "Look at new materials for the body of the instrument, in talks with players, so that the sound is not lost."
+    ],
+    "pins": [
+      {
+        "lat": 10.97,
+        "lng": 79.45,
+        "label": "Narasingapettai, nadaswaram makers",
+        "approximate": true
+      },
+      {
+        "lat": 10.787,
+        "lng": 79.1378,
+        "label": "Thanjavur, thavil tradition",
+        "approximate": false
+      },
+      {
+        "lat": 10.9602,
+        "lng": 79.3745,
+        "label": "Kumbakonam",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ruralindiaonline-org-articles-narasingapettais-nadaswaram-ma-84acd9",
+      "gulfnews-com-world-asia-india-tamil-nadus-classical-wind-ins-94f4a2",
+      "en-wikipedia-org-wiki-nadaswaram-a5968e",
+      "en-wikipedia-org-wiki-thavil-8a52fa"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "nata-sankirtana",
+    "name": "Nata Sankirtana",
+    "category": "Music",
+    "states": [
+      "Manipur"
+    ],
+    "color": "#9a3412",
+    "motif": "lotus",
+    "tagline": "Drummers and singer-dancers tell the life of Krishna in the round, on UNESCO's list since 2013.",
+    "facts": [
+      "Part of Sankirtana, inscribed by UNESCO in 2013",
+      "Typically two drummers and about ten singer-dancers",
+      "Performed in the round in a temple hall (mandapa)",
+      "Practised by the Vaishnava communities of the Manipur plains"
+    ],
+    "art": [
+      "Sankirtana is a group of arts performed on religious occasions and at key stages of life among the Vaishnava people of Manipur's plains. Singers, drummers and dancers tell the stories of Krishna. UNESCO describes a typical performance as two drummers and about ten singer-dancers, with devotees seated around them.",
+      "Nata Pala is the main temple repertoire, performed across the Manipur valley, according to Wikipedia. Other forms it names are Ariba Pala and Manohar Sai Pala (less common today), seasonal forms such as Holi Pala, Shayan and Khubak Eshei, and domestic Sankirtana at ceremonies such as ear-piercing, the sacred thread, marriage and death rites.",
+      "The setting matters. Performances are given in the round in a temple hall, or sometimes in a home courtyard. UNESCO says the energy can be so strong that audience members are moved to tears or bow before the performers."
+    ],
+    "artist": [
+      "UNESCO says the knowledge and skills are passed from mentor to disciple. The performers are community members, and the devotees who sit around the performers take part as well as watch.",
+      "We did not find a source we could read that names individual living performers, so this entry does not name any."
+    ],
+    "place": [
+      "Sankirtana is centred on the temple, and the Manipur valley around Imphal is its main home. Wikipedia says it is practised mainly by Meitei Hindus, who are mostly Vaishnavas, and by Vaishnava Manipuri communities in Tripura and Assam.",
+      "UNESCO says the practice brings people together during festivals through the year and connects individuals to the community through life-cycle ceremonies."
+    ],
+    "history": [
+      {
+        "when": "Before Vaishnavism",
+        "what": "Wikipedia says the art draws on Manipur's pre-Vaishnavite past."
+      },
+      {
+        "when": "18th century onward",
+        "what": "Wikipedia gives the era of origin as the 18th century to the present. Sources differ on exact dates and on who shaped the form, so this entry does not give a founder."
+      },
+      {
+        "when": "2013",
+        "what": "UNESCO inscribed Sankirtana, ritual singing, drumming and dancing of Manipur on the Representative List of the Intangible Cultural Heritage of Humanity (nomination file 00843, submitted by India)."
+      },
+      {
+        "when": "Today",
+        "what": "UNESCO notes the practice is listed in India's national inventory kept by the Sangeet Natak Akademi."
+      }
+    ],
+    "future": [
+      "Training: support mentor-to-disciple teaching, with young drummers and singers learning in temple halls and schools.",
+      "Livelihood: pay performers and teachers for festivals and cultural programmes, and keep their ritual role distinct from stage shows.",
+      "Documentation: record the repertoires (Nata Pala and the others) with the community's consent, in audio, video and written notation.",
+      "Protection: keep the practice in its home setting, since UNESCO ties it to temple and life-cycle occasions.",
+      "Access: when presenting it to outsiders, explain the context before the performance."
+    ],
+    "pins": [
+      {
+        "lat": 24.817,
+        "lng": 93.9368,
+        "label": "Imphal valley temples",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "ich-unesco-org-en-rl-sankirtana-ritual-singing-drumming-and--cdcd87",
+      "en-wikipedia-org-wiki-meitei-sankirtana-75a7f0"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "pena-music",
+    "name": "Pena Music",
+    "category": "Music",
+    "states": [
+      "Manipur"
+    ],
+    "color": "#854d0e",
+    "motif": "arch",
+    "tagline": "A one-string bowed fiddle of coconut shell and bamboo, played to wake and lull the gods.",
+    "facts": [
+      "Single-string bowed lute of the Meitei",
+      "Body of bamboo tube fixed to half a coconut shell",
+      "Used mainly in Lai Haraoba",
+      "Wikipedia reports only 145 active players"
+    ],
+    "art": [
+      "The pena is a single-string bowed instrument of the Meitei people. Wikipedia describes the body as a bamboo tube about 10 to 11 inches long fixed to half a coconut shell, with two sound holes, one covered with dried animal skin. A bamboo peg sets the string tension. The bow is wooden with a curved metal end, and the string is traditionally horsehair.",
+      "In Lai Haraoba the pena has a clear role. Sahapedia says a pena player awakens the deity at dawn each day and ends the first day with a lullaby. One dance, the laiching jagoi, is done with the fiddle alone, without song.",
+      "Wikipedia calls it one of the oldest Meitei instruments and says it was also played at royal gatherings."
+    ],
+    "artist": [
+      "The player is called the pena asheiba. Wikipedia names several players, among them Khangembam Mangi Singh, Guru N. G. Ibopishak, Leimapokpam Yaima and Mayanglambam Mangangsana.",
+      "Khangembam Mangi Singh (1927-2022), known as Guru Pena Mangi, was born in Lambal, Imphal, and learned from his father and other teachers. He played for King Budhachandra, taught at the Jawaharlal Nehru Manipur Dance Academy from 1975 to 1996, and was a founding member of Laihui, a research centre for traditional performing arts begun in 1985. He received the Sangeet Natak Akademi Award in 2006 and the Padma Shri in 2011, the first pena player to do so.",
+      "Sahapedia notes that the asheiba tradition is open only to men."
+    ],
+    "place": [
+      "The pena belongs to the Meitei world of the Manipur valley and to the shrines where Lai Haraoba is held. Mangi Singh was from Lambal in Imphal, and the Jawaharlal Nehru Manipur Dance Academy in Imphal is where he taught."
+    ],
+    "history": [
+      {
+        "when": "Old",
+        "what": "Wikipedia describes the pena as one of the oldest Meitei instruments. No firm date is given."
+      },
+      {
+        "when": "Royal courts",
+        "what": "It was played at royal gatherings, according to Wikipedia, and Mangi Singh is said to have performed for King Budhachandra."
+      },
+      {
+        "when": "1975-1996",
+        "what": "Mangi Singh taught at the Jawaharlal Nehru Manipur Dance Academy."
+      },
+      {
+        "when": "1985",
+        "what": "Laihui, a research centre for traditional performing arts, was founded; Mangi Singh was a founding member."
+      },
+      {
+        "when": "2006 and 2011",
+        "what": "Mangi Singh received the Sangeet Natak Akademi Award and then the Padma Shri."
+      }
+    ],
+    "future": [
+      "Training: more teachers and students, since Wikipedia reports only 145 active players, a figure that comes from a single source.",
+      "Livelihood: steady work for players at shrines and in cultural programmes.",
+      "Materials: support makers who build the pena from bamboo, coconut shell and horsehair.",
+      "Documentation: record the repertoire and the Lai Haraoba songs, building on the work of Laihui.",
+      "Protection: keep the pena tied to the ritual that gives it meaning."
+    ],
+    "pins": [
+      {
+        "lat": 24.817,
+        "lng": 93.9368,
+        "label": "Imphal",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-pena-musical-instrument-de4f6a",
+      "en-wikipedia-org-wiki-khangembam-mangi-singh-ff1eb4",
+      "sahapedia-org-lai-haraoba-0-52013a"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "powada",
+    "name": "Powada",
+    "category": "Music",
+    "states": [
+      "Maharashtra"
+    ],
+    "color": "#7f1d1d",
+    "motif": "scroll",
+    "tagline": "A ballad sung to glorify, then bent to challenge power.",
+    "facts": [
+      "Form: Marathi ballad, composed and sung by shahirs",
+      "The word powada means to glorify",
+      "Traditionally the earliest, Afzal Khanacha Vadh, is dated to 1659",
+      "Used by Phule, Annabhau Sathe and Amar Sheikh for reform and protest"
+    ],
+    "art": [
+      "A powada is a Marathi ballad. Wikipedia says the word means to glorify. Powadas first celebrated heroes and battles, and the oldest well-known one, Afzal Khanacha Vadh, tells of the clash between Shivaji and Afzal Khan. Forward Press attributes it to Agnidas and dates it to 1659, while other sources spell the poet's name differently.",
+      "The singer-composer is called a shahir. Janata Weekly says performances were largely improvised and that shahirs rarely worked from written texts. The ballad moves between sections with changes of rhythm called chaal.",
+      "The same form has been used for very different aims. Forward Press says powadas were later used in the national movement and in people's movements. Janata Weekly says Jyotirao Phule was probably the first to use the powada as satire against Brahmin dominance."
+    ],
+    "artist": [
+      "Wikipedia, Janata Weekly and Forward Press all say powada was first sung by the Gondhali community, a Dalit community in their words. After Shivaji, Forward Press says, people of all castes took it up.",
+      "The sources name many shahirs. Forward Press lists Agnidas, Tulsidas (who wrote on Sinhagad), and in the Peshwa era Ramjoshi, Ananphandi, Honaji Bala and Prabhakar. Phule wrote powadas in the 19th century, including one on Shivaji. In the 1950s Amar Sheikh and Annabhau Sathe sang powadas in the Samyukta Maharashtra movement. Sambhaji Bhagat is named as a leading present-day shahir.",
+      "Harry Acworth and Shankar Tukaram Shaligram published about 60 powadas in 1891, per Forward Press. Our approach: name the shahirs and keep them central."
+    ],
+    "place": [
+      "Powada belongs to Maharashtra as a whole, and is heard at fairs, rallies and public gatherings. Its early heroes are linked with forts such as Sinhagad, and its later rallies with the cities and workers of the Samyukta Maharashtra period.",
+      "It also travels. Wikipedia notes that the genre is popular in Kumaon and Garhwal in Uttarakhand, where it is called bhada. We have not examined that link and mention it for completeness."
+    ],
+    "history": [
+      {
+        "when": "1659 (traditional)",
+        "what": "Afzal Khanacha Vadh is described as the first powada by Forward Press and a Maharashtra gazette cited by Janata Weekly."
+      },
+      {
+        "when": "17th century",
+        "what": "Forward Press calls the Shivaji era (1630 to 1680) the golden age of powada."
+      },
+      {
+        "when": "Peshwa period",
+        "what": "Janata Weekly names Ram Joshi, Anant Phandi and Honaji Bala as shahirs."
+      },
+      {
+        "when": "1869",
+        "what": "Jotirao Phule writes powadas, including on Shivaji and on Brahman Pantoji in the school department."
+      },
+      {
+        "when": "1891",
+        "what": "About 60 powadas are published by Acworth and Shaligram."
+      },
+      {
+        "when": "1950s",
+        "what": "Amar Sheikh and Annabhau Sathe use powada in the Samyukta Maharashtra movement."
+      },
+      {
+        "when": "From the 1980s",
+        "what": "Janata Weekly says Ambedkarite and left groups used powada for protest."
+      }
+    ],
+    "future": [
+      "Training: schools of shahirs and young singers under senior masters.",
+      "Livelihood: fees for shahirs at public events and on stage.",
+      "Materials: archives of recordings, and instruments for young performers.",
+      "Documentation: record oral powadas and share them with the singers' permission.",
+      "Protection: credit composers and communities, and keep alive both the heroic and reform strands."
+    ],
+    "pins": [
+      {
+        "lat": 18.52,
+        "lng": 73.86,
+        "label": "Pune",
+        "approximate": true
+      },
+      {
+        "lat": 18.37,
+        "lng": 73.76,
+        "label": "Sinhagad fort",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "janataweekly-org-the-powada-in-marathi-literary-and-performa-aa4f2b",
+      "forwardpress-in-2016-02-powada-marathi-poetry-of-valour-4d650e",
+      "en-wikipedia-org-wiki-powada-edfaa9"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "qawwali",
+    "name": "Qawwali",
+    "category": "Music",
+    "states": [
+      "Delhi",
+      "Rajasthan"
+    ],
+    "color": "#134e4a",
+    "motif": "diamond",
+    "tagline": "Sufi devotional singing: call and response, building to ecstasy.",
+    "facts": [
+      "Form: Sufi devotional music of South Asia",
+      "Sung at dargahs, especially on Urs (death anniversaries)",
+      "Amir Khusrau is traditionally credited with developing it",
+      "Nizamuddin Dargah holds qawwali every Thursday night"
+    ],
+    "art": [
+      "Qawwali is Sufi Islamic devotional music from South Asia. Wikipedia describes its purpose as remembering God (dhikr), bringing about spiritual ecstasy (wajd), and drawing listeners closer to God. The word comes from the Arabic qawl, meaning saying or utterance.",
+      "A qawwali is sung by a group, typically eight or nine men. They include lead and side singers, harmonium players, percussionists and a chorus that claps and repeats lines. This is call and response: the lead singer sings a line and the chorus answers.",
+      "Performances start quietly, with an instrumental prelude and an alap without rhythm, then verses, and then the main song with percussion and clapping. The energy rises through repetition and often ends abruptly. Singers may add sargam (sung note names) or improvise.",
+      "Early sources show qawwali was sung without instruments, and that the sarangi came before the harmonium. Today the harmonium, tabla and dholak are common. Songs are in Persian, Hindavi, Urdu and Punjabi."
+    ],
+    "artist": [
+      "Qawwali is carried by families of professional singers called qawwals, who learn by singing with elders. I could not find a source in this research for named Delhi qawwal families, so they are not listed here.",
+      "Amir Khusrau (1253 to 1325) is widely credited with developing qawwali. Wikipedia says this is a tradition rather than a firmly documented fact. Likewise, Khusrau's authorship of specific works such as Man Kunto Maula is described as traditionally associated, not confirmed.",
+      "In the late 20th century, Nusrat Fateh Ali Khan, Aziz Mian and the Sabri Brothers brought qawwali to a world audience, with Real World Records and WOMAD helping. These artists are from Pakistan, and are mentioned for the global history of the form.",
+      "Singers are trained from childhood, and the quality of a qawwali is judged by how it moves those listening, not only by technique."
+    ],
+    "place": [
+      "Qawwali is sung at Sufi shrines, called dargahs, especially for the Urs, the saint's death anniversary. Two great Indian shrines are in Delhi and Ajmer.",
+      "The Nizamuddin Dargah is in Nizamuddin West, Delhi. Amir Khusrau was a disciple of the Chishti saint Nizamuddin Auliya, and the gatherings for listening (mehfil-e-sama) were held in the saint's khanqah. Khusrau's tomb stands at the entrance to the complex. The dargah holds a qawwali session every Thursday night, which draws about 1,500 visitors, and regular qawwali every evening after the Maghrib prayer.",
+      "Ajmer Sharif Dargah in Rajasthan also hosts qawwali, but the sources I read gave no detail about its history of music, so more research is needed."
+    ],
+    "history": [
+      {
+        "when": "13th to 14th century",
+        "what": "Amir Khusrau, a disciple of Nizamuddin Auliya, is traditionally credited with developing qawwali. Gatherings called mehfil-e-sama were held at the saint's khanqah in Delhi."
+      },
+      {
+        "when": "1325",
+        "what": "The main tomb at Nizamuddin is built after the saint's death. Khusrau also died around this time (his dates are 1253 to 1325 per Wikipedia)."
+      },
+      {
+        "when": "Medieval onwards",
+        "what": "Qawwali spreads to shrines across South Asia, including Ajmer. Exact dates are not confirmed in the sources I read."
+      },
+      {
+        "when": "Before the harmonium",
+        "what": "Early sources show it was sung a cappella or with the sarangi. The harmonium later became preferred."
+      },
+      {
+        "when": "Late 20th century",
+        "what": "Nusrat Fateh Ali Khan, Aziz Mian and the Sabri Brothers bring qawwali to a global audience."
+      },
+      {
+        "when": "Present",
+        "what": "Nizamuddin Dargah holds qawwali each evening after Maghrib and every Thursday night."
+      }
+    ],
+    "future": [
+      "Support qawwal families with regular fees and training for the next generation.",
+      "Record shrine qawwali, with full texts and translations from Persian, Hindavi and Urdu.",
+      "Let visitors learn the etiquette of listening at a dargah before concerts.",
+      "Keep shrine qawwali free and open to all who come, while ensuring that qawwals are fairly paid.",
+      "Protect heritage songs and credits when recordings are reused in film and pop.",
+      "Hold qawwali workshops in schools and music colleges."
+    ],
+    "pins": [
+      {
+        "lat": 28.5921,
+        "lng": 77.2425,
+        "label": "Nizamuddin Dargah, Delhi",
+        "approximate": false
+      },
+      {
+        "lat": 26.4571,
+        "lng": 74.6273,
+        "label": "Ajmer Sharif Dargah",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-qawwali-211b25",
+      "en-wikipedia-org-wiki-nizamuddin-dargah-e2cfe8"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "rabindra-sangeet",
+    "name": "Rabindra Sangeet",
+    "category": "Music",
+    "states": [
+      "West Bengal"
+    ],
+    "color": "#1e3a8a",
+    "motif": "lotus",
+    "tagline": "More than two thousand songs by one poet, where words and tune are given equal weight.",
+    "facts": [
+      "About 2,232 songs, collected in the Gitabitan",
+      "Sections: Puja, Prem, Prakriti, Swadesh, Anusthanik, Vichitra",
+      "Name introduced by Dhurjati Prasad Mukherjee in 1931",
+      "Visva-Bharati publishes the Gitabitan volumes"
+    ],
+    "art": [
+      "Rabindra Sangeet means the songs of Rabindranath Tagore. He wrote and tuned about 2,232 of them over some 68 years, up to his last birthday in 1941. They are gathered in the Gitabitan.",
+      "Banglapedia groups them as devotional (Puja), love (Prem), seasons and nature (Prakriti), patriotic (Swadesh), occasional (Anusthanik) and miscellaneous (Vichitra), and says these divisions overlap. Occasional songs were written for weddings, funerals, tree planting and harvests.",
+      "The tunes draw on many sources: Brahmo devotional songs, Hindustani music, South Indian tunes, Bengali folk forms such as Baul and kirtan, and Western melodies. Banglapedia notes he often joined several ragas in one song, valued the theme over the raga, and used unusual tals."
+    ],
+    "artist": [
+      "Tagore taught songs to students at Santiniketan. The Sangeet Bhavana at Visva-Bharati helped set how the songs are taught, and created a line of singers who specialise in them (Wikipedia).",
+      "Wikipedia names well-known interpreters: Kanika Banerjee, Suchitra Mitra, Pankaj Mullick, Hemant Kumar, Debabrata Biswas, Manna Dey, Shyamal Mitra, Santidev Ghosh and Sagar Sen, among others.",
+      "Two anthems come from his songs: India's Jana Gana Mana, adopted in 1950 after a first singing in 1911, and Bangladesh's Amar Shonar Bangla."
+    ],
+    "place": [
+      "Santiniketan in Birbhum is where Tagore founded his school, which became Visva-Bharati. Kolkata, his family's home city, is where many of the songs were first sung, for instance at the Jorasanko house.",
+      "The songs are now sung across the Bengali world, in West Bengal and Bangladesh, and abroad."
+    ],
+    "history": [
+      {
+        "when": "Early years",
+        "what": "Sources differ on when he began, either about age 12 or in 1875."
+      },
+      {
+        "when": "1884-86",
+        "what": "Songs from these years show his use of folk and devotional styles."
+      },
+      {
+        "when": "1905",
+        "what": "During the agitation against the partition of Bengal he drew heavily on Baul tunes."
+      },
+      {
+        "when": "1931",
+        "what": "The term Rabindra Sangeet is introduced for his 70th birthday anthology."
+      },
+      {
+        "when": "1941",
+        "what": "Tagore's last birthday and death. Songs continue to be published by Visva-Bharati."
+      },
+      {
+        "when": "Present",
+        "what": "Visva-Bharati has published 63 Gitabitan volumes with notation, with more planned (Banglapedia)."
+      }
+    ],
+    "future": [
+      "Training: teach tunes from the notation in the Gitabitan, not only from recordings.",
+      "Livelihood: support teachers and accompanists in small towns.",
+      "Materials: keep handmade instruments, such as the esraj, in use.",
+      "Documentation: complete and share the notation volumes, and record old singers.",
+      "Protection: respect the poem and the composed tune together, as Tagore wished."
+    ],
+    "pins": [
+      {
+        "lat": 23.68,
+        "lng": 87.68,
+        "label": "Santiniketan",
+        "approximate": true
+      },
+      {
+        "lat": 22.583,
+        "lng": 88.358,
+        "label": "Jorasanko, Kolkata",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-banglapedia-org-index-php-tagore-songs-d09213",
+      "en-wikipedia-org-wiki-rabindra-sangeet-65499d"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "santhal-baha",
+    "name": "Santhal Baha Songs",
+    "category": "Music",
+    "states": [
+      "Jharkhand"
+    ],
+    "color": "#15803d",
+    "motif": "lotus",
+    "tagline": "Songs of the sal-flower festival, sung in circles around the sacred grove.",
+    "facts": [
+      "Songs of the Baha (flower) spring festival",
+      "Called Baha Sereng in Santali",
+      "Held at the Jaher, the sacred grove",
+      "Drums: madal and tamak"
+    ],
+    "art": [
+      "Baha is the spring festival of the Santhal, Ho and Munda peoples. The word means flower. Wikipedia describes the priest, the naike, offering sal flowers and leaves at the Jaherthan, then going door to door to bless each house. After the rituals come songs and dances.",
+      "The songs are called Baha Sereng. In a personal account, Phulmani Murmu writes that women sing Baha songs while moving in concentric circles. Drums, the madal and tamak, are central, according to Wikipedia.",
+      "We could not open a source that sets out the words or music of Baha songs, so this entry does not describe them in detail."
+    ],
+    "artist": [
+      "The singers are the community: women, men and children of the village. The naike leads the ritual. Phulmani Murmu, a student, writes about helping her mother prepare the festival food and about the evening visits to the Jaher in traditional dress.",
+      "We found no source naming individual Baha singers, so none are named."
+    ],
+    "place": [
+      "Baha is celebrated in Santhal villages of Jharkhand and in Birbhum, West Bengal, according to Wikipedia. The Jaher is the sacred grove where the community gathers. Murmu says offerings are made there to the ancestors, and Wikipedia names the deity Jaher Era (Jaher Ayo).",
+      "The festival comes in spring, and one search summary places it in the Bengali month of Falgun (February to March). This needs checking in a primary source."
+    ],
+    "history": [
+      {
+        "when": "Undated",
+        "what": "We found no dated history of the songs. The festival itself is described as marking the start of the Santhal year in some sources, which we could not confirm in a page we read."
+      },
+      {
+        "when": "Recent years",
+        "what": "Murmu writes that she has not been able to celebrate Baha since the pandemic, living far from her village. Her account points to how migration affects the festival."
+      }
+    ],
+    "future": [
+      "Record Baha Sereng with village singers, with the Santali words, in a community-owned archive.",
+      "Teach the songs and the madal and tamak to children in Santhal villages and schools.",
+      "Pay drum makers and players fairly, and secure hides and wood for the drums.",
+      "Protect the sacred grove so the Jaher stays in use.",
+      "Help Santhal families living away from home join the festival."
+    ],
+    "pins": [
+      {
+        "lat": 24.27,
+        "lng": 87.25,
+        "label": "Dumka, Santhal Pargana",
+        "approximate": true
+      },
+      {
+        "lat": 23.68,
+        "lng": 87.68,
+        "label": "Birbhum, West Bengal",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-baha-parab-163ebb",
+      "adivasilivesmatter-com-post-the-memories-of-a-festival-foreg-442fe7"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sitar-sarod",
+    "name": "Sitar and Sarod",
+    "category": "Music",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#7c2d12",
+    "motif": "spiral",
+    "tagline": "Two string instruments of Hindustani music, one with raised frets and a buzzing bridge, the other fretless with a metal fingerboard.",
+    "facts": [
+      "Sitar: about 18 to 21 strings, with 6 or 7 played and the rest sympathetic",
+      "Sarod: fretless, metal fingerboard, goat-skin face",
+      "Miraj instrument cluster received a GI tag in 2024",
+      "Origins of both are debated; the Amir Khusrau story is doubted by scholars"
+    ],
+    "art": [
+      "The sitar and the sarod are the two best-known plucked string instruments of Hindustani classical music. Both are played by a soloist who builds a raga slowly, usually with a tabla player beside them.",
+      "A sitar has a long neck with curved, raised metal frets that can be moved for tuning. Wikipedia says it has 18 to 21 strings: six or seven are played, and the rest lie under the frets and ring in sympathy. A shaped bridge called the jawari gives the sitar its buzzing, shimmering tone. The body is a gourd, and the neck is usually of teak or tun wood. Players pull the melody string sideways across the frets to slide between notes, a technique called meend.",
+      "The sarod has no frets. Its fingerboard is a smooth metal plate, and the player stops the strings with the nails and fingertips of the left hand. The face of the body is covered in goat skin. Wikipedia says a conventional sarod has about 17 to 25 strings, including melody, drone, chikari and sympathetic strings. The sound is deep and rounded, and notes can be slid and held.",
+      "Where the instruments came from is not settled. A popular story says the poet Amir Khusrau invented the sitar in the 13th century. The Wikipedia article says scholars regard this as discredited, and that the earliest known mention is in a 1739 text from Delhi. Historians generally credit a figure of the 18th-century Mughal world with developing it from the Persian setar. For the sarod, scholars link it to the Afghan rabab and other older instruments. One account credits the Bangash family of musicians. More recent scholarship, cited on the same page, credits Niamatullah Khan of Lucknow, a rabab player at the court of Wajid Ali Shah. These accounts conflict, and we have not tried to settle them."
+    ],
+    "artist": [
+      "Sitar and sarod playing is passed on through gharanas, families and schools of teaching, from teacher to student over many years. One of the best-known teachers was Allauddin Khan (c. 1881-1972). He was born in what is now Bangladesh and lived in Maihar, in present-day Madhya Pradesh, from 1918 until his death. His home there served as a gurukul. His students included Ravi Shankar, his son Ali Akbar Khan, his daughter Annapurna Devi, and Nikhil Banerjee. Wikipedia lists his honours, including the Sangeet Natak Akademi Fellowship in 1954 and the Padma Vibhushan in 1971.",
+      "Ravi Shankar took the sitar to wide audiences from the late 1950s and 1960s. Vilayat Khan developed a style that imitates the singing voice, in which the melody string is pulled to glide between notes. Ali Akbar Khan and Amjad Ali Khan are among the best-known sarod players. Amjad Ali Khan's family is said by one account to descend from the Bangash line, though that account is disputed.",
+      "Behind each performer is a maker. A good sitar or sarod is built for the individual player, and the bridge and gourd shape the sound. The makers are rarely named on concert programmes, and their story is part of this entry."
+    ],
+    "place": [
+      "The two instruments belong to many places. Sources link early sarod history to Lucknow, Shahjahanpur, Gwalior and Rewa in the 1850s, and its later growth to Maihar under Allauddin Khan and to Kolkata. Delhi and Lucknow are tied to the sitar's early years.",
+      "Miraj, in Sangli district of southern Maharashtra, is the best-known centre of making. Sahapedia says the Shikalgar community, metalsmiths who repaired weapons, came to Miraj under the Adil Shahis in the 17th century. When their old trade declined they turned to other work. Faridsaheb Sitarmaker (1827-1898) is considered the founding father of the town's instrument making. Today's makers are said to be the seventh generation, working in a single lane. Sahapedia notes that instruments are made mostly by hand in small workshops.",
+      "In March 2024 the Miraj Musical Instruments Cluster received a Geographical Indication tag for sitars, and a firm called Soultune received one for tanpuras. The Week reports more than 450 craftsmen and a monthly output of 60 to 70 sitars. Other sources give lower numbers, so we treat the figure as approximate."
+    ],
+    "history": [
+      {
+        "when": "13th century (legend)",
+        "what": "A story credits Amir Khusrau with inventing the sitar. Scholars cited on Wikipedia do not accept this, as no record of the name 'sitar' exists from his time."
+      },
+      {
+        "when": "1739",
+        "what": "The earliest known mention of the sitar appears in the Muraqqa-e-Dehli, written in the reign of Muhammad Shah."
+      },
+      {
+        "when": "17th century",
+        "what": "Shikalgar metalsmiths settle in Miraj under the Adil Shahis, according to Sahapedia."
+      },
+      {
+        "when": "1850s",
+        "what": "The sarod in its present form is recognised in Rewa, Shahjahanpur, Gwalior and Lucknow, according to Wikipedia. Metal strings and a metal plate are added in the later 19th century."
+      },
+      {
+        "when": "1827-1898",
+        "what": "Faridsaheb Sitarmaker of Miraj lives and builds up the town's instrument trade, according to Sahapedia."
+      },
+      {
+        "when": "1918",
+        "what": "Allauddin Khan settles in Maihar as court musician and begins to teach there."
+      },
+      {
+        "when": "Late 1950s-1960s",
+        "what": "Ravi Shankar brings the sitar to audiences abroad."
+      },
+      {
+        "when": "2024",
+        "what": "Miraj sitars and tanpuras receive GI tags."
+      }
+    ],
+    "future": [
+      "Support Miraj families and other makers with apprentices, so the know-how that lives in hands, not books, is passed on.",
+      "Name makers in concert notes and recordings, next to the players.",
+      "Document how a sitar and a sarod are built, step by step, in video with the makers' own words.",
+      "Help makers find fair prices and steady orders through the GI tag, and guard against fake 'Miraj' instruments.",
+      "Keep gurukul-style teaching affordable, so students from families without musical backgrounds can train."
+    ],
+    "pins": [
+      {
+        "lat": 16.8225,
+        "lng": 74.6444,
+        "label": "Miraj, Maharashtra (instrument makers)",
+        "approximate": false
+      },
+      {
+        "lat": 24.2658,
+        "lng": 80.7603,
+        "label": "Maihar, Madhya Pradesh (Allauddin Khan's gurukul)",
+        "approximate": false
+      },
+      {
+        "lat": 26.8467,
+        "lng": 80.9462,
+        "label": "Lucknow, Uttar Pradesh (early sarod history)",
+        "approximate": false
+      },
+      {
+        "lat": 26.2183,
+        "lng": 78.1828,
+        "label": "Gwalior, Madhya Pradesh (early sarod history)",
+        "approximate": false
+      },
+      {
+        "lat": 22.5726,
+        "lng": 88.3639,
+        "label": "Kolkata, West Bengal",
+        "approximate": false
+      },
+      {
+        "lat": 28.6139,
+        "lng": 77.209,
+        "label": "Delhi (early sitar mentions)",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-sitar-1755e6",
+      "en-wikipedia-org-wiki-sarod-6abcf6",
+      "sahapedia-org-string-masters-sitarmakers-of-miraj-85226d",
+      "theweek-in-news-india-2024-04-07-sitars-tanpuras-made-in-mah-543448",
+      "en-wikipedia-org-wiki-allauddin-khan-b88782"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sufi-music",
+    "name": "Sufi Music of India",
+    "category": "Music",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#065f46",
+    "motif": "diamond",
+    "tagline": "Songs of longing for the divine, sung at shrines where the music is part of the prayer.",
+    "facts": [
+      "Qawwali is the best-known form",
+      "Sung at dargahs such as Nizamuddin in Delhi and Ajmer Sharif",
+      "Amir Khusrau is widely credited with shaping qawwali; this is presented as tradition",
+      "A party is usually 8 to 9 men: a lead, side singers, harmonium, percussion and a clapping chorus"
+    ],
+    "art": [
+      "Sufi music is the devotional music of Sufis, the mystical tradition of Islam. In India its best-known form is qawwali. Wikipedia calls qawwali the best-known form of Sufi music. It is sung at shrines to bring about remembrance of God and a state of spiritual ecstasy.",
+      "A qawwali party is usually eight or nine men: a lead singer, side singers, harmonium players, percussionists and a chorus that repeats the refrain and claps. A performance often begins with an instrumental prelude and a slow, unmetred opening. Then the main song begins with tabla, dholak and clapping and builds in speed, often with sargam passages, and ends suddenly.",
+      "The words come in many forms. Wikipedia lists hamd (praise of God), naat (praise of the Prophet), manqabat (praise of saints), ghazal and kafi. The songs speak of love and longing, often through images of wine and the beloved, which serve as mystical symbols.",
+      "The history is a story of contest. Wikipedia says the development of qawwali is widely attributed to Amir Khusrau, a disciple of Nizamuddin Auliya, who set it in the frame of the raga. It also notes that early Sufi authorities, including Nizamuddin, are reported to have opposed musical instruments, so early sama was sung without them. Instruments such as the harmonium and tabla came later."
+    ],
+    "artist": [
+      "Qawwals often belong to families who have sung at a shrine for generations, but we name no individual qawwals because the sources we opened name none for India.",
+      "Baba Farid (c. 1188-1266), a founding figure of the Chishti order, was the teacher of Nizamuddin Auliya, according to Wikipedia. His verses are included in the Guru Granth Sahib, though some scholars argue part of them may be by a later Farid, according to Wikipedia. His shrine is in Pakpattan, in present-day Pakistan.",
+      "Many singers today perform in concerts and films as well as at shrines. A reader of this entry should hear the shrine singers where they sing, with respect for the setting."
+    ],
+    "place": [
+      "Qawwali is tied to the dargahs of the Chishti order. The dargah of Nizamuddin Auliya in Delhi is closely linked to the Sufi gatherings where qawwali took shape. Sahapedia has a short video of qawwali at the dargah. Ajmer Sharif in Rajasthan is another major shrine.",
+      "Sufi music is also found elsewhere in India: in Kashmir, in Punjab, and in the Deccan. We did not find a source we could open for these regions, so the pins mark only Delhi, Ajmer and Srinagar (approx.), and the entry stays short."
+    ],
+    "history": [
+      {
+        "when": "13th-14th century",
+        "what": "Nizamuddin Auliya, a Chishti saint in Delhi, holds gatherings of sama in his khanqah. His disciple Amir Khusrau is widely credited with shaping qawwali."
+      },
+      {
+        "when": "c. 1188-1266",
+        "what": "Baba Farid, a founding figure of the Chishti order, lives and teaches."
+      },
+      {
+        "when": "Later centuries",
+        "what": "Instruments such as the sarangi, then the harmonium, tabla and dholak enter qawwali."
+      },
+      {
+        "when": "Today",
+        "what": "Qawwali is sung at shrines in India and also on stage, in film and on record."
+      }
+    ],
+    "future": [
+      "Support families of shrine qawwals, whose numbers and audiences are said to be shrinking, with stipends and teaching places.",
+      "Document shrine repertoires, including Hindi, Urdu, Persian and Punjabi verses, with the singers' consent.",
+      "Keep the connection to shrine and community alive, rather than only on stage.",
+      "Record Sufi traditions beyond qawwali in Kashmir and other regions with local scholars.",
+      "Make the history of the Chishti and other Sufi orders accessible to younger listeners in plain language."
+    ],
+    "pins": [
+      {
+        "lat": 28.5933,
+        "lng": 77.2507,
+        "label": "Nizamuddin Dargah, Delhi",
+        "approximate": false
+      },
+      {
+        "lat": 26.4499,
+        "lng": 74.6399,
+        "label": "Ajmer Sharif, Rajasthan",
+        "approximate": false
+      },
+      {
+        "lat": 34.0837,
+        "lng": 74.7973,
+        "label": "Srinagar, Kashmir",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-qawwali-211b25",
+      "en-wikipedia-org-wiki-sufi-music-4dac54",
+      "sahapedia-org-qawwali-nizamuddin-4a514f",
+      "en-wikipedia-org-wiki-baba-farid-26d66f"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "sufiana-kalam",
+    "name": "Sufiana Kalam and Santoor",
+    "category": "Music",
+    "states": [
+      "Jammu & Kashmir"
+    ],
+    "color": "#1e3a5f",
+    "motif": "spiral",
+    "tagline": "A hundred strings, Persian maqams and Sufi verse: Kashmir's own classical music.",
+    "facts": [
+      "Also called Sufiana Mausiqi",
+      "Uses Persian maqams instead of ragas",
+      "Ensemble of five to twelve singers with santoor, sehtar and others",
+      "Santoor: about a hundred strings struck with wooden mallets"
+    ],
+    "art": [
+      "Sufiana Kalam, usually called Sufiana Mausiqi, is the classical music of Kashmir. A group of five to twelve musicians sings Sufi poetry in Persian and Kashmiri, with santoor, Kashmiri sehtar, Saaz-e-Kashmir and a hand drum. The Jammu and Kashmir Policy Institute says it uses Persian maqams in place of ragas.",
+      "The Policy Institute describes how a piece goes. It opens with a shakal, an instrumental prelude often played on the santoor by the leader. A short unmetered recitation, the nasr, follows, using couplets of Lalleshwari. Then comes the first poem. Each verse is tied to a maqam and a tala cycle, beginning with the longest.",
+      "The santoor is a hammer-played zither. Enca describes it as having a hundred strings and being the core instrument of this music. Sahapedia says it was perfected in Srinagar's workshops. Religion Unplugged reports 62 modes in the repertoire and gives the music a Persian origin, but sources do not agree on numbers, and all agree that the repertoire has shrunk.",
+      "It is music of listening more than show. It is sung at gatherings, often at dusk, and at shrines and mehfils."
+    ],
+    "artist": [
+      "Sahapedia names families and teachers. It mentions the gharanas of Shams Faqir and Ghulam Mohammad Qaleenbaaf, Ustad Ghulam Mohammad Saznawaz, Ustad Mohammad Yaqoob Sheikh, who mentors young musicians, and the santoor player Abdul Ghani Namtahali. The Policy Institute names Mushtaq Ahmad Saaznawaz, a seventh-generation member of the Saaznawaz family of Danamazar, Safakadal, who trains youth for free.",
+      "Pandit Bhajan Sopori, a santoor maestro and composer, said the decline came mostly from lost patronage and little money in the art, as the Policy Institute reports. Religion Unplugged says training takes about 25 years.",
+      "The instrument has its makers too. Enca writes about Ghulam Mohammad Zaz of Srinagar, an eighth-generation santoor maker who makes eight to ten instruments a year, and who says he has no guarantee anyone will carry on after him.",
+      "Shivkumar Sharma, born in Jammu and Kashmir in 1938, took the santoor into Hindustani classical music in the 1950s, says Enca. That made the instrument known across India."
+    ],
+    "place": [
+      "The tradition took root in Srinagar, Sahapedia says, with mehfils held in wooden havelis and at Sufi shrines such as Khanqah-e-Moula. Anantnag is also named, where a music professor at a government college speaks about the tradition's history.",
+      "The Valley's shrine culture and its link with Persia are the backdrop. Sahapedia credits the saint Mir Sayyid Ali Hamadani with bringing it, and the Policy Institute places its growth under Sultan Zain-ul-Abidin in the 15th century. Enca quotes a local professor who says Iranian musicians brought the instrument and Persian singing, and local musicians adapted them."
+    ],
+    "history": [
+      {
+        "when": "14th century (traditional)",
+        "what": "Sahapedia says the tradition took root in Srinagar by this time and credits Mir Sayyid Ali Hamadani. Religion Unplugged also says it came from Persia in the 14th century."
+      },
+      {
+        "when": "15th century",
+        "what": "The Policy Institute says it developed under Sultan Zain-ul-Abidin (about 1420-1470)."
+      },
+      {
+        "when": "By 1920",
+        "what": "Hafiz Nagma, a dance in which a woman showed the meaning of the song through gesture, was once paired with Sufiana. The Policy Institute says it later died out, though it was reportedly still part of the ensemble as late as 1920."
+      },
+      {
+        "when": "1947",
+        "what": "Royal and maharaja patronage ended and the music moved into private gatherings and shrines, according to the Policy Institute."
+      },
+      {
+        "when": "1950s",
+        "what": "Shivkumar Sharma brought the santoor into Hindustani classical music, says Enca."
+      },
+      {
+        "when": "1992 onwards",
+        "what": "The Religion Unplugged report says Radio Kashmir's musician posts have gone unfilled since 1992."
+      },
+      {
+        "when": "Recent years",
+        "what": "Sahapedia notes events such as the Shashrang Festival and performances at the Jammu and Kashmir Academy of Art, Culture and Languages that have renewed interest. Enca's source reports that young people are again learning traditional instruments, a modest trend."
+      }
+    ],
+    "future": [
+      "Training: teach Sufiana in schools from an early age, with scholarships, as experts quoted by the Policy Institute suggest.",
+      "Livelihood: give musicians steady paid work, such as posts at the radio and the Academy, since lost income is blamed for the decline.",
+      "Materials: support santoor and sehtar makers, who are few. Pay for apprentices.",
+      "Documentation: record the surviving maqams and talas and the Saaz-e-Kashmir, which Policy Institute calls nearly extinct.",
+      "Protection: open the teaching more widely, including to daughters' children and to girls, since some ustads kept knowledge closed."
+    ],
+    "pins": [
+      {
+        "lat": 34.0837,
+        "lng": 74.7973,
+        "label": "Srinagar",
+        "approximate": false
+      },
+      {
+        "lat": 34.07,
+        "lng": 74.8,
+        "label": "Danamazar, Safakadal, Srinagar",
+        "approximate": true
+      },
+      {
+        "lat": 33.7311,
+        "lng": 75.1487,
+        "label": "Anantnag",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "sahapedia-org-echoes-valley-601eb3",
+      "jkpi-org-music-of-kashmir-past-perfect-future-uncertain-421d43",
+      "religionunplugged-com-news-2019-7-15-south-asias-sufi-cradle-465850",
+      "enca-com-opinion-strings-identity-kashmirs-fading-music-endu-412d4e"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "tabla",
+    "name": "Tabla",
+    "category": "Music",
+    "states": [
+      "Pan-India"
+    ],
+    "color": "#1e3a5f",
+    "motif": "dots",
+    "tagline": "A pair of hand drums that speaks in syllables and keeps time for song, dance and instrument.",
+    "facts": [
+      "Two drums: the dayan (right, treble) and the bayan (left, bass)",
+      "The black syahi paste on each head shapes the bell-like tone",
+      "Six commonly named gharanas: Delhi, Lucknow, Ajrara, Farrukhabad, Benares, Punjab",
+      "The story that Amir Khusrau split a pakhawaj is not supported by evidence"
+    ],
+    "art": [
+      "The tabla is a pair of hand drums. The smaller, right-hand drum is the dayan, made of wood such as teak or rosewood and tuned to a note of the raga. The larger left-hand drum is the bayan, usually made of brass, with copper considered the best. Each head has a round black patch in the middle called the syahi, made from layers of starch paste mixed with black powder. Wikipedia calls it the main factor in the quality of the instrument.",
+      "The drums are tuned with leather straps, wooden blocks called gatta, and a small hammer. The dayan is tuned to a precise note. The bayan is a bass voice, and the pressure of the heel of the left hand changes its pitch while it sounds.",
+      "Each stroke has a spoken syllable, called a bol, such as na, tin, ge and dha. Tabla is taught by speaking the bols first and then playing them. Two main written systems exist, those of Paluskar and Bhatkhande. A player may accompany a singer, a dancer or an instrumentalist, or play a solo.",
+      "The origin of the drum is debated. One view links it to older Indian drums and cites carvings at Bhaja caves from about the 2nd century BCE. Another links it to Muslim and Mughal influence, from the Arabic word tabl, meaning drum. The popular story that Amir Khusrau split a pakhawaj in two to make the tabla has no evidence from his time. Wikipedia cites the scholars Neil Sorrell and Ram Narayan, who say it cannot be given any credence. Clear pictures of the drum appear only from about 1745."
+    ],
+    "artist": [
+      "Tabla playing is handed down within gharanas, each with its own repertoire and finger technique. Wikipedia lists six commonly named ones: Delhi, Lucknow, Ajrara, Farrukhabad, Benares and Punjab. Modern travel and recording have softened the boundaries between them.",
+      "Wikipedia says the Benares gharana was founded by Pandit Ram Sahai (1780-1826), who trained in Lucknow. After a performance in Benares he is said to have shut himself away for six months and developed the new style. Farrukhabad, according to a page that itself lacks citations, was named after the town where Vilayat Ali Khan (1779-1826) lived. Sources differ on who founded it first.",
+      "Players named on the Wikipedia tabla page include Ahmed Jan Thirakwa, Alla Rakha, Kishan Maharaj, Zakir Hussain, Anindo Chatterjee and Swapan Chaudhuri. Many accompanists have shaped the music without a solo name, and a good tabla player is one who listens to the main performer."
+    ],
+    "place": [
+      "Tabla grew up in the cities of north India. Delhi is usually named as the oldest gharana, dated to the early 18th century. Farrukhabad, Lucknow and Benares are grouped as the purbi baj, the eastern style. Ajrara is in the Meerut region of Uttar Pradesh. Our pins show Delhi, Lucknow, Farrukhabad, Varanasi and Mumbai.",
+      "Today the drum is played across India and abroad, in Hindustani concerts, in Kathak, in bhajan and ghazal, and in film music."
+    ],
+    "history": [
+      {
+        "when": "2nd century BCE (disputed)",
+        "what": "Carvings at the Bhaja caves are cited by one school of thought as evidence for early Indian drum pairs."
+      },
+      {
+        "when": "13th century (legend)",
+        "what": "The Amir Khusrau story, which scholars say lacks contemporary evidence."
+      },
+      {
+        "when": "c. 1745",
+        "what": "Clear pictorial evidence of the tabla appears."
+      },
+      {
+        "when": "Early 18th century",
+        "what": "The Delhi gharana, the oldest, takes shape."
+      },
+      {
+        "when": "c. 1780-1826",
+        "what": "Ram Sahai develops the Benares style, according to Wikipedia."
+      },
+      {
+        "when": "19th century",
+        "what": "Farrukhabad, Lucknow and other gharanas build their repertoires."
+      },
+      {
+        "when": "20th century",
+        "what": "Tabla becomes a concert solo instrument and is heard outside India."
+      }
+    ],
+    "future": [
+      "Support gharana families and senior players to teach, and to record whole compositions as well as short clips.",
+      "Support the makers who prepare the syahi and the drum shells, whose names rarely appear.",
+      "Teach the bol notation in schools along with the spoken syllables, so students learn both.",
+      "Document each gharana's compositions with the family's consent, in an open archive.",
+      "Ensure that young players from outside hereditary families have access to good teachers."
+    ],
+    "pins": [
+      {
+        "lat": 28.6139,
+        "lng": 77.209,
+        "label": "Delhi (oldest gharana)",
+        "approximate": false
+      },
+      {
+        "lat": 26.8467,
+        "lng": 80.9462,
+        "label": "Lucknow, Uttar Pradesh",
+        "approximate": false
+      },
+      {
+        "lat": 27.3906,
+        "lng": 79.58,
+        "label": "Farrukhabad, Uttar Pradesh",
+        "approximate": false
+      },
+      {
+        "lat": 25.3176,
+        "lng": 82.9739,
+        "label": "Varanasi (Benares), Uttar Pradesh",
+        "approximate": false
+      },
+      {
+        "lat": 28.9845,
+        "lng": 77.7064,
+        "label": "Ajrara, near Meerut, Uttar Pradesh",
+        "approximate": true
+      },
+      {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "label": "Mumbai, Maharashtra",
+        "approximate": false
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "en-wikipedia-org-wiki-tabla-7f0e90",
+      "en-wikipedia-org-wiki-farrukhabad-gharana-65f8b6",
+      "en-wikipedia-org-wiki-benares-gharana-5d1caf"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "thanjavur-veena",
+    "name": "Thanjavur Veena",
+    "category": "Music",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#365314",
+    "motif": "vine",
+    "tagline": "A lute carved from jackfruit wood, the first Indian musical instrument said to hold a GI tag.",
+    "facts": [
+      "Wood: jackfruit, seasoned",
+      "Two types: ekanda (one piece) and ottu (joined)",
+      "GI: registered 2012-13 per most sources; one report says 2010",
+      "Weight: about 7 to 8 kg, per DT Next"
+    ],
+    "art": [
+      "The Thanjavur veena is a type of Saraswati veena from the Thanjavur region. It is about 4 feet long, with a round wooden resonator (kudam), a thick long neck and a carved end (yali head). It has four playing strings and three side drone strings, and 24 fixed metal frets set in wax mixed with charcoal powder, according to Wikipedia.",
+      "It is made from jackfruit wood, cut, dried and carved. Makers prefer wood from mature trees for its fine pores and lasting strength. DT Next says a veena has three parts: peg box, fingerboard and resonator. If all three come from one log, it is called ekanda (or ekantha). If made separately and joined, it is ottu (or sada). Both are made in Thanjavur.",
+      "Making a good instrument needs a feel for sound as well as for wood. A Thanjavur maker told DT Next that makers need to know music and the quality of tone. The same article says the veena is the lightest of its kind and gives a weight of 7 to 8 kg.",
+      "Wikipedia and other pages call it the first musical instrument in India to get a GI tag. That claim is disputed: the Bobbili veena of Andhra Pradesh is also reported to have received GI status in March 2012, so which came first depends on the exact date. The Thanjavur year also varies in sources, 2010 in DT Next, and 2012-13 elsewhere. The GI registry should be checked directly."
+    ],
+    "artist": [
+      "The sources I read name only one maker, T. Gunasekaran of South Street, Thanjavur, quoted by DT Next in January 2024. He says orders come from the US, Canada, Singapore and Malaysia and asks for government help with exports.",
+      "DT Next says only about 40 people still make the traditional veena, down from a larger skilled workforce that left for other work when patronage fell. It also says monthly sales have risen from 50 to 60 veenas to over 100, because parents want their children, especially girls, to learn the instrument.",
+      "I did not find a source naming specific hereditary families, so none are named here. A fuller study of Thanjavur's veena-making households is still needed.",
+      "The players are a separate story. The Tanjore Quartet were four brothers at the court of the Maratha king Serfoji II: Chinnayya (1802 to 1856), Ponnayya (1804 to 1864), Sivanandam (1808 to 1863) and Vadivelu (1810 to 1845, though one source gives 1847). They are famous for Bharatanatyam and music, and one source calls Sivanandam a veena player. They show how Thanjavur's court shaped Carnatic arts, but the sources I read do not link them to veena making."
+    ],
+    "place": [
+      "Thanjavur lies in the Cauvery delta, in Tamil Nadu, and was a great seat of art under the Nayaks and the Marathas. The Tamil Nadu Tourism page on the veena says the shape was fixed under the Nayak rulers, and DT Next says it was finalised in the early 17th century in the time of King Raghunatha Nayak. Both statements come from tradition and are not a documented date.",
+      "The wood has become a problem. DT Next says Thanjavur once had many jackfruit trees but the number has fallen, so makers now buy wood from Panruti and Cuddalore.",
+      "Tiruvaiyaru, on the Cauvery near Thanjavur, is the town where the composer Thyagaraja lived, and it is known for a yearly music festival in his memory. I did not find a source that ties the veena workshops to Tiruvaiyaru, so I mention the town only as a nearby music centre.",
+      "Thanjavur is also known for other crafts, such as bronze casting and Tanjore painting (see separate entry), which share the city's workshop skills and temple patronage."
+    ],
+    "history": [
+      {
+        "when": "Ancient",
+        "what": "The veena is an old stringed instrument; Wikipedia says it is mentioned in the Vedas. Forms changed over the centuries."
+      },
+      {
+        "when": "Early 17th century (tradition)",
+        "what": "The modern Thanjavur veena shape is said to be fixed in the reign of Raghunatha Nayak."
+      },
+      {
+        "when": "19th century",
+        "what": "The Tanjore Quartet serve at the Maratha court of Serfoji II in Thanjavur."
+      },
+      {
+        "when": "2010 or 2012-13",
+        "what": "The Thanjavur veena is registered as a GI. Sources differ on the year."
+      },
+      {
+        "when": "2012",
+        "what": "The Bobbili veena is also reported to have received GI status, so the 'first instrument' claim is contested."
+      },
+      {
+        "when": "Recent years",
+        "what": "About 40 makers remain, and demand for children's lessons is rising, according to DT Next (2024)."
+      }
+    ],
+    "future": [
+      "Plant and protect jackfruit trees around Thanjavur and set up a managed wood-seasoning yard for makers.",
+      "Set up an apprenticeship scheme so the few remaining makers can train young carvers with a stipend.",
+      "Help makers sell abroad with clear export rules and shipping help.",
+      "Document ekanda carving step by step on film with senior makers, and name the families.",
+      "Use the GI to certify genuine Thanjavur veenas, with the maker's name on each instrument.",
+      "Offer school music programmes where children also see how the instrument is made."
+    ],
+    "pins": [
+      {
+        "lat": 10.787,
+        "lng": 79.139,
+        "label": "Thanjavur",
+        "approximate": true
+      },
+      {
+        "lat": 10.88,
+        "lng": 79.1,
+        "label": "Tiruvaiyaru",
+        "approximate": true
+      },
+      {
+        "lat": 11.77,
+        "lng": 79.55,
+        "label": "Panruti, wood source",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "dtnext-in-amp-story-news-tamilnadu-govt-support-needed-for-e-888f32",
+      "en-wikipedia-org-wiki-thanjavur-veena-24e703",
+      "tamilnadutourism-tn-gov-in-experiences-veena-3e74d0",
+      "handicrafts-nic-in-crafts-all-crafts-craft-categories-miscel-a40ed8",
+      "sahapedia-org-tanjavur-quartet-brief-introduction-09534e",
+      "darbar-org-article-legendary-figures-south-india-s-tanjore-q-50010d"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "villupattu",
+    "name": "Villupattu",
+    "category": "Music",
+    "states": [
+      "Tamil Nadu"
+    ],
+    "color": "#7c2d12",
+    "motif": "arch",
+    "tagline": "A story sung to the twang of a great bow resting on a clay pot.",
+    "facts": [
+      "Form: sung storytelling with a bow, pot, drum and cymbals",
+      "Name means bow song (vil = bow, pattu = song)",
+      "Heard at village temple festivals in Tirunelveli and Kanyakumari",
+      "Few full-time practitioners remain"
+    ],
+    "art": [
+      "Villupattu, or bow song, is a form of musical storytelling from the far south of Tamil Nadu. The lead singer plays a long bow called the villu or vil. It gives the art its name.",
+      "The bow rests on the neck of a clay pot. A second performer beats the pot while singing, and a co-singer answers the narrator and keeps the story moving. Other instruments listed on the ARCE exhibition page, from the Nazir Jairazbhoy collection, include the hourglass drum (udukkai), wooden blocks (kattai), the pot (kutam) and cymbals.",
+      "The stories range from gods and goddesses to local heroes. Bow-song texts recorded by the scholar Stuart Blackburn include the tales of Vallarakkan, linked to the birth of the deity Sasta, of Muthupattan, and of the Little Brothers, Kunju Thampi and Valiya Thampi, who die in the story. Other accounts say troupes also sing from the Ramayana and Mahabharata and of local goddesses.",
+      "The songs are sung in village temples during festivals such as the Kotai festival. Singing is traditionally seen as a sacred act, not only entertainment."
+    ],
+    "artist": [
+      "Villupattu is a team art. The lead singer carries the bow, and the troupe supports with pot, drum, cymbals and responses. Many performers learned inside their own communities and sang at festivals for deities such as Sudalai Madan and Mutharamman.",
+      "One well-known performer was Poongani of Kottaram village in Kanyakumari district. The News Minute reports that she began at the age of 10, inspired by twin sisters who played the bow, and says she was only the third woman to perform villupattu. She led a troupe of men and performed for more than fifty years, until about the age of 70.",
+      "The same report says she had not received the state's Kalaimamani award, reportedly because her performances were not documented. It describes her living on a small pension. Her story shows how much depends on recording this art and on supporting its singers."
+    ],
+    "place": [
+      "The tradition is centred on the southernmost districts of Tamil Nadu, Tirunelveli and Kanyakumari. The ARCE exhibition places the festival performances in many village temples across these two districts.",
+      "Wikipedia adds that the form is also found in southern Kerala and north-east Sri Lanka, and that the Kerala bow instrument, villadivadyam, has its own form. Kottaram, home of Poongani, lies in Kanyakumari district."
+    ],
+    "history": [
+      {
+        "when": "Early Tamil literature",
+        "what": "Stuart Blackburn, as reported by secondary sources, notes mentions of a singing bow in very old Tamil literature. Clear evidence of the bow song tradition itself appears much later."
+      },
+      {
+        "when": "Around the 15th-16th century",
+        "what": "Sources date the development of the tradition differently, so the period is uncertain."
+      },
+      {
+        "when": "19th century",
+        "what": "Photographs show bow-song musicians performing in the 19th century."
+      },
+      {
+        "when": "20th century",
+        "what": "Troupes sang at temple festivals across Tirunelveli and Kanyakumari. Poongani's career ran for over fifty years."
+      },
+      {
+        "when": "Late 20th century",
+        "what": "Fieldwork by Stuart Blackburn recorded about 175 hours of bow song audio over eighteen months. A part of it is now online at the ARCE archive."
+      },
+      {
+        "when": "Recent years",
+        "what": "Reports say the number of practising artists has fallen because performing rarely pays enough to live on."
+      }
+    ],
+    "future": [
+      "Support training for young singers, including women, under experienced bow singers.",
+      "Pay fair fees for festival and stage performances so the art can be a livelihood.",
+      "Keep making and repairing the villu and pot with local craftspeople.",
+      "Record and archive full performances, and credit the singers by name.",
+      "Recognise senior performers with honours and pensions while they can still enjoy them."
+    ],
+    "pins": [
+      {
+        "lat": 8.178,
+        "lng": 77.434,
+        "label": "Nagercoil, Kanyakumari",
+        "approximate": true
+      },
+      {
+        "lat": 8.7139,
+        "lng": 77.7567,
+        "label": "Tirunelveli",
+        "approximate": false
+      },
+      {
+        "lat": 8.14,
+        "lng": 77.47,
+        "label": "Kottaram, Kanyakumari",
+        "approximate": true
+      }
+    ],
+    "images": [],
+    "source_ids": [
+      "vmis-in-arceexhibitions-arc-exhibition-17-9d5396",
+      "thenewsminute-com-amp-story-features-bows-song-once-famous-8-6ae849",
+      "en-wikipedia-org-wiki-villu-paatu-7d16a8"
+    ],
+    "review_status": "draft"
+  }
+]
