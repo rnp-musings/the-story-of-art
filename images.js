@@ -195,5 +195,71 @@ window.IMAGES = {
    "license": "CC BY-SA 4.0",
    "page": "https://commons.wikimedia.org/wiki/File:Traditional_Thangka_Painting_03.jpg"
   }
+ },
+ "sualkuchi": {
+  "art": {
+   "src": "images/sualkuchi-art.jpg",
+   "alt": "A weaver working at a handloom in Sualkuchi, Assam.",
+   "caption": "A weaver at a handloom in Sualkuchi.",
+   "author": "JyotiPN",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Handloom_industry_of_Sualkuchi,_Assam.jpg"
+  }
+ },
+ "majuli": {
+  "art": {
+   "src": "images/majuli-art.jpg",
+   "alt": "A painted Bhaona mask from Samaguri Satra, Majuli.",
+   "caption": "A mask made at Samaguri Satra, Majuli.",
+   "author": "Nayan j Nath",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_huge_mask_at_Samaguri_satra_Majuli.jpg"
+  },
+  "artist": {
+   "src": "images/majuli-artist.jpg",
+   "alt": "A mask artist at Samaguri Satra with masks behind him.",
+   "caption": "A mask artist at Samaguri Satra.",
+   "author": "অজয় দাস",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_mask_artist_of_Samaguri_Satra,_Majuli.jpg"
+  }
+ },
+ "longpi": {
+  "art": {
+   "src": "images/longpi-art.jpg",
+   "alt": "A black Longpi pot, seen from below.",
+   "caption": "A Longpi pot.",
+   "author": "Atcelsius",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Longpi_pottery_2.jpg"
+  }
+ },
+ "manipuri-weaving": {
+  "art": {
+   "src": "images/manipuri-weaving-art.jpg",
+   "alt": "Women traders at Ima Keithel, the women's market in Imphal.",
+   "caption": "Ima Keithel, the women's market in Imphal.",
+   "author": "PP Yoonus",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ima_Market,_imphal.jpeg"
+  }
+ },
+ "papiermache": {
+  "art": {
+   "src": "images/papiermache-art.jpg",
+   "alt": "Kashmiri papier-mache boxes painted with flowers and birds.",
+   "caption": "",
+   "author": "Catlemur",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kashmir_papier-m%C3%A2ch%C3%A9_trinket_boxes.jpg"
+  },
+  "artist": {
+   "src": "images/papiermache-artist.jpg",
+   "alt": "A Kashmiri papier-mache craftsman with finished pieces.",
+   "caption": "A papier-mache craftsman in Kashmir.",
+   "author": "Nagarjun",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Papier-m%C3%A2ch%C3%A9_artist.jpg"
+  }
  }
 };
