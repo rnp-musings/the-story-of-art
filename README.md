@@ -6,4 +6,4 @@ Live site: https://rnp-musings.github.io/the-story-of-art/
 
 Run locally: `python3 -m http.server` then open http://localhost:8000.
 
-Art forms live in `data.js`, `data2.js` and `data3.js` (26 so far); map pins are in the `PINS` object; photos are in `images.js`.
+Art forms live in `data.js`, `data2.js` and `data3.js` (64 so far); map pins are in the `PINS` object; photos are in `images.js`.
