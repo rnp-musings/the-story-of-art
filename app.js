@@ -137,6 +137,7 @@ function detail(id) {
   <nav class="subnav">${SECTIONS.map(([k, t]) => `<a href="#${a.id}" data-go="${k}">${t}</a>`).join("")}</nav>
   ${SECTIONS.map(([k, t], n) => `<section class="story" id="${k}"><div class="kicker">${n + 1} of 5</div><h2>${t}</h2>${body(k, a)}</section>`).join("")}
   ${a.sources ? `<section class="story sources"><div class="kicker">Sources</div><ul>${a.sources.map(([t, u]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a></li>`).join("")}</ul></section>` : ""}
+  <p class="note correct">Know something we got wrong, or have a photo to share? <a href="https://github.com/rnp-musings/the-story-of-art/issues/new?title=${encodeURIComponent("Correction: " + a.name)}&body=${encodeURIComponent("Page: " + location.href + "\n\nWhat should change, and the source:\n")}" target="_blank" rel="noopener">Suggest a correction</a>.</p>
   <div class="pager"><a href="#${prev.id}">← ${esc(prev.name)}</a><a href="#${next.id}">${esc(next.name)} →</a></div>`;
   const holder = document.getElementById("place");
   const mapEl = document.createElement("div");
