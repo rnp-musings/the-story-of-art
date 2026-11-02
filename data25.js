@@ -504,7 +504,7 @@ Object.assign(PINS, {
   [
    21.25,
    81.63,
-   "Raipur (AIIMS Raipur)"
+   "Raipur"
   ]
  ],
  "bastar-iron-wood": [
