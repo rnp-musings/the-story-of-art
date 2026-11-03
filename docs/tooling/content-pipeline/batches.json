@@ -1,0 +1,1744 @@
+{
+ "ap": {
+  "out": "new_ap.js",
+  "entries": [
+   {
+    "id": "etikoppaka-toys",
+    "name": "Etikoppaka Toys",
+    "category": "Craft",
+    "state": "Andhra Pradesh",
+    "hint": "lacquered wooden toys, Visakhapatnam district"
+   },
+   {
+    "id": "kondapalli-toys",
+    "name": "Kondapalli Toys",
+    "category": "Craft",
+    "state": "Andhra Pradesh",
+    "hint": "Kondapalli, Krishna district"
+   },
+   {
+    "id": "tholu-bommalata",
+    "name": "Tholu Bommalata",
+    "category": "Theatre & puppetry",
+    "state": "Andhra Pradesh",
+    "hint": "leather shadow puppets"
+   },
+   {
+    "id": "burrakatha",
+    "name": "Burrakatha",
+    "category": "Theatre & puppetry",
+    "state": "Andhra Pradesh · Telangana",
+    "hint": "storytelling form"
+   },
+   {
+    "id": "uppada-jamdani",
+    "name": "Uppada Jamdani",
+    "category": "Textile",
+    "state": "Andhra Pradesh",
+    "hint": "Uppada, East Godavari"
+   },
+   {
+    "id": "lepakshi-murals",
+    "name": "Lepakshi Murals",
+    "category": "Painting",
+    "state": "Andhra Pradesh",
+    "hint": "Veerabhadra temple murals, Vijayanagara period"
+   },
+   {
+    "id": "bobbili-veena",
+    "name": "Bobbili Veena",
+    "category": "Music",
+    "state": "Andhra Pradesh",
+    "hint": "Bobbili, Vizianagaram"
+   }
+  ]
+ },
+ "telangana_tripura1": {
+  "out": "new_telangana.js",
+  "entries": [
+   {
+    "id": "pochampally-ikat",
+    "name": "Pochampally Ikat",
+    "category": "Textile",
+    "state": "Telangana",
+    "hint": ""
+   },
+   {
+    "id": "nirmal-art",
+    "name": "Nirmal Paintings and Toys",
+    "category": "Painting",
+    "state": "Telangana",
+    "hint": "Nirmal, Adilabad region"
+   },
+   {
+    "id": "gadwal-sarees",
+    "name": "Gadwal Sarees",
+    "category": "Textile",
+    "state": "Telangana",
+    "hint": ""
+   },
+   {
+    "id": "bonalu",
+    "name": "Bonalu",
+    "category": "Dance",
+    "state": "Telangana",
+    "hint": "festival of Mahakali, ritual and folk art"
+   },
+   {
+    "id": "perini-shivatandavam",
+    "name": "Perini Shivatandavam",
+    "category": "Dance",
+    "state": "Telangana",
+    "hint": "warrior dance, Kakatiya link"
+   },
+   {
+    "id": "oggu-katha",
+    "name": "Oggu Katha",
+    "category": "Theatre & puppetry",
+    "state": "Telangana",
+    "hint": "ballad storytelling"
+   },
+   {
+    "id": "reang-risa-weaving",
+    "name": "Reang (Risa) Weaving",
+    "category": "Textile",
+    "state": "Tripura",
+    "hint": ""
+   },
+   {
+    "id": "hozagiri-dance",
+    "name": "Hozagiri Dance",
+    "category": "Dance",
+    "state": "Tripura",
+    "hint": "Reang community"
+   }
+  ]
+ },
+ "arunachal_mizoram": {
+  "out": "new_arunachal_mizoram.js",
+  "entries": [
+   {
+    "id": "apatani-weaving",
+    "name": "Apatani Weaving",
+    "category": "Textile",
+    "state": "Arunachal Pradesh",
+    "hint": "Ziro valley"
+   },
+   {
+    "id": "monpa-cham-masks-paper",
+    "name": "Monpa Masks and Handmade Paper",
+    "category": "Craft",
+    "state": "Arunachal Pradesh",
+    "hint": "Tawang, Monpa, Mon Shugu paper"
+   },
+   {
+    "id": "wancho-wood-carving",
+    "name": "Wancho Wood Carving",
+    "category": "Sculpture",
+    "state": "Arunachal Pradesh",
+    "hint": "Tirap and Longding"
+   },
+   {
+    "id": "khamti-weaving",
+    "name": "Khamti Weaving",
+    "category": "Textile",
+    "state": "Arunachal Pradesh",
+    "hint": "Lohit"
+   },
+   {
+    "id": "arunachal-cane-bamboo",
+    "name": "Cane and Bamboo Craft of Arunachal",
+    "category": "Craft",
+    "state": "Arunachal Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "cheraw",
+    "name": "Cheraw (Bamboo Dance)",
+    "category": "Dance",
+    "state": "Mizoram",
+    "hint": ""
+   },
+   {
+    "id": "puanchei",
+    "name": "Puanchei Weaving",
+    "category": "Textile",
+    "state": "Mizoram",
+    "hint": "Mizo textiles"
+   },
+   {
+    "id": "mizo-cane-bamboo",
+    "name": "Mizo Cane and Bamboo Craft",
+    "category": "Craft",
+    "state": "Mizoram",
+    "hint": ""
+   },
+   {
+    "id": "khuallam",
+    "name": "Khuallam",
+    "category": "Dance",
+    "state": "Mizoram",
+    "hint": "dance of the guests"
+   }
+  ]
+ },
+ "meghalaya_nagaland": {
+  "out": "new_meghalaya_nagaland.js",
+  "entries": [
+   {
+    "id": "wangala-nongkrem-dances",
+    "name": "Wangala and Nongkrem Dances",
+    "category": "Dance",
+    "state": "Meghalaya",
+    "hint": "Garo and Khasi festival dances"
+   },
+   {
+    "id": "eri-ryndia-silk",
+    "name": "Eri (Ryndia) Silk",
+    "category": "Textile",
+    "state": "Meghalaya",
+    "hint": "Ri-Bhoi, Khasi, Garo"
+   },
+   {
+    "id": "khasi-garo-cane-bamboo",
+    "name": "Khasi and Garo Cane and Bamboo Craft",
+    "category": "Craft",
+    "state": "Meghalaya",
+    "hint": ""
+   },
+   {
+    "id": "behdeinkhlam",
+    "name": "Behdeinkhlam",
+    "category": "Dance",
+    "state": "Meghalaya",
+    "hint": "Jaintia festival, Jowai"
+   },
+   {
+    "id": "naga-shawls",
+    "name": "Naga Shawl Weaving",
+    "category": "Textile",
+    "state": "Nagaland",
+    "hint": "Angami, Ao, Konyak patterns"
+   },
+   {
+    "id": "naga-woodcarving-morung",
+    "name": "Naga Woodcarving and Morung Art",
+    "category": "Sculpture",
+    "state": "Nagaland",
+    "hint": "Konyak, morung posts"
+   },
+   {
+    "id": "naga-beadwork",
+    "name": "Naga Beadwork",
+    "category": "Craft",
+    "state": "Nagaland",
+    "hint": ""
+   },
+   {
+    "id": "hornbill-dances",
+    "name": "Naga Festival Dances and Songs",
+    "category": "Dance",
+    "state": "Nagaland",
+    "hint": "Hornbill festival context"
+   },
+   {
+    "id": "naga-pottery",
+    "name": "Naga Pottery",
+    "category": "Craft",
+    "state": "Nagaland",
+    "hint": "Chumukedima, Longpi relationship"
+   }
+  ]
+ },
+ "assam_tripura2": {
+  "out": "new_assam.js",
+  "entries": [
+   {
+    "id": "bihu-dhol",
+    "name": "Bihu Dance and the Dhol",
+    "category": "Dance",
+    "state": "Assam",
+    "hint": ""
+   },
+   {
+    "id": "sarthebari-bell-metal",
+    "name": "Sarthebari Bell Metal",
+    "category": "Craft",
+    "state": "Assam",
+    "hint": "Barpeta"
+   },
+   {
+    "id": "ankiya-nat-bhaona",
+    "name": "Ankiya Nat and Bhaona",
+    "category": "Theatre & puppetry",
+    "state": "Assam",
+    "hint": "Sankardeva plays; link to Majuli masks"
+   },
+   {
+    "id": "ojapali",
+    "name": "Ojapali",
+    "category": "Theatre & puppetry",
+    "state": "Assam",
+    "hint": "narrative chorus tradition"
+   },
+   {
+    "id": "japi",
+    "name": "Japi",
+    "category": "Craft",
+    "state": "Assam",
+    "hint": "bamboo and tokou-pat hat"
+   },
+   {
+    "id": "bodo-aronai",
+    "name": "Bodo Aronai Weaving",
+    "category": "Textile",
+    "state": "Assam",
+    "hint": "Bodo community"
+   },
+   {
+    "id": "unakoti-rock-carvings",
+    "name": "Unakoti Rock Carvings",
+    "category": "Sculpture",
+    "state": "Tripura",
+    "hint": "Kailashahar"
+   },
+   {
+    "id": "tripura-bamboo-cane",
+    "name": "Tripura Bamboo and Cane Craft",
+    "category": "Craft",
+    "state": "Tripura",
+    "hint": ""
+   },
+   {
+    "id": "garia-dance",
+    "name": "Garia Dance",
+    "category": "Dance",
+    "state": "Tripura",
+    "hint": ""
+   }
+  ]
+ },
+ "manipur_sikkim": {
+  "out": "new_manipur_sikkim.js",
+  "entries": [
+   {
+    "id": "thang-ta",
+    "name": "Thang-Ta",
+    "category": "Martial art",
+    "state": "Manipur",
+    "hint": "Meitei martial art"
+   },
+   {
+    "id": "nata-sankirtana",
+    "name": "Nata Sankirtana",
+    "category": "Music",
+    "state": "Manipur",
+    "hint": "UNESCO listing"
+   },
+   {
+    "id": "kauna-craft",
+    "name": "Kauna Craft",
+    "category": "Craft",
+    "state": "Manipur",
+    "hint": "Loktak, Moirang"
+   },
+   {
+    "id": "lai-haraoba",
+    "name": "Lai Haraoba",
+    "category": "Theatre & puppetry",
+    "state": "Manipur",
+    "hint": "ritual festival"
+   },
+   {
+    "id": "pena-music",
+    "name": "Pena Music",
+    "category": "Music",
+    "state": "Manipur",
+    "hint": "bowed string instrument, Meitei"
+   },
+   {
+    "id": "lepcha-weaving-bamboo",
+    "name": "Lepcha Weaving and Bamboo Craft",
+    "category": "Textile",
+    "state": "Sikkim",
+    "hint": ""
+   },
+   {
+    "id": "sikkim-cham-masks",
+    "name": "Sikkimese Cham Masks",
+    "category": "Dance",
+    "state": "Sikkim",
+    "hint": "Buddhist mask dance"
+   },
+   {
+    "id": "sikkimese-carpets",
+    "name": "Sikkimese Carpets",
+    "category": "Textile",
+    "state": "Sikkim",
+    "hint": ""
+   },
+   {
+    "id": "singhi-chham",
+    "name": "Singhi Chham",
+    "category": "Dance",
+    "state": "Sikkim",
+    "hint": "snow lion dance"
+   }
+  ]
+ },
+ "bihar": {
+  "out": "new_bihar.js",
+  "entries": [
+   {
+    "id": "manjusha-art",
+    "name": "Manjusha Art",
+    "category": "Painting",
+    "state": "Bihar",
+    "hint": "Bhagalpur, Anga"
+   },
+   {
+    "id": "sikki-grass-craft",
+    "name": "Sikki Grass Craft",
+    "category": "Craft",
+    "state": "Bihar",
+    "hint": "Mithila"
+   },
+   {
+    "id": "sujni-embroidery",
+    "name": "Sujni Embroidery",
+    "category": "Textile",
+    "state": "Bihar",
+    "hint": "Bhusura"
+   },
+   {
+    "id": "bidesia",
+    "name": "Bidesia",
+    "category": "Theatre & puppetry",
+    "state": "Bihar",
+    "hint": "Bhikhari Thakur"
+   },
+   {
+    "id": "tikuli-art",
+    "name": "Tikuli Art",
+    "category": "Painting",
+    "state": "Bihar",
+    "hint": "Patna"
+   },
+   {
+    "id": "jat-jatin",
+    "name": "Jat-Jatin",
+    "category": "Theatre & puppetry",
+    "state": "Bihar",
+    "hint": "North Bihar folk theatre"
+   }
+  ]
+ },
+ "jharkhand": {
+  "out": "new_jharkhand.js",
+  "entries": [
+   {
+    "id": "sohrai-khovar",
+    "name": "Sohrai and Khovar Painting",
+    "category": "Painting",
+    "state": "Jharkhand",
+    "hint": "Hazaribagh"
+   },
+   {
+    "id": "paitkar-scrolls",
+    "name": "Paitkar Scroll Painting",
+    "category": "Painting",
+    "state": "Jharkhand",
+    "hint": "Amadubi, Dumka"
+   },
+   {
+    "id": "jadu-patua",
+    "name": "Jadu Patua",
+    "category": "Painting",
+    "state": "Jharkhand",
+    "hint": "Santhal Pargana"
+   },
+   {
+    "id": "jharkhand-tussar-silk",
+    "name": "Tussar Silk of Jharkhand",
+    "category": "Textile",
+    "state": "Jharkhand",
+    "hint": ""
+   },
+   {
+    "id": "jhumair-domkach",
+    "name": "Jhumair and Domkach",
+    "category": "Dance",
+    "state": "Jharkhand",
+    "hint": "Nagpuri folk"
+   },
+   {
+    "id": "santhal-baha",
+    "name": "Santhal Baha Songs",
+    "category": "Music",
+    "state": "Jharkhand",
+    "hint": ""
+   }
+  ]
+ },
+ "chhattisgarh": {
+  "out": "new_chhattisgarh.js",
+  "entries": [
+   {
+    "id": "pandavani",
+    "name": "Pandavani",
+    "category": "Theatre & puppetry",
+    "state": "Chhattisgarh",
+    "hint": "Teejan Bai only as sourced"
+   },
+   {
+    "id": "bastar-iron-wood",
+    "name": "Bastar Wrought Iron and Wood Carving",
+    "category": "Craft",
+    "state": "Chhattisgarh",
+    "hint": ""
+   },
+   {
+    "id": "raut-nacha",
+    "name": "Raut Nacha",
+    "category": "Dance",
+    "state": "Chhattisgarh",
+    "hint": "Yadav community"
+   },
+   {
+    "id": "kosa-silk",
+    "name": "Kosa Silk",
+    "category": "Textile",
+    "state": "Chhattisgarh",
+    "hint": "Champa, Korba"
+   },
+   {
+    "id": "sirpur-sculpture",
+    "name": "Sirpur Temples and Sculpture",
+    "category": "Sculpture",
+    "state": "Chhattisgarh",
+    "hint": "Laxman temple"
+   },
+   {
+    "id": "godna",
+    "name": "Godna Tattoo Art",
+    "category": "Painting",
+    "state": "Chhattisgarh",
+    "hint": ""
+   }
+  ]
+ },
+ "odisha": {
+  "out": "new_odisha.js",
+  "entries": [
+   {
+    "id": "sambalpuri-ikat",
+    "name": "Sambalpuri Ikat",
+    "category": "Textile",
+    "state": "Odisha",
+    "hint": ""
+   },
+   {
+    "id": "pipli-applique",
+    "name": "Pipli Applique",
+    "category": "Textile",
+    "state": "Odisha",
+    "hint": "Puri, Jagannath chariots"
+   },
+   {
+    "id": "tarakasi",
+    "name": "Tarakasi (Cuttack Silver Filigree)",
+    "category": "Craft",
+    "state": "Odisha",
+    "hint": ""
+   },
+   {
+    "id": "talapatra",
+    "name": "Talapatra (Palm-Leaf Manuscripts)",
+    "category": "Painting",
+    "state": "Odisha",
+    "hint": "Raghurajpur, Puri"
+   },
+   {
+    "id": "saura-paintings",
+    "name": "Saura Paintings",
+    "category": "Painting",
+    "state": "Odisha",
+    "hint": "Rayagada, Gajapati"
+   },
+   {
+    "id": "ghumura",
+    "name": "Ghumura",
+    "category": "Dance",
+    "state": "Odisha",
+    "hint": "Kalahandi"
+   }
+  ]
+ },
+ "westbengal": {
+  "out": "new_westbengal.js",
+  "entries": [
+   {
+    "id": "baluchari-jamdani",
+    "name": "Baluchari and Jamdani",
+    "category": "Textile",
+    "state": "West Bengal",
+    "hint": "Bishnupur, Dhaniakhali"
+   },
+   {
+    "id": "shola-pith",
+    "name": "Shola Pith Craft",
+    "category": "Craft",
+    "state": "West Bengal",
+    "hint": "Malakars"
+   },
+   {
+    "id": "kumartuli-idols",
+    "name": "Kumartuli Idol-Making",
+    "category": "Sculpture",
+    "state": "West Bengal",
+    "hint": "Kolkata, Durga puja"
+   },
+   {
+    "id": "medinipur-patachitra",
+    "name": "Medinipur Patachitra",
+    "category": "Painting",
+    "state": "West Bengal",
+    "hint": "Naya, patuas"
+   },
+   {
+    "id": "bishnupur-terracotta-temples",
+    "name": "Bishnupur Terracotta Temples",
+    "category": "Sculpture",
+    "state": "West Bengal",
+    "hint": ""
+   },
+   {
+    "id": "rabindra-sangeet",
+    "name": "Rabindra Sangeet",
+    "category": "Music",
+    "state": "West Bengal",
+    "hint": "Santiniketan, Kolkata"
+   },
+   {
+    "id": "jatra",
+    "name": "Jatra",
+    "category": "Theatre & puppetry",
+    "state": "West Bengal",
+    "hint": "folk theatre"
+   },
+   {
+    "id": "madur-mats",
+    "name": "Madur Mats",
+    "category": "Craft",
+    "state": "West Bengal",
+    "hint": "Medinipur"
+   },
+   {
+    "id": "murshidabad-silk",
+    "name": "Murshidabad Silk",
+    "category": "Textile",
+    "state": "West Bengal",
+    "hint": ""
+   }
+  ]
+ },
+ "punjab": {
+  "out": "new_punjab.js",
+  "entries": [
+   {
+    "id": "phulkari",
+    "name": "Phulkari",
+    "category": "Textile",
+    "state": "Punjab · Haryana",
+    "hint": ""
+   },
+   {
+    "id": "bhangra-giddha",
+    "name": "Bhangra and Giddha",
+    "category": "Dance",
+    "state": "Punjab",
+    "hint": ""
+   },
+   {
+    "id": "gatka",
+    "name": "Gatka",
+    "category": "Martial art",
+    "state": "Punjab",
+    "hint": "Sikh martial art"
+   },
+   {
+    "id": "dhadi",
+    "name": "Dhadi Singing",
+    "category": "Music",
+    "state": "Punjab",
+    "hint": "ballad tradition"
+   },
+   {
+    "id": "gurbani-kirtan",
+    "name": "Gurbani Kirtan",
+    "category": "Music",
+    "state": "Punjab",
+    "hint": "Amritsar, Harmandir Sahib"
+   },
+   {
+    "id": "punjabi-jutti",
+    "name": "Punjabi Jutti",
+    "category": "Craft",
+    "state": "Punjab",
+    "hint": ""
+   },
+   {
+    "id": "khadda-weaving",
+    "name": "Khadda Weaving",
+    "category": "Textile",
+    "state": "Punjab",
+    "hint": ""
+   }
+  ]
+ },
+ "haryana_chandigarh": {
+  "out": "new_haryana.js",
+  "entries": [
+   {
+    "id": "saang",
+    "name": "Saang",
+    "category": "Theatre & puppetry",
+    "state": "Haryana",
+    "hint": "folk theatre"
+   },
+   {
+    "id": "haryanvi-ragini",
+    "name": "Haryanvi Ragini",
+    "category": "Music",
+    "state": "Haryana",
+    "hint": "Pt. Lakhmi Chand only as sourced"
+   },
+   {
+    "id": "panipat-khes",
+    "name": "Panipat Khes Weaving",
+    "category": "Textile",
+    "state": "Haryana",
+    "hint": ""
+   },
+   {
+    "id": "haryana-terracotta",
+    "name": "Haryana Terracotta",
+    "category": "Craft",
+    "state": "Haryana",
+    "hint": ""
+   },
+   {
+    "id": "nek-chand-rock-garden",
+    "name": "Nek Chand's Rock Garden",
+    "category": "Sculpture",
+    "state": "Chandigarh",
+    "hint": "outsider art"
+   },
+   {
+    "id": "capitol-complex",
+    "name": "Le Corbusier's Capitol Complex",
+    "category": "Sculpture",
+    "state": "Chandigarh",
+    "hint": "UNESCO listing"
+   }
+  ]
+ },
+ "delhi_andaman": {
+  "out": "new_delhi_andaman.js",
+  "entries": [
+   {
+    "id": "dastangoi",
+    "name": "Dastangoi",
+    "category": "Theatre & puppetry",
+    "state": "Delhi",
+    "hint": "Urdu storytelling"
+   },
+   {
+    "id": "delhi-tabla-gharana",
+    "name": "Delhi Tabla Gharana",
+    "category": "Music",
+    "state": "Delhi",
+    "hint": ""
+   },
+   {
+    "id": "pietra-dura",
+    "name": "Pietra Dura (Parchin Kari)",
+    "category": "Craft",
+    "state": "Delhi · Uttar Pradesh",
+    "hint": "Agra, Mughal inlay"
+   },
+   {
+    "id": "nicobarese-wood-carving",
+    "name": "Nicobarese Wood Carving",
+    "category": "Sculpture",
+    "state": "Andaman and Nicobar Islands",
+    "hint": ""
+   },
+   {
+    "id": "andaman-shell-craft",
+    "name": "Andaman Shell Craft",
+    "category": "Craft",
+    "state": "Andaman and Nicobar Islands",
+    "hint": ""
+   },
+   {
+    "id": "hodi",
+    "name": "Hodi (Nicobarese Canoes)",
+    "category": "Craft",
+    "state": "Andaman and Nicobar Islands",
+    "hint": ""
+   }
+  ]
+ },
+ "ut_mix": {
+  "out": "new_ut_mix.js",
+  "entries": [
+   {
+    "id": "tarpa-dance",
+    "name": "Tarpa Dance",
+    "category": "Dance",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "hint": "Warli and Kokna"
+   },
+   {
+    "id": "dhodia-bamboo-craft",
+    "name": "Dhodia Bamboo Craft",
+    "category": "Craft",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "hint": ""
+   },
+   {
+    "id": "diu-stone-carving",
+    "name": "Diu Stone Carving",
+    "category": "Sculpture",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "hint": ""
+   },
+   {
+    "id": "parichakali",
+    "name": "Parichakali",
+    "category": "Martial art",
+    "state": "Lakshadweep",
+    "hint": "sword and shield dance"
+   },
+   {
+    "id": "coir-craft",
+    "name": "Coir Craft of Lakshadweep",
+    "category": "Craft",
+    "state": "Lakshadweep",
+    "hint": ""
+   },
+   {
+    "id": "kolkali",
+    "name": "Kolkali",
+    "category": "Dance",
+    "state": "Lakshadweep · Kerala",
+    "hint": ""
+   },
+   {
+    "id": "kallai-mats",
+    "name": "Kallai Mats",
+    "category": "Craft",
+    "state": "Lakshadweep",
+    "hint": ""
+   },
+   {
+    "id": "auroville-handmade-paper",
+    "name": "Handmade Paper of Puducherry",
+    "category": "Craft",
+    "state": "Puducherry",
+    "hint": "Sri Aurobindo Ashram, Auroville"
+   },
+   {
+    "id": "karaikal-terracotta",
+    "name": "Karaikal Terracotta",
+    "category": "Craft",
+    "state": "Puducherry",
+    "hint": ""
+   },
+   {
+    "id": "french-colonial-architecture",
+    "name": "French Colonial Architecture of Puducherry",
+    "category": "Sculpture",
+    "state": "Puducherry",
+    "hint": ""
+   }
+  ]
+ },
+ "himachal": {
+  "out": "new_himachal.js",
+  "entries": [
+   {
+    "id": "kangra-miniature",
+    "name": "Kangra Miniature Painting",
+    "category": "Painting",
+    "state": "Himachal Pradesh",
+    "hint": "Guler and Kangra schools"
+   },
+   {
+    "id": "chamba-rumal",
+    "name": "Chamba Rumal",
+    "category": "Textile",
+    "state": "Himachal Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "kullu-kinnauri-shawls",
+    "name": "Kullu and Kinnauri Shawls",
+    "category": "Textile",
+    "state": "Himachal Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "kullu-nati",
+    "name": "Kullu Nati",
+    "category": "Dance",
+    "state": "Himachal Pradesh",
+    "hint": "Dussehra"
+   },
+   {
+    "id": "pahari-wall-painting",
+    "name": "Pahari Wall Painting",
+    "category": "Painting",
+    "state": "Himachal Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "chamba-metalwork",
+    "name": "Chamba Metalwork",
+    "category": "Craft",
+    "state": "Himachal Pradesh",
+    "hint": ""
+   }
+  ]
+ },
+ "uttarakhand": {
+  "out": "new_uttarakhand.js",
+  "entries": [
+   {
+    "id": "aipan",
+    "name": "Aipan",
+    "category": "Painting",
+    "state": "Uttarakhand",
+    "hint": "Kumaon"
+   },
+   {
+    "id": "ramman",
+    "name": "Ramman",
+    "category": "Theatre & puppetry",
+    "state": "Uttarakhand",
+    "hint": "Chamoli, UNESCO listing"
+   },
+   {
+    "id": "kumaoni-holi",
+    "name": "Kumaoni Holi",
+    "category": "Music",
+    "state": "Uttarakhand",
+    "hint": "Baithaki and Khari Holi"
+   },
+   {
+    "id": "chholiya",
+    "name": "Chholiya",
+    "category": "Dance",
+    "state": "Uttarakhand",
+    "hint": "sword dance"
+   },
+   {
+    "id": "garhwali-pandavani",
+    "name": "Garhwali Pandav Nritya",
+    "category": "Theatre & puppetry",
+    "state": "Uttarakhand",
+    "hint": ""
+   },
+   {
+    "id": "ringal-craft",
+    "name": "Ringal Bamboo Craft",
+    "category": "Craft",
+    "state": "Uttarakhand",
+    "hint": ""
+   },
+   {
+    "id": "jageshwar-temples",
+    "name": "Jageshwar Temples",
+    "category": "Sculpture",
+    "state": "Uttarakhand",
+    "hint": "Katyuri period"
+   },
+   {
+    "id": "bhotia-woollens",
+    "name": "Bhotia Woollens",
+    "category": "Textile",
+    "state": "Uttarakhand",
+    "hint": ""
+   }
+  ]
+ },
+ "jk": {
+  "out": "new_jk.js",
+  "entries": [
+   {
+    "id": "walnut-wood-carving",
+    "name": "Kashmir Walnut Wood Carving",
+    "category": "Sculpture",
+    "state": "Jammu & Kashmir",
+    "hint": ""
+   },
+   {
+    "id": "sozni-embroidery",
+    "name": "Sozni Embroidery",
+    "category": "Textile",
+    "state": "Jammu & Kashmir",
+    "hint": ""
+   },
+   {
+    "id": "sufiana-kalam",
+    "name": "Sufiana Kalam and Santoor",
+    "category": "Music",
+    "state": "Jammu & Kashmir",
+    "hint": ""
+   },
+   {
+    "id": "bhand-pather",
+    "name": "Bhand Pather",
+    "category": "Theatre & puppetry",
+    "state": "Jammu & Kashmir",
+    "hint": "folk theatre"
+   },
+   {
+    "id": "kashmiri-carpets",
+    "name": "Kashmiri Carpets",
+    "category": "Textile",
+    "state": "Jammu & Kashmir",
+    "hint": ""
+   },
+   {
+    "id": "rouf",
+    "name": "Rouf",
+    "category": "Dance",
+    "state": "Jammu & Kashmir",
+    "hint": ""
+   }
+  ]
+ },
+ "ladakh_goa": {
+  "out": "new_ladakh_goa.js",
+  "entries": [
+   {
+    "id": "ladakhi-thangka",
+    "name": "Ladakhi Thangka",
+    "category": "Painting",
+    "state": "Ladakh",
+    "hint": ""
+   },
+   {
+    "id": "hemis-cham",
+    "name": "Hemis Cham Masks",
+    "category": "Dance",
+    "state": "Ladakh",
+    "hint": "Hemis festival"
+   },
+   {
+    "id": "ladakhi-carpets",
+    "name": "Ladakhi Carpets",
+    "category": "Textile",
+    "state": "Ladakh",
+    "hint": ""
+   },
+   {
+    "id": "torma",
+    "name": "Torma Butter Sculpture",
+    "category": "Sculpture",
+    "state": "Ladakh",
+    "hint": ""
+   },
+   {
+    "id": "mando-dekhni",
+    "name": "Mando and Dekhni",
+    "category": "Music",
+    "state": "Goa",
+    "hint": ""
+   },
+   {
+    "id": "fugdi-dhalo",
+    "name": "Fugdi and Dhalo",
+    "category": "Dance",
+    "state": "Goa",
+    "hint": "women's dances"
+   },
+   {
+    "id": "kunbi-saree",
+    "name": "Kunbi Saree",
+    "category": "Textile",
+    "state": "Goa",
+    "hint": ""
+   },
+   {
+    "id": "goan-clay-pottery",
+    "name": "Goan Clay Pottery",
+    "category": "Craft",
+    "state": "Goa",
+    "hint": ""
+   },
+   {
+    "id": "ghumot",
+    "name": "Ghumot",
+    "category": "Music",
+    "state": "Goa",
+    "hint": "percussion"
+   },
+   {
+    "id": "azulejo-goa",
+    "name": "Azulejo-Style Tiles of Goa",
+    "category": "Craft",
+    "state": "Goa",
+    "hint": ""
+   }
+  ]
+ },
+ "gujarat": {
+  "out": "new_gujarat.js",
+  "entries": [
+   {
+    "id": "kutch-embroidery",
+    "name": "Kutch Embroidery",
+    "category": "Textile",
+    "state": "Gujarat",
+    "hint": ""
+   },
+   {
+    "id": "bandhani",
+    "name": "Bandhani",
+    "category": "Textile",
+    "state": "Gujarat · Rajasthan",
+    "hint": ""
+   },
+   {
+    "id": "patola",
+    "name": "Patola of Patan",
+    "category": "Textile",
+    "state": "Gujarat",
+    "hint": ""
+   },
+   {
+    "id": "ajrakh",
+    "name": "Ajrakh",
+    "category": "Textile",
+    "state": "Gujarat · Rajasthan",
+    "hint": "Kutch, Barmer"
+   },
+   {
+    "id": "rogan-art",
+    "name": "Rogan Art",
+    "category": "Painting",
+    "state": "Gujarat",
+    "hint": "Nirona"
+   },
+   {
+    "id": "bhavai",
+    "name": "Bhavai",
+    "category": "Theatre & puppetry",
+    "state": "Gujarat",
+    "hint": ""
+   },
+   {
+    "id": "kharad-weaving",
+    "name": "Kharad Weaving",
+    "category": "Textile",
+    "state": "Gujarat",
+    "hint": ""
+   }
+  ]
+ },
+ "maharashtra": {
+  "out": "new_maharashtra.js",
+  "entries": [
+   {
+    "id": "paithani",
+    "name": "Paithani Sarees",
+    "category": "Textile",
+    "state": "Maharashtra",
+    "hint": "Paithan, Yeola"
+   },
+   {
+    "id": "kolhapuri-chappals",
+    "name": "Kolhapuri Chappals",
+    "category": "Craft",
+    "state": "Maharashtra · Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "ajanta-ellora",
+    "name": "Ajanta and Ellora",
+    "category": "Painting",
+    "state": "Maharashtra",
+    "hint": "cave painting and sculpture, UNESCO"
+   },
+   {
+    "id": "sawantwadi-lacquerware",
+    "name": "Sawantwadi Lacquerware and Toys",
+    "category": "Craft",
+    "state": "Maharashtra",
+    "hint": ""
+   },
+   {
+    "id": "tamasha",
+    "name": "Tamasha",
+    "category": "Theatre & puppetry",
+    "state": "Maharashtra",
+    "hint": ""
+   },
+   {
+    "id": "powada",
+    "name": "Powada",
+    "category": "Music",
+    "state": "Maharashtra",
+    "hint": "ballad"
+   },
+   {
+    "id": "dashavatara",
+    "name": "Dashavatara",
+    "category": "Theatre & puppetry",
+    "state": "Maharashtra · Goa",
+    "hint": "Konkan"
+   },
+   {
+    "id": "chitrakathi",
+    "name": "Chitrakathi",
+    "category": "Painting",
+    "state": "Maharashtra",
+    "hint": "Pinguli, Sindhudurg"
+   },
+   {
+    "id": "himroo",
+    "name": "Himroo",
+    "category": "Textile",
+    "state": "Maharashtra",
+    "hint": "Aurangabad"
+   }
+  ]
+ },
+ "mp": {
+  "out": "new_mp.js",
+  "entries": [
+   {
+    "id": "chanderi-maheshwari",
+    "name": "Chanderi and Maheshwari Weaving",
+    "category": "Textile",
+    "state": "Madhya Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "bagh-print",
+    "name": "Bagh Print",
+    "category": "Textile",
+    "state": "Madhya Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "bhil-painting",
+    "name": "Bhil Painting",
+    "category": "Painting",
+    "state": "Madhya Pradesh",
+    "hint": "Bhuri Bai only as sourced"
+   },
+   {
+    "id": "mandana",
+    "name": "Mandana Wall Art",
+    "category": "Painting",
+    "state": "Madhya Pradesh · Rajasthan",
+    "hint": ""
+   },
+   {
+    "id": "sanchi-sculpture",
+    "name": "Sanchi Stupa Sculpture",
+    "category": "Sculpture",
+    "state": "Madhya Pradesh",
+    "hint": "UNESCO"
+   },
+   {
+    "id": "gwalior-gharana",
+    "name": "Gwalior Gharana",
+    "category": "Music",
+    "state": "Madhya Pradesh",
+    "hint": "Tansen link as sourced"
+   },
+   {
+    "id": "karma-rai-dances",
+    "name": "Karma and Rai Dances",
+    "category": "Dance",
+    "state": "Madhya Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "baiga-tattoo",
+    "name": "Baiga Tattoo Art",
+    "category": "Painting",
+    "state": "Madhya Pradesh",
+    "hint": ""
+   }
+  ]
+ },
+ "rajasthan1": {
+  "out": "new_rajasthan1.js",
+  "entries": [
+   {
+    "id": "kalbelia",
+    "name": "Kalbelia",
+    "category": "Dance",
+    "state": "Rajasthan",
+    "hint": "UNESCO"
+   },
+   {
+    "id": "ghoomar",
+    "name": "Ghoomar",
+    "category": "Dance",
+    "state": "Rajasthan",
+    "hint": ""
+   },
+   {
+    "id": "bagru-sanganer",
+    "name": "Bagru and Sanganer Block Printing",
+    "category": "Textile",
+    "state": "Rajasthan",
+    "hint": ""
+   },
+   {
+    "id": "jaipur-blue-pottery",
+    "name": "Jaipur Blue Pottery",
+    "category": "Craft",
+    "state": "Rajasthan",
+    "hint": ""
+   },
+   {
+    "id": "mewar-kishangarh-miniatures",
+    "name": "Mewar and Kishangarh Miniature Painting",
+    "category": "Painting",
+    "state": "Rajasthan",
+    "hint": "Bani Thani"
+   }
+  ]
+ },
+ "rajasthan2": {
+  "out": "new_rajasthan2.js",
+  "entries": [
+   {
+    "id": "thewa",
+    "name": "Thewa Jewellery",
+    "category": "Craft",
+    "state": "Rajasthan",
+    "hint": "Pratapgarh"
+   },
+   {
+    "id": "meenakari",
+    "name": "Meenakari",
+    "category": "Craft",
+    "state": "Rajasthan",
+    "hint": "Jaipur"
+   },
+   {
+    "id": "bandhej",
+    "name": "Bandhej",
+    "category": "Textile",
+    "state": "Rajasthan",
+    "hint": "Jaipur, Jodhpur"
+   },
+   {
+    "id": "usta-art",
+    "name": "Usta Art (Bikaner)",
+    "category": "Painting",
+    "state": "Rajasthan",
+    "hint": "gold work on camel hide"
+   },
+   {
+    "id": "kota-doria",
+    "name": "Kota Doria",
+    "category": "Textile",
+    "state": "Rajasthan",
+    "hint": ""
+   }
+  ]
+ },
+ "up1": {
+  "out": "new_up1.js",
+  "entries": [
+   {
+    "id": "banarasi-brocade",
+    "name": "Banarasi Brocade",
+    "category": "Textile",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "zardozi",
+    "name": "Zardozi",
+    "category": "Textile",
+    "state": "Uttar Pradesh",
+    "hint": "Lucknow, Agra"
+   },
+   {
+    "id": "moradabad-brassware",
+    "name": "Moradabad Brassware",
+    "category": "Craft",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "bhadohi-carpets",
+    "name": "Bhadohi Carpets",
+    "category": "Textile",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "firozabad-glass",
+    "name": "Firozabad Glass",
+    "category": "Craft",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "khurja-pottery",
+    "name": "Khurja Pottery",
+    "category": "Craft",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   }
+  ]
+ },
+ "up2": {
+  "out": "new_up2.js",
+  "entries": [
+   {
+    "id": "nautanki",
+    "name": "Nautanki",
+    "category": "Theatre & puppetry",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "braj-raslila",
+    "name": "Braj Raslila",
+    "category": "Theatre & puppetry",
+    "state": "Uttar Pradesh",
+    "hint": "Mathura, Vrindavan"
+   },
+   {
+    "id": "mathura-sculpture",
+    "name": "Mathura Sculpture",
+    "category": "Sculpture",
+    "state": "Uttar Pradesh",
+    "hint": "Kushan period"
+   },
+   {
+    "id": "varanasi-tabla",
+    "name": "Banaras Tabla Gharana",
+    "category": "Music",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "varanasi-wooden-toys",
+    "name": "Varanasi Wooden Toys",
+    "category": "Craft",
+    "state": "Uttar Pradesh",
+    "hint": ""
+   }
+  ]
+ },
+ "tn1": {
+  "out": "new_tn1.js",
+  "entries": [
+   {
+    "id": "kanchipuram-silk",
+    "name": "Kanchipuram Silk",
+    "category": "Textile",
+    "state": "Tamil Nadu",
+    "hint": ""
+   },
+   {
+    "id": "kolam",
+    "name": "Kolam",
+    "category": "Painting",
+    "state": "Tamil Nadu",
+    "hint": "floor drawing"
+   },
+   {
+    "id": "nadaswaram-thavil",
+    "name": "Nadaswaram and Thavil",
+    "category": "Music",
+    "state": "Tamil Nadu",
+    "hint": "Narasingapettai makers"
+   },
+   {
+    "id": "bommalattam",
+    "name": "Bommalattam",
+    "category": "Theatre & puppetry",
+    "state": "Tamil Nadu",
+    "hint": "puppetry"
+   },
+   {
+    "id": "karagattam",
+    "name": "Karagattam",
+    "category": "Dance",
+    "state": "Tamil Nadu",
+    "hint": ""
+   }
+  ]
+ },
+ "tn2": {
+  "out": "new_tn2.js",
+  "entries": [
+   {
+    "id": "villupattu",
+    "name": "Villupattu",
+    "category": "Music",
+    "state": "Tamil Nadu",
+    "hint": "bow song"
+   },
+   {
+    "id": "athangudi-tiles",
+    "name": "Chettinad Athangudi Tiles",
+    "category": "Craft",
+    "state": "Tamil Nadu",
+    "hint": ""
+   },
+   {
+    "id": "pattamadai-mats",
+    "name": "Pattamadai Mats",
+    "category": "Craft",
+    "state": "Tamil Nadu",
+    "hint": ""
+   },
+   {
+    "id": "thanjavur-dolls",
+    "name": "Thanjavur Dolls",
+    "category": "Craft",
+    "state": "Tamil Nadu",
+    "hint": "Thalaiyatti bommai"
+   },
+   {
+    "id": "sungudi",
+    "name": "Sungudi",
+    "category": "Textile",
+    "state": "Tamil Nadu",
+    "hint": "Madurai"
+   }
+  ]
+ },
+ "karnataka1": {
+  "out": "new_karnataka1.js",
+  "entries": [
+   {
+    "id": "kasuti",
+    "name": "Kasuti Embroidery",
+    "category": "Textile",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "ilkal-sarees",
+    "name": "Ilkal Sarees",
+    "category": "Textile",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "kinhal-toys",
+    "name": "Kinhal Toys",
+    "category": "Craft",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "lambani-embroidery",
+    "name": "Lambani Embroidery",
+    "category": "Textile",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "hampi-sculpture",
+    "name": "Hampi Sculpture",
+    "category": "Sculpture",
+    "state": "Karnataka",
+    "hint": "Vijayanagara, UNESCO"
+   }
+  ]
+ },
+ "karnataka2_kerala": {
+  "out": "new_karnataka2_kerala.js",
+  "entries": [
+   {
+    "id": "pattadakal-badami",
+    "name": "Pattadakal and Badami",
+    "category": "Sculpture",
+    "state": "Karnataka",
+    "hint": "Chalukya, UNESCO"
+   },
+   {
+    "id": "dollu-kunitha",
+    "name": "Dollu Kunitha",
+    "category": "Dance",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "sandalwood-carving",
+    "name": "Sandalwood Carving",
+    "category": "Sculpture",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "mysore-silk",
+    "name": "Mysore Silk",
+    "category": "Textile",
+    "state": "Karnataka",
+    "hint": ""
+   },
+   {
+    "id": "chenda-melam",
+    "name": "Chenda Melam and Panchavadyam",
+    "category": "Music",
+    "state": "Kerala",
+    "hint": "Thrissur Pooram context"
+   },
+   {
+    "id": "ottamthullal",
+    "name": "Ottamthullal",
+    "category": "Theatre & puppetry",
+    "state": "Kerala",
+    "hint": "Kunchan Nambiar"
+   },
+   {
+    "id": "padayani",
+    "name": "Padayani",
+    "category": "Dance",
+    "state": "Kerala",
+    "hint": "Pathanamthitta"
+   },
+   {
+    "id": "chavittunatakam",
+    "name": "Chavittunatakam",
+    "category": "Theatre & puppetry",
+    "state": "Kerala",
+    "hint": "Latin Christian"
+   },
+   {
+    "id": "pulikali",
+    "name": "Pulikali",
+    "category": "Dance",
+    "state": "Kerala",
+    "hint": "Thrissur, Onam"
+   },
+   {
+    "id": "nangiar-koothu",
+    "name": "Nangiar Koothu",
+    "category": "Theatre & puppetry",
+    "state": "Kerala",
+    "hint": ""
+   }
+  ]
+ },
+ "pan1": {
+  "out": "new_pan1.js",
+  "entries": [
+   {
+    "id": "rangoli",
+    "name": "Rangoli",
+    "category": "Painting",
+    "state": "Pan-India",
+    "hint": "regional names and styles"
+   },
+   {
+    "id": "mehndi",
+    "name": "Mehndi",
+    "category": "Craft",
+    "state": "Pan-India",
+    "hint": ""
+   },
+   {
+    "id": "mughal-miniature",
+    "name": "Mughal Miniature Painting",
+    "category": "Painting",
+    "state": "Delhi · Uttar Pradesh · Rajasthan",
+    "hint": ""
+   },
+   {
+    "id": "rajput-miniature",
+    "name": "Rajput Miniature Schools",
+    "category": "Painting",
+    "state": "Rajasthan · Madhya Pradesh",
+    "hint": ""
+   },
+   {
+    "id": "bhimbetka-rock-art",
+    "name": "Bhimbetka Rock Art",
+    "category": "Painting",
+    "state": "Madhya Pradesh",
+    "hint": "UNESCO"
+   },
+   {
+    "id": "harappan-art",
+    "name": "Harappan Art",
+    "category": "Sculpture",
+    "state": "Gujarat · Haryana · Pakistan border region",
+    "hint": "seals, bronzes, terracotta"
+   },
+   {
+    "id": "temple-architecture-styles",
+    "name": "Temple Architecture: Nagara, Dravida, Vesara",
+    "category": "Sculpture",
+    "state": "Pan-India",
+    "hint": ""
+   }
+  ]
+ },
+ "pan2": {
+  "out": "new_pan2.js",
+  "entries": [
+   {
+    "id": "sitar-sarod",
+    "name": "Sitar and Sarod",
+    "category": "Music",
+    "state": "Pan-India",
+    "hint": ""
+   },
+   {
+    "id": "tabla",
+    "name": "Tabla",
+    "category": "Music",
+    "state": "Pan-India",
+    "hint": ""
+   },
+   {
+    "id": "ghazal",
+    "name": "Ghazal",
+    "category": "Music",
+    "state": "Pan-India",
+    "hint": ""
+   },
+   {
+    "id": "harikatha",
+    "name": "Harikatha",
+    "category": "Theatre & puppetry",
+    "state": "Pan-India",
+    "hint": "Maharashtra, Karnataka, Tamil Nadu, Andhra"
+   },
+   {
+    "id": "bhakti-kirtan",
+    "name": "Bhakti Kirtan",
+    "category": "Music",
+    "state": "Pan-India",
+    "hint": ""
+   },
+   {
+    "id": "sufi-music",
+    "name": "Sufi Music of India",
+    "category": "Music",
+    "state": "Pan-India",
+    "hint": ""
+   }
+  ]
+ }
+}
