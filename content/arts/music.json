@@ -1792,7 +1792,8 @@
     "name": "Mridangam Making",
     "category": "Music",
     "states": [
-      "Tamil Nadu and Kerala"
+      "Tamil Nadu",
+      "Kerala"
     ],
     "color": "#7f1d1d",
     "motif": "dots",
