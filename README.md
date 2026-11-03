@@ -200,7 +200,7 @@ The owner asked that this site share its stack with *For the Love of Food*. That
 - `index.html` loads, in order: `data.js` ... `data42.js`, `images.js`, `indiamap.js`, `app.js`. **Order matters**: `data5.js` *replaces* the earlier short `keralamural` entry. Each `dataN.js` calls `ARTS.push(...)` and `Object.assign(PINS, ...)`.
 - Routing is hash-based (`#warli`, `#about`).
 - `app.js` has `CATEGORY_OF` (categories for the first 34 entries that predate the `category` field), `catOf`, `whereOf` (the location line from pins) and the SVG map code.
-- The first dozen data files have two `place` keys per entry (a short phrase, then the paragraph array); in JavaScript the later key wins, so only the paragraphs survive. That is why `whereOf` builds the hero location line from pins. The agent-generated files use `place` once (paragraph array).
+- The earlier data files (roughly `data.js` to `data10.js`) have two `place` keys per entry (a short phrase, then the paragraph array); in JavaScript the later key wins, so only the paragraphs survive. That is why `whereOf` builds the hero location line from pins. The agent-generated files use `place` once (paragraph array).
 - Light and dark themes via CSS variables.
 
 ---
