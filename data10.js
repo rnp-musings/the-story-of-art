@@ -505,7 +505,7 @@ ARTS.push(...[
   "id": "mridangam-making",
   "name": "Mridangam Making",
   "category": "Music",
-  "state": "Tamil Nadu and Kerala",
+  "state": "Tamil Nadu · Kerala",
   "place": [
    "Mridangam making is spread between two places. In Tamil Nadu, Thanjavur and Chennai (Mylapore) are the main centres, where musicians come to buy and repair. In Kerala, Peruvemba near Palakkad makes mridangams, maddalams and other drums.",
    "The materials come from the surrounding country. Jackfruit trees grow in the wet south, and the log is dried before it is hollowed. Hides come from abattoirs. The Mylapore makers buy cowhide from Thanjavur and Ambur, and the Palakkad makers also buy from abattoirs. Rice and other items for the paste are from the local market.",
